@@ -20,7 +20,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.chainindex.dev"),
-  title: { default: "ChainIndex", template: "%s | ChainIndex" },
+  title: { default: "EVM RPC List & Chain IDs | ChainIndex", template: "%s | ChainIndex" },
   description:
     "Find EVM chain IDs, public RPC endpoints, block explorers, native currencies, and wallet network settings for mainnets and testnets.",
   keywords: [

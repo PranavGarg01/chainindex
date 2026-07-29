@@ -74,7 +74,7 @@ export async function generateMetadata({
   const chain = getChain(slug);
   if (!chain) return {};
   const override = seoOverrides[chain.slug];
-  const title = override?.title ?? `${chain.name} RPC URL & Chain ID`;
+  const title = override?.title ?? `${chain.name} RPC URL & Chain ID (${chain.chainId})`;
   const description =
     override?.description ??
     `Find public ${chain.name} RPC URLs, verify Chain ID ${chain.chainId} (0x${chain.chainId.toString(16)}), view explorer links, and add the network to a compatible wallet.`;
