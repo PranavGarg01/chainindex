@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Toki Network",
+  "slug": "toki-network",
+  "chainId": 8654,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Toki",
+    "symbol": "TOKI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.buildwithtoki.com/v0/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.buildwithtoki.com",
+  "aliases": [
+    "TOKI",
+    "toki"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Oone Chain Devnet",
+  "slug": "oone-chain-devnet",
+  "chainId": 333777,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tOONE",
+    "symbol": "tOONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dev.oonechain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://dev.oonescan.com"
+    }
+  ],
+  "website": "https://oonechain.com",
+  "aliases": [
+    "OONE Devnet",
+    "oonedev"
+  ]
+}

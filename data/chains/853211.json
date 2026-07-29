@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HAQQ Testethiq (L2 Sepolia Testnet)",
+  "slug": "haqq-testethiq-l2-sepolia-testnet",
+  "chainId": 853211,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.ethiq.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HAQQ Testethiq Blockscout",
+      "url": "https://explorer.testnet.ethiq.network"
+    }
+  ],
+  "website": "https://ethiq.network",
+  "aliases": [
+    "ETH",
+    "haqq-testethiq"
+  ]
+}

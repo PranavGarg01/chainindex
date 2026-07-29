@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Flame",
+  "slug": "flame",
+  "chainId": 253368190,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.flame.astria.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.flame.astria.org"
+    }
+  ],
+  "website": "https://astria.org"
+}

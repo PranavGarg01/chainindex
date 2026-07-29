@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Edge Matrix Chain Sepolia",
+  "slug": "edge-matrix-chain-sepolia",
+  "chainId": 99879,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Edge Matrix Chain Token",
+    "symbol": "EMC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-sepolia.emc.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sepolia.emcscan.com"
+    }
+  ],
+  "aliases": [
+    "EMC Sepolia",
+    "EMCSepolia"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Syndicate",
+  "slug": "syndicate",
+  "chainId": 510,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.syndicate.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Syndicate Explorer",
+      "url": "https://explorer.syndicate.io"
+    }
+  ],
+  "website": "https://syndicate.io"
+}

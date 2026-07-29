@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Espento",
+  "slug": "espento",
+  "chainId": 9911,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ESPENTO",
+    "symbol": "SPENT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.escscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "escscan",
+      "url": "https://escscan.com"
+    }
+  ],
+  "website": "https://espento.network",
+  "aliases": [
+    "SPENT",
+    "spent"
+  ]
+}

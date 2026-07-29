@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "HyperAGI",
+  "slug": "hyperagi",
+  "chainId": 2868,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hyperdust",
+    "symbol": "HYPT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hyperagi.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.hyperagi.ai",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "hyperscan",
+      "url": "https://hyperscan.hyperagi.ai"
+    }
+  ],
+  "website": "https://www.hyperagi.ai",
+  "aliases": [
+    "hypt"
+  ]
+}

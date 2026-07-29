@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vela1 Chain",
+  "slug": "vela1-chain",
+  "chainId": 555,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CLASS COIN",
+    "symbol": "CLASS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.velaverse.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vela1 Chain Mainnet Explorer",
+      "url": "https://exp.velaverse.io"
+    }
+  ],
+  "website": "https://velaverse.io",
+  "aliases": [
+    "VELA1",
+    "CLASS"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "MakaChain",
+  "slug": "makachain",
+  "chainId": 777178,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MFUEL",
+    "symbol": "MFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.makachain.io/ext/bc/2TfGh1pyDoumsDgTxDmWoseRD7GGRwrpX19HLsQdeCRqwK9BqZ/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MakaChain Explorer",
+      "url": "https://makascan.io/"
+    }
+  ],
+  "website": "https://makachain.io/",
+  "aliases": [
+    "MakaChain mainnet"
+  ]
+}

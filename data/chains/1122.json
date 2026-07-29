@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "LuxePorts",
+  "slug": "luxeports",
+  "chainId": 1122,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LuxePorts",
+    "symbol": "LXP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.luxeports.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://erpc.luxeports.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "lxpscan",
+      "url": "https://lxpscan.com"
+    }
+  ],
+  "aliases": [
+    "LXP",
+    "lxp"
+  ]
+}

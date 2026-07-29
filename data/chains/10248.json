@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "0XTade",
+  "slug": "0xtade",
+  "chainId": 10248,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "0XT",
+    "symbol": "0XT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.0xtchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "0xtrade Scan",
+      "url": "https://www.0xtscan.com"
+    }
+  ],
+  "website": "https://www.0xtrade.finance/",
+  "aliases": [
+    "0XTade Chain",
+    "0xt"
+  ]
+}

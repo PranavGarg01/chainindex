@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DM2 Verse",
+  "slug": "dm2-verse",
+  "chainId": 68770,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dm2verse.dmm.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DM2Verse Explorer",
+      "url": "https://explorer.dm2verse.dmm.com"
+    }
+  ],
+  "website": "https://seamoon.dmm.com",
+  "aliases": [
+    "dm2"
+  ]
+}

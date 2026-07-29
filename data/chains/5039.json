@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ONIGIRI Test Subnet",
+  "slug": "onigiri-test-subnet",
+  "chainId": 5039,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONIGIRI",
+    "symbol": "ONGR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/onigiri/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ONIGIRI Explorer",
+      "url": "https://subnets-test.avax.network/onigiri"
+    }
+  ],
+  "website": "https://www.ongr.org/",
+  "aliases": [
+    "ONIGIRI",
+    "onigiritest"
+  ]
+}

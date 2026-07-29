@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EgonCoin Testnet",
+  "slug": "egoncoin-testnet",
+  "chainId": 271271,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EgonCoin",
+    "symbol": "EGON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpctest.egonscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EgonCoin Testnet",
+      "url": "https://testnet.egonscan.com"
+    }
+  ],
+  "website": "https://egonscan.com",
+  "aliases": [
+    "EGON",
+    "EGONt"
+  ]
+}

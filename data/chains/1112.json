@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "WEMIX3.0 Testnet",
+  "slug": "wemix3-0-testnet",
+  "chainId": 1112,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TestnetWEMIX",
+    "symbol": "tWEMIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.test.wemix.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://wemix-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "WEMIX Testnet Microscope",
+      "url": "https://microscope.test.wemix.com"
+    }
+  ],
+  "website": "https://wemix.com",
+  "aliases": [
+    "TWEMIX",
+    "twemix"
+  ]
+}

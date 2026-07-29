@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SPACE OS Testnet",
+  "slug": "space-os-testnet",
+  "chainId": 800000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SPACE",
+    "symbol": "SPACE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.evm.spaceos.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SPACE OS Explorer",
+      "url": "https://testnet.evm-explorer.spaceos.com/"
+    }
+  ],
+  "website": "https://spaceos.com/",
+  "aliases": [
+    "SPACE",
+    "spaceos-testnet"
+  ]
+}

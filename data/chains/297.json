@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Hedera Previewnet",
+  "slug": "hedera-previewnet",
+  "chainId": 297,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "hbar",
+    "symbol": "HBAR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://previewnet.hashio.io/api",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HashScan",
+      "url": "https://hashscan.io/previewnet"
+    }
+  ],
+  "website": "https://hedera.com",
+  "aliases": [
+    "Hedera",
+    "hedera-previewnet"
+  ]
+}

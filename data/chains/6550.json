@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Flamma Testnet",
+  "slug": "flamma-testnet",
+  "chainId": 6550,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Flamma",
+    "symbol": "FLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.flamma.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "flascan",
+      "url": "https://testnet.flascan.net"
+    }
+  ],
+  "website": "https://flamma.network",
+  "aliases": [
+    "Flamma",
+    "FlammaTestnet"
+  ]
+}

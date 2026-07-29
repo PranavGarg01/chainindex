@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "AmChain",
+  "slug": "amchain",
+  "chainId": 999999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AMC",
+    "symbol": "AMC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node1.amchain.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AMCAmChain explorer",
+      "url": "https://explorer.amchain.net"
+    }
+  ],
+  "website": "https://hewe.io/",
+  "aliases": [
+    "AMC"
+  ]
+}

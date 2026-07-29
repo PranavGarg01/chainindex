@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Erbie",
+  "slug": "erbie",
+  "chainId": 50888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ERB",
+    "symbol": "ERB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.erbie.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Erbie Explorer",
+      "url": "https://www.erbie.io/explorer"
+    }
+  ],
+  "website": "https://www.erbie.io"
+}

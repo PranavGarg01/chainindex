@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "WEMIX3.0",
+  "slug": "wemix3-0",
+  "chainId": 1111,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WEMIX",
+    "symbol": "WEMIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.wemix.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://wemix.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "WEMIX Block Explorer",
+      "url": "https://explorer.wemix.com"
+    }
+  ],
+  "website": "https://wemix.com",
+  "aliases": [
+    "WEMIX",
+    "wemix"
+  ]
+}

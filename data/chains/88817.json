@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Unit Zero Testnet",
+  "slug": "unit-zero-testnet",
+  "chainId": 88817,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UNIT0",
+    "symbol": "UNIT0",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.unit0.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer-testnet",
+      "url": "https://explorer-testnet.unit0.dev"
+    }
+  ],
+  "website": "https://units.network",
+  "aliases": [
+    "Unit Zero",
+    "unit0-testnet"
+  ]
+}

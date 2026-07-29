@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PropTech",
+  "slug": "proptech",
+  "chainId": 88788,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PropTech Token",
+    "symbol": "PTEK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.ptekcoin.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PropTech Blockchain Explorer",
+      "url": "https://explorer.ptekcoin.com"
+    }
+  ],
+  "website": "https://ptekcoin.com",
+  "aliases": [
+    "PTEK",
+    "ptek"
+  ]
+}

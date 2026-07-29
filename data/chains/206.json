@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "VinuChain Testnet",
+  "slug": "vinuchain-testnet",
+  "chainId": 206,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VinuChain",
+    "symbol": "VC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.vinuchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://vinufoundation-rpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "VinuExplorer Testnet",
+      "url": "https://testnet.vinuexplorer.org"
+    },
+    {
+      "name": "VinuScan Testnet",
+      "url": "https://testnet.vinuscan.com"
+    }
+  ],
+  "website": "https://vinuchain.org",
+  "aliases": [
+    "VC",
+    "vc-testnet"
+  ]
+}

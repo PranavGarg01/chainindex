@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "GDCC",
+  "slug": "gdcc",
+  "chainId": 7774,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GDCC",
+    "symbol": "GDCC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc-1.gdccscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GDCC",
+      "url": "https://gdccscan.io"
+    }
+  ],
+  "website": "https://gdcchain.com",
+  "aliases": [
+    "GdccMainnet"
+  ]
+}

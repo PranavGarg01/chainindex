@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Arbitrum on xDai",
+  "slug": "arbitrum-on-xdai",
+  "chainId": 200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "xDAI",
+    "symbol": "xDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://arbitrum.xdaichain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/xdai/arbitrum"
+    }
+  ],
+  "website": "https://xdaichain.com",
+  "aliases": [
+    "AOX",
+    "aox"
+  ]
+}

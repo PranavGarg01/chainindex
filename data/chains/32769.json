@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zilliqa 2",
+  "slug": "zilliqa-2",
+  "chainId": 32769,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.zilliqa.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zilliqa 2 Mainnet Explorer",
+      "url": "https://zilliqa.blockscout.com/"
+    }
+  ],
+  "website": "https://www.zilliqa.com/",
+  "aliases": [
+    "ZIL",
+    "zil"
+  ]
+}

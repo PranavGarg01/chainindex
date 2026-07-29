@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "Decimal Smart Chain",
+  "slug": "decimal-smart-chain",
+  "chainId": 75,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Decimal",
+    "symbol": "DEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.decimalchain.com/web3",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node1-mainnet.decimalchain.com/web3",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node2-mainnet.decimalchain.com/web3",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3-mainnet.decimalchain.com/web3",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node4-mainnet.decimalchain.com/web3",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DSC Explorer Mainnet",
+      "url": "https://explorer.decimalchain.com"
+    }
+  ],
+  "website": "https://decimalchain.com",
+  "aliases": [
+    "DSC"
+  ]
+}

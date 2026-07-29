@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "JuChain",
+  "slug": "juchain",
+  "chainId": 210000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JUcoin",
+    "symbol": "JU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "juscan",
+      "url": "https://juscan.io"
+    }
+  ],
+  "website": "https://juchain.org",
+  "aliases": [
+    "JU"
+  ]
+}

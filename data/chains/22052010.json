@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Nowa Testnet",
+  "slug": "nowa-testnet",
+  "chainId": 22052010,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nowa",
+    "symbol": "NOWA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tnode1.nowa.finance",
+      "isRecommended": true
+    },
+    {
+      "url": "https://tnode2.nowa.finance",
+      "isRecommended": false
+    },
+    {
+      "url": "https://tnode3.nowa.finance",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nowa Testnet Explorer",
+      "url": "https://explorer.nowa.finance"
+    }
+  ],
+  "website": "https://nowa.finance",
+  "aliases": [
+    "NOWA",
+    "nowa-testnet"
+  ]
+}

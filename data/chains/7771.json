@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitrock Testnet",
+  "slug": "bitrock-testnet",
+  "chainId": 7771,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BITROCK",
+    "symbol": "BROCK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.bit-rock.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitrock Testnet Explorer",
+      "url": "https://testnetscan.bit-rock.io"
+    }
+  ],
+  "website": "https://bit-rock.io",
+  "aliases": [
+    "Bitrock",
+    "tbitrock"
+  ]
+}

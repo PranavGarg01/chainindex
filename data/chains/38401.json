@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ConnectorManager Robin",
+  "slug": "connectormanager-robin",
+  "chainId": 38401,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rangers Protocol Gas",
+    "symbol": "ttRPG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://robin-cm.rangersprotocol.com/api/jsonrpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "rangersscan-robin",
+      "url": "https://robin-rangersscan.rangersprotocol.com"
+    }
+  ],
+  "website": "https://rangersprotocol.com",
+  "aliases": [
+    "Rangers",
+    "ttrpg"
+  ]
+}

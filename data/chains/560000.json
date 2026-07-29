@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Hetu",
+  "slug": "hetu",
+  "chainId": 560000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HETU",
+    "symbol": "HETU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.va.hetu.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hetu Mainnet Scan",
+      "url": "https://scan.v1.hetu.org"
+    }
+  ],
+  "website": "https://hetu.org"
+}

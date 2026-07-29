@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "One World Chain Testnet",
+  "slug": "one-world-chain-testnet",
+  "chainId": 552981,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OWCT",
+    "symbol": "OWCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.oneworldchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "One World Chain Testnet Explorer",
+      "url": "https://testnet.oneworldchain.org"
+    }
+  ],
+  "website": "https://oneworldchain.org",
+  "aliases": [
+    "One World Chain",
+    "OWCTt"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MXC Wannsee zkEVM Testnet",
+  "slug": "mxc-wannsee-zkevm-testnet",
+  "chainId": 5167003,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MXC Wannsee zkEVM Testnet",
+    "symbol": "MXC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://wannsee-rpc.mxc.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MXC Wannsee zkEVM Testnet",
+      "url": "https://wannsee-explorer.mxc.com"
+    }
+  ],
+  "website": "https://wannsee.mxc.com/docs/intro",
+  "aliases": [
+    "MXC zkEVM",
+    "MXCdiscontinued"
+  ]
+}

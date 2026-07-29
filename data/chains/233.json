@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethernity Testnet",
+  "slug": "ethernity-testnet",
+  "chainId": 233,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.ethernitychain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ethernity Testnet Explorer",
+      "url": "https://testnet.ernscan.io"
+    }
+  ],
+  "website": "https://www.ethernity.io",
+  "aliases": [
+    "Ethernity",
+    "ethernity-testnet"
+  ]
+}

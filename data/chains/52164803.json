@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Fluence Testnet",
+  "slug": "fluence-testnet",
+  "chainId": 52164803,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tFLT",
+    "symbol": "tFLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.fluence.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.testnet.fluence.dev"
+    }
+  ],
+  "website": "https://fluence.network/",
+  "aliases": [
+    "fluence-testnet"
+  ]
+}

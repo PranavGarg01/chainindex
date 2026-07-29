@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "katana",
+  "slug": "katana",
+  "chainId": 747474,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://katana.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/katana",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.katana.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://katana.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.katanarpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "katanascan",
+      "url": "https://katanascan.com"
+    },
+    {
+      "name": "katana explorer",
+      "url": "https://explorer.katanarpc.com"
+    }
+  ],
+  "website": "https://katana.network"
+}

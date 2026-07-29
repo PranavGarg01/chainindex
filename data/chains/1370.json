@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Ramestta",
+  "slug": "ramestta",
+  "chainId": 1370,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rama",
+    "symbol": "RAMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://blockchain.ramestta.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://blockchain2.ramestta.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ramascan",
+      "url": "https://ramascan.com"
+    }
+  ],
+  "website": "https://www.ramestta.com",
+  "aliases": [
+    "RAMA"
+  ]
+}

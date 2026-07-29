@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Oasis Sapphire Testnet",
+  "slug": "oasis-sapphire-testnet",
+  "chainId": 23295,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sapphire Test Rose",
+    "symbol": "TEST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.sapphire.oasis.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Oasis Sapphire Testnet Explorer",
+      "url": "https://explorer.oasis.io/testnet/sapphire"
+    }
+  ],
+  "website": "https://docs.oasis.io/dapp/sapphire",
+  "aliases": [
+    "Sapphire",
+    "sapphire-testnet"
+  ]
+}

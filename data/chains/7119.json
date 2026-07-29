@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Sentrix Chain",
+  "slug": "sentrix-chain",
+  "chainId": 7119,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sentrix",
+    "symbol": "SRX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sentrixchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sentrix Scan",
+      "url": "https://scan.sentrixchain.com"
+    }
+  ],
+  "website": "https://sentrixchain.com",
+  "aliases": [
+    "SRX",
+    "srx"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Uptick",
+  "slug": "uptick",
+  "chainId": 117,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Uptick",
+    "symbol": "UPTICK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.uptick.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Uptick Explorer",
+      "url": "https://evm-explorer.uptick.network"
+    }
+  ],
+  "website": "https://www.uptick.network",
+  "aliases": [
+    "auptick"
+  ]
+}

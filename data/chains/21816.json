@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "omChain",
+  "slug": "omchain",
+  "chainId": 21816,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "omChain",
+    "symbol": "OMC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://seed.omlira.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://seed.omchain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "omChain Explorer",
+      "url": "https://explorer.omchain.io"
+    }
+  ],
+  "website": "https://omchain.io",
+  "aliases": [
+    "OML",
+    "omc"
+  ]
+}

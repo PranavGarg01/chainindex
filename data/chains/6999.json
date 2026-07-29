@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "PolySmartChain",
+  "slug": "polysmartchain",
+  "chainId": 6999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PSC",
+    "symbol": "PSC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://seed0.polysmartchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://seed1.polysmartchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://seed2.polysmartchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.polysmartchain.com/",
+  "aliases": [
+    "PSC",
+    "psc"
+  ]
+}

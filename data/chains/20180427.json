@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Stability Testnet",
+  "slug": "stability-testnet",
+  "chainId": 20180427,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://free.testnet.stabilityprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://stability-testnet.blockscout.com"
+    }
+  ],
+  "website": "https://stabilityprotocol.com",
+  "aliases": [
+    "stabilityTestnet",
+    "stabilitytestnet"
+  ]
+}

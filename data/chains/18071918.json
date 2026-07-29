@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Mande Network",
+  "slug": "mande-network",
+  "chainId": 18071918,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mand",
+    "symbol": "MAND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mande-mainnet.public.blastapi.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FYI",
+      "url": "https://dym.fyi/r/mande"
+    }
+  ],
+  "website": "https://mande.network/",
+  "aliases": [
+    "Mande"
+  ]
+}

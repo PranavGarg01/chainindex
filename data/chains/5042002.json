@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Arc Testnet",
+  "slug": "arc-testnet",
+  "chainId": 5042002,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://arc-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.testnet.arc.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Arc Testnet Explorer",
+      "url": "https://testnet.arcscan.app/"
+    }
+  ],
+  "website": "https://www.arc.network/",
+  "aliases": [
+    "arc-testnet"
+  ]
+}

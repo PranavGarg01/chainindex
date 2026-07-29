@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "JFIN Chain",
+  "slug": "jfin-chain",
+  "chainId": 3501,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JFIN Coin",
+    "symbol": "JFIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.jfinchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JFIN Chain Explorer",
+      "url": "https://exp.jfinchain.com"
+    }
+  ],
+  "website": "https://jfinchain.com",
+  "aliases": [
+    "JFIN"
+  ]
+}

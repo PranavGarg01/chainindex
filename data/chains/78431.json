@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bulletin Subnet",
+  "slug": "bulletin-subnet",
+  "chainId": 78431,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BLT",
+    "symbol": "BLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/bulletin/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BULLETIN Explorer",
+      "url": "https://subnets-test.avax.network/bulletin"
+    }
+  ],
+  "website": "https://www.avax.network",
+  "aliases": [
+    "BULLETIN",
+    "bulletin"
+  ]
+}

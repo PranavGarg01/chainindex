@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Plato Devnet",
+  "slug": "plato-devnet",
+  "chainId": 71,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plato USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  "rpc": [
+    {
+      "url": "https://api-devnet.plato.exchange",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Plato Devnet Explorer",
+      "url": "https://devnet.plato.exchange/explorer"
+    }
+  ],
+  "aliases": [
+    "Plato",
+    "plato"
+  ]
+}

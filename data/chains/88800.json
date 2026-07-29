@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ZKasino",
+  "slug": "zkasino",
+  "chainId": 88800,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZKAS",
+    "symbol": "ZKAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zkas.zeeve.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.zkas.zeeve.net"
+    }
+  ]
+}

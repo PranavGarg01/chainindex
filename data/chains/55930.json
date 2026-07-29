@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "DataHaven",
+  "slug": "datahaven",
+  "chainId": 55930,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HAVE",
+    "symbol": "HAVE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://services.datahaven-mainnet.network/mainnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://dhscan.io"
+    }
+  ],
+  "website": "https://datahaven.xyz"
+}

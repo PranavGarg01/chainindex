@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AIW3 Testnet",
+  "slug": "aiw3-testnet",
+  "chainId": 1956,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.aiw3.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "aiw3 testnet scan",
+      "url": "https://scan-testnet.aiw3.io"
+    }
+  ],
+  "website": "https://aiw3.io/",
+  "aliases": [
+    "AIW3",
+    "AIW3-Testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "P12 Chain",
+  "slug": "p12-chain",
+  "chainId": 20736,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hooked P2",
+    "symbol": "hP2",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-chain.p12.games",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "P12 Chain Explorer",
+      "url": "https://explorer.p12.games"
+    }
+  ],
+  "website": "https://p12.network",
+  "aliases": [
+    "P12",
+    "p12"
+  ]
+}

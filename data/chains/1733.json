@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Fuga Testnet",
+  "slug": "fuga-testnet",
+  "chainId": 1733,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "FUGA",
+    "symbol": "FUGA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.fuga.blue",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://fuga.one",
+  "aliases": [
+    "Fuga",
+    "FUGA_T"
+  ]
+}

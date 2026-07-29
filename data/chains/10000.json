@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "name": "Smart Bitcoin Cash",
+  "slug": "smart-bitcoin-cash",
+  "chainId": 10000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://smartbch.fountainhead.cash/mainnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://global.uat.cash",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.uatvo.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bch-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://smartbch.greyh.at",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-mainnet.smartbch.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://smartbch.devops.cash/mainnet",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://smartbch.org/",
+  "aliases": [
+    "smartBCH",
+    "smartbch"
+  ]
+}

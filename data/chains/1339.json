@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Elysium",
+  "slug": "elysium",
+  "chainId": 1339,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PYR",
+    "symbol": "PYR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.elysiumchain.tech",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.elysiumchain.us",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Elysium mainnet explorer",
+      "url": "https://explorer.elysiumchain.tech"
+    },
+    {
+      "name": "Elysium blockscout explorer",
+      "url": "https://blockscout.elysiumchain.tech"
+    }
+  ],
+  "website": "https://elysiumchain.tech/",
+  "aliases": [
+    "PYR",
+    "An L1, carbon-neutral, tree-planting, metaverse dedicated blockchain."
+  ]
+}

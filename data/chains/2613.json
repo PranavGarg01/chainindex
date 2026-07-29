@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EZChain C-Chain Testnet",
+  "slug": "ezchain-c-chain-testnet",
+  "chainId": 2613,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EZChain",
+    "symbol": "EZC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-api.ezchain.com/ext/bc/C/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ezchain",
+      "url": "https://testnet-cchain-explorer.ezchain.com"
+    }
+  ],
+  "website": "https://ezchain.com",
+  "aliases": [
+    "EZC",
+    "Fuji-EZChain"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Mirasmanda",
+  "slug": "mirasmanda",
+  "chainId": 1213549903,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.evm.mirasmanda.uz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.evm.mirasmanda.uz"
+    }
+  ],
+  "website": "https://asterium.uz"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "UPTN Testnet",
+  "slug": "uptn-testnet",
+  "chainId": 6118,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UPTN",
+    "symbol": "UPTN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node-api.alp.uptn.io/v1/ext/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UPTN Testnet Explorer",
+      "url": "https://testnet.explorer.uptn.io"
+    }
+  ],
+  "website": "https://uptn.io",
+  "aliases": [
+    "UPTN",
+    "UPTN-TEST"
+  ]
+}

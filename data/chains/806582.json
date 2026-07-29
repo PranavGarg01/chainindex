@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethpar Testnet",
+  "slug": "ethpar-testnet",
+  "chainId": 806582,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethpar",
+    "symbol": "ETP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc82.testnet.ethpar.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ethpar Testnet Explorer",
+      "url": "https://dora.testnet.ethpar.net"
+    }
+  ],
+  "website": "https://ethpar.com",
+  "aliases": [
+    "ETP",
+    "ethpar-tesnet"
+  ]
+}

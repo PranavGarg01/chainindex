@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Uniocean Testnet",
+  "slug": "uniocean-testnet",
+  "chainId": 684,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OCEANX",
+    "symbol": "OCEANX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.testnet.uniocean.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Uniocean Explorer",
+      "url": "https://explorer.testnet.uniocean.network"
+    }
+  ],
+  "website": "https://www.uniocean.network",
+  "aliases": [
+    "Uniocean",
+    "uniocean"
+  ]
+}

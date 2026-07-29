@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DC",
+  "slug": "dc",
+  "chainId": 176,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DC Native Token",
+    "symbol": "DCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dcnetio.cloud",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dcscan",
+      "url": "https://exp.dcnetio.cloud"
+    }
+  ],
+  "website": "https://www.dcnetio.cloud",
+  "aliases": [
+    "dcchain"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Testnet Zeroone Subnet",
+  "slug": "testnet-zeroone-subnet",
+  "chainId": 56400,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "ZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/testnetzer/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TESTNETZER Explorer",
+      "url": "https://subnets-test.avax.network/testnetzer"
+    }
+  ],
+  "website": "https://zeroone.art/",
+  "aliases": [
+    "TESTNETZER",
+    "testnetzer"
+  ]
+}

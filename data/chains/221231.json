@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Reapchain Testnet",
+  "slug": "reapchain-testnet",
+  "chainId": 221231,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "test-Reap",
+    "symbol": "tREAP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-eth.reapchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Reapchain Testnet Dashboard",
+      "url": "https://test-dashboard.reapchain.org"
+    }
+  ],
+  "website": "https://reapchain.com",
+  "aliases": [
+    "REAP",
+    "reap-testnet"
+  ]
+}

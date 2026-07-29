@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Neonlink",
+  "slug": "neonlink",
+  "chainId": 259,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Neonlink Native Token",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.neonlink.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Neon Blockchain Explorer",
+      "url": "https://scan.neonlink.io"
+    }
+  ],
+  "website": "https://neonlink.io",
+  "aliases": [
+    "neon"
+  ]
+}

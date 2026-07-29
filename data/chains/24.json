@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "KardiaChain",
+  "slug": "kardiachain",
+  "chainId": 24,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KardiaChain",
+    "symbol": "KAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.kardiachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://kardiachain.io",
+  "aliases": [
+    "KAI"
+  ]
+}

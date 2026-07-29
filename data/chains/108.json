@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "ThunderCore",
+  "slug": "thundercore",
+  "chainId": 108,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ThunderCore Token",
+    "symbol": "TT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.thundercore.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://thundercore.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc.thundertoken.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc.thundercore.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "thundercore-viewblock",
+      "url": "https://viewblock.io/thundercore"
+    }
+  ],
+  "website": "https://thundercore.com",
+  "aliases": [
+    "TT"
+  ]
+}

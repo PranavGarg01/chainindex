@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Eclat Testnet",
+  "slug": "eclat-testnet",
+  "chainId": 262371,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eclat Testnet",
+    "symbol": "ECLAT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.eclatscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Eclat Testnet Explorer",
+      "url": "https://testnet-explorer.eclatscan.com"
+    }
+  ],
+  "website": "https://testnet-explorer.eclatscan.com",
+  "aliases": [
+    "Eclat",
+    "tECLAT"
+  ]
+}

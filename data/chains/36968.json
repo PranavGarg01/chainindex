@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "AMA Testnet",
+  "slug": "ama-testnet",
+  "chainId": 36968,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "AMA",
+    "symbol": "AMA",
+    "decimals": 9
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.ama.one",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AMA Explorer Testnet",
+      "url": "https://testnet-ama.ddns.net"
+    },
+    {
+      "name": "AMA Explorer Testnet Alt",
+      "url": "https://testnet.explorer.ama.one"
+    }
+  ],
+  "website": "https://ama.one",
+  "aliases": [
+    "AMA",
+    "AMA-TESTNET"
+  ]
+}

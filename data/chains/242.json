@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Plinga",
+  "slug": "plinga",
+  "chainId": 242,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plinga",
+    "symbol": "PLINGA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpcurl.mainnet.plgchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpcurl.plgchain.blockchain.evmnode.online",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpcurl.mainnet.plgchain.plinga.technology",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "plgscan",
+      "url": "https://www.plgscan.com"
+    }
+  ],
+  "website": "https://www.plinga.technology/",
+  "aliases": [
+    "plgchain"
+  ]
+}

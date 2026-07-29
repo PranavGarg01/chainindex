@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MainnetZ Testnet",
+  "slug": "mainnetz-testnet",
+  "chainId": 9768,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MainnetZ",
+    "symbol": "NetZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.mainnetz.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MainnetZ",
+      "url": "https://testnet.mainnetz.io"
+    }
+  ],
+  "website": "https://testnet.mainnetz.io",
+  "aliases": [
+    "NetZ",
+    "NetZt"
+  ]
+}

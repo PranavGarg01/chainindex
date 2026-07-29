@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Neo X Testnet T4",
+  "slug": "neo-x-testnet-t4",
+  "chainId": 12227332,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.banelabs.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "neox-scan",
+      "url": "https://xt4scan.ngd.network"
+    }
+  ],
+  "website": "https://neo.org/",
+  "aliases": [
+    "Neo X",
+    "neox-t4"
+  ]
+}

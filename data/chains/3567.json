@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Trustgreen Chain",
+  "slug": "trustgreen-chain",
+  "chainId": 3567,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Trustgreen",
+    "symbol": "IT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.trustgreenscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "trustgreenscan",
+      "url": "https://trustgreenscan.com/"
+    }
+  ],
+  "website": "https://trustgreenchain.com/",
+  "aliases": [
+    "Trustgreen"
+  ]
+}

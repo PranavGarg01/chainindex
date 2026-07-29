@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Riche Chain Testnet",
+  "slug": "riche-chain-testnet",
+  "chainId": 45578,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Riche",
+    "symbol": "RIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpcrichechain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RicheScan",
+      "url": "https://richescan-testnet.com/"
+    }
+  ],
+  "website": "https://rpcrichechain.com",
+  "aliases": [
+    "RIC",
+    "ric-test"
+  ]
+}

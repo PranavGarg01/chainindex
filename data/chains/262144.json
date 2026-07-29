@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "MPCQ",
+  "slug": "mpcq",
+  "chainId": 262144,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MPCQ",
+    "symbol": "MPCQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.moneypoolscash.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://moneypoolscash.com"
+}

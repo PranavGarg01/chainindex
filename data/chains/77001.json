@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "BORAchain",
+  "slug": "borachain",
+  "chainId": 77001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BORA",
+    "symbol": "BORA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://public-node.api.boraportal.com/bora/mainnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://public-node.api.boraportal.io/bora/mainnet",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BORAchainscope",
+      "url": "https://scope.boraportal.com"
+    }
+  ],
+  "website": "https://www.boraportal.com",
+  "aliases": [
+    "BORA"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pruv",
+  "slug": "pruv",
+  "chainId": 7337,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pruv",
+    "symbol": "PRUV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pruv.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pruv Explorer",
+      "url": "https://explorer.pruv.network"
+    }
+  ],
+  "website": "https://pruv.gitbook.io/pruv-network/",
+  "aliases": [
+    "PRUV Mainnet",
+    "pruvmainnet"
+  ]
+}

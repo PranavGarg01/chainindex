@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MegaETH Testnet",
+  "slug": "megaeth-testnet",
+  "chainId": 6343,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://carrot.megaeth.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MegaETH Testnet Explorer",
+      "url": "https://testnet-mega.etherscan.io"
+    }
+  ],
+  "website": "https://megaeth.com",
+  "aliases": [
+    "MegaETH",
+    "megaeth-testnet"
+  ]
+}

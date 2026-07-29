@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Forknet",
+  "slug": "forknet",
+  "chainId": 8338,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-forknet.t.conduit.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "forkscan",
+      "url": "https://forkscan.org"
+    }
+  ],
+  "website": "https://forknet.io"
+}

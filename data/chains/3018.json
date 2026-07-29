@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AICChain",
+  "slug": "aicchain",
+  "chainId": 3018,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AICChain",
+    "symbol": "AIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.aicchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AICChain Explorer",
+      "url": "https://scan.aicchain.io"
+    }
+  ],
+  "website": "https://www.aicchain.io",
+  "aliases": [
+    "AIC",
+    "aic"
+  ]
+}

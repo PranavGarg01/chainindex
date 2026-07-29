@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "MDGL Testnet",
+  "slug": "mdgl-testnet",
+  "chainId": 8029,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MDGL Token",
+    "symbol": "MDGLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.mdgl.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://mdgl.io",
+  "aliases": [
+    "MDGL",
+    "mdgl"
+  ]
+}

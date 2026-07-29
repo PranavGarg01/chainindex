@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "name": "Cronos",
+  "slug": "cronos",
+  "chainId": 25,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cronos",
+    "symbol": "CRO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.cronos.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://cronos-rpc.elk.finance",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cronos-evm-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/cro",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cronos.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.vvs.finance",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mmf-rpc.xstaking.sg",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.nebkas.ro",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/cronos/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/cro/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cro-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-cronos-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cronos.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/cronos",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cronos Explorer",
+      "url": "https://explorer.cronos.org"
+    }
+  ],
+  "website": "https://cronos.org/",
+  "aliases": [
+    "CRO",
+    "cro"
+  ]
+}

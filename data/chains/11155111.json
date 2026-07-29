@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethereum Sepolia",
+  "slug": "ethereum-sepolia",
+  "chainId": 11155111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-sepolia.g.alchemy.com/v2/demo",
+      "isRecommended": true
+    },
+    {
+      "url": "https://eth-sepolia.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-sepolia-public.unifra.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sepolia.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gateway.tenderly.co/public/sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sphinx.shardeum.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dapps.shardeum.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/eth-sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.notadegen.com/eth/sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ethereum-sepolia-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-sepolia.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/ethereum-sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ethereum-sepolia-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-testnet.4everland.org/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/eth/sepolia/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://0xrpc.io/sep",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/sepolia/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ethereum-sepolia.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ethereum-sepolia.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-sepolia-testnet.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sepolia.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.sepolia.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.sepolia.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.sepolia.ethpandaops.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sepolia.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-sepolia.g.alchemy.com/v2/WddzdzI2o9S3COdT73d5w6AIogbKq4X-",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan-sepolia",
+      "url": "https://sepolia.etherscan.io"
+    },
+    {
+      "name": "otterscan-sepolia",
+      "url": "https://sepolia.otterscan.io"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://11155111.testnet.routescan.io"
+    }
+  ],
+  "website": "https://sepolia.otterscan.io",
+  "aliases": [
+    "ETH",
+    "sep",
+    "Ethereum Testnet Sepolia"
+  ]
+}

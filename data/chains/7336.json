@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Pruv Testnet",
+  "slug": "pruv-testnet",
+  "chainId": 7336,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pruv",
+    "symbol": "PRUV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.pruv.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pruv Testnet Explorer",
+      "url": "https://explorer.testnet.pruv.network"
+    }
+  ],
+  "website": "https://pruv.gitbook.io/pruv-network/",
+  "aliases": [
+    "pruvtestnet"
+  ]
+}

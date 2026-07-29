@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "t1 Testnet",
+  "slug": "t1-testnet",
+  "chainId": 299892,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.t1protocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "t1 Explorer",
+      "url": "https://explorer.testnet.t1protocol.com"
+    }
+  ],
+  "website": "https://testnet.t1protocol.com/",
+  "aliases": [
+    "t1",
+    "t1t"
+  ]
+}

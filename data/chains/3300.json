@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Realio Testnet",
+  "slug": "realio-testnet",
+  "chainId": 3300,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rio",
+    "symbol": "RIO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.realiostage.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://realio-testnet.json-rpc.decentrio.ventures",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Realio Testnet Explorer",
+      "url": "https://explorer.realiostage.network"
+    }
+  ],
+  "website": "https://www.realio.network",
+  "aliases": [
+    "realiotestnet"
+  ]
+}

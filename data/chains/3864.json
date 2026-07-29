@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Haust Network",
+  "slug": "haust-network",
+  "chainId": 3864,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Haust",
+    "symbol": "HAUST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://haust-network-rpc.eu-north-2.gateway.fm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Haust Network blockchain explorer",
+      "url": "https://haustscan.com"
+    }
+  ],
+  "website": "https://haust.network/",
+  "aliases": [
+    "HAUST",
+    "haust-network"
+  ]
+}

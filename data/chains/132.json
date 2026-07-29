@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Namefi Chain",
+  "slug": "namefi-chain",
+  "chainId": 132,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Namefi Coin",
+    "symbol": "NFIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.chain.namefi.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://namefi.io/",
+  "aliases": [
+    "NFIC",
+    "nfic"
+  ]
+}

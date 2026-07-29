@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PHI Network v2",
+  "slug": "phi-network-v2",
+  "chainId": 144,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PHI",
+    "symbol": "Φ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://connect.phi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Phiscan",
+      "url": "https://phiscan.com"
+    }
+  ],
+  "website": "https://phi.network",
+  "aliases": [
+    "PHI"
+  ]
+}

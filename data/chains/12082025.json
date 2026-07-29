@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "name": "ONFA Chain",
+  "slug": "onfa-chain",
+  "chainId": 12082025,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONFA Coin",
+    "symbol": "OFC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.onfachain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.onfachain.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://main.onfachain.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ONFA Scan",
+      "url": "https://onfascan.io"
+    }
+  ],
+  "website": "https://onfachain.com",
+  "aliases": [
+    "onfa",
+    "onfachain",
+    "ONFA Chain Mainnet"
+  ]
+}

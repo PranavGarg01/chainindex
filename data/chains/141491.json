@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitharvest Chain Testnet",
+  "slug": "bitharvest-chain-testnet",
+  "chainId": 141491,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitharvest Testnet Native Token",
+    "symbol": "BTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.bthscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitharvest Testnet Scan",
+      "url": "https://testnet.bthscan.io"
+    }
+  ],
+  "aliases": [
+    "BitharvestTestnet"
+  ]
+}

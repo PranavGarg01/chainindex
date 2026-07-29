@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Onyx",
+  "slug": "onyx",
+  "chainId": 80888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Onyxcoin",
+    "symbol": "XCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.onyx.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.onyx.org"
+    }
+  ],
+  "website": "https://onyx.org"
+}

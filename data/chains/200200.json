@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zoo",
+  "slug": "zoo",
+  "chainId": 200200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zoo",
+    "symbol": "ZOO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.zoo.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zoo Network Explorer",
+      "url": "https://explore.zoo.network"
+    },
+    {
+      "name": "Zoo Network Explorer",
+      "url": "https://explore.zoo-test.network"
+    }
+  ],
+  "website": "https://zoo.network"
+}

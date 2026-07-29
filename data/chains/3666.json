@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Jouleverse",
+  "slug": "jouleverse",
+  "chainId": 3666,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "J",
+    "symbol": "J",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.jnsdao.com:8503",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "jscan",
+      "url": "https://jscan.jnsdao.com"
+    }
+  ],
+  "website": "https://jnsdao.com"
+}

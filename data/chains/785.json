@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "AUTHEO Testnet",
+  "slug": "autheo-testnet",
+  "chainId": 785,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "THEO",
+    "symbol": "THEO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc1.autheo.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://testnet-explorer.autheo.com"
+    }
+  ],
+  "website": "https://autheo.com",
+  "aliases": [
+    "autheo-Test-Chain"
+  ]
+}

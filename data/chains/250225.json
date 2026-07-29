@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Sintrop Impact Blockchain",
+  "slug": "sintrop-impact-blockchain",
+  "chainId": 250225,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sintrop",
+    "symbol": "SIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sintrop.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sintrop Explorer",
+      "url": "https://explorer.sintrop.com"
+    }
+  ],
+  "website": "https://sintrop.com",
+  "aliases": [
+    "SINTROP",
+    "sin"
+  ]
+}

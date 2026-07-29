@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nesa",
+  "slug": "nesa",
+  "chainId": 41443,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nesa",
+    "symbol": "NES",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://erpc.nesa.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nesa EVM Explorer",
+      "url": "https://explorer-evm.nesa.ai"
+    }
+  ],
+  "website": "https://nesa.ai",
+  "aliases": [
+    "NES"
+  ]
+}

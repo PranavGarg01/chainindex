@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Huobi ECO Chain Testnet",
+  "slug": "huobi-eco-chain-testnet",
+  "chainId": 256,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Huobi ECO Chain Test Native Token",
+    "symbol": "htt",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hecotestapi.terminet.io/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://http-testnet.hecochain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://testnet.hecoinfo.com",
+  "aliases": [
+    "Heco",
+    "hecot"
+  ]
+}

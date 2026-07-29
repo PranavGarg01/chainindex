@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "DeepL",
+  "slug": "deepl",
+  "chainId": 222555,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DeepL",
+    "symbol": "DEEPL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.deeplnetwork.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DeepL Mainnet Explorer",
+      "url": "https://scan.deeplnetwork.org"
+    }
+  ],
+  "website": "https://deeplnetwork.org"
+}

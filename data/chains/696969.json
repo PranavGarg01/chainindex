@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Galadriel Devnet",
+  "slug": "galadriel-devnet",
+  "chainId": 696969,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Galadriel Devnet token",
+    "symbol": "GAL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet.galadriel.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Galadriel Explorer",
+      "url": "https://explorer.galadriel.com"
+    }
+  ],
+  "website": "https://galadriel.com",
+  "aliases": [
+    "Galadriel",
+    "galadriel-devnet"
+  ]
+}

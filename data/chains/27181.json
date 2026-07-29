@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KLAOS Nova",
+  "slug": "klaos-nova",
+  "chainId": 27181,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KLAOS",
+    "symbol": "KLAOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.klaosnova.laosfoundation.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.klaosnova.laosfoundation.io"
+    }
+  ],
+  "website": "https://www.laosfoundation.io/",
+  "aliases": [
+    "klaosnova",
+    "KLAOS Nova Test Chain"
+  ]
+}

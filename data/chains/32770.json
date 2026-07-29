@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zilliqa 2 EVM proto-mainnet",
+  "slug": "zilliqa-2-evm-proto-mainnet",
+  "chainId": 32770,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.zq2-protomainnet.zilliqa.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zilliqa 2 EVM proto-mainnet explorer",
+      "url": "https://explorer.zq2-protomainnet.zilliqa.com"
+    }
+  ],
+  "website": "https://www.zilliqa.com/",
+  "aliases": [
+    "ZIL",
+    "zq2-proto-mainnet"
+  ]
+}

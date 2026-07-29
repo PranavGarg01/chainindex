@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Furtheon",
+  "slug": "furtheon",
+  "chainId": 308,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Furtheon",
+    "symbol": "FTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.furtheon.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://furtheon.org/",
+  "aliases": [
+    "Furtheon Network"
+  ]
+}

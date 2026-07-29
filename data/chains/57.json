@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Syscoin",
+  "slug": "syscoin",
+  "chainId": 57,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.syscoin.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/syscoin",
+      "isRecommended": false
+    },
+    {
+      "url": "https://syscoin-evm.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/syscoin/${ANKR_API_KEY}",
+      "isRecommended": false
+    },
+    {
+      "url": "https://syscoin.public-rpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://57.rpc.thirdweb.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Syscoin Block Explorer",
+      "url": "https://explorer.syscoin.org"
+    }
+  ],
+  "website": "https://www.syscoin.org",
+  "aliases": [
+    "SYS",
+    "sys"
+  ]
+}

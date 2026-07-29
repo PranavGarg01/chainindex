@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Krown Testnet",
+  "slug": "krown-testnet",
+  "chainId": 89127398,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KROWN",
+    "symbol": "KROWN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.krown.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet1.krown.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Krown Testnet Explorer",
+      "url": "https://explorer-testnet.krown.network"
+    }
+  ],
+  "website": "https://krown.network",
+  "aliases": [
+    "KROWN",
+    "krown-testnet"
+  ]
+}

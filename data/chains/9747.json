@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Plasma Devnet",
+  "slug": "plasma-devnet",
+  "chainId": 9747,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plasma",
+    "symbol": "XPL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet-rpc.plasma.to",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://plasma.to",
+  "aliases": [
+    "Plasma",
+    "plasma-devnet"
+  ]
+}

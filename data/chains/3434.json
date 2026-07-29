@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SecureChain Testnet",
+  "slug": "securechain-testnet",
+  "chainId": 3434,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SCAI",
+    "symbol": "SCAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.securechain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SecureChain",
+      "url": "https://testnet.securechain.ai"
+    }
+  ],
+  "website": "https://securechain.ai",
+  "aliases": [
+    "SCAI",
+    "SCAIt"
+  ]
+}

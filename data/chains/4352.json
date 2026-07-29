@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "MemeCore",
+  "slug": "memecore",
+  "chainId": 4352,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "M",
+    "symbol": "M",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.memecore.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OKX-MemeCore",
+      "url": "https://www.okx.com/web3/explorer/memecore"
+    },
+    {
+      "name": "MemeCoreScan",
+      "url": "https://memecorescan.io"
+    },
+    {
+      "name": "MemeCore explorer",
+      "url": "https://blockscout.memecore.com"
+    }
+  ],
+  "website": "https://memecore.com",
+  "aliases": [
+    "m"
+  ]
+}

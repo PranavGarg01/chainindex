@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ventures Blockchain",
+  "slug": "ventures-blockchain",
+  "chainId": 77717,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ventures Coin",
+    "symbol": "VC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.venturesblockchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ventures Explorer",
+      "url": "https://explorer.venturesblockchain.io"
+    }
+  ],
+  "website": "https://www.venturesblockchain.io",
+  "aliases": [
+    "Ventures",
+    "ventures"
+  ]
+}

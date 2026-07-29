@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "name": "Base",
+  "slug": "base",
+  "chainId": 8453,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nodeflare.app/base/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet.base.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://developer-access-mainnet.base.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://li-fi-base.intustechno.workers.dev/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-mainnet.diamondswap.org/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.public.blockpi.network/v1/rpc/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/base",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.meowrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gateway.tenderly.co/public/base",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.notadegen.com/base",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/base-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/base-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/base/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.lava.build",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.numa.network/base",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/base/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/base",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.rpc.blxrbdn.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-base-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpcbase.hairylabs.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/base",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpcfree.com/base-rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-rpc.keccak.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.baseazul.dev",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "basescan",
+      "url": "https://basescan.org"
+    },
+    {
+      "name": "basescout",
+      "url": "https://base.blockscout.com"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://base.dex.guru"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://base.superscan.network"
+    }
+  ],
+  "website": "https://base.org",
+  "aliases": [
+    "ETH"
+  ]
+}

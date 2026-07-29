@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "HOME Verse",
+  "slug": "home-verse",
+  "chainId": 19011,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.oasys.homeverse.games",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HOME Verse Explorer",
+      "url": "https://explorer.oasys.homeverse.games"
+    }
+  ],
+  "website": "https://www.homeverse.games/",
+  "aliases": [
+    "HMV"
+  ]
+}

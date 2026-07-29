@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Sidra Chain",
+  "slug": "sidra-chain",
+  "chainId": 97453,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sidra Digital Asset",
+    "symbol": "SDA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.sidrachain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sidra Chain Explorer",
+      "url": "https://ledger.sidrachain.com"
+    }
+  ],
+  "website": "https://www.sidrachain.com",
+  "aliases": [
+    "SIDRA",
+    "sidra"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "OTC",
+  "slug": "otc",
+  "chainId": 175,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OTC",
+    "symbol": "OTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.otc.run",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://otc.network"
+}

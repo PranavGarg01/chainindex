@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Xenea Ubusuna Testnet",
+  "slug": "xenea-ubusuna-testnet",
+  "chainId": 1096,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Xenea Ubusuna Testnet Token",
+    "symbol": "TXENE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-ubusuna.xeneascan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Xenea Ubusuna Testnet Explorer",
+      "url": "https://ubusuna.xeneascan.com"
+    }
+  ],
+  "website": "https://xenea.io",
+  "aliases": [
+    "TXENE",
+    "Xenea"
+  ]
+}

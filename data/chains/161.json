@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Armonia Eva Chain Testnet",
+  "slug": "armonia-eva-chain-testnet",
+  "chainId": 161,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Armonia Multichain Native Token",
+    "symbol": "AMAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.evascan.io/api/eth-rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout - evascan",
+      "url": "https://testnet.evascan.io"
+    }
+  ],
+  "website": "https://amax.network",
+  "aliases": [
+    "Wall-e",
+    "wall-e"
+  ]
+}

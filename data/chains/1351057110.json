@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Chaos (SKALE Testnet)",
+  "slug": "chaos-skale-testnet",
+  "chainId": 1351057110,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://staging-v3.skalenodes.com/v1/staging-fast-active-bellatrix",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://staging-fast-active-bellatrix.explorer.staging-v3.skalenodes.com"
+    }
+  ],
+  "website": "https://docs.skale.network/develop/",
+  "aliases": [
+    "staging-fast-active-bellatrix",
+    "chaos-tenet",
+    "Chaos Testnet"
+  ]
+}

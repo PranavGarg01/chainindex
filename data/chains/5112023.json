@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NumBlock Chain",
+  "slug": "numblock-chain",
+  "chainId": 5112023,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NUMB Token",
+    "symbol": "NUMB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.numblock.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NumBlock Explorer",
+      "url": "https://mainnet.numblock.org"
+    }
+  ],
+  "website": "https://numblock.org",
+  "aliases": [
+    "NumBlock",
+    "NUMB"
+  ]
+}

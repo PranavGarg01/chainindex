@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "JMDT Testnet",
+  "slug": "jmdt-testnet",
+  "chainId": 8000800,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test JMDT",
+    "symbol": "tJMDT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.jmdt.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JMDT Testnet Explorer",
+      "url": "https://explorer.jmdt.io/testnet"
+    }
+  ],
+  "website": "https://jmdt.io",
+  "aliases": [
+    "JMDT",
+    "tjmdt"
+  ]
+}

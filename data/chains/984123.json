@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Forma Sketchpad",
+  "slug": "forma-sketchpad",
+  "chainId": 984123,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sketchpad-1.forma.art",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.sketchpad-1.forma.art"
+    }
+  ],
+  "website": "https://forma.art",
+  "aliases": [
+    "Forma",
+    "sketchpad"
+  ]
+}

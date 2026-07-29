@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Unipoly Chain",
+  "slug": "unipoly-chain",
+  "chainId": 47382916,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Unipoly Coin",
+    "symbol": "UNP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.unpchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UNP Chain Explorer",
+      "url": "https://explorer.unpchain.com"
+    }
+  ],
+  "website": "https://unipoly.network",
+  "aliases": [
+    "UNP",
+    "unp"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Shrapnel Testnet",
+  "slug": "shrapnel-testnet",
+  "chainId": 2038,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SHRAPG",
+    "symbol": "SHRAPG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/shrapnel/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SHRAPNEL Explorer",
+      "url": "https://subnets-test.avax.network/shrapnel"
+    }
+  ],
+  "website": "https://www.shrapnel.com/",
+  "aliases": [
+    "SHRAPNEL",
+    "shraptest"
+  ]
+}

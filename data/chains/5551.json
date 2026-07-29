@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nahmii 2",
+  "slug": "nahmii-2",
+  "chainId": 5551,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://l2.nahmii.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nahmii 2 Mainnet Explorer",
+      "url": "https://explorer.n2.nahmii.io"
+    }
+  ],
+  "website": "https://nahmii.io",
+  "aliases": [
+    "Nahmii"
+  ]
+}

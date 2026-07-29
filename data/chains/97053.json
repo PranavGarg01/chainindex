@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tetron Testnet Smart Chain",
+  "slug": "tetron-testnet-smart-chain",
+  "chainId": 97053,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tetron Testnet",
+    "symbol": "TSC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc.tscscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tetron Explorer",
+      "url": "https://testnet.tscscan.org"
+    }
+  ],
+  "website": "https://tetronchain.com/",
+  "aliases": [
+    "Tetron Testnet",
+    "TetronTestnet"
+  ]
+}

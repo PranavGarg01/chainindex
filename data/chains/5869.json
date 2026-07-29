@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Wegochain Rubidium",
+  "slug": "wegochain-rubidium",
+  "chainId": 5869,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rubid",
+    "symbol": "RBD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://proxy.wegochain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "wegoscan2",
+      "url": "https://scan2.wegochain.io"
+    }
+  ],
+  "website": "https://www.wegochain.io",
+  "aliases": [
+    "RBD",
+    "rbd"
+  ]
+}

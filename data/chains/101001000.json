@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Prismo Glassnet",
+  "slug": "prismo-glassnet",
+  "chainId": 101001000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.glassnet.prismo.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Glassnet Explorer",
+      "url": "https://explorer.glassnet.prismo.network"
+    }
+  ],
+  "website": "https://prismo.technology",
+  "aliases": [
+    "PRISMO",
+    "prsm"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ADF Chain Testnet",
+  "slug": "adf-chain-testnet",
+  "chainId": 1212,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ADDFILL Testnet",
+    "symbol": "tADF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.adftechnology.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ADF Testnet explorer",
+      "url": "https://testnet-explorer.adftechnology.com"
+    }
+  ],
+  "website": "https://www.adfstarworld.com/",
+  "aliases": [
+    "tADF"
+  ]
+}

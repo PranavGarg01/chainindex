@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "POC Testnet",
+  "slug": "poc-testnet",
+  "chainId": 1148,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POC Native Token",
+    "symbol": "POC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.pochain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "pocscan",
+      "url": "https://testnet.pocscan.com"
+    }
+  ],
+  "website": "https://www.pochain.io",
+  "aliases": [
+    "POC",
+    "poc"
+  ]
+}

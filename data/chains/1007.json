@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Newton Testnet",
+  "slug": "newton-testnet",
+  "chainId": 1007,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Newton",
+    "symbol": "NEW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.newchain.newtonproject.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.newtonproject.org/",
+  "aliases": [
+    "NEW",
+    "tnew"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "SuperLumio",
+  "slug": "superlumio",
+  "chainId": 8866,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.lumio.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lumio explorer",
+      "url": "https://explorer.lumio.io"
+    }
+  ],
+  "website": "https://lumio.io/"
+}

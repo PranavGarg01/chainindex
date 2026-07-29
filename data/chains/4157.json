@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CrossFi Testnet",
+  "slug": "crossfi-testnet",
+  "chainId": 4157,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XFI",
+    "symbol": "XFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.ms",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CrossFi Testnet Scan",
+      "url": "https://test.xfiscan.com"
+    }
+  ],
+  "website": "https://crossfi.org",
+  "aliases": [
+    "XFI",
+    "crossfi-testnet"
+  ]
+}

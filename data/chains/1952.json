@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "X Layer Testnet",
+  "slug": "x-layer-testnet",
+  "chainId": 1952,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "X Layer Global Utility Token in testnet",
+    "symbol": "OKB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testrpc.xlayer.tech",
+      "isRecommended": true
+    },
+    {
+      "url": "https://xlayertestrpc.okx.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/xlayer/testnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/xlayer_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://xlayer-testnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbase-rpc.dwellir.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OKLink",
+      "url": "https://www.oklink.com/xlayer-test"
+    }
+  ],
+  "website": "https://www.okx.com/xlayer",
+  "aliases": [
+    "X Layer",
+    "tokb"
+  ]
+}

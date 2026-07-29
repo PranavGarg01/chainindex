@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SwissDLT",
+  "slug": "swissdlt",
+  "chainId": 94,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BCTS",
+    "symbol": "BCTS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.swissdlt.ch",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SwissDLT Explorer",
+      "url": "https://explorer.swissdlt.ch"
+    }
+  ],
+  "website": "https://bcts.ch",
+  "aliases": [
+    "SDLT",
+    "sdlt"
+  ]
+}

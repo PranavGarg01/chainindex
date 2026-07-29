@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "XRPL EVM Sidechain Testnet",
+  "slug": "xrpl-evm-sidechain-testnet",
+  "chainId": 1449000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xrplevm-testnet.buildintheshade.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.testnet.xrplevm.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.xrplevm.org"
+    }
+  ],
+  "website": "https://xrplevm.org",
+  "aliases": [
+    "XRPLEVM Testnet",
+    "xrplevmtestnet"
+  ]
+}

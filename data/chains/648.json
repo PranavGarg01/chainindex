@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Endurance Smart Chain",
+  "slug": "endurance-smart-chain",
+  "chainId": 648,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Endurance Chain Native Token",
+    "symbol": "ACE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-endurance.fusionist.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Endurance Scan",
+      "url": "https://explorer.endurance.fusionist.io"
+    }
+  ],
+  "website": "https://ace.fusionist.io/",
+  "aliases": [
+    "ACE",
+    "ace"
+  ]
+}

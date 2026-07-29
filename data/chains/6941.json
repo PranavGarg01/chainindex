@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Monolythium",
+  "slug": "monolythium",
+  "chainId": 6941,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lythium",
+    "symbol": "LYTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.mainnet.mononodes.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Monoscan",
+      "url": "https://monoscan.xyz"
+    }
+  ],
+  "website": "https://monolythium.com",
+  "aliases": [
+    "LYTH",
+    "lyth"
+  ]
+}

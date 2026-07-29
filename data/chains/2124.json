@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Metaplayerone Dubai Testnet",
+  "slug": "metaplayerone-dubai-testnet",
+  "chainId": 2124,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metaunit",
+    "symbol": "MEU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-dubai.mp1network.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MP1Scan",
+      "url": "https://dubai.mp1scan.io"
+    }
+  ],
+  "website": "https://docs.metaplayer.one/",
+  "aliases": [
+    "MP1 Dubai-Testnet",
+    "MEU"
+  ]
+}

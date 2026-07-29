@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "peaq",
+  "slug": "peaq",
+  "chainId": 3338,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "peaq",
+    "symbol": "PEAQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://quicknode1.peaq.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://quicknode2.peaq.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://quicknode3.peaq.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Subscan",
+      "url": "https://peaq.subscan.io"
+    }
+  ],
+  "website": "https://www.peaq.xyz"
+}

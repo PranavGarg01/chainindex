@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "BlockX",
+  "slug": "blockx",
+  "chainId": 19191,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BCX",
+    "symbol": "BCX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://web3.blockxnet.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockX EVM Explorer (Blockscout)",
+      "url": "https://explorer-evm.blockxnet.com"
+    },
+    {
+      "name": "BlockX Cosmos Explorer (Ping)",
+      "url": "https://ping.pub/BlockX"
+    }
+  ],
+  "website": "https://www.blockxnet.com/",
+  "aliases": [
+    "bcx"
+  ]
+}

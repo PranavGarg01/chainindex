@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Arvix Testnet",
+  "slug": "arvix-testnet",
+  "chainId": 1927,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Arvix Testnet Native Token",
+    "symbol": "tARV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet-market.arvix.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-dev-testnet.arvix.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Arvix Explorer Testnet",
+      "url": "https://testnet.arvixscan.com"
+    }
+  ],
+  "website": "https://arvix.network",
+  "aliases": [
+    "Arvix",
+    "arvix"
+  ]
+}

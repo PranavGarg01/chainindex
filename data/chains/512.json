@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Double-A Chain",
+  "slug": "double-a-chain",
+  "chainId": 512,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Acuteangle Native Token",
+    "symbol": "AAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.acuteangle.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "aacscan",
+      "url": "https://scan.acuteangle.com"
+    }
+  ],
+  "website": "https://www.acuteangle.com/",
+  "aliases": [
+    "AAC",
+    "aac"
+  ]
+}

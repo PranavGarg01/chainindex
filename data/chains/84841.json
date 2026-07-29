@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "O Chain",
+  "slug": "o-chain",
+  "chainId": 84841,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "O.XYZ",
+    "symbol": "O",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.o.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://84841.rpc.thirdweb.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.o.xyz"
+    }
+  ],
+  "website": "https://o.xyz",
+  "aliases": [
+    "O"
+  ]
+}

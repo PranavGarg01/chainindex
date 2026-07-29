@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "4GoodNetwork",
+  "slug": "4goodnetwork",
+  "chainId": 846000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "APTA",
+    "symbol": "APTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain.deptofgood.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://bloqs4good.com",
+  "aliases": [
+    "4GN",
+    "bloqs4good"
+  ]
+}

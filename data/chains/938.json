@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Haust",
+  "slug": "haust",
+  "chainId": 938,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HAUST",
+    "symbol": "HAUST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://haust-network-rpc.eu-north-2.gateway.fm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://haust-network-blockscout.eu-north-2.gateway.fm"
+    }
+  ],
+  "website": "https://haust.network/",
+  "aliases": [
+    "Haust Mainnet"
+  ]
+}

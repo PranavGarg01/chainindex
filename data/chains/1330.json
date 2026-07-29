@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ONNChain",
+  "slug": "onnchain",
+  "chainId": 1330,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONN",
+    "symbol": "ONN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.onnscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ONNChain Explorer",
+      "url": "https://onnscan.com"
+    }
+  ],
+  "website": "https://onnscan.com",
+  "aliases": [
+    "ONN",
+    "onn"
+  ]
+}

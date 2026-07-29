@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Plasma",
+  "slug": "plasma",
+  "chainId": 9745,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plasma",
+    "symbol": "XPL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://plasma.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://plasma.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/plasma",
+      "isRecommended": false
+    },
+    {
+      "url": "https://plasma-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.plasma.to",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Routescan",
+      "url": "https://plasmascan.to"
+    }
+  ],
+  "website": "https://plasma.to"
+}

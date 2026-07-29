@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Oasis Emerald Testnet",
+  "slug": "oasis-emerald-testnet",
+  "chainId": 42261,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Emerald Test Rose",
+    "symbol": "TEST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.emerald.oasis.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Oasis Emerald Testnet Explorer",
+      "url": "https://explorer.oasis.io/testnet/emerald"
+    }
+  ],
+  "website": "https://docs.oasis.io/dapp/emerald",
+  "aliases": [
+    "Emerald",
+    "emerald-testnet"
+  ]
+}

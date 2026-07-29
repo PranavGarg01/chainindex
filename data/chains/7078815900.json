@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Mekong",
+  "slug": "mekong",
+  "chainId": 7078815900,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Testnet ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mekong.ethpandaops.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Holesky Dora Explorer",
+      "url": "https://explorer.mekong.ethpandaops.io"
+    }
+  ],
+  "website": "https://mekong.ethpandaops.io",
+  "aliases": [
+    "ETH"
+  ]
+}

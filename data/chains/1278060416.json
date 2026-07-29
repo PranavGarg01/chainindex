@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "OFFICIAL VASYL",
+  "slug": "official-vasyl",
+  "chainId": 1278060416,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OFFICIAL VASYL",
+    "symbol": "VASYL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.official-vasyl.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Official Vasyl Explorer",
+      "url": "https://explorer.official-vasyl.network"
+    }
+  ],
+  "aliases": [
+    "Official-Vasyl",
+    "Vasyl"
+  ]
+}

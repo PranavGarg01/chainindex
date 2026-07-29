@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BMN Smart Chain",
+  "slug": "bmn-smart-chain",
+  "chainId": 8006,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BMN Coin",
+    "symbol": "BMN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://connect.bmnscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bmnscan",
+      "url": "https://bmnscan.com"
+    }
+  ],
+  "website": "https://bmncoin.com",
+  "aliases": [
+    "BMN",
+    "bmn"
+  ]
+}

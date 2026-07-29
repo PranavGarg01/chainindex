@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CpChain Testnet",
+  "slug": "cpchain-testnet",
+  "chainId": 86606,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CP",
+    "symbol": "CP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.cpchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CpChain Testnet Explorer",
+      "url": "https://explorer-testnet.cpchain.com"
+    }
+  ],
+  "website": "https://cpchain.com",
+  "aliases": [
+    "CpChain",
+    "cpchain-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LayerEdge testnet",
+  "slug": "layeredge-testnet",
+  "chainId": 3456,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.layeredge.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LayerEdge Testnet Explorer",
+      "url": "https://testnet-explorer.layeredge.io"
+    }
+  ],
+  "website": "https://www.layeredge.io",
+  "aliases": [
+    "LayerEdge",
+    "LayerEdge-testnet"
+  ]
+}

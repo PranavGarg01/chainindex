@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "StarCHAIN",
+  "slug": "starchain",
+  "chainId": 1578,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "STARX",
+    "symbol": "STARX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.starworksglobal.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "StarCHAIN Explorer",
+      "url": "https://starchainscan.io"
+    }
+  ],
+  "website": "https://www.starworksglobal.com"
+}

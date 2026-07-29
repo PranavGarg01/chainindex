@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Scroll Sepolia Testnet",
+  "slug": "scroll-sepolia-testnet",
+  "chainId": 534351,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-rpc.scroll.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://scroll-testnet-public.unifra.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/scroll_sepolia_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-public.scroll-testnet.quiknode.pro",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-sepolia.chainstacklabs.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-sepolia.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-sepolia-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/scroll/sepolia/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-sepolia.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-sepolia-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Scroll Sepolia Etherscan",
+      "url": "https://sepolia.scrollscan.com"
+    }
+  ],
+  "website": "https://scroll.io",
+  "aliases": [
+    "ETH",
+    "scr-sepolia"
+  ]
+}

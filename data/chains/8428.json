@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "THAT",
+  "slug": "that",
+  "chainId": 8428,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "THAT",
+    "symbol": "THAT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.thatchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.thatchain.io/mainnet",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "THAT Explorer",
+      "url": "https://that.blockscout.com"
+    }
+  ],
+  "website": "https://that.website"
+}

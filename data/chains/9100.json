@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Genesis Coin",
+  "slug": "genesis-coin",
+  "chainId": 9100,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GN Coin",
+    "symbol": "GNC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://genesis-gn.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://genesis-gn.com",
+  "aliases": [
+    "Genesis",
+    "GENEC"
+  ]
+}

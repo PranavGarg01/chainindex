@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Arthera Testnet",
+  "slug": "arthera-testnet",
+  "chainId": 10243,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Arthera",
+    "symbol": "AA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-test.arthera.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-test.arthera.net"
+    }
+  ],
+  "website": "https://docs.arthera.net",
+  "aliases": [
+    "AA",
+    "aat"
+  ]
+}

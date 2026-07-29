@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Sophon OS Testnet",
+  "slug": "sophon-os-testnet",
+  "chainId": 531050204,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.os.sophon.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sophscan Testnet",
+      "url": "https://testnet.sophscan.com/"
+    },
+    {
+      "name": "Sophon OS Testnet Explorer",
+      "url": "https://explorer.testnet.os.sophon.com/"
+    }
+  ],
+  "website": "https://sophon.xyz/",
+  "aliases": [
+    "Sophon OS",
+    "sophon-os-testnet"
+  ]
+}

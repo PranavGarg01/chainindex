@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Neonlink Testnet",
+  "slug": "neonlink-testnet",
+  "chainId": 9559,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Neonlink Native Token",
+    "symbol": "tNEON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.neonlink.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Neon Blockchain Explorer",
+      "url": "https://testnet-scan.neonlink.io"
+    }
+  ],
+  "website": "https://neonlink.io",
+  "aliases": [
+    "Neonlink",
+    "testneon"
+  ]
+}

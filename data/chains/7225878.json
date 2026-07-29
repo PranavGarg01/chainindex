@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Saakuru",
+  "slug": "saakuru",
+  "chainId": 7225878,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.saakuru.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "saakuru-explorer",
+      "url": "https://explorer.saakuru.network"
+    }
+  ],
+  "website": "https://saakuru.network"
+}

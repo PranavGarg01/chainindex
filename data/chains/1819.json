@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Cube Chain Testnet",
+  "slug": "cube-chain-testnet",
+  "chainId": 1819,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cube Chain Test Native Token",
+    "symbol": "CUBET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://http-testnet.cube.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://http-testnet-sg.cube.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://http-testnet-jp.cube.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://http-testnet-us.cube.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "cubetest-scan",
+      "url": "https://testnet.cubescan.network"
+    }
+  ],
+  "website": "https://www.cube.network",
+  "aliases": [
+    "Cube",
+    "cubet"
+  ]
+}

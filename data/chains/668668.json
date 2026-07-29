@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Conwai",
+  "slug": "conwai",
+  "chainId": 668668,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Conwai",
+    "symbol": "CNW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://conwai.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "conwaiscan",
+      "url": "https://conwai.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://conwai.net",
+  "aliases": [
+    "CNW",
+    "cnw"
+  ]
+}

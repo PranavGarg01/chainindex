@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RARI Chain Testnet",
+  "slug": "rari-chain-testnet",
+  "chainId": 1918988905,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.rarichain.org/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "rarichain-testnet-explorer",
+      "url": "https://explorer.rarichain.org"
+    }
+  ],
+  "website": "https://rarichain.org/",
+  "aliases": [
+    "RARI",
+    "rari-testnet"
+  ]
+}

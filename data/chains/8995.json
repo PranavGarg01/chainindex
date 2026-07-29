@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "bloxberg",
+  "slug": "bloxberg",
+  "chainId": 8995,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BERG",
+    "symbol": "U+25B3",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://core.bloxberg.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://bloxberg.org",
+  "aliases": [
+    "berg"
+  ]
+}

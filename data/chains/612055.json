@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "CROSS",
+  "slug": "cross",
+  "chainId": 612055,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CROSS",
+    "symbol": "CROSS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.crosstoken.io:22001",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CROSS Explorer",
+      "url": "https://www.crossscan.io"
+    }
+  ],
+  "website": "https://to.nexus"
+}

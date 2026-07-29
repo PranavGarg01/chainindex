@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vexidus Testnet",
+  "slug": "vexidus-testnet",
+  "chainId": 1618032,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vexidus",
+    "symbol": "VXS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.vexidus.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "VexScan",
+      "url": "https://vexscan.io"
+    }
+  ],
+  "website": "https://vexidus.io",
+  "aliases": [
+    "VXS",
+    "vxs-testnet"
+  ]
+}

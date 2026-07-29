@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "HALO",
+  "slug": "halo",
+  "chainId": 1280,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HALO",
+    "symbol": "HO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nodes.halo.land",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HALOexplorer",
+      "url": "https://browser.halo.land"
+    }
+  ],
+  "website": "https://halo.land/#/",
+  "aliases": [
+    "HO"
+  ]
+}

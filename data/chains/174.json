@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ENI Testnet",
+  "slug": "eni-testnet",
+  "chainId": 174,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EGAS",
+    "symbol": "EGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.eniac.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ENI Testnet Explorer",
+      "url": "https://scan-testnet.eniac.network"
+    }
+  ],
+  "website": "https://eniac.network/",
+  "aliases": [
+    "ENI",
+    "eni-test"
+  ]
+}

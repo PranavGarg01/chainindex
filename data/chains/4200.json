@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Merlin",
+  "slug": "merlin",
+  "chainId": 4200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.merlinchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://merlin.blockpi.network/v1/rpc/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-merlin.rockx.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://merlin-mainnet-enterprise.unifra.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/merlin/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://merlin.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "L2scan",
+      "url": "https://scan.merlinchain.io"
+    }
+  ],
+  "website": "https://merlinchain.io",
+  "aliases": [
+    "Merlin-Mainnet",
+    "Merlin Mainnet"
+  ]
+}

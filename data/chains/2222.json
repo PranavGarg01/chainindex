@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 2,
+  "name": "Kava",
+  "slug": "kava",
+  "chainId": 2222,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kava",
+    "symbol": "KAVA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.kava.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://kava.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava-evm-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm.kava.chainstacklabs.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/kava_evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm.kava-rpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node.histori.xyz/kava-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/kava",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava-rpc.gateway.pokt.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava-evm.rpc.thirdweb.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kava EVM Explorer",
+      "url": "https://kavascan.com"
+    }
+  ],
+  "website": "https://www.kava.io"
+}

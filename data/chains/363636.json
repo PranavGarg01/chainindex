@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Digit Soul Smart Chain 2",
+  "slug": "digit-soul-smart-chain-2",
+  "chainId": 363636,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Digit Coin",
+    "symbol": "DGC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dgs-rpc.digitsoul.co.th",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Digit Soul Explorer",
+      "url": "https://dgs-exp.digitsoul.co.th"
+    }
+  ],
+  "aliases": [
+    "DS2"
+  ]
+}

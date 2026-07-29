@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OpenVessel",
+  "slug": "openvessel",
+  "chainId": 7355310,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vessel ETH",
+    "symbol": "VETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-external.openvessel.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "openvessel-mainnet",
+      "url": "https://mainnet-explorer.openvessel.io"
+    }
+  ],
+  "website": "https://www.openvessel.io",
+  "aliases": [
+    "VSL",
+    "vsl"
+  ]
+}

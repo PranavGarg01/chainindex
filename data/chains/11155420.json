@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "name": "OP Sepolia Testnet",
+  "slug": "op-sepolia-testnet",
+  "chainId": 11155420,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.optimism.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/optimism-sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/op/sepolia/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-sepolia.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/opt-sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-sepolia-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-sepolia.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-sepolia.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-sepolia-testnet.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-sepolia.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan-sepolia-optimism",
+      "url": "https://sepolia-optimism.etherscan.io"
+    },
+    {
+      "name": "opscout",
+      "url": "https://optimism-sepolia.blockscout.com"
+    }
+  ],
+  "website": "https://optimism.io",
+  "aliases": [
+    "ETH",
+    "opsep"
+  ]
+}

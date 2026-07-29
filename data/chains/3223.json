@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "XO Market",
+  "slug": "xo-market",
+  "chainId": 3223,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XO",
+    "symbol": "XO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet-2.xo.market",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XO Market Explorer",
+      "url": "https://explorer-mainnet.xo.market"
+    }
+  ],
+  "website": "https://xo.market",
+  "aliases": [
+    "XO",
+    "xo"
+  ]
+}

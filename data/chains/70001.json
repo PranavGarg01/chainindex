@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Thinkium Mainnet Chain 1",
+  "slug": "thinkium-mainnet-chain-1",
+  "chainId": 70001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TKM",
+    "symbol": "TKM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://proxy1.thinkiumrpc.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "thinkiumscan",
+      "url": "https://chain1.thinkiumscan.net"
+    }
+  ],
+  "website": "https://thinkium.net/",
+  "aliases": [
+    "Thinkium",
+    "TKM1"
+  ]
+}

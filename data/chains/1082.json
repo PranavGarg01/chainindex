@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Anannta",
+  "slug": "anannta",
+  "chainId": 1082,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Anannta",
+    "symbol": "ANANT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-anant.ananntascan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Anannta Explorer",
+      "url": "https://ananntascan.io"
+    }
+  ],
+  "website": "https://anannta.io",
+  "aliases": [
+    "ANANT",
+    "anta"
+  ]
+}

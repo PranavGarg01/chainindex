@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "VeChain Testnet",
+  "slug": "vechain-testnet",
+  "chainId": 100010,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VeChain",
+    "symbol": "VET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.vechain.energy",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "VeChain Explorer",
+      "url": "https://explore-testnet.vechain.org"
+    }
+  ],
+  "website": "https://vechain.org",
+  "aliases": [
+    "VeChain",
+    "vechain-testnet"
+  ]
+}

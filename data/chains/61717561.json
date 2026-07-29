@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Aquachain",
+  "slug": "aquachain",
+  "chainId": 61717561,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aquachain Ether",
+    "symbol": "AQUA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://c.onical.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://tx.aquacha.in/api",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://aquachain.github.io",
+  "aliases": [
+    "AQUA",
+    "aqua"
+  ]
+}

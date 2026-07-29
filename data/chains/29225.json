@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexa MetaTest",
+  "slug": "nexa-metatest",
+  "chainId": 29225,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nexa",
+    "symbol": "NEXA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nexa.sh/metatest",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NexaShell",
+      "url": "https://nexa.sh"
+    }
+  ],
+  "website": "https://nexa.sh/meta",
+  "aliases": [
+    "NEXA",
+    "nexatest"
+  ]
+}

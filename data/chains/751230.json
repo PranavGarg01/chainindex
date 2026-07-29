@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Bear Network Chain Testnet",
+  "slug": "bear-network-chain-testnet",
+  "chainId": 751230,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bear Network Chain Testnet Token",
+    "symbol": "tBRNKC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://brnkc-test.bearnetwork.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "brnktestscan",
+      "url": "https://brnktest-scan.bearnetwork.net"
+    }
+  ],
+  "website": "https://bearnetwork.net",
+  "aliases": [
+    "BRNKCTEST"
+  ]
+}

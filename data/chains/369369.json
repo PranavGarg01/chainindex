@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Denergy Network",
+  "slug": "denergy-network",
+  "chainId": 369369,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WATT",
+    "symbol": "WATT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.d.energy",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Denergy Explorer",
+      "url": "https://explorer.denergychain.com"
+    }
+  ],
+  "website": "https://d.energy/",
+  "aliases": [
+    "DEN",
+    "den-mainnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Script Testnet",
+  "slug": "script-testnet",
+  "chainId": 742,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Script",
+    "symbol": "SPAY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testeth-rpc-api.script.tv/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Script Explorer",
+      "url": "https://explorer.script.tv"
+    }
+  ],
+  "website": "https://token.script.tv",
+  "aliases": [
+    "SPAY"
+  ]
+}

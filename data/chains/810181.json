@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "zkLink Nova Sepolia Testnet",
+  "slug": "zklink-nova-sepolia-testnet",
+  "chainId": 810181,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.rpc.zklink.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zkLink Nova Block Explorer",
+      "url": "https://sepolia.explorer.zklink.io"
+    }
+  ],
+  "website": "https://zklink.io",
+  "aliases": [
+    "ETH",
+    "zklink-nova-sepolia"
+  ]
+}

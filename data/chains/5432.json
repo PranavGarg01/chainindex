@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "YeYing Network",
+  "slug": "yeying-network",
+  "chainId": 5432,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "YeYing Token",
+    "symbol": "YYT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://blockchain.yeying.pub",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "YeYing Blockscout",
+      "url": "https://blockscout.yeying.pub"
+    }
+  ],
+  "website": "https://yeying.pub",
+  "aliases": [
+    "YeYing"
+  ]
+}

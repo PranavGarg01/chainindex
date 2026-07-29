@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TPIX Chain",
+  "slug": "tpix-chain",
+  "chainId": 4289,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TPIX",
+    "symbol": "TPIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tpix.online",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TPIX Explorer",
+      "url": "https://explorer.tpix.online"
+    }
+  ],
+  "website": "https://tpix.online",
+  "aliases": [
+    "TPIX",
+    "tpix"
+  ]
+}

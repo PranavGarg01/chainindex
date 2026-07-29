@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "OMAChain",
+  "slug": "omachain",
+  "chainId": 6623,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OMA",
+    "symbol": "OMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.omachain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OMAChain Explorer",
+      "url": "https://explorer.omachain.org"
+    }
+  ],
+  "aliases": [
+    "oma-mainnet"
+  ]
+}

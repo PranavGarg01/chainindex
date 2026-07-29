@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "PublicMint Devnet",
+  "slug": "publicmint-devnet",
+  "chainId": 2018,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USD",
+    "symbol": "USD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dev.publicmint.io:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PublicMint Explorer",
+      "url": "https://explorer.dev.publicmint.io"
+    }
+  ],
+  "website": "https://publicmint.com",
+  "aliases": [
+    "PublicMint",
+    "pmint_dev",
+    "Public Mint Devnet"
+  ]
+}

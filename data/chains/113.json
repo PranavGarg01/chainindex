@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Dehvo",
+  "slug": "dehvo",
+  "chainId": 113,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dehvo",
+    "symbol": "Deh",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://connect.dehvo.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.dehvo.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc1.dehvo.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.dehvo.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dehvo Explorer",
+      "url": "https://explorer.dehvo.com"
+    }
+  ],
+  "website": "https://dehvo.com",
+  "aliases": [
+    "deh"
+  ]
+}

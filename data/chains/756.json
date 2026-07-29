@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CAPX Testnet",
+  "slug": "capx-testnet",
+  "chainId": 756,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CAPX",
+    "symbol": "CAPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://capx-testnet-c1.rpc.caldera.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.capxscan.com"
+    }
+  ],
+  "website": "https://www.capx.ai/",
+  "aliases": [
+    "CAPX",
+    "capx-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CamDL Testnet",
+  "slug": "camdl-testnet",
+  "chainId": 395,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CADL",
+    "symbol": "CADL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.testnet.camdl.gov.kh",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CamDL Testnet Explorer",
+      "url": "https://explorer.testnet.camdl.gov.kh"
+    }
+  ],
+  "website": "https://camdl.gov.kh/",
+  "aliases": [
+    "CADL",
+    "camdl-testnet"
+  ]
+}

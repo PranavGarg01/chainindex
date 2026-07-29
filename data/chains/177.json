@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "HashKey Chain",
+  "slug": "hashkey-chain",
+  "chainId": 177,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HashKey EcoPoints",
+    "symbol": "HSK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.hsk.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://hashkey.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://hashkey.blockscout.com"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://explorer.hsk.xyz"
+    }
+  ],
+  "website": "https://hsk.xyz",
+  "aliases": [
+    "hsk"
+  ]
+}

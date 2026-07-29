@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Areum",
+  "slug": "areum",
+  "chainId": 463,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Areum",
+    "symbol": "AREA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.areum.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-rpc2.areum.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc3.areum.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc4.areum.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc5.areum.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Areum Explorer",
+      "url": "https://explorer.areum.network"
+    }
+  ],
+  "website": "https://areum.network"
+}

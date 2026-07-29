@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Rails",
+  "slug": "rails",
+  "chainId": 6278,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SteamX",
+    "symbol": "STEAMX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.steamexchange.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explore.steamexchange.io"
+    }
+  ],
+  "website": "https://steamexchange.io",
+  "aliases": [
+    "Rails Network Mainnet"
+  ]
+}

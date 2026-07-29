@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "PulseChain Testnet v4",
+  "slug": "pulsechain-testnet-v4",
+  "chainId": 943,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test Pulse",
+    "symbol": "tPLS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.v4.testnet.pulsechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://pulsechain-testnet-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-testnet-pulsechain.g4mm4.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.v4.testnet.pulsechain.com"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://otter-testnet-pulsechain.g4mm4.io"
+    }
+  ],
+  "website": "https://pulsechain.com",
+  "aliases": [
+    "t4PLS",
+    "t4pls"
+  ]
+}

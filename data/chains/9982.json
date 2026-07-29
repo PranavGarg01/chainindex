@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "MFEV CHAIN",
+  "slug": "mfev-chain",
+  "chainId": 9982,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MFEV",
+    "symbol": "MFEV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mfevscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MFEV CHAIN",
+      "url": "https://mfevscan.com"
+    }
+  ],
+  "website": "https://mfevscan.com",
+  "aliases": [
+    "mfevscan"
+  ]
+}

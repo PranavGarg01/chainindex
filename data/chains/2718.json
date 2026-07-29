@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "K-LAOS",
+  "slug": "k-laos",
+  "chainId": 2718,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KLAOS",
+    "symbol": "KLAOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.klaos.laosfoundation.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.klaos.laosfoundation.io"
+    }
+  ],
+  "website": "https://www.laosfoundation.io/",
+  "aliases": [
+    "K-LAOS: LAOS on Kusama"
+  ]
+}

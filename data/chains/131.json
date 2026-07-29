@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Engram Testnet",
+  "slug": "engram-testnet",
+  "chainId": 131,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Engram Tokio Testnet",
+    "symbol": "tGRAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tokioswift.engram.tech",
+      "isRecommended": true
+    },
+    {
+      "url": "https://tokio-archive.engram.tech",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://tokioscan-v2.engram.tech"
+    }
+  ],
+  "website": "https://engramnet.io",
+  "aliases": [
+    "tGRAM",
+    "tgram"
+  ]
+}

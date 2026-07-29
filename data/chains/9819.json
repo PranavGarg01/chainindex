@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "IMPERIUM",
+  "slug": "imperium",
+  "chainId": 9819,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IMP",
+    "symbol": "IMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://data-aws-mainnet.imperiumchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://data-aws2-mainnet.imperiumchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IMPERIUM Explorer",
+      "url": "https://impscan.com"
+    }
+  ],
+  "website": "https://imperiumchain.com",
+  "aliases": [
+    "IMP"
+  ]
+}

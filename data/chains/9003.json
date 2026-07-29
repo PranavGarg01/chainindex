@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Qubetics Alpha Testnet",
+  "slug": "qubetics-alpha-testnet",
+  "chainId": 9003,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Qubetics Testnet Token",
+    "symbol": "TICS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://alphatestnet-evm-rpc.qubetics.work",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Qubetics Alpha Testnet Explorer",
+      "url": "https://alphatestnet-explorer.qubetics.work/dashboard"
+    }
+  ],
+  "website": "https://www.qubetics.com/",
+  "aliases": [
+    "QubeticsAlpha"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Glide L2 Protocol XP",
+  "slug": "glide-l2-protocol-xp",
+  "chainId": 253,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Glide XP",
+    "symbol": "GLXP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-api.glideprotocol.xyz/l2-rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "glidescan",
+      "url": "https://blockchain-explorer.glideprotocol.xyz"
+    }
+  ],
+  "website": "https://glideprotocol.xyz",
+  "aliases": [
+    "GLXP",
+    "glidexp"
+  ]
+}

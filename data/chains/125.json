@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OYchain Testnet",
+  "slug": "oychain-testnet",
+  "chainId": 125,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OYchain Token",
+    "symbol": "OY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.oychain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OYchain Testnet Explorer",
+      "url": "https://explorer.testnet.oychain.io"
+    }
+  ],
+  "website": "https://www.oychain.io",
+  "aliases": [
+    "OYchain",
+    "OYchainTestnet"
+  ]
+}

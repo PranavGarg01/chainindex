@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Midl",
+  "slug": "midl",
+  "chainId": 1500,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.midl.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://midl.xyz/"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "OM Platform",
+  "slug": "om-platform",
+  "chainId": 1246,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OMCOIN",
+    "symbol": "OM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.omplatform.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-cnx.omplatform.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OMSCAN - Expenter",
+      "url": "https://omscan.omplatform.com"
+    }
+  ],
+  "website": "https://omplatform.com/",
+  "aliases": [
+    "omplatform",
+    "om"
+  ]
+}

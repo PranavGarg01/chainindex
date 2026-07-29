@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "BigShortBets",
+  "slug": "bigshortbets",
+  "chainId": 2137,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://market.bigsb.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://bigshortbets.com/",
+  "aliases": [
+    "BIGSB",
+    "bigsb"
+  ]
+}

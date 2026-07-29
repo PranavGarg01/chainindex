@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Tiltyard Subnet",
+  "slug": "tiltyard-subnet",
+  "chainId": 1127469,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tiltyard Token",
+    "symbol": "TILTG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/tiltyard/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "aliases": [
+    "TILTYARD",
+    "tiltyard"
+  ]
+}

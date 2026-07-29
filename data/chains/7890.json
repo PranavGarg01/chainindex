@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Panchain",
+  "slug": "panchain",
+  "chainId": 7890,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pan Coin",
+    "symbol": "PC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://publicrpc.panchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://scan.panchain.io"
+    }
+  ],
+  "website": "https://panchain.io",
+  "aliases": [
+    "PC",
+    "pc"
+  ]
+}

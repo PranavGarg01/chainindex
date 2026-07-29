@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Cyber Testnet",
+  "slug": "cyber-testnet",
+  "chainId": 111557560,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cyber-testnet.alt.technology",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.testnet.cyber.co",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cyber Testnet Explorer",
+      "url": "https://testnet.cyberscan.co"
+    }
+  ],
+  "website": "https://cyber.co/",
+  "aliases": [
+    "Cyber",
+    "cysep"
+  ]
+}

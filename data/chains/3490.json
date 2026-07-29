@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GTCSCAN",
+  "slug": "gtcscan",
+  "chainId": 3490,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GTC",
+    "symbol": "GTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gtc-dataseed.gtcscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GTCScan Explorer",
+      "url": "https://gtcscan.io"
+    }
+  ],
+  "website": "https://gtcscan.io/",
+  "aliases": [
+    "GTC",
+    "gtc"
+  ]
+}

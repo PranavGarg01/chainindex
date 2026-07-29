@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Trexx",
+  "slug": "trexx",
+  "chainId": 13766,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TRX",
+    "symbol": "TRX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://services.tanssi-mainnet.network/tanssi-2003",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tanssi EVM Basic Explorer",
+      "url": "https://evmexplorer.tanssi-chains.network/?rpcUrl=https://services.tanssi-mainnet.network/tanssi-2003"
+    }
+  ],
+  "website": "https://trexx.com.br"
+}

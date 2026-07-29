@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "U2U Solaris",
+  "slug": "u2u-solaris",
+  "chainId": 39,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "U2U Network",
+    "symbol": "U2U",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.u2u.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "U2U Explorer",
+      "url": "https://u2uscan.xyz"
+    }
+  ],
+  "website": "https://u2u.xyz",
+  "aliases": [
+    "u2u"
+  ]
+}

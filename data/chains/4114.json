@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Citrea",
+  "slug": "citrea",
+  "chainId": 4114,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Citrea BTC",
+    "symbol": "cBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.citrea.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Citrea Mainnet Explorer",
+      "url": "https://explorer.mainnet.citrea.xyz"
+    }
+  ],
+  "website": "https://citrea.xyz/"
+}

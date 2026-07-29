@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Double-A Chain Testnet",
+  "slug": "double-a-chain-testnet",
+  "chainId": 513,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Acuteangle Native Token",
+    "symbol": "AAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.acuteangle.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "aacscan-testnet",
+      "url": "https://scan-testnet.acuteangle.com"
+    }
+  ],
+  "website": "https://www.acuteangle.com/",
+  "aliases": [
+    "AAC",
+    "aact"
+  ]
+}

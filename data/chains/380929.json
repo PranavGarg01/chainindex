@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Silent Data",
+  "slug": "silent-data",
+  "chainId": 380929,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.silentdata.com/${SILENTDATA_AUTH_TOKEN}",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Silent Data Mainnet Explorer",
+      "url": "https://explorer-mainnet.rollup.silentdata.com"
+    }
+  ],
+  "website": "https://www.silentdata.com",
+  "aliases": [
+    "silent-data-mainnet"
+  ]
+}

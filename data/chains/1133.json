@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "DeFiMetaChain Changi Testnet",
+  "slug": "defimetachain-changi-testnet",
+  "chainId": 1133,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DeFiChain Token",
+    "symbol": "DFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dmc.mydefichain.com/changi",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-dmc.mydefichain.com:20551",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MetaScan",
+      "url": "https://meta.defiscan.live"
+    }
+  ],
+  "website": "https://meta.defichain.com",
+  "aliases": [
+    "DFI",
+    "changi"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DaVinci",
+  "slug": "davinci",
+  "chainId": 293,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DaVinci",
+    "symbol": "DCOIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.davinci.bz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "davinciscan",
+      "url": "https://mainnet-explorer.davinci.bz"
+    }
+  ],
+  "website": "https://davinci.bz",
+  "aliases": [
+    "DCOIN"
+  ]
+}

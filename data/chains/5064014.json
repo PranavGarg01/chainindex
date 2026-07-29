@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethereal",
+  "slug": "ethereal",
+  "chainId": 5064014,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ethereal.trade",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.ethereal.trade"
+    }
+  ],
+  "website": "https://www.ethereal.trade"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Syndr L3 Sepolia",
+  "slug": "syndr-l3-sepolia",
+  "chainId": 444444,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.syndr.com/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Syndr L3 Sepolia Testnet Explorer",
+      "url": "https://sepolia-explorer.syndr.com"
+    }
+  ],
+  "website": "https://syndr.com",
+  "aliases": [
+    "SYNDRSEPOLIA",
+    "syndr",
+    "Syndr L3 Sepolia Rollup Testnet"
+  ]
+}

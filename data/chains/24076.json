@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KYMTC Testnet",
+  "slug": "kymtc-testnet",
+  "chainId": 24076,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KYMTC",
+    "symbol": "KYMTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.kymaticscan.online",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KYMTC Testnet Explorer",
+      "url": "https://testnet-explorer.kymaticscan.online"
+    }
+  ],
+  "website": "https://testnet-explorer.kymaticscan.online",
+  "aliases": [
+    "KYMTC",
+    "tKYMTC"
+  ]
+}

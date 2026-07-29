@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "MetaDot Testnet",
+  "slug": "metadot-testnet",
+  "chainId": 16001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MetaDot Token TestNet",
+    "symbol": "MTTest",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.metadot.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://metadot.network",
+  "aliases": [
+    "MTTTest",
+    "mtttest"
+  ]
+}

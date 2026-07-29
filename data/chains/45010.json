@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo DOGE1-Chain",
+  "slug": "juneo-doge1-chain",
+  "chainId": 45010,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOGE1",
+    "symbol": "DOGE1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/DOGE1/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/10"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "DOGE1"
+  ]
+}

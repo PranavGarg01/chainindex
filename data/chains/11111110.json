@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ClawCoin Testnet",
+  "slug": "clawcoin-testnet",
+  "chainId": 11111110,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ClawCoin",
+    "symbol": "CC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-testnet.clawcoin.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://clawcoin.com",
+  "aliases": [
+    "CC",
+    "cc-testnet"
+  ]
+}

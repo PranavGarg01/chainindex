@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Numbers Testnet",
+  "slug": "numbers-testnet",
+  "chainId": 10508,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NUM Token",
+    "symbol": "NUM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.num.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ethernal",
+      "url": "https://testnet.num.network"
+    }
+  ],
+  "website": "https://numbersprotocol.io",
+  "aliases": [
+    "NUM",
+    "Snow"
+  ]
+}

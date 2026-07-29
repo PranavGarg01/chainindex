@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Gold Smart Chain Testnet",
+  "slug": "gold-smart-chain-testnet",
+  "chainId": 79879,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Standard in Gold",
+    "symbol": "STAND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.goldsmartchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gold Smart Chain",
+      "url": "https://testnet.goldsmartchain.com"
+    }
+  ],
+  "website": "https://goldsmartchain.com",
+  "aliases": [
+    "STAND",
+    "STANDt"
+  ]
+}

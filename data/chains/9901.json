@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zytron Linea",
+  "slug": "zytron-linea",
+  "chainId": 9901,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zypher.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.zypher.network"
+    }
+  ],
+  "website": "https://zytron.zypher.network/",
+  "aliases": [
+    "ETH",
+    "zytron-linea"
+  ]
+}

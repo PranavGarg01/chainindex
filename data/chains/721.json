@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "name": "Lycan Chain",
+  "slug": "lycan-chain",
+  "chainId": 721,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lycan",
+    "symbol": "LYC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lycanchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://us-east.lycanchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://us-west.lycanchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eu-north.lycanchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eu-west.lycanchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://asia-southeast.lycanchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.lycanchain.com"
+    }
+  ],
+  "website": "https://lycanchain.com",
+  "aliases": [
+    "LYC"
+  ]
+}

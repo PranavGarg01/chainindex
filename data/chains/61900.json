@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Mova",
+  "slug": "mova",
+  "chainId": 61900,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MOVA Mainnet GasCoin",
+    "symbol": "MOVA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.movachain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "movascan",
+      "url": "https://scan.movachain.com"
+    }
+  ],
+  "website": "https://movachain.com"
+}

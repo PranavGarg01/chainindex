@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RedeCoin",
+  "slug": "redecoin",
+  "chainId": 1972,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RedeCoin",
+    "symbol": "REDEV2",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc2.redecoin.eu",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RedeCoin Explorer",
+      "url": "https://explorer3.redecoin.eu"
+    }
+  ],
+  "website": "https://www.redecoin.eu",
+  "aliases": [
+    "REDEV2",
+    "rede"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "IRIShub",
+  "slug": "irishub",
+  "chainId": 6688,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eris",
+    "symbol": "ERIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmrpc.irishub-1.irisnet.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://iris-evm-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://iris-evm.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IRISHub Cosmos Explorer (IOBScan)",
+      "url": "https://irishub.iobscan.io"
+    }
+  ],
+  "website": "https://www.irisnet.org",
+  "aliases": [
+    "iris"
+  ]
+}

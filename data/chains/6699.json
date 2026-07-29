@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "OX Chain",
+  "slug": "ox-chain",
+  "chainId": 6699,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "OX",
+    "symbol": "OX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.oxscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ox.fun/chain",
+  "aliases": [
+    "OX",
+    "ox-chain"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "DAX CHAIN",
+  "slug": "dax-chain",
+  "chainId": 142,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Prodax",
+    "symbol": "DAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.prodax.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://prodax.io/",
+  "aliases": [
+    "DAX",
+    "dax"
+  ]
+}

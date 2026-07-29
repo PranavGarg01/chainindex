@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Redbelly Network Testnet",
+  "slug": "redbelly-network-testnet",
+  "chainId": 153,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Redbelly Network Coin",
+    "symbol": "RBNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://governors.testnet.redbelly.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Routescan",
+      "url": "https://redbelly.testnet.routescan.io"
+    }
+  ],
+  "website": "https://redbelly.network",
+  "aliases": [
+    "RBN",
+    "rbn-testnet"
+  ]
+}

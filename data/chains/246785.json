@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ARTIS Testnet tau1",
+  "slug": "artis-testnet-tau1",
+  "chainId": 246785,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ARTIS tau1 Ether",
+    "symbol": "tATS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tau1.artis.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://artis.network",
+  "aliases": [
+    "ARTIS",
+    "atstau"
+  ]
+}

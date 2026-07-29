@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Latest Chain Testnet",
+  "slug": "latest-chain-testnet",
+  "chainId": 6660,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Latest",
+    "symbol": "LATEST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.latestcoin.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://latestcoin.io",
+  "aliases": [
+    "LATEST",
+    "LATESTt"
+  ]
+}

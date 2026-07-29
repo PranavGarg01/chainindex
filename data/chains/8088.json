@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Helix Chain",
+  "slug": "helix-chain",
+  "chainId": 8088,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Helix",
+    "symbol": "HLX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.thehelixchain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Helix Chain Explorer",
+      "url": "https://explorer.thehelixchain.xyz"
+    }
+  ],
+  "website": "https://thehelixchain.xyz",
+  "aliases": [
+    "HLX",
+    "hlx"
+  ]
+}

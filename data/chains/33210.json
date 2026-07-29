@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Cloudverse Subnet",
+  "slug": "cloudverse-subnet",
+  "chainId": 33210,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XCLOUD",
+    "symbol": "XCLOUD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/cloudverse/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CLOUDVERSE Explorer",
+      "url": "https://subnets.avax.network/cloudverse"
+    }
+  ],
+  "website": "https://muadao.build/",
+  "aliases": [
+    "CLOUDVERSE",
+    "cloudverse"
+  ]
+}

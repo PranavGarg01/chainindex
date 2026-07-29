@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CMP-Testnet",
+  "slug": "cmp-testnet",
+  "chainId": 512512,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Caduceus Testnet Token",
+    "symbol": "CMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://galaxy.block.caduceus.foundation",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Galaxy Scan",
+      "url": "https://galaxy.scan.caduceus.foundation"
+    }
+  ],
+  "website": "https://caduceus.foundation/",
+  "aliases": [
+    "CMP",
+    "cmp"
+  ]
+}

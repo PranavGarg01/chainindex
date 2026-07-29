@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Pentagon Chain",
+  "slug": "pentagon-chain",
+  "chainId": 3344,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pentagon Chain",
+    "symbol": "PC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pentagon.games",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pentagon Chain Explorer",
+      "url": "https://explorer.pentagon.games"
+    }
+  ],
+  "website": "https://pentagon.games",
+  "aliases": [
+    "PentagonChain"
+  ]
+}

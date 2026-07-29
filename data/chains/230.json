@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SwapDEX",
+  "slug": "swapdex",
+  "chainId": 230,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SwapDEX",
+    "symbol": "SDX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.swapdex.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SwapDEX",
+      "url": "https://evm.swapdex.network"
+    }
+  ],
+  "website": "https://swapdex.network/",
+  "aliases": [
+    "SDX"
+  ]
+}

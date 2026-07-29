@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PepeNetwork",
+  "slug": "pepenetwork",
+  "chainId": 9779,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pepe",
+    "symbol": "WPEPE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.pepenetwork.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pepe Explorer",
+      "url": "https://explorer.pepenetwork.io"
+    }
+  ],
+  "website": "https://pepenetwork.io",
+  "aliases": [
+    "pn"
+  ]
+}

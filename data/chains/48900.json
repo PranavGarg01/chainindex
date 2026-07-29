@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Zircuit",
+  "slug": "zircuit",
+  "chainId": 48900,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.zircuit.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://zircuit1-mainnet.liquify.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zircuit.rpc.sentio.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zircuit",
+      "url": "https://explorer.zircuit.com"
+    }
+  ],
+  "website": "https://www.zircuit.com/",
+  "aliases": [
+    "Zircuit Mainnet",
+    "zircuit-mainnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Liquichain",
+  "slug": "liquichain",
+  "chainId": 1662,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Licoin",
+    "symbol": "LCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.liquichain.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Liquichain Mainnet",
+      "url": "https://mainnet.liquichain.io"
+    }
+  ],
+  "website": "https://liquichain.io/",
+  "aliases": [
+    "LQC"
+  ]
+}

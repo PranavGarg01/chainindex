@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dilithium3 Testnet",
+  "slug": "dilithium3-testnet",
+  "chainId": 30939,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dilithium3",
+    "symbol": "DLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.dilithium3.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dilithium3 Explorer",
+      "url": "https://explorer-testnet.dilithium3.com"
+    }
+  ],
+  "website": "https://dilithium3.com",
+  "aliases": [
+    "DLT",
+    "dlt-testnet"
+  ]
+}

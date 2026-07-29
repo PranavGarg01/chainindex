@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Loot",
+  "slug": "loot",
+  "chainId": 5151706,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Adventure Gold",
+    "symbol": "AGLD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lootchain.com/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lootscan",
+      "url": "https://explorer.lootchain.com/"
+    }
+  ],
+  "website": "https://adventuregold.org/"
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "QELT",
+  "slug": "qelt",
+  "chainId": 770,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QELT",
+    "symbol": "QELT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.qelt.ai",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet2.qelt.ai",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet3.qelt.ai",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet4.qelt.ai",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet5.qelt.ai",
+      "isRecommended": false
+    },
+    {
+      "url": "https://archivem.qelt.ai",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QELTScan",
+      "url": "https://qeltscan.ai"
+    }
+  ],
+  "website": "https://qelt.ai"
+}

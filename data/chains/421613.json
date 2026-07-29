@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "name": "Arbitrum Goerli",
+  "slug": "arbitrum-goerli",
+  "chainId": 421613,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Arbitrum Goerli Ether",
+    "symbol": "AGOR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://arb-goerli.g.alchemy.com/v2/demo",
+      "isRecommended": true
+    },
+    {
+      "url": "https://arbitrum-goerli.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.goerli.arbitrum.gateway.fm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-goerli-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://goerli-rollup.arbitrum.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-goerli.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Arbitrum Goerli Arbiscan",
+      "url": "https://goerli.arbiscan.io"
+    }
+  ],
+  "website": "https://arbitrum.io/",
+  "aliases": [
+    "ETH",
+    "arb-goerli",
+    "Arbitrum Goerli Rollup Testnet"
+  ]
+}

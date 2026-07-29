@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Green Chain Testnet",
+  "slug": "green-chain-testnet",
+  "chainId": 97531,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GREEN",
+    "symbol": "GREEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.greenchain.app/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Green Chain Explorer",
+      "url": "https://explorer.greenchain.app"
+    }
+  ],
+  "website": "https://www.greenchain.app",
+  "aliases": [
+    "Green Chain",
+    "greenchain"
+  ]
+}

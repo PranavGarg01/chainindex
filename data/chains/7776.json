@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PandaSea",
+  "slug": "pandasea",
+  "chainId": 7776,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PANDA",
+    "symbol": "PANDA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet-pandasea-rl.cogitus.io/ext/bc/2gYSmRb7tjS4wb5FHFx8NBhwQgARWEdr8MGVC7v8UWJJFkEpTj/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PandaSea Explorer",
+      "url": "https://explorer.pandasea.io"
+    }
+  ],
+  "website": "https://pandasea.io/",
+  "aliases": [
+    "PandaSea mainnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Soverun",
+  "slug": "soverun",
+  "chainId": 10101010,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Soverun",
+    "symbol": "SVRN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.soverun.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Soverun",
+      "url": "https://explorer.soverun.com"
+    }
+  ],
+  "website": "https://soverun.com",
+  "aliases": [
+    "SVRN",
+    "SVRNm"
+  ]
+}

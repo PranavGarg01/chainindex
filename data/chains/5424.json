@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "edeXa",
+  "slug": "edexa",
+  "chainId": 5424,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "edeXa",
+    "symbol": "EDX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.edexa.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.edexa.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "edexa-mainnet-explorer",
+      "url": "https://explorer.edexa.network"
+    }
+  ],
+  "website": "https://edexa.network/",
+  "aliases": [
+    "edx"
+  ]
+}

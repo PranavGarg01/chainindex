@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Xprotocol Testnet",
+  "slug": "xprotocol-testnet",
+  "chainId": 83144,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KICK Testnet Token",
+    "symbol": "KICK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.xprotocol.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.testnet.xprotocol.org"
+    }
+  ],
+  "website": "https://xprotocol.org/",
+  "aliases": [
+    "xprotocoltestnet"
+  ]
+}

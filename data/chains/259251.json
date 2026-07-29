@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "KUB Layer 2 Testnet",
+  "slug": "kub-layer-2-testnet",
+  "chainId": 259251,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tKUB",
+    "symbol": "tKUB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://kublayer2.testnet.kubchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KUB Layer2 Testnet Explorer",
+      "url": "https://kublayer2.testnet.kubscan.com"
+    }
+  ],
+  "aliases": [
+    "KUB",
+    "kub"
+  ]
+}

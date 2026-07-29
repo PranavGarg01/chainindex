@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Harmony Devnet Shard 1",
+  "slug": "harmony-devnet-shard-1",
+  "chainId": 1666900001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.s1.ps.hmny.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.harmony.one/",
+  "aliases": [
+    "Harmony",
+    "hmy-ps-s1"
+  ]
+}

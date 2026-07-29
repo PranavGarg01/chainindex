@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "6Degree of Outreach - Testnet",
+  "slug": "6degree-of-outreach-testnet",
+  "chainId": 24772477,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "6Degree-Testnet Coin",
+    "symbol": "6DO-T",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.6dochain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "6Degree Testnet Chain Explorer",
+      "url": "https://explorer-testnet.6dochain.com"
+    }
+  ],
+  "website": "https://6do.world",
+  "aliases": [
+    "6DO",
+    "6dotest"
+  ]
+}

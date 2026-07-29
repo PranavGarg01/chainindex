@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Metal C-Chain",
+  "slug": "metal-c-chain",
+  "chainId": 381931,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metal",
+    "symbol": "METAL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.metalblockchain.org/ext/bc/C/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "metalscan",
+      "url": "https://metalscan.io"
+    }
+  ],
+  "website": "https://www.metalblockchain.org/",
+  "aliases": [
+    "Metal",
+    "metal"
+  ]
+}

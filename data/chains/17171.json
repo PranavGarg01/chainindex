@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "G8Chain",
+  "slug": "g8chain",
+  "chainId": 17171,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "G8Chain",
+    "symbol": "G8C",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.oneg8.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "G8Chain",
+      "url": "https://mainnet.oneg8.network"
+    }
+  ],
+  "website": "https://oneg8.one",
+  "aliases": [
+    "G8C",
+    "G8Cm"
+  ]
+}

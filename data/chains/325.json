@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "GRVT Exchange",
+  "slug": "grvt-exchange",
+  "chainId": 325,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.grvt.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://grvt.io/",
+  "aliases": [
+    "ETH",
+    "grvt"
+  ]
+}

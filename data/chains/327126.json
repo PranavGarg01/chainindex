@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "WABA Chain",
+  "slug": "waba-chain",
+  "chainId": 327126,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WABA",
+    "symbol": "WABA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.wabaworld.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.wabaworld.com"
+    }
+  ],
+  "website": "https://www.wabanetwork.org",
+  "aliases": [
+    "WABA Mainnet",
+    "waba"
+  ]
+}

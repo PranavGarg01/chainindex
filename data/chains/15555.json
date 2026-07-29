@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Trust EVM Testnet",
+  "slug": "trust-evm-testnet",
+  "chainId": 15555,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Trust EVM",
+    "symbol": "EVM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.testnet-dev.trust.one",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Trust EVM Explorer",
+      "url": "https://trustscan.one"
+    }
+  ],
+  "website": "https://www.trust.one/",
+  "aliases": [
+    "TrustTestnet"
+  ]
+}

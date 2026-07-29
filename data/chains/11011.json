@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Shape Sepolia Testnet",
+  "slug": "shape-sepolia-testnet",
+  "chainId": 11011,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.shape.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-sepolia.shape.network"
+    }
+  ],
+  "website": "https://shape.network",
+  "aliases": [
+    "ETH",
+    "shapesep"
+  ]
+}

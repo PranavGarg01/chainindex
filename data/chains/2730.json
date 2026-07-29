@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "XR Sepolia",
+  "slug": "xr-sepolia",
+  "chainId": 2730,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tXR",
+    "symbol": "tXR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xr-sepolia-testnet.rpc.caldera.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XR Sepolia Explorer",
+      "url": "https://xr-sepolia-testnet.explorer.caldera.xyz"
+    }
+  ],
+  "website": "https://xr-one.gitbook.io",
+  "aliases": [
+    "ETH",
+    "txr"
+  ]
+}

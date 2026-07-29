@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Waterfall Network",
+  "slug": "waterfall-network",
+  "chainId": 181,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WATER",
+    "symbol": "WATER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.waterfall.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://waterfall.network",
+  "aliases": [
+    "water"
+  ]
+}

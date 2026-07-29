@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "FNCY Testnet",
+  "slug": "fncy-testnet",
+  "chainId": 923018,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FNCY",
+    "symbol": "FNCY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fncy-testnet-seed.fncy.world",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "fncy scan testnet",
+      "url": "https://fncyscan-testnet.fncy.world"
+    }
+  ],
+  "website": "https://fncyscan-testnet.fncy.world",
+  "aliases": [
+    "FNCY",
+    "tFNCY"
+  ]
+}

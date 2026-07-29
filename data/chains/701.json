@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Darwinia Koi Testnet",
+  "slug": "darwinia-koi-testnet",
+  "chainId": 701,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Koi Network Native Token",
+    "symbol": "KRING",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://koi-rpc.darwinia.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://koi-scan.darwinia.network"
+    }
+  ],
+  "website": "https://darwinia.network/",
+  "aliases": [
+    "Darwinia Koi",
+    "darwinia-koi"
+  ]
+}

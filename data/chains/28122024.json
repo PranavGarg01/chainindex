@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ancient8 Testnet",
+  "slug": "ancient8-testnet",
+  "chainId": 28122024,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpcv2-testnet.ancient8.gg",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "scan-testnet",
+      "url": "https://scanv2-testnet.ancient8.gg"
+    }
+  ],
+  "website": "https://ancient8.gg/",
+  "aliases": [
+    "Ancient8",
+    "a8"
+  ]
+}

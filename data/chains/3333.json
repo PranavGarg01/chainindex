@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "EthStorage Testnet",
+  "slug": "ethstorage-testnet",
+  "chainId": 3333,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.ethstorage.io:9546",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ethstorage.io/",
+  "aliases": [
+    "EthStorage",
+    "es-t"
+  ]
+}

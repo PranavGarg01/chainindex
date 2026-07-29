@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Moca Chain Testnet",
+  "slug": "moca-chain-testnet",
+  "chainId": 222888,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MOCA",
+    "symbol": "MOCA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://moca-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-rpc.mocachain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Moca Chain Scan",
+      "url": "https://testnet-scan.mocachain.org"
+    }
+  ],
+  "website": "https://mocachain.org",
+  "aliases": [
+    "Moca Chain",
+    "mocat"
+  ]
+}

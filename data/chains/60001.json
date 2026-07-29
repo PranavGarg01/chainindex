@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Thinkium Testnet Chain 1",
+  "slug": "thinkium-testnet-chain-1",
+  "chainId": 60001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TKM",
+    "symbol": "TKM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test1.thinkiumrpc.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "thinkiumscan",
+      "url": "https://test1.thinkiumscan.net"
+    }
+  ],
+  "website": "https://thinkium.net/",
+  "aliases": [
+    "Thinkium",
+    "TKM-test1"
+  ]
+}

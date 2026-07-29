@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dexalot Subnet",
+  "slug": "dexalot-subnet",
+  "chainId": 432204,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dexalot",
+    "symbol": "ALOT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/dexalot/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Avalanche Subnet Explorer",
+      "url": "https://subnets.avax.network/dexalot"
+    }
+  ],
+  "website": "https://dexalot.com",
+  "aliases": [
+    "DEXALOT",
+    "dexalot"
+  ]
+}

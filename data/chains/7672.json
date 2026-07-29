@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "The Root Network - Porcini Testnet",
+  "slug": "the-root-network-porcini-testnet",
+  "chainId": 7672,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 6
+  },
+  "rpc": [
+    {
+      "url": "https://porcini.rootnet.app/archive",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "rootnet",
+      "url": "https://explorer.rootnet.cloud"
+    }
+  ],
+  "website": "https://www.futureverse.com/technology/root",
+  "aliases": [
+    "TRN",
+    "trn-porcini"
+  ]
+}

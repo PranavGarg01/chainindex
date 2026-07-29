@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo USD1-Chain",
+  "slug": "juneo-usd1-chain",
+  "chainId": 45006,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USD1",
+    "symbol": "USD1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/USD1/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/4"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "USD1"
+  ]
+}

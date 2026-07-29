@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "X1 Fastnet",
+  "slug": "x1-fastnet",
+  "chainId": 4003,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://x1-fastnet.xen.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.x1-fastnet.xen.network"
+    }
+  ],
+  "website": "https://docs.xen.network/go-x1/",
+  "aliases": [
+    "X1",
+    "x1-fastnet"
+  ]
+}

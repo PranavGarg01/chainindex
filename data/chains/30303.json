@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethiq",
+  "slug": "ethiq",
+  "chainId": 30303,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ethiq.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ethiq Blockscout",
+      "url": "https://explorer.ethiq.network"
+    }
+  ],
+  "website": "https://www.ethiq.network",
+  "aliases": [
+    "ETH"
+  ]
+}

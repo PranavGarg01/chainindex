@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mandala Chain",
+  "slug": "mandala-chain",
+  "chainId": 20010,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kepeng",
+    "symbol": "KPG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-mainnet.mandalachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.mandalachain.io"
+    }
+  ],
+  "website": "https://mandalachain.io",
+  "aliases": [
+    "MANDALA",
+    "mandala"
+  ]
+}

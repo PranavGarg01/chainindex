@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Galactica Testnet",
+  "slug": "galactica-testnet",
+  "chainId": 843843,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gnet",
+    "symbol": "GNET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://galactica-cassiopeia.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://galactica-cassiopeia.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://galactica.com",
+  "aliases": [
+    "GNET",
+    "galactica-testnet"
+  ]
+}

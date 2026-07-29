@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CarrChain Testnet",
+  "slug": "carrchain-testnet",
+  "chainId": 76672,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CARR",
+    "symbol": "CARR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.carrchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CarrScan",
+      "url": "https://testnet.carrscan.io"
+    }
+  ],
+  "website": "https://carrchain.io",
+  "aliases": [
+    "CARR",
+    "carrchain"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Hokum",
+  "slug": "hokum",
+  "chainId": 8080808,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.hokum.gg",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hokum Explorer",
+      "url": "https://explorer.hokum.gg"
+    }
+  ],
+  "website": "https://hokum.gg"
+}

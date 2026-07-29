@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Zhejiang",
+  "slug": "zhejiang",
+  "chainId": 1337803,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zhejiang.ethpandaops.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zhejiang Explorer",
+      "url": "https://zhejiang.beaconcha.in"
+    }
+  ],
+  "website": "https://zhejiang.ethpandaops.io",
+  "aliases": [
+    "ETH"
+  ]
+}

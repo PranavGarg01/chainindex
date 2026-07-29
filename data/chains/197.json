@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Neutrinos TestNet",
+  "slug": "neutrinos-testnet",
+  "chainId": 197,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Neutrinos",
+    "symbol": "NEUTR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.neutrinoschain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.neutrinoschain.com"
+    }
+  ],
+  "website": "https://docs.neutrinoschain.com",
+  "aliases": [
+    "NEUTR"
+  ]
+}

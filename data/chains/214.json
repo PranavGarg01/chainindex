@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Shinarium",
+  "slug": "shinarium",
+  "chainId": 214,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shina Inu",
+    "symbol": "SHI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.shinarium.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "shinascan",
+      "url": "https://shinascan.shinarium.org"
+    }
+  ],
+  "website": "https://shinarium.org"
+}

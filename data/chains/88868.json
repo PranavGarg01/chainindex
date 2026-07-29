@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "QTSCHAIN",
+  "slug": "qtschain",
+  "chainId": 88868,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QTS",
+    "symbol": "QTS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-1.qts-chain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-2.qts-chain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-3.qts-chain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QTS Explorer",
+      "url": "https://explorer.qts-chain.com"
+    }
+  ],
+  "website": "https://qts-chain.com",
+  "aliases": [
+    "QTS"
+  ]
+}

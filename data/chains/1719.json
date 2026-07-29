@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Obsidian",
+  "slug": "obsidian",
+  "chainId": 1719,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Obsidian",
+    "symbol": "OBS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://kr-4.pixelzx.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://pistonx.neocities.org/",
+  "aliases": [
+    "OBS"
+  ]
+}

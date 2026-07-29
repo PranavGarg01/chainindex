@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo BCH1-Chain",
+  "slug": "juneo-bch1-chain",
+  "chainId": 45013,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BCH1",
+    "symbol": "BCH1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/BCH1/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/12"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "BCH1"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Selendra Network Testnet",
+  "slug": "selendra-network-testnet",
+  "chainId": 1953,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Selendra",
+    "symbol": "tSEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.selendra.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Selendra Portal",
+      "url": "https://explorer.selendra.org"
+    }
+  ],
+  "website": "https://selendra.org",
+  "aliases": [
+    "tSEL"
+  ]
+}

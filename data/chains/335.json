@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DFK Chain Test",
+  "slug": "dfk-chain-test",
+  "chainId": 335,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Jewel",
+    "symbol": "JEWEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/defi-kingdoms/dfk-chain-testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ethernal",
+      "url": "https://explorer-test.dfkchain.com"
+    }
+  ],
+  "website": "https://defikingdoms.com",
+  "aliases": [
+    "DFK",
+    "DFKTEST"
+  ]
+}

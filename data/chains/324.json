@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 2,
+  "name": "zkSync",
+  "slug": "zksync",
+  "chainId": 324,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.era.zksync.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://li-fi-redirect.intustechno.workers.dev/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://go.getblock.io/f76c09905def4618a34946bf71851542",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync.meowrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/zksync2-era",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/zksync-era/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/zksync-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/zksync_era",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync-era.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-zksync-era-mainnet-full.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync-era.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zkSync Era Block Explorer",
+      "url": "https://explorer.zksync.io"
+    }
+  ],
+  "website": "https://zksync.io/",
+  "aliases": [
+    "ETH"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Phoenix",
+  "slug": "phoenix",
+  "chainId": 13381,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Phoenix",
+    "symbol": "PHX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.phoenixplorer.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "phoenixplorer",
+      "url": "https://phoenixplorer.com"
+    }
+  ],
+  "website": "https://cryptophoenix.org/phoenix"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Flashnet Testnet",
+  "slug": "flashnet-testnet",
+  "chainId": 21022,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.makebitcoingreatagain.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://flashnet.xyz",
+  "aliases": [
+    "Flashnet",
+    "flashnet-testnet"
+  ]
+}

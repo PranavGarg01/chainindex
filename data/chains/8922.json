@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Algen Layer2 Testnet",
+  "slug": "algen-layer2-testnet",
+  "chainId": 8922,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ALG",
+    "symbol": "ALG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.alg2-test.algen.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "algl2scan",
+      "url": "https://scan.alg2-test.algen.network"
+    }
+  ],
+  "website": "https://www.algen.network",
+  "aliases": [
+    "ALG L2",
+    "algl2Test"
+  ]
+}

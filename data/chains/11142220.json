@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Celo Sepolia Testnet",
+  "slug": "celo-sepolia-testnet",
+  "chainId": 11142220,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CELO-S",
+    "symbol": "CELO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://forno.celo-sepolia.celo-testnet.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/celo_sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://celo-sepolia.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://celo-sepolia.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://sepolia.celoscan.io/",
+  "aliases": [
+    "CELO",
+    "celo-sep"
+  ]
+}

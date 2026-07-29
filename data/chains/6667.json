@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Storchain",
+  "slug": "storchain",
+  "chainId": 6667,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Storchain",
+    "symbol": "STR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.storchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "storscan",
+      "url": "https://scan.storchain.io"
+    }
+  ],
+  "website": "https://storchain.io",
+  "aliases": [
+    "STR",
+    "str"
+  ]
+}

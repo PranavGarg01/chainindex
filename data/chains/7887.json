@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Kinto",
+  "slug": "kinto",
+  "chainId": 7887,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/kinto",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.kinto.xyz/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kinto-mainnet.calderachain.xyz/http",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kinto Explorer",
+      "url": "https://explorer.kinto.xyz"
+    }
+  ],
+  "website": "https://kinto.xyz",
+  "aliases": [
+    "Kinto Mainnet",
+    "kintoMainnet"
+  ]
+}

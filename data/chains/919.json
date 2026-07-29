@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Mode Testnet",
+  "slug": "mode-testnet",
+  "chainId": 919,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mode-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://sepolia.mode.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "modescout",
+      "url": "https://sepolia.explorer.mode.network"
+    },
+    {
+      "name": "Routesan",
+      "url": "https://testnet.modescan.io"
+    }
+  ],
+  "website": "https://docs.mode.network/",
+  "aliases": [
+    "ETH",
+    "modesep"
+  ]
+}

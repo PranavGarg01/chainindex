@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Orderly",
+  "slug": "orderly",
+  "chainId": 291,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://orderly.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.orderly.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "orderlyscout",
+      "url": "https://explorer.orderly.network"
+    }
+  ],
+  "website": "https://orderly.network/",
+  "aliases": [
+    "ETH"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Velas EVM",
+  "slug": "velas-evm",
+  "chainId": 106,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Velas",
+    "symbol": "VLX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmexplorer.velas.com/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://velas-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
+      "isRecommended": false
+    },
+    {
+      "url": "https://explorer.velas.com/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Velas Explorer",
+      "url": "https://evmexplorer.velas.com"
+    }
+  ],
+  "website": "https://velas.com",
+  "aliases": [
+    "Velas",
+    "vlx"
+  ]
+}

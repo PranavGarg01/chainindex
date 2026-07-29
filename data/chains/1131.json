@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "DeFiChain EVM Network Testnet",
+  "slug": "defichain-evm-network-testnet",
+  "chainId": 1131,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "DeFiChain",
+    "symbol": "DFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dmc.mydefichain.com/testnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dmc01.mydefichain.com/testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth.testnet.ocean.jellyfishsdk.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://meta.defichain.com/",
+  "aliases": [
+    "defichain-evm-testnet",
+    "DFI-T"
+  ]
+}

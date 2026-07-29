@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Oasys",
+  "slug": "oasys",
+  "chainId": 248,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.oasys.games",
+      "isRecommended": true
+    },
+    {
+      "url": "https://oasys.api.pocket.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.oasys.games"
+    }
+  ],
+  "website": "https://oasys.games",
+  "aliases": [
+    "OAS"
+  ]
+}

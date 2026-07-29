@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Dogelayer",
+  "slug": "dogelayer",
+  "chainId": 9888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dl-rpc.dogelayer.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dogelayer mainnet explorer",
+      "url": "https://dl-explorer.dogelayer.org"
+    }
+  ],
+  "website": "https://dogelayer.org"
+}

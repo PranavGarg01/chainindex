@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Hizoco",
+  "slug": "hizoco",
+  "chainId": 80096,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hizoco",
+    "symbol": "HZC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hizoco.net/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://hizoco.net:38443"
+    }
+  ],
+  "aliases": [
+    "HZC",
+    "hzc"
+  ]
+}

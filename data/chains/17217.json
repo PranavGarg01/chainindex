@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "KONET",
+  "slug": "konet",
+  "chainId": 17217,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KONET",
+    "symbol": "KONET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.kon-wallet.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "konet-explorer",
+      "url": "https://konetexplorer.io"
+    }
+  ],
+  "website": "https://konetmain.com"
+}

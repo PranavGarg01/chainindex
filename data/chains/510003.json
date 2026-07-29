@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Syndicate Commons",
+  "slug": "syndicate-commons",
+  "chainId": 510003,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://commons.rpc.syndicate.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Commons Explorer",
+      "url": "https://explorer.commons.syndicate.io"
+    }
+  ],
+  "website": "https://syndicate.io",
+  "aliases": [
+    "Commons",
+    "commons"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Syndr L3",
+  "slug": "syndr-l3",
+  "chainId": 404,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.syndr.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Syndr L3 Explorer",
+      "url": "https://explorer.syndr.com"
+    }
+  ],
+  "website": "https://syndr.com",
+  "aliases": [
+    "SYNDR",
+    "syndr-l3",
+    "Syndr L3 Rollup"
+  ]
+}

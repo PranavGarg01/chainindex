@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DotOne Smart Chain",
+  "slug": "dotone-smart-chain",
+  "chainId": 505,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Doto",
+    "symbol": "DOTO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dotone.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dotoscan",
+      "url": "https://explorer.dotone.network"
+    }
+  ],
+  "website": "https://dotone.network",
+  "aliases": [
+    "DOTO",
+    "doto"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Metis Sepolia Testnet",
+  "slug": "metis-sepolia-testnet",
+  "chainId": 59902,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tMetis",
+    "symbol": "tMETIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://metis-sepolia-rpc.publicnode.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://metis-sepolia.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sepolia.metisdevops.link",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sepolia-explorer.metisdevops.link"
+    }
+  ],
+  "website": "https://www.metis.io",
+  "aliases": [
+    "ETH",
+    "metis-sepolia"
+  ]
+}

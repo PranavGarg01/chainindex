@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Selendra Network",
+  "slug": "selendra-network",
+  "chainId": 1961,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Selendra",
+    "symbol": "SEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.selendra.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.selendra.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Selendra Portal",
+      "url": "https://explorer.selendra.org"
+    }
+  ],
+  "website": "https://selendra.org",
+  "aliases": [
+    "SEL"
+  ]
+}

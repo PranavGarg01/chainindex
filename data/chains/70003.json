@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pyra Chain",
+  "slug": "pyra-chain",
+  "chainId": 70003,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PYRA",
+    "symbol": "PYRA",
+    "decimals": 9
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pyrachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pyra Chain Explorer",
+      "url": "https://explorer.pyrachain.io"
+    }
+  ],
+  "website": "https://pyrachain.io",
+  "aliases": [
+    "PYRA",
+    "pyra"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Gitshock Cartenz Testnet",
+  "slug": "gitshock-cartenz-testnet",
+  "chainId": 1881,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gitshock Cartenz",
+    "symbol": "tGTFX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cartenz.works",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.cartenz.works"
+    }
+  ],
+  "website": "https://gitshock.com",
+  "aliases": [
+    "Gitshock Cartenz",
+    "gitshockchain"
+  ]
+}

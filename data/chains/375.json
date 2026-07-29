@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "zkXPLA",
+  "slug": "zkxpla",
+  "chainId": 375,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zkxpla.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zkXPLA Mainnet Explorer",
+      "url": "https://explorer.zkxpla.io"
+    }
+  ],
+  "website": "https://xpla.io"
+}

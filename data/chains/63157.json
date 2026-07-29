@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Geist",
+  "slug": "geist",
+  "chainId": 63157,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://geist-mainnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Geist Explorer",
+      "url": "https://geist-mainnet.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://playongeist.com"
+}

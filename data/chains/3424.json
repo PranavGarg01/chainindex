@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EVOLVE",
+  "slug": "evolve",
+  "chainId": 3424,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Evolve",
+    "symbol": "EVO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.evoexplorer.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evolve Mainnet Explorer",
+      "url": "https://evoexplorer.com"
+    }
+  ],
+  "website": "https://evolveblockchain.io",
+  "aliases": [
+    "EVO",
+    "EVOm"
+  ]
+}

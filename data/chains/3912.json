@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DRAC Network",
+  "slug": "drac-network",
+  "chainId": 3912,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DRAC",
+    "symbol": "DRAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://www.dracscan.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DRAC_Network Scan",
+      "url": "https://www.dracscan.io"
+    }
+  ],
+  "website": "https://drac.io/",
+  "aliases": [
+    "DRAC",
+    "drac"
+  ]
+}

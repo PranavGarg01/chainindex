@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Ozean Poseidon Testnet",
+  "slug": "ozean-poseidon-testnet",
+  "chainId": 7849306,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDX",
+    "symbol": "USDX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ozean-poseidon-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://ozean-testnet.rpc.caldera.xyz/http",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ozean Testnet Explorer",
+      "url": "https://ozean-testnet.explorer.caldera.xyz"
+    }
+  ],
+  "website": "https://docs.ozean.finance",
+  "aliases": [
+    "Ozean Poseidon",
+    "ozean-poseidon"
+  ]
+}

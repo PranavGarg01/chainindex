@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Humanode Testnet 5 Israfel",
+  "slug": "humanode-testnet-5-israfel",
+  "chainId": 14853,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "eHMND",
+    "symbol": "eHMND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://explorer-rpc-http.testnet5.stages.humanode.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://humanode.io",
+  "aliases": [
+    "Humanode Testnet 5",
+    "hmnd-t5"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ThaiChain 2.0 ThaiFi",
+  "slug": "thaichain-2-0-thaifi",
+  "chainId": 17,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Thaifi Ether",
+    "symbol": "TFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.thaifi.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://exp.thaifi.com",
+  "aliases": [
+    "TCH",
+    "tfi"
+  ]
+}

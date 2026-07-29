@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "eLiberty",
+  "slug": "eliberty",
+  "chainId": 990,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "eLiberty",
+    "symbol": "$EL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.eliberty.ngo",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "eLiberty Mainnet",
+      "url": "https://explorer.eliberty.ngo"
+    }
+  ],
+  "website": "https://eliberty.ngo",
+  "aliases": [
+    "$EL",
+    "ELm"
+  ]
+}

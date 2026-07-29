@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "LACHAIN",
+  "slug": "lachain",
+  "chainId": 225,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LA",
+    "symbol": "LA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.lachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.lachain.io"
+    }
+  ],
+  "website": "https://lachain.io",
+  "aliases": [
+    "LA"
+  ]
+}

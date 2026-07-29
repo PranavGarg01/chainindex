@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Fidesinnova",
+  "slug": "fidesinnova",
+  "chainId": 706883,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Fidesinnova",
+    "symbol": "FDS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.fidesinnova.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Fidesinnova Blockchain Explorer",
+      "url": "https://explorer.fidesinnova.io"
+    }
+  ],
+  "website": "https://fidesinnova.gitbook.io/docs"
+}

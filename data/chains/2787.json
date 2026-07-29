@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Creator Chain",
+  "slug": "creator-chain",
+  "chainId": 2787,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.oncreator.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Creator Chain Mainnet Explorer",
+      "url": "https://explorer.mainnet.oncreator.com"
+    }
+  ],
+  "website": "https://www.oncreator.com",
+  "aliases": [
+    "creator-chain-mainnet"
+  ]
+}

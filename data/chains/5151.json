@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Moca Chain Devnet",
+  "slug": "moca-chain-devnet",
+  "chainId": 5151,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MOCA",
+    "symbol": "MOCA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet-rpc.mocachain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Moca Chain Scan",
+      "url": "https://devnet-scan.mocachain.org"
+    }
+  ],
+  "website": "https://mocachain.org",
+  "aliases": [
+    "Moca Chain",
+    "mocat"
+  ]
+}

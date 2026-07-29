@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "claw world box",
+  "slug": "claw-world-box",
+  "chainId": 2721,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DA",
+    "symbol": "DA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.clawworldbox.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Claw World Box Explorer",
+      "url": "https://explorer.clawworldbox.com/"
+    }
+  ],
+  "website": "https://www.clawworldbox.com",
+  "aliases": [
+    "AGW",
+    "claw-world-box"
+  ]
+}

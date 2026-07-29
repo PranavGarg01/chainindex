@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ultra EVM Network Testnet",
+  "slug": "ultra-evm-network-testnet",
+  "chainId": 18881,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ultra Token",
+    "symbol": "UOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.test.ultra.eosusa.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ultra EVM Testnet Explorer",
+      "url": "https://evmexplorer.testnet.ultra.io"
+    }
+  ],
+  "website": "https://ultra.io/",
+  "aliases": [
+    "Ultra",
+    "ultra-testnet"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Forma",
+  "slug": "forma",
+  "chainId": 984122,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.forma.art",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.forma.art"
+    }
+  ],
+  "website": "https://forma.art"
+}

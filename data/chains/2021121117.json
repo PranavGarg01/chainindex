@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "DataHopper",
+  "slug": "datahopper",
+  "chainId": 2021121117,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DataHoppers",
+    "symbol": "HOP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://23.92.21.121:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.DataHopper.com",
+  "aliases": [
+    "HOP",
+    "hop"
+  ]
+}

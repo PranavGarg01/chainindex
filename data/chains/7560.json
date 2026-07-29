@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Cyber",
+  "slug": "cyber",
+  "chainId": 7560,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cyber.alt.technology",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.cyber.co",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cyber Mainnet Explorer",
+      "url": "https://cyberscan.co"
+    }
+  ],
+  "website": "https://cyber.co/",
+  "aliases": [
+    "cyeth"
+  ]
+}

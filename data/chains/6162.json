@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Blockmaze Testnet V2",
+  "slug": "blockmaze-testnet-v2",
+  "chainId": 6162,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BMZ",
+    "symbol": "BMZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://v2-evm-rpc.testnet.stackflow.site",
+      "isRecommended": true
+    },
+    {
+      "url": "https://v2-evm-rpc-arc.testnet.stackflow.site",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockmaze testnet explorer",
+      "url": "https://explorer.testnet.stackflow.site"
+    }
+  ],
+  "website": "https://blockmaze.com",
+  "aliases": [
+    "BLOCKMAZE",
+    "bmz"
+  ]
+}

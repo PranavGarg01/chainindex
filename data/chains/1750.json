@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Metal L2",
+  "slug": "metal-l2",
+  "chainId": 1750,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.metall2.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://metall2.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.metall2.com"
+    }
+  ],
+  "website": "https://metall2.com",
+  "aliases": [
+    "metall2"
+  ]
+}

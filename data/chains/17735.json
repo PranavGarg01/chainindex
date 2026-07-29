@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Esports Chain",
+  "slug": "esports-chain",
+  "chainId": 17735,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Esport Token",
+    "symbol": "ESPT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://esportsblock.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "esportsblock_explorer",
+      "url": "https://esportsblock.org/explorer"
+    }
+  ],
+  "website": "https://esportsblock.org",
+  "aliases": [
+    "ESPT",
+    "Esports"
+  ]
+}

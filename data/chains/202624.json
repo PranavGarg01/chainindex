@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Jellie",
+  "slug": "jellie",
+  "chainId": 202624,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Twala Coin",
+    "symbol": "TWL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jellie-rpc.twala.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Jellie Blockchain Explorer",
+      "url": "https://jellie.twala.io"
+    }
+  ],
+  "website": "https://twala.io/",
+  "aliases": [
+    "ETH",
+    "twl-jellie",
+    "Twala Testnet Jellie"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Primox Chain",
+  "slug": "primox-chain",
+  "chainId": 970803,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Primox Token",
+    "symbol": "PXT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.primox.online",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Primox Scan",
+      "url": "https://scan.primox.online/"
+    }
+  ],
+  "website": "https://chain.primox.online",
+  "aliases": [
+    "PXC",
+    "primox"
+  ]
+}

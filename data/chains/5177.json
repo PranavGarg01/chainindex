@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TLChain Network",
+  "slug": "tlchain-network",
+  "chainId": 5177,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TLChain Network",
+    "symbol": "TLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.tlxscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TLChain Explorer",
+      "url": "https://explorer.tlchain.network"
+    }
+  ],
+  "website": "https://tlchain.network/",
+  "aliases": [
+    "TLC",
+    "tlc"
+  ]
+}

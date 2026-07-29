@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "name": "Metis Andromeda",
+  "slug": "metis-andromeda",
+  "chainId": 1088,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metis",
+    "symbol": "METIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://andromeda.metis.io/?owner=1088",
+      "isRecommended": true
+    },
+    {
+      "url": "https://metis-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://metis.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://metis-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://metis.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://metis-andromeda.rpc.thirdweb.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://metis-andromeda.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.blockeden.xyz/metis/67nCBdZQSH9z3YqDDjdm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://metis.rpc.hypersync.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/metis",
+      "isRecommended": false
+    },
+    {
+      "url": "https://metis-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://andromeda-explorer.metis.io"
+    }
+  ],
+  "website": "https://www.metis.io",
+  "aliases": [
+    "ETH",
+    "metis-andromeda"
+  ]
+}

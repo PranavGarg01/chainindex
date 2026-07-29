@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Antofy Testnet",
+  "slug": "antofy-testnet",
+  "chainId": 23006,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Antofy",
+    "symbol": "ABN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.antofy.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Antofy Testnet",
+      "url": "https://test.antofyscan.com"
+    }
+  ],
+  "website": "https://antofy.io",
+  "aliases": [
+    "ABN",
+    "ABNt"
+  ]
+}

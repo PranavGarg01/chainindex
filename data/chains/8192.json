@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Torus",
+  "slug": "torus",
+  "chainId": 8192,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TQF",
+    "symbol": "TQF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.toruschain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://toruscan.com"
+    }
+  ],
+  "website": "https://docs.toruschain.com",
+  "aliases": [
+    "TQF",
+    "tqf"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "name": "Adiri",
+  "slug": "adiri",
+  "chainId": 2017,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.telcoin.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://adiri.tel",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node1.telcoin.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node2.telcoin.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3.telcoin.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node4.telcoin.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "telscan",
+      "url": "https://telscan.io"
+    }
+  ],
+  "website": "https://telcoin.network",
+  "aliases": [
+    "TEL",
+    "tel",
+    "Telcoin Network Testnet"
+  ]
+}

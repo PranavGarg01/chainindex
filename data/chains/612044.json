@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CROSS Testnet",
+  "slug": "cross-testnet",
+  "chainId": 612044,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TestnetCROSS",
+    "symbol": "tCROSS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.crosstoken.io:22001",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CROSS Testnet Explorer",
+      "url": "https://testnet.crossscan.io"
+    }
+  ],
+  "website": "https://to.nexus",
+  "aliases": [
+    "TCROSS",
+    "tcross"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Firechain zkEVM Ghostrider",
+  "slug": "firechain-zkevm-ghostrider",
+  "chainId": 3885,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-zkevm-ghostrider.thefirechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-zkevm-ghostrider.firestation.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FireScan",
+      "url": "https://ghostrider-zkevm.firescan.io"
+    }
+  ],
+  "website": "https://docs.thefirechain.com/",
+  "aliases": [
+    "Firechain",
+    "firechain-zkEVM-testnet",
+    "Firechain zkEVM Testnet"
+  ]
+}

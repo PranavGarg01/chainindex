@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Moonsama Network",
+  "slug": "moonsama-network",
+  "chainId": 2199,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sama Token",
+    "symbol": "SAMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.moonsama.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.moonsama.com"
+    }
+  ],
+  "website": "https://moonsama.com",
+  "aliases": [
+    "MSN",
+    "msn"
+  ]
+}

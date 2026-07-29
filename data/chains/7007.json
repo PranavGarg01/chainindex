@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BST Chain",
+  "slug": "bst-chain",
+  "chainId": 7007,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BST Chain",
+    "symbol": "BSTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bstchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://bstscan.com"
+    }
+  ],
+  "website": "https://bstchain.io",
+  "aliases": [
+    "BSTC"
+  ]
+}

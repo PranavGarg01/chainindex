@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MintraxChain",
+  "slug": "mintraxchain",
+  "chainId": 478549,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mintrax",
+    "symbol": "MTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mintrax.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mintrax Explorer",
+      "url": "https://explorer.mintrax.network"
+    }
+  ],
+  "website": "https://mintrax.network",
+  "aliases": [
+    "MTX",
+    "mtx"
+  ]
+}

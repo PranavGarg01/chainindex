@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Avenium Testnet",
+  "slug": "avenium-testnet",
+  "chainId": 8886,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Ave Native Token",
+    "symbol": "tAVE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eu-testnet.avenium.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://connect-testnet.avenium.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Avenium Explorer Testnet",
+      "url": "https://testnet.avescan.net"
+    }
+  ],
+  "website": "https://avenium.io",
+  "aliases": [
+    "AVE",
+    "tave"
+  ]
+}

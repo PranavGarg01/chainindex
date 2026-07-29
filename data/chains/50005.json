@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Yooldo Verse",
+  "slug": "yooldo-verse",
+  "chainId": 50005,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.yooldo-verse.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Yooldo Verse Explorer",
+      "url": "https://explorer.yooldo-verse.xyz"
+    }
+  ],
+  "website": "https://yooldo.gg/",
+  "aliases": [
+    "YVM"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Metal L2 Testnet",
+  "slug": "metal-l2-testnet",
+  "chainId": 1740,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.metall2.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://metall2-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.explorer.metall2.com"
+    }
+  ],
+  "website": "https://metall2.com",
+  "aliases": [
+    "metall2-testnet"
+  ]
+}

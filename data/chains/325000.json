@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Camp Network Testnet V2",
+  "slug": "camp-network-testnet-v2",
+  "chainId": 325000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-campnetwork.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://camp-network-testnet.blockscout.com"
+    }
+  ],
+  "website": "https://docs.campnetwork.xyz/",
+  "aliases": [
+    "ETH",
+    "CampV2"
+  ]
+}

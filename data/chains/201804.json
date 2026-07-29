@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mythical Chain",
+  "slug": "mythical-chain",
+  "chainId": 201804,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain-rpc.mythicalgames.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mythical Chain Explorer",
+      "url": "https://explorer.mythicalgames.com"
+    }
+  ],
+  "website": "https://mythicalgames.com/",
+  "aliases": [
+    "MYTH",
+    "myth"
+  ]
+}

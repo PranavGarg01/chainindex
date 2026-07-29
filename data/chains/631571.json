@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Polter Testnet",
+  "slug": "polter-testnet",
+  "chainId": 631571,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Polter GHST",
+    "symbol": "GHST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://geist-polter.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Polter Testnet Explorer",
+      "url": "https://polter-testnet.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://playongeist.com",
+  "aliases": [
+    "Geist",
+    "poltergeist"
+  ]
+}

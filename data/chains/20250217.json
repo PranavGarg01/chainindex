@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Xphere",
+  "slug": "xphere",
+  "chainId": 20250217,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Xphere",
+    "symbol": "XP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/xphere_mainnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://en-bkk.x-phere.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tamsa",
+      "url": "https://xp.tamsa.io"
+    }
+  ],
+  "website": "https://x-phere.com/",
+  "aliases": [
+    "xp"
+  ]
+}

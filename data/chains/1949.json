@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bionix Testnet",
+  "slug": "bionix-testnet",
+  "chainId": 1949,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bionix",
+    "symbol": "tBIO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-chain.bionixnetwork.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bionix Testnet Explorer",
+      "url": "https://testnet.bionixnetwork.com"
+    }
+  ],
+  "website": "https://bionixnetwork.com",
+  "aliases": [
+    "Bionix",
+    "tbio"
+  ]
+}

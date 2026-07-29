@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Genesys",
+  "slug": "genesys",
+  "chainId": 16507,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Genesys",
+    "symbol": "GSYS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.genesys.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GchainExplorer",
+      "url": "https://gchainexplorer.genesys.network"
+    }
+  ],
+  "website": "https://www.genesys.network/"
+}

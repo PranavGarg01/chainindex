@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "GM Network Testnet",
+  "slug": "gm-network-testnet",
+  "chainId": 202402181627,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gmnetwork-testnet.alt.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "gmnetwork-testnet",
+      "url": "https://gmnetwork-testnet-explorer.alt.technology"
+    }
+  ],
+  "website": "https://gmnetwork.ai",
+  "aliases": [
+    "gmnetwork-testnet"
+  ]
+}

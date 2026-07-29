@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SKALE Calypso Hub",
+  "slug": "skale-calypso-hub",
+  "chainId": 1564830818,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com"
+    }
+  ],
+  "website": "https://calypsohub.network/",
+  "aliases": [
+    "honorable-steel-rasalhague",
+    "calypso-mainnet"
+  ]
+}

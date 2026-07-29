@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Posichain Testnet Shard 0",
+  "slug": "posichain-testnet-shard-0",
+  "chainId": 910000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Posichain Native Token",
+    "symbol": "POSI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.s0.t.posichain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Posichain Explorer Testnet",
+      "url": "https://explorer-testnet.posichain.org"
+    }
+  ],
+  "website": "https://posichain.org",
+  "aliases": [
+    "PSC",
+    "psc-t-s0"
+  ]
+}

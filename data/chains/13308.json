@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Credit Smart Chain",
+  "slug": "credit-smart-chain-13308",
+  "chainId": 13308,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Credit",
+    "symbol": "CREDIT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.creditsmartchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Creditscan",
+      "url": "https://scan.creditsmartchain.com"
+    }
+  ],
+  "website": "https://creditsmartchain.com",
+  "aliases": [
+    "CREDIT",
+    "Credit"
+  ]
+}

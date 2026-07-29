@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Razor Skale Chain",
+  "slug": "razor-skale-chain",
+  "chainId": 278611351,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFuel",
+    "symbol": "SFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.skalenodes.com/v1/turbulent-unique-scheat",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "turbulent-unique-scheat",
+      "url": "https://turbulent-unique-scheat.explorer.mainnet.skalenodes.com"
+    }
+  ],
+  "website": "https://razor.network",
+  "aliases": [
+    "Razor Schain",
+    "razor"
+  ]
+}

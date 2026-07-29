@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "LUDAN",
+  "slug": "ludan",
+  "chainId": 1688,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LUDAN",
+    "symbol": "LUDAN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ludan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.ludan.org/"
+}

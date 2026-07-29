@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Safe(AnWang)",
+  "slug": "safe-anwang",
+  "chainId": 6666665,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SAFE(AnWang)",
+    "symbol": "SAFE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://safe4.anwang.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Safe(AnWang) Explorer",
+      "url": "https://safe4.anwang.com"
+    }
+  ],
+  "website": "https://www.anwang.com",
+  "aliases": [
+    "SafeMainnet"
+  ]
+}

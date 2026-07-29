@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Egochain",
+  "slug": "egochain",
+  "chainId": 5439,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EGAX",
+    "symbol": "EGAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.egochain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "egoscan",
+      "url": "https://egoscan.io"
+    }
+  ],
+  "website": "https://docs.egochain.org/",
+  "aliases": [
+    "EGAX",
+    "egax"
+  ]
+}

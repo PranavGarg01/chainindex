@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Gravity Longevity Testnet",
+  "slug": "gravity-longevity-testnet",
+  "chainId": 7771625,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gravity",
+    "symbol": "G",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.gravity.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gravity Testnet Explorer",
+      "url": "https://explorer-testnet.gravity.xyz"
+    }
+  ],
+  "website": "https://gravity.xyz",
+  "aliases": [
+    "Gravity",
+    "gravity-testnet"
+  ]
+}

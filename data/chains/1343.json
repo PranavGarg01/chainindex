@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Blitz Subnet",
+  "slug": "blitz-subnet",
+  "chainId": 1343,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BLITZ GAS",
+    "symbol": "BGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/blitz/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BLITZ Explorer",
+      "url": "https://subnets-test.avax.network/blitz"
+    }
+  ],
+  "website": "https://blitz.gg",
+  "aliases": [
+    "BLITZ",
+    "blitz"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "XDC Apothem Network",
+  "slug": "xdc-apothem-network",
+  "chainId": 51,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XinFin",
+    "symbol": "TXDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://erpc.apothem.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://apothem.xdcrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/xdc_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://earpc.apothem.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://xdc-testnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.apothem.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "xdcscan",
+      "url": "https://testnet.xdcscan.com"
+    },
+    {
+      "name": "openscan",
+      "url": "https://apothem.xdcscan.io"
+    }
+  ],
+  "website": "https://xinfin.org",
+  "aliases": [
+    "XDC",
+    "txdc"
+  ]
+}

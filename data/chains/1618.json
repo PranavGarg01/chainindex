@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Catecoin Chain",
+  "slug": "catecoin-chain",
+  "chainId": 1618,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Catecoin",
+    "symbol": "CATE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://send.catechain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://catechain.com",
+  "aliases": [
+    "Catechain",
+    "cate"
+  ]
+}

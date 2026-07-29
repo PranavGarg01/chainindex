@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Story Aeneid Testnet",
+  "slug": "story-aeneid-testnet",
+  "chainId": 1315,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IP Token",
+    "symbol": "IP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://aeneid.datarpc.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://aeneid.storyrpc.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://aeneid.storyscan.xyz"
+    }
+  ],
+  "website": "https://story.foundation/",
+  "aliases": [
+    "story-aeneid"
+  ]
+}

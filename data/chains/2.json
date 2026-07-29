@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Expanse Network",
+  "slug": "expanse-network",
+  "chainId": 2,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Expanse Network Ether",
+    "symbol": "EXP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.eggs.cool",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node.expanse.tech",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://expanse.tech",
+  "aliases": [
+    "EXP",
+    "exp"
+  ]
+}

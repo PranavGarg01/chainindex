@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Planq Atlas Testnet",
+  "slug": "planq-atlas-testnet",
+  "chainId": 7077,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Planq",
+    "symbol": "tPLQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc-atlas.planq.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://planq.network",
+  "aliases": [
+    "Planq",
+    "planq-atlas-testnet"
+  ]
+}

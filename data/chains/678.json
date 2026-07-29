@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Janction",
+  "slug": "janction",
+  "chainId": 678,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Janction",
+    "symbol": "JCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.janction.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://janction.io"
+}

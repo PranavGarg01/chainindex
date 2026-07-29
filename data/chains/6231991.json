@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Block Chain LOL Berachain Testnet",
+  "slug": "block-chain-lol-berachain-testnet",
+  "chainId": 6231991,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "HARRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://block-chain.alt.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Block Chain LOL Berachain Testnet Blockscout Explorer",
+      "url": "https://explorer.block-chain.lol"
+    }
+  ],
+  "website": "https://block-chain.lol/",
+  "aliases": [
+    "Block Chain LOL Berachain",
+    "block-chain-lol-testnet"
+  ]
+}

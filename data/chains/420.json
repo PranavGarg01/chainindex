@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "name": "Optimism Goerli Testnet",
+  "slug": "optimism-goerli-testnet",
+  "chainId": 420,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Goerli Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://opt-goerli.g.alchemy.com/v2/demo",
+      "isRecommended": true
+    },
+    {
+      "url": "https://optimism-goerli.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.goerli.optimism.gateway.fm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-goerli-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-goerli.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gateway.tenderly.co/public/optimism-goerli",
+      "isRecommended": false
+    },
+    {
+      "url": "https://goerli.optimism.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://optimism-goerli.blockscout.com"
+    }
+  ],
+  "website": "https://optimism.io",
+  "aliases": [
+    "ETH",
+    "ogor"
+  ]
+}

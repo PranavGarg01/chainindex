@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Ztc",
+  "slug": "ztc",
+  "chainId": 9998,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ztcer",
+    "symbol": "ZTC",
+    "decimals": 5
+  },
+  "rpc": [
+    {
+      "url": "https://zitcoin.us",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ztc.best"
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "name": "Mode",
+  "slug": "mode",
+  "chainId": 34443,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.mode.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/mode",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mode.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mode.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mode-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "modescout",
+      "url": "https://explorer.mode.network"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://modescan.io"
+    }
+  ],
+  "website": "https://docs.mode.network/",
+  "aliases": [
+    "ETH"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "inEVM Testnet",
+  "slug": "inevm-testnet",
+  "chainId": 2424,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.inevm.com/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://inevm.com",
+  "aliases": [
+    "inevm-testnet"
+  ]
+}

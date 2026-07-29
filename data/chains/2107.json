@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "IBVM Testnet",
+  "slug": "ibvm-testnet",
+  "chainId": 2107,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IBVM Bitcoin",
+    "symbol": "IBVM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.ibvm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IBVM Testnet explorer",
+      "url": "https://testnet.ibvmscan.io"
+    }
+  ],
+  "website": "https://ibvm.io/",
+  "aliases": [
+    "IBVMT"
+  ]
+}

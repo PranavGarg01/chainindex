@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Incentiv",
+  "slug": "incentiv",
+  "chainId": 24101,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CENT",
+    "symbol": "CENT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.incentiv.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-archive.incentiv.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Incentiv Mainnet Explorer",
+      "url": "https://explorer.incentiv.io"
+    }
+  ],
+  "website": "https://incentiv.io"
+}

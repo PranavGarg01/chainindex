@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Shardeum Sphinx 1.X",
+  "slug": "shardeum-sphinx-1-x",
+  "chainId": 8082,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shardeum SHM",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sphinx.shardeum.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Shardeum Scan",
+      "url": "https://explorer-sphinx.shardeum.org"
+    }
+  ],
+  "website": "https://docs.shardeum.org/",
+  "aliases": [
+    "Shardeum",
+    "Sphinx10"
+  ]
+}

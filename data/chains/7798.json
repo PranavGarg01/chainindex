@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OpenEX LONG Testnet",
+  "slug": "openex-long-testnet",
+  "chainId": 7798,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDT Testnet",
+    "symbol": "USDT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://long.rpc.openex.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OpenEX Long Testnet Explorer",
+      "url": "https://scan.long.openex.network"
+    }
+  ],
+  "website": "https://openex.network",
+  "aliases": [
+    "OEX",
+    "oex"
+  ]
+}

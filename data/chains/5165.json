@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "name": "Bahamut",
+  "slug": "bahamut",
+  "chainId": 5165,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FTN",
+    "symbol": "FTN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.bahamut.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.bahamut.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc1.ftnscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.ftnscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bahamut-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://Bahamut-mainnet-2h93.zeeve.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/bahamut",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://ftnscan.com"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://ftnscan.io"
+    }
+  ],
+  "website": "https://bahamut.io",
+  "aliases": [
+    "ftn",
+    "Bahamut mainnet"
+  ]
+}

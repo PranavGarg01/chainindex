@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "VinaChain",
+  "slug": "vinachain",
+  "chainId": 8678671,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VPC",
+    "symbol": "VPC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://vncscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "vncscan",
+      "url": "https://beta.vncscan.io"
+    }
+  ],
+  "aliases": [
+    "VPC",
+    "vpc"
+  ]
+}

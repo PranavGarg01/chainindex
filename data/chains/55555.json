@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "REI Chain",
+  "slug": "rei-chain",
+  "chainId": 55555,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rei",
+    "symbol": "REI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rei-rpc.moonrhythm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "reiscan",
+      "url": "https://reiscan.com"
+    }
+  ],
+  "website": "https://reichain.io",
+  "aliases": [
+    "REI",
+    "reichain"
+  ]
+}

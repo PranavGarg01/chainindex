@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "G8Chain Testnet",
+  "slug": "g8chain-testnet",
+  "chainId": 18181,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "G8Coin",
+    "symbol": "G8C",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.oneg8.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "G8Chain",
+      "url": "https://testnet.oneg8.network"
+    }
+  ],
+  "website": "https://oneg8.one",
+  "aliases": [
+    "G8C",
+    "G8Ct"
+  ]
+}

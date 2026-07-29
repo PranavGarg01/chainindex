@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Decentraconnect Social",
+  "slug": "decentraconnect-social",
+  "chainId": 19224,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Decentraconnect Social",
+    "symbol": "DCSM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.decentraconnect.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Decentraconnect Social",
+      "url": "https://decentraconnect.io"
+    }
+  ],
+  "website": "https://docs.decentraconnect.io",
+  "aliases": [
+    "DCSM",
+    "DCSMs"
+  ]
+}

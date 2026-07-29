@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NERO Testnet",
+  "slug": "nero-testnet",
+  "chainId": 689,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NERO",
+    "symbol": "NERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.nerochain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "nero testnet scan",
+      "url": "https://testnet.neroscan.io"
+    }
+  ],
+  "website": "https://docs.nerochain.io/",
+  "aliases": [
+    "NERO Chain",
+    "NEROT"
+  ]
+}

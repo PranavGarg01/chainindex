@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitchain",
+  "slug": "bitchain",
+  "chainId": 198,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitchain.biz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitchain Scan",
+      "url": "https://explorer.bitchain.biz"
+    }
+  ],
+  "website": "https://www.bitchain.biz/",
+  "aliases": [
+    "Bit",
+    "bit"
+  ]
+}

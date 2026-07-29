@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "XO Chain Testnet",
+  "slug": "xo-chain-testnet",
+  "chainId": 1000101,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XO Token",
+    "symbol": "XO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc-1.xo.market",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "xo explorer",
+      "url": "https://explorer-testnet.xo.market"
+    }
+  ],
+  "website": "https://xo.market",
+  "aliases": [
+    "XO",
+    "xo"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "OEV Network",
+  "slug": "oev-network",
+  "chainId": 4913,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://oev.rpc.api3.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://oev-network.calderachain.xyz/http",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OEV Network Explorer",
+      "url": "https://oev.explorer.api3.org"
+    },
+    {
+      "name": "OEV Network Caldera Explorer",
+      "url": "https://oev-network.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://api3.org/oev/",
+  "aliases": [
+    "oev-network"
+  ]
+}

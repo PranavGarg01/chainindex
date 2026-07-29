@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Limonata Testnet",
+  "slug": "limonata-testnet",
+  "chainId": 10777,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Limonata",
+    "symbol": "LIMO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.limonata.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Limonata Explorer",
+      "url": "https://explorer.limonata.xyz"
+    }
+  ],
+  "website": "https://limonata.xyz",
+  "aliases": [
+    "LIMO",
+    "limonata-testnet"
+  ]
+}

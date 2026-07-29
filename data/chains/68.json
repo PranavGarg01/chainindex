@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "SoterOne",
+  "slug": "soterone",
+  "chainId": 68,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SoterOne Mainnet Ether",
+    "symbol": "SOTER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.soter.one",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.soterone.com",
+  "aliases": [
+    "SOTER",
+    "SO1"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "MARO Blockchain",
+  "slug": "maro-blockchain",
+  "chainId": 8848,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MARO",
+    "symbol": "MARO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.ma.ro",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MARO Scan",
+      "url": "https://scan.ma.ro/#"
+    }
+  ],
+  "website": "https://ma.ro/",
+  "aliases": [
+    "maro"
+  ]
+}

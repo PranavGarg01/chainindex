@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "AmStar",
+  "slug": "amstar",
+  "chainId": 1388,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SINSO",
+    "symbol": "SINSO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.amstarscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "amstarscan",
+      "url": "https://mainnet.amstarscan.com"
+    }
+  ],
+  "website": "https://sinso.io",
+  "aliases": [
+    "ASAR"
+  ]
+}

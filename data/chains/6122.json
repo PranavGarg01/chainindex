@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tea",
+  "slug": "tea",
+  "chainId": 6122,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tea",
+    "symbol": "TEA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tea.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.tea.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.tea.xyz"
+    }
+  ],
+  "website": "https://tea.xyz"
+}

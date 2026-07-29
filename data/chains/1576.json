@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Mawari",
+  "slug": "mawari",
+  "chainId": 1576,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAWARI",
+    "symbol": "MAWARI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mawari.net/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.mainnet.mawari.net"
+    }
+  ],
+  "website": "https://mawari.net"
+}

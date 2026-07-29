@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "TCG Verse",
+  "slug": "tcg-verse",
+  "chainId": 2400,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tcgverse.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TCG Verse Explorer",
+      "url": "https://explorer.tcgverse.xyz"
+    }
+  ],
+  "website": "https://tcgverse.xyz/",
+  "aliases": [
+    "TCGV"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Fhenix Helium",
+  "slug": "fhenix-helium",
+  "chainId": 8008135,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tFHE",
+    "symbol": "tFHE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.helium.fhenix.zone",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Fhenix Helium Explorer (Blockscout)",
+      "url": "https://explorer.helium.fhenix.zone"
+    }
+  ],
+  "website": "https://www.fhenix.io",
+  "aliases": [
+    "tFHE",
+    "fhe-helium"
+  ]
+}

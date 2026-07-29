@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "STO Chain Testnet",
+  "slug": "sto-chain-testnet",
+  "chainId": 1999,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TSTOC",
+    "symbol": "TSTOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-stoc-testnet.stochainscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "STO Chain Testnet Explorer",
+      "url": "https://testnet.stochainscan.io/en"
+    }
+  ],
+  "website": "https://www.stochain.io/",
+  "aliases": [
+    "TSTOC",
+    "tstoc"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zephyr Testnet",
+  "slug": "zephyr-testnet",
+  "chainId": 1417429182,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "Z",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zephyr-rpc.eu-north-2.gateway.fm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://zephyr-blockscout.eu-north-2.gateway.fm"
+    }
+  ],
+  "website": "https://zero.tech",
+  "aliases": [
+    "Zephyr-testnet",
+    "zephyr"
+  ]
+}

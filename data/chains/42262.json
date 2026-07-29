@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Oasis Emerald",
+  "slug": "oasis-emerald",
+  "chainId": 42262,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Emerald Rose",
+    "symbol": "ROSE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://emerald.oasis.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/oasis/emerald",
+      "isRecommended": false
+    },
+    {
+      "url": "https://oasis-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Oasis Emerald Explorer",
+      "url": "https://explorer.oasis.io/mainnet/emerald"
+    }
+  ],
+  "website": "https://docs.oasis.io/dapp/emerald",
+  "aliases": [
+    "Emerald",
+    "emerald"
+  ]
+}

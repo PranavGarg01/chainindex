@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Deelance",
+  "slug": "deelance",
+  "chainId": 45510,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Deelance",
+    "symbol": "DEE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.deelance.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Deelance Mainnet Explorer",
+      "url": "https://deescan.com"
+    }
+  ],
+  "website": "https://deelance.com",
+  "aliases": [
+    "DEE",
+    "dee",
+    "Deelance Network Mainnet"
+  ]
+}

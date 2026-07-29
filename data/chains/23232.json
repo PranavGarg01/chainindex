@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Gotas Social",
+  "slug": "gotas-social",
+  "chainId": 23232,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GOTAS",
+    "symbol": "GOTAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://services.tanssi-mainnet.network/tanssi-2006",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tanssi EVM Basic Explorer",
+      "url": "https://evmexplorer.tanssi-chains.network/?rpcUrl=https://services.tanssi-mainnet.network/tanssi-2006"
+    }
+  ],
+  "website": "https://gotas.com/",
+  "aliases": [
+    "Gotas",
+    "gotas"
+  ]
+}

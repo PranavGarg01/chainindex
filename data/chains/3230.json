@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "C9XChain",
+  "slug": "c9xchain",
+  "chainId": 3230,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CXC",
+    "symbol": "CXC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://services.tanssi-mainnet.network/tanssi-2002",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscan-tanssi.c9tech.com.br"
+    }
+  ],
+  "website": "https://c9tech.com.br/"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "OpenLedger Testnet",
+  "slug": "openledger-testnet",
+  "chainId": 161201,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Openledger",
+    "symbol": "OPN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpctn.openledger.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OpenLedger Testnet Explorer",
+      "url": "https://scantn.openledger.xyz"
+    }
+  ],
+  "website": "https://www.openledger.xyz",
+  "aliases": [
+    "openledgertest"
+  ]
+}

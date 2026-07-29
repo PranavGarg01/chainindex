@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Structx",
+  "slug": "structx",
+  "chainId": 208,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Notes",
+    "symbol": "utx",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.structx.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://structx.io",
+  "aliases": [
+    "utx"
+  ]
+}

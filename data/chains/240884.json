@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HIPERCAPITAL FINANCE Chain",
+  "slug": "hipercapital-finance-chain",
+  "chainId": 240884,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HIPERCAPITAL FINANCE Token",
+    "symbol": "HIP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hipercapitalfinance.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HIPERCAPITAL FINANCE Explorer",
+      "url": "https://explorer.hipercapitalfinance.com"
+    }
+  ],
+  "website": "https://hipercapitalfinance.com",
+  "aliases": [
+    "HIPCF",
+    "hipcf"
+  ]
+}

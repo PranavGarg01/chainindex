@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "MiYou",
+  "slug": "miyou",
+  "chainId": 30088,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Miyou",
+    "symbol": "MY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://blockchain.miyou.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://blockchain.miyoulab.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MiYou block explorer",
+      "url": "https://myscan.miyou.io"
+    }
+  ],
+  "website": "https://www.miyou.io",
+  "aliases": [
+    "MiYou Chain"
+  ]
+}

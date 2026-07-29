@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Berachain",
+  "slug": "berachain",
+  "chainId": 80094,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BERA Token",
+    "symbol": "BERA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.berachain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://berachain-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://berachain.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.berachain-apis.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://berachain.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://berachain-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://berachain.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-berachain-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://berachain.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/berachain",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Berascan",
+      "url": "https://berascan.com"
+    },
+    {
+      "name": "Beratrail",
+      "url": "https://beratrail.io"
+    }
+  ],
+  "website": "https://www.berachain.com"
+}

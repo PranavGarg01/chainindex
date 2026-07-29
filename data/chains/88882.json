@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Chiliz Spicy Testnet",
+  "slug": "chiliz-spicy-testnet",
+  "chainId": 88882,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://spicy-rpc.chiliz.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "spicy-explorer",
+      "url": "https://testnet.chiliscan.com"
+    }
+  ],
+  "website": "https://www.chiliz.com/en/chain",
+  "aliases": [
+    "CHZ",
+    "chzspicy"
+  ]
+}

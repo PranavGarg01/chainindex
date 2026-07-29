@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Taraxa",
+  "slug": "taraxa",
+  "chainId": 841,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tara",
+    "symbol": "TARA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.taraxa.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://ws.mainnet.taraxa.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tara.to Explorer",
+      "url": "https://tara.to"
+    },
+    {
+      "name": "Taraxa Explorer",
+      "url": "https://explorer.mainnet.taraxa.io"
+    }
+  ],
+  "website": "https://taraxa.io",
+  "aliases": [
+    "TARA",
+    "tara"
+  ]
+}

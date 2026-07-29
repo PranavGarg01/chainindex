@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Atlas",
+  "slug": "atlas",
+  "chainId": 622463,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.atl.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Atlas Testnet Scan",
+      "url": "https://explorer.testnet.atl.network"
+    }
+  ],
+  "website": "https://atl.network",
+  "aliases": [
+    "atlas-testnet",
+    "Atlas Testnet"
+  ]
+}

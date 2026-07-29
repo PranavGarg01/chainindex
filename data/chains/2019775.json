@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Jovay Sepolia Testnet",
+  "slug": "jovay-sepolia-testnet",
+  "chainId": 2019775,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.zan.top/public/jovay-testnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.zan.top/node/v1/jovay/testnet/${ZAN_API_KEY}",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Jovay Testnet Explorer",
+      "url": "https://sepolia-explorer.jovay.io/l2"
+    }
+  ],
+  "website": "https://jovay.io",
+  "aliases": [
+    "ETH",
+    "jovay-sepolia"
+  ]
+}

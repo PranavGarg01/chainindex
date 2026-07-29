@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CTC Chain Testnet",
+  "slug": "ctc-chain-testnet",
+  "chainId": 12302,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CTC",
+    "symbol": "CTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc.tantin.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CTC Chain Testnet Explorer",
+      "url": "https://test-scan.tantin.com"
+    }
+  ],
+  "website": "https://tantin.com/",
+  "aliases": [
+    "CTC",
+    "ctcchain"
+  ]
+}

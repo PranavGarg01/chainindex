@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Karak Sepolia",
+  "slug": "karak-sepolia",
+  "chainId": 8054,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sepolia.karak.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Karak Sepolia Explorer",
+      "url": "https://explorer.sepolia.karak.network"
+    }
+  ],
+  "website": "https://karak.network",
+  "aliases": [
+    "Karak",
+    "karak-sepolia",
+    "Karak Testnet Sepolia"
+  ]
+}

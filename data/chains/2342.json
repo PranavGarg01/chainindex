@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Omnia Chain",
+  "slug": "omnia-chain",
+  "chainId": 2342,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Omnia",
+    "symbol": "OMNIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.omniaverse.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OmniaVerse Explorer",
+      "url": "https://scan.omniaverse.io"
+    }
+  ],
+  "website": "https://www.omniaverse.io",
+  "aliases": [
+    "OMNIA",
+    "omnia"
+  ]
+}

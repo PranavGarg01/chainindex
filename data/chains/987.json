@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BinaryChain",
+  "slug": "binarychain",
+  "chainId": 987,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BINARY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.binarychain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BinaryChain Explorer",
+      "url": "https://explorer.binarychain.org"
+    }
+  ],
+  "website": "https://binarychain.org",
+  "aliases": [
+    "binary"
+  ]
+}

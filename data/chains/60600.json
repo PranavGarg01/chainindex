@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "POTOS Testnet",
+  "slug": "potos-testnet",
+  "chainId": 60600,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.potos.hk",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "POTOS Testnet explorer",
+      "url": "https://scan-testnet.potos.hk"
+    }
+  ],
+  "website": "https://potos.hk",
+  "aliases": [
+    "POTOS",
+    "potos-testnet"
+  ]
+}

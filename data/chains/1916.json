@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Epix",
+  "slug": "epix",
+  "chainId": 1916,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Epix",
+    "symbol": "EPIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmrpc.epix.zone",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://epix.zone"
+}

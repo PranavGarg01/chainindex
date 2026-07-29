@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Global Trust Network",
+  "slug": "global-trust-network",
+  "chainId": 101010,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gtn.stabilityprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://stability.blockscout.com"
+    }
+  ],
+  "website": "https://stabilityprotocol.com",
+  "aliases": [
+    "GTN",
+    "stabilityprotocol"
+  ]
+}

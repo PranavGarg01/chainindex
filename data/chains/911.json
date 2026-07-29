@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "TAPROOT",
+  "slug": "taproot",
+  "chainId": 911,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TBTC",
+    "symbol": "TBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.taprootchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TAPROOT Scan",
+      "url": "https://scan.taprootchain.io"
+    }
+  ],
+  "website": "https://taprootchain.io",
+  "aliases": [
+    "TAPROOT CHAIN",
+    "TAPROOT-Mainnet",
+    "TAPROOT Mainnet"
+  ]
+}

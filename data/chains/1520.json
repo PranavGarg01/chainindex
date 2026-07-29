@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Dolphinet",
+  "slug": "dolphinet",
+  "chainId": 1520,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOL",
+    "symbol": "DOL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dolphinode.world",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-dev01.dolphinode.world",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.dolphinode.world/"
+    }
+  ],
+  "website": "https://chain.dolphinode.world/",
+  "aliases": [
+    "DOL"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Orlando Chain",
+  "slug": "orlando-chain",
+  "chainId": 3031,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Orlando",
+    "symbol": "ORL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.orlchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Orlando (ORL) Explorer",
+      "url": "https://orlscan.com"
+    }
+  ],
+  "website": "https://orlchain.com",
+  "aliases": [
+    "ORL"
+  ]
+}

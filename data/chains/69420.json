@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "CHEESE Blockchain",
+  "slug": "cheese-blockchain",
+  "chainId": 69420,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "CHEESE",
+    "symbol": "CHEESE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cheesescan.com/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.cheesescan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.cheesescan.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CHEESE Explorer",
+      "url": "https://cheesescan.com"
+    }
+  ],
+  "website": "https://cheesescan.com",
+  "aliases": [
+    "CHEESE",
+    "cheese"
+  ]
+}

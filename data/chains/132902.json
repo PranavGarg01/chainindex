@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Form Testnet",
+  "slug": "form-testnet",
+  "chainId": 132902,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-rpc.form.network/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Form Testnet explorer",
+      "url": "https://sepolia-explorer.form.network"
+    }
+  ],
+  "website": "https://sepolia-info.form.network",
+  "aliases": [
+    "formtestnet"
+  ]
+}

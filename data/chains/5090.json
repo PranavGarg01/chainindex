@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pione Chain",
+  "slug": "pione-chain",
+  "chainId": 5090,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pione",
+    "symbol": "PIO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pionescan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pione Chain Explorer",
+      "url": "https://pionescan.com"
+    }
+  ],
+  "website": "https://pionechain.com",
+  "aliases": [
+    "PIO",
+    "pio"
+  ]
+}

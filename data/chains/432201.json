@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dexalot Subnet Testnet",
+  "slug": "dexalot-subnet-testnet",
+  "chainId": 432201,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dexalot",
+    "symbol": "ALOT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/dexalot/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Avalanche Subnet Testnet Explorer",
+      "url": "https://subnets-test.avax.network/dexalot"
+    }
+  ],
+  "website": "https://dexalot.com",
+  "aliases": [
+    "DEXALOT",
+    "dexalot-testnet"
+  ]
+}

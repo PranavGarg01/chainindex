@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CTC Chain",
+  "slug": "ctc-chain",
+  "chainId": 12301,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CTC",
+    "symbol": "CTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tantin.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CTC Chain Explorer",
+      "url": "https://scan.tantin.com"
+    }
+  ],
+  "website": "https://tantin.com/",
+  "aliases": [
+    "CTC",
+    "ctcchain"
+  ]
+}

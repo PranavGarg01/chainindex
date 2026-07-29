@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "REI Network",
+  "slug": "rei-network",
+  "chainId": 47805,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "REI",
+    "symbol": "REI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.rei.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "rei-scan",
+      "url": "https://scan.rei.network"
+    }
+  ],
+  "website": "https://rei.network/",
+  "aliases": [
+    "REI"
+  ]
+}

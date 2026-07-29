@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Lightstreams Testnet",
+  "slug": "lightstreams-testnet",
+  "chainId": 162,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lightstreams PHT",
+    "symbol": "PHT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.sirius.lightstreams.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://explorer.sirius.lightstreams.io",
+  "aliases": [
+    "PHT",
+    "tpht"
+  ]
+}

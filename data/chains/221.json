@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "BlockEx",
+  "slug": "blockex",
+  "chainId": 221,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BlockEx",
+    "symbol": "XBE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blockex.biz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://blockex.biz"
+}

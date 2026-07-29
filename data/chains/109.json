@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Shibarium",
+  "slug": "shibarium",
+  "chainId": 109,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BONE Shibarium",
+    "symbol": "BONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://shibarium.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.shibarium.shib.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.shibrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://shib.nownodes.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "shibariumscan",
+      "url": "https://shibariumscan.io"
+    }
+  ],
+  "website": "https://shibariumecosystem.com",
+  "aliases": [
+    "shibariumecosystem"
+  ]
+}

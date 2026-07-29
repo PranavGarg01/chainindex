@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "OverProtocol",
+  "slug": "overprotocol",
+  "chainId": 54176,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Over",
+    "symbol": "OVER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.overprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OverView",
+      "url": "https://scan.over.network"
+    }
+  ],
+  "website": "https://docs.over.network"
+}

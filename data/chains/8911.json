@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Algen",
+  "slug": "algen",
+  "chainId": 8911,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ALG",
+    "symbol": "ALG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.algen.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "algscan",
+      "url": "https://scan.algen.network"
+    }
+  ],
+  "website": "https://www.algen.network",
+  "aliases": [
+    "ALG",
+    "alg"
+  ]
+}

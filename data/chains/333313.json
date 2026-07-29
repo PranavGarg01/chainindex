@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bloom Genesis",
+  "slug": "bloom-genesis",
+  "chainId": 333313,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bloom",
+    "symbol": "BGBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.bloomgenesis.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bloom Genesis Mainnet",
+      "url": "https://explorer.bloomgenesis.com"
+    }
+  ],
+  "website": "https://www.bloomgenesis.com",
+  "aliases": [
+    "Bloom",
+    "BGBC"
+  ]
+}

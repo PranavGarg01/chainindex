@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Hubble Exchange",
+  "slug": "hubble-exchange",
+  "chainId": 1992,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hubble.exchange",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.hubble.exchange",
+  "aliases": [
+    "Hubblenet",
+    "hubblenet"
+  ]
+}

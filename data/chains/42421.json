@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Asset Chain Testnet",
+  "slug": "asset-chain-testnet",
+  "chainId": 42421,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Real World Asset",
+    "symbol": "RWA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://enugu-rpc.assetchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://eth.nodebridge.xyz/assetchaintestnet/exec/b903e07d-54ee-4c4d-bffb-8b073e8163fa",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Asset Chain Testnet Explorer",
+      "url": "https://scan-testnet.assetchain.org"
+    }
+  ],
+  "website": "https://docs.assetchain.org",
+  "aliases": [
+    "Asset Chain",
+    "rwa"
+  ]
+}

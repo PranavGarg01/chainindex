@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "VChain",
+  "slug": "vchain",
+  "chainId": 2223,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VNDT",
+    "symbol": "VNDT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bc.vcex.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "VChain Scan",
+      "url": "https://scan.vcex.xyz"
+    }
+  ],
+  "website": "https://bo.vcex.xyz/"
+}

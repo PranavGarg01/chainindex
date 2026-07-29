@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ProtoJumbo Testnet",
+  "slug": "protojumbo-testnet",
+  "chainId": 234,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JNFTC",
+    "symbol": "JNFTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnode.jumbochain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ProtoJumbo",
+      "url": "https://protojumbo.jumbochain.org"
+    }
+  ],
+  "website": "https://jumbochain.org",
+  "aliases": [
+    "Jumbo",
+    "ProtoJumbo"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "name": "X Layer",
+  "slug": "x-layer",
+  "chainId": 196,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "X Layer Global Utility Token",
+    "symbol": "OKB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.xlayer.tech",
+      "isRecommended": true
+    },
+    {
+      "url": "https://xlayerrpc.okx.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/xlayer/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://xlayer.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/xlayer",
+      "isRecommended": false
+    },
+    {
+      "url": "https://xlayer.rpc.blxrbdn.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://xlayer-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OKLink",
+      "url": "https://www.oklink.com/xlayer"
+    }
+  ],
+  "website": "https://www.okx.com/xlayer",
+  "aliases": [
+    "okb"
+  ]
+}

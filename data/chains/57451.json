@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "COINSEC Network",
+  "slug": "coinsec-network",
+  "chainId": 57451,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "COINSEC",
+    "symbol": "SEC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.coinsec.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "coinsecnetwork",
+      "url": "https://explorer.coinsec.network"
+    }
+  ],
+  "website": "https://explorer.coinsec.network/",
+  "aliases": [
+    "coinsecnetwork"
+  ]
+}

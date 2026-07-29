@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Superloyalty Testnet",
+  "slug": "superloyalty-testnet",
+  "chainId": 5105,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-superloyalty-testnet-1m5gwjbsv1.t.conduit.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.superloyal.com/",
+  "aliases": [
+    "superloyalty-testnet"
+  ]
+}

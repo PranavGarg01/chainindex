@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GPT Testnet",
+  "slug": "gpt-testnet",
+  "chainId": 476462898,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SkpGPT",
+    "symbol": "SkpGPT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.gptprotocol.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-explorer.gptprotocol.io"
+    }
+  ],
+  "website": "https://gptprotocol.com",
+  "aliases": [
+    "Skopje Testnet",
+    "Skopje"
+  ]
+}

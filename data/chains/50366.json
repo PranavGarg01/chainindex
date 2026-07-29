@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "ASHCHAIN",
+  "slug": "ashchain",
+  "chainId": 50366,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ASH",
+    "symbol": "ASH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.ashchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm-rpc2.ashchain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ASHCHAIN Explorer",
+      "url": "https://ashchain.io/explorer"
+    }
+  ],
+  "website": "https://ashchain.io",
+  "aliases": [
+    "ASH",
+    "ash"
+  ]
+}

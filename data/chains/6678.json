@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Edge Matrix Chain",
+  "slug": "edge-matrix-chain",
+  "chainId": 6678,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Edge Matrix Chain Token",
+    "symbol": "EMC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-mainnet.emc.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://emcscan.com"
+    }
+  ],
+  "aliases": [
+    "EMC"
+  ]
+}

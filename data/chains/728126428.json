@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Tron",
+  "slug": "tron",
+  "chainId": 728126428,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": 6
+  },
+  "rpc": [
+    {
+      "url": "https://tron.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://tron.therpc.io/jsonrpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://tron.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://tron-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/tron_jsonrpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.trongrid.io/jsonrpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tronscan",
+      "url": "https://tronscan.org"
+    }
+  ],
+  "website": "https://tron.network"
+}

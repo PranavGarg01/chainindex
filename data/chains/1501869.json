@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Waterfall 9 Test Network",
+  "slug": "waterfall-9-test-network",
+  "chainId": 1501869,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WATER",
+    "symbol": "WATER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet9.waterfall.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Waterfall Explorer Testnet9",
+      "url": "https://explorer.testnet9.waterfall.network"
+    }
+  ],
+  "website": "https://waterfall.network",
+  "aliases": [
+    "Waterfall TestNet9",
+    "water9"
+  ]
+}

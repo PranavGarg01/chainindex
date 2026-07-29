@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "X1 Network",
+  "slug": "x1-network",
+  "chainId": 204005,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://x1-testnet.xen.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.x1-testnet.xen.network"
+    }
+  ],
+  "website": "https://docs.xen.network/go-x1/",
+  "aliases": [
+    "X1",
+    "x1-testnet"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "name": "Evmos Testnet",
+  "slug": "evmos-testnet",
+  "chainId": 9000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "test-Evmos",
+    "symbol": "tEVMOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmos-testnet-json.qubelabs.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evmos-tjson.antrixy.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet-rpc.kingsuper.services",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.evmos.test.theamsolutions.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.evmos-test.theamsolutions.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-evm.testnet.evmos.dragonstake.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet-rpc.stake-town.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet-jsonrpc.stake-town.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jsonrpc-t.evmos.nodestake.top",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet-jsonrpc.autostake.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet-jsonrpc.alkadeta.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-rpc.evmost.silentvalidator.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-evm-rpc-evmos.hoodrun.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://alphab.ai/rpc/eth/evmos_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://t-evmos-jsonrpc.kalia.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jsonrpc-evmos-testnet.mzonder.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet.lava.build",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth.bd.evmos.dev:8545",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-testnet-evm-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evmos Explorer (Escan)",
+      "url": "https://testnet.escan.live"
+    }
+  ],
+  "website": "https://evmos.org",
+  "aliases": [
+    "Evmos",
+    "evmos-testnet"
+  ]
+}

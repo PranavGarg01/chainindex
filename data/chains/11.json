@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Metadium",
+  "slug": "metadium",
+  "chainId": 11,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metadium Mainnet Ether",
+    "symbol": "META",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.metadium.com/dev",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.metadium.com/prod",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://metadium.com",
+  "aliases": [
+    "META",
+    "meta"
+  ]
+}

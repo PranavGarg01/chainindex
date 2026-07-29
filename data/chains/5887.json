@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "MANTRACHAIN Testnet",
+  "slug": "mantrachain-testnet",
+  "chainId": 5887,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OM",
+    "symbol": "OM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.dukong.mantrachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://mantrachain.io",
+  "aliases": [
+    "Dukong",
+    "dukong"
+  ]
+}

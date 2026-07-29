@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Igra",
+  "slug": "igra",
+  "chainId": 38833,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IKas",
+    "symbol": "IKAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.igralabs.com:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Igra Explorer",
+      "url": "https://explorer.igralabs.com"
+    }
+  ],
+  "website": "https://igralabs.com"
+}

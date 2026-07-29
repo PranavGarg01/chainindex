@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Breivs ProverNet Testnet",
+  "slug": "breivs-provernet-testnet",
+  "chainId": 999983,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Brevis Token",
+    "symbol": "BREV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmrpc-testnet.brevis.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Breivs ProverNet Testnet Explorer",
+      "url": "https://blockscout-testnet.brevis.network/"
+    }
+  ],
+  "website": "https://brevis.network/",
+  "aliases": [
+    "BREV",
+    "brevis-provernet-testnet"
+  ]
+}

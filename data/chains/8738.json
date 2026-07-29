@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Alph Network",
+  "slug": "alph-network",
+  "chainId": 8738,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Alph Network",
+    "symbol": "ALPH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.alph.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "alphscan",
+      "url": "https://explorer.alph.network"
+    }
+  ],
+  "website": "https://alph.network",
+  "aliases": [
+    "ALPH",
+    "alph"
+  ]
+}

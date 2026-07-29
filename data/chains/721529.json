@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ERAM",
+  "slug": "eram",
+  "chainId": 721529,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ERAM",
+    "symbol": "ERAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.eramscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Eramscan",
+      "url": "https://eramscan.com"
+    }
+  ]
+}

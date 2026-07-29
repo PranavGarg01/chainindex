@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitrock",
+  "slug": "bitrock",
+  "chainId": 7171,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BITROCK",
+    "symbol": "BROCK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://connect.bit-rock.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://brockrpc.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitrock Explorer",
+      "url": "https://brockscan.io"
+    }
+  ],
+  "website": "https://bit-rock.io"
+}

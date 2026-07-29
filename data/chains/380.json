@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "ZKAmoeba Testnet",
+  "slug": "zkamoeba-testnet",
+  "chainId": 380,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "filecoin",
+    "symbol": "FIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.zkamoeba.com:4050",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.testnet.zkamoeba.com:4050",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZKAmoeba Test Explorer",
+      "url": "https://testnetexplorer.zkamoeba.com"
+    }
+  ],
+  "website": "https://testnet.zkamoeba.com",
+  "aliases": [
+    "FIL",
+    "zkamoeba-test"
+  ]
+}

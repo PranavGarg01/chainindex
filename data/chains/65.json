@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Amazonic Blockchain",
+  "slug": "amazonic-blockchain",
+  "chainId": 65,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Amazonic Green",
+    "symbol": "AMZG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.amz1.com.br",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AMZ Scan",
+      "url": "https://amzexplorer.com"
+    }
+  ],
+  "website": "https://amazonicone.com.br",
+  "aliases": [
+    "AMZG",
+    "amzg"
+  ]
+}

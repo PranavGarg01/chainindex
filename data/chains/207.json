@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "VinuChain",
+  "slug": "vinuchain",
+  "chainId": 207,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VinuChain",
+    "symbol": "VC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.vinuchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://vinuchain-rpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "VinuExplorer",
+      "url": "https://vinuexplorer.org"
+    },
+    {
+      "name": "VinuScan",
+      "url": "https://mainnet.vinuscan.com"
+    }
+  ],
+  "website": "https://vinuchain.org",
+  "aliases": [
+    "VC",
+    "vc"
+  ]
+}

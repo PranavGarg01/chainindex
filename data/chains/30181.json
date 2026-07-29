@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AICChain Testnet",
+  "slug": "aicchain-testnet",
+  "chainId": 30181,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AICChain Testnet",
+    "symbol": "tAIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testrpc.aicchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AICChain Testnet Explorer",
+      "url": "https://testscan.aicchain.io"
+    }
+  ],
+  "website": "https://www.aicchain.io",
+  "aliases": [
+    "tAIC",
+    "taic"
+  ]
+}

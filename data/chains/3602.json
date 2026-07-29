@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PandoProject Testnet",
+  "slug": "pandoproject-testnet",
+  "chainId": 3602,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "pando-token",
+    "symbol": "PTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.ethrpc.pandoproject.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pando Testnet Explorer",
+      "url": "https://testnet.explorer.pandoproject.org"
+    }
+  ],
+  "website": "https://www.pandoproject.org/",
+  "aliases": [
+    "PandoProject",
+    "pando-testnet"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "opBNB Testnet",
+  "slug": "opbnb-testnet",
+  "chainId": 5611,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "tBNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://opbnb-testnet.therpc.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://opbnb-testnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://opbnb-testnet-rpc.bnbchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://opbnb-testnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
+      "isRecommended": false
+    },
+    {
+      "url": "https://opbnb-testnet.nodereal.io/v1/e9a36765eb8a40b9bd12e680a1fd2bc5",
+      "isRecommended": false
+    },
+    {
+      "url": "https://opbnb-testnet-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bscscan-opbnb-testnet",
+      "url": "https://opbnb-testnet.bscscan.com"
+    },
+    {
+      "name": "opbnbscan",
+      "url": "https://opbnbscan.com"
+    }
+  ],
+  "website": "https://opbnb.bnbchain.org/en",
+  "aliases": [
+    "opBNB",
+    "obnbt"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ZKBase Sepolia Testnet",
+  "slug": "zkbase-sepolia-testnet",
+  "chainId": 1789,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-rpc.zkbase.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZKbase Block Explorer",
+      "url": "https://sepolia-explorer.zkbase.app"
+    }
+  ],
+  "website": "https://zkbase.org/",
+  "aliases": [
+    "ETH",
+    "zkbase-sepolia"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Odyssey Chain (Testnet)",
+  "slug": "odyssey-chain-testnet",
+  "chainId": 131313,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DIONE",
+    "symbol": "DIONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnode.dioneprotocol.com/ext/bc/D/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://odyssey.nownodes.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.dioneprotocol.com/",
+  "aliases": [
+    "DIONE"
+  ]
+}

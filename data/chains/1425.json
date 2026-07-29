@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ONINO",
+  "slug": "onino",
+  "chainId": 1425,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONI",
+    "symbol": "ONI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.onino.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "onino",
+      "url": "https://explorer.onino.io"
+    }
+  ],
+  "website": "https://onino.io",
+  "aliases": [
+    "ONI"
+  ]
+}

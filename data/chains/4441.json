@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "LitVM Liteforge Testnet",
+  "slug": "litvm-liteforge-testnet",
+  "chainId": 4441,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "zkLTC",
+    "symbol": "zkLTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://liteforge.rpc.caldera.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Liteforge Explorer",
+      "url": "https://liteforge.explorer.caldera.xyz"
+    }
+  ],
+  "aliases": [
+    "Liteforge",
+    "liteforge"
+  ]
+}

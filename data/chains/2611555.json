@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "name": "DPU Chain",
+  "slug": "dpu-chain",
+  "chainId": 2611555,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DGC",
+    "symbol": "DGC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sc-rpc.dpu.ac.th",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "aliases": [
+    "DPU"
+  ]
+}

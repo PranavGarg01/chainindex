@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "name": "Base Goerli Testnet",
+  "slug": "base-goerli-testnet",
+  "chainId": 84531,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Goerli Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://base-goerli.diamondswap.org/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://base-goerli.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/base-goerli",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-goerli.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gateway.tenderly.co/public/base-goerli",
+      "isRecommended": false
+    },
+    {
+      "url": "https://base-goerli-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://goerli.base.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "basescan",
+      "url": "https://goerli.basescan.org"
+    },
+    {
+      "name": "basescout",
+      "url": "https://base-goerli.blockscout.com"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://base-goerli.dex.guru"
+    }
+  ],
+  "website": "https://base.org",
+  "aliases": [
+    "ETH",
+    "basegor"
+  ]
+}

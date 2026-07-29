@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Canxium",
+  "slug": "canxium",
+  "chainId": 3003,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Canxium",
+    "symbol": "CAU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.canxium.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "canxium explorer",
+      "url": "https://explorer.canxium.org"
+    }
+  ],
+  "website": "https://canxium.org",
+  "aliases": [
+    "CAU",
+    "cau"
+  ]
+}

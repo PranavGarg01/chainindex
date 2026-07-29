@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LunaroChain",
+  "slug": "lunarochain",
+  "chainId": 389,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lunaro",
+    "symbol": "LNR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lunaro.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LunaroScan",
+      "url": "https://scan.lunaro.network"
+    }
+  ],
+  "website": "https://lunaro.network",
+  "aliases": [
+    "LNR",
+    "lnr"
+  ]
+}

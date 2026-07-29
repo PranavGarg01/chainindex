@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Alyx",
+  "slug": "alyx",
+  "chainId": 1314,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Alyx Chain Native Token",
+    "symbol": "ALYX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.alyxchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "alyxscan",
+      "url": "https://www.alyxscan.com"
+    }
+  ],
+  "website": "https://www.alyxchain.com"
+}

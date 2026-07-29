@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Fuse Sparknet",
+  "slug": "fuse-sparknet",
+  "chainId": 123,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Spark",
+    "symbol": "SPARK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fusespark.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://docs.fuse.io/general/fuse-network-blockchain/fuse-testnet",
+  "aliases": [
+    "fuse",
+    "spark"
+  ]
+}

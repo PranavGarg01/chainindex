@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "ZEDXION",
+  "slug": "zedxion",
+  "chainId": 83872,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zedxion",
+    "symbol": "ZEDX",
+    "decimals": 9
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.zedscan.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://docs.zedscan.net",
+  "aliases": [
+    "ZEDX"
+  ]
+}

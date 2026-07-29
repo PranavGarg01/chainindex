@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Camp Network",
+  "slug": "camp-network",
+  "chainId": 484,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CAMP",
+    "symbol": "CAMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.campnetwork.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://camp.cloud.blockscout.com"
+    }
+  ],
+  "website": "https://docs.campnetwork.xyz",
+  "aliases": [
+    "CAMP",
+    "campmainnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ClubMOS",
+  "slug": "clubmos-2255",
+  "chainId": 2255,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ClubMOS",
+    "symbol": "CMX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mosscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mosscan",
+      "url": "https://mosscan.com"
+    }
+  ],
+  "website": "https://www.clubmos.com",
+  "aliases": [
+    "CMX"
+  ]
+}

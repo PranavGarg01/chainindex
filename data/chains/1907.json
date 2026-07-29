@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitcichain",
+  "slug": "bitcichain",
+  "chainId": 1907,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitci",
+    "symbol": "BITCI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitci.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitci Explorer",
+      "url": "https://bitciexplorer.com"
+    }
+  ],
+  "website": "https://www.bitcichain.com",
+  "aliases": [
+    "BITCI",
+    "bitci"
+  ]
+}

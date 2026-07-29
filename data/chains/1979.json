@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "CratD2C Testnet",
+  "slug": "cratd2c-testnet",
+  "chainId": 1979,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CRATD2C",
+    "symbol": "CRAT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet-1.cratd2csmartchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-testnet-2.cratd2csmartchain.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-testnet-3.cratd2csmartchain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer-testnet.cratd2csmartchain.io"
+    }
+  ],
+  "website": "https://cratd2csmartchain.io",
+  "aliases": [
+    "CRATD2C",
+    "cratd2c-testnet"
+  ]
+}

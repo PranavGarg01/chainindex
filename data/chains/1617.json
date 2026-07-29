@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethereum Inscription",
+  "slug": "ethereum-inscription",
+  "chainId": 1617,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum Inscription",
+    "symbol": "ETINS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.etins.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ethereum Inscription Explorer",
+      "url": "https://explorer.etins.org"
+    }
+  ],
+  "website": "https://www.etins.org",
+  "aliases": [
+    "ETINS",
+    "etins"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "JingleX L2",
+  "slug": "jinglex-l2",
+  "chainId": 9922,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JingleX",
+    "symbol": "JNX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.jinglex.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JingleX Explorer",
+      "url": "https://jinglex.net/explorer"
+    }
+  ],
+  "website": "https://jinglex.net",
+  "aliases": [
+    "JNX",
+    "jnx"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "REI Chain Testnet",
+  "slug": "rei-chain-testnet",
+  "chainId": 55556,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tRei",
+    "symbol": "tREI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rei-testnet-rpc.moonrhythm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "reiscan",
+      "url": "https://testnet.reiscan.com"
+    }
+  ],
+  "website": "https://reichain.io",
+  "aliases": [
+    "REI",
+    "trei"
+  ]
+}

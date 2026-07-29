@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Unit Zero Stagenet",
+  "slug": "unit-zero-stagenet",
+  "chainId": 88819,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UNIT0",
+    "symbol": "UNIT0",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-stagenet.unit0.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer-stagenet",
+      "url": "https://explorer-stagenet.unit0.dev"
+    }
+  ],
+  "website": "https://units.network",
+  "aliases": [
+    "Unit Zero",
+    "unit0-stagenet"
+  ]
+}

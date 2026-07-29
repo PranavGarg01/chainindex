@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Volley",
+  "slug": "volley",
+  "chainId": 9981,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "V2X",
+    "symbol": "V2X",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://main-rpc.volleychain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Volley Mainnet Explorer",
+      "url": "https://volleyscan.io"
+    }
+  ],
+  "website": "https://www.volleychain.com",
+  "aliases": [
+    "volley-mainnet"
+  ]
+}

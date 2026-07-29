@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tanssi Demo",
+  "slug": "tanssi-demo",
+  "chainId": 5678,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TANGO",
+    "symbol": "TANGO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://services.tanssi-testnet.network/dancelight-2001",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockScout",
+      "url": "https://dancelight-2001-blockscout.tanssi-chains.network"
+    }
+  ],
+  "website": "https://docs.tanssi.network/builders/tanssi-network/testnet/demo-evm-network/",
+  "aliases": [
+    "TANGO",
+    "tango"
+  ]
+}

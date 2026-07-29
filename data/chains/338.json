@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Cronos Testnet",
+  "slug": "cronos-testnet",
+  "chainId": 338,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cronos Test Coin",
+    "symbol": "TCRO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-t3.cronos.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/cronos/testnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cro-testnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cronos-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cronos Testnet Explorer",
+      "url": "https://explorer.cronos.org/testnet"
+    }
+  ],
+  "website": "https://cronos.org",
+  "aliases": [
+    "CRO",
+    "tcro"
+  ]
+}

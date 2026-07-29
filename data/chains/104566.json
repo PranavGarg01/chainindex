@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "KaspaClassic",
+  "slug": "kaspaclassic",
+  "chainId": 104566,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KaspaClassic",
+    "symbol": "CAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.kaspaclassic.world",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KaspaClassic Explorer",
+      "url": "https://explorer.kaspaclassic.world"
+    }
+  ],
+  "website": "https://kaspaclassic.com/",
+  "aliases": [
+    "cas"
+  ]
+}

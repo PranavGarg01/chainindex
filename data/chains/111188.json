@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "re.al",
+  "slug": "re-al",
+  "chainId": 111188,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "re.al Ether",
+    "symbol": "reETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.realforreal.gelato.digital",
+      "isRecommended": true
+    },
+    {
+      "url": "https://tangible-real.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://real.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.re.al"
+    }
+  ],
+  "website": "https://re.al",
+  "aliases": [
+    "re-al",
+    "re.al Real-World Assets network"
+  ]
+}

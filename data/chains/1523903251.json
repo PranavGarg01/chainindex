@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Haust Network Testnet",
+  "slug": "haust-network-testnet",
+  "chainId": 1523903251,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HAUST",
+    "symbol": "HAUST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.haust.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Haust Network Testnet Explorer",
+      "url": "https://explorer-testnet.haust.app"
+    }
+  ],
+  "website": "https://haust.network/",
+  "aliases": [
+    "haust-network-testnet",
+    "HaustTestnet"
+  ]
+}

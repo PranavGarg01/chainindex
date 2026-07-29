@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Flag",
+  "slug": "flag",
+  "chainId": 147,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Flag",
+    "symbol": "FLAG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.flagscan.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Flag Mainnet Explorer",
+      "url": "https://flagscan.xyz"
+    }
+  ],
+  "website": "https://flagscan.xyz"
+}

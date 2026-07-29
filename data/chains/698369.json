@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Primea Network",
+  "slug": "primea-network",
+  "chainId": 698369,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GoldPrimeaNetwork",
+    "symbol": "GOLDPN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.primeanetwork.com/rpc-https",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://primeanetwork.com",
+  "aliases": [
+    "Primea Network Mainnet",
+    "goldpn"
+  ]
+}

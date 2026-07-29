@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RealChain Testnet",
+  "slug": "realchain-testnet",
+  "chainId": 2098,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RealCoinTest",
+    "symbol": "RT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rlc.devlab.vip/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RealChainTest explorer",
+      "url": "https://rlc.devlab.vip/"
+    }
+  ],
+  "website": "https://www.realchain.io/",
+  "aliases": [
+    "RealChainTest",
+    "realchaintest"
+  ]
+}

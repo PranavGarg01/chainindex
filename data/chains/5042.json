@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Arc",
+  "slug": "arc",
+  "chainId": 5042,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.arc.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.arc.network/"
+}

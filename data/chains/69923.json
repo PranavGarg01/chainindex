@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ILITY Testnet",
+  "slug": "ility-testnet",
+  "chainId": 69923,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ILITY Token",
+    "symbol": "ILYt",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.ility.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ILITY Testnet Explorer",
+      "url": "https://scan.testnet.ility.xyz"
+    }
+  ],
+  "website": "https://ility.xyz",
+  "aliases": [
+    "ILY",
+    "ilyt"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Neurochain Testnet",
+  "slug": "neurochain-testnet",
+  "chainId": 303,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Neurochain",
+    "symbol": "tNCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nc-rpc-test1.neurochain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "neuroscan",
+      "url": "https://testnet.ncnscan.com"
+    }
+  ],
+  "website": "https://www.neurochain.ai",
+  "aliases": [
+    "NCN",
+    "ncnt"
+  ]
+}

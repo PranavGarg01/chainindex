@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "zkXPLA Testnet",
+  "slug": "zkxpla-testnet",
+  "chainId": 475,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.zkxpla.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zkXPLA Testnet Explorer",
+      "url": "https://testnet-explorer.zkxpla.io"
+    }
+  ],
+  "website": "https://xpla.io",
+  "aliases": [
+    "zkXPLA",
+    "zkxpla-testnet"
+  ]
+}

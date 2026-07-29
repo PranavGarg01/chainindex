@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Chronicle - Lit Protocol Testnet",
+  "slug": "chronicle-lit-protocol-testnet",
+  "chainId": 175177,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test LIT",
+    "symbol": "tstLIT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain-rpc.litprotocol.com/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lit Chronicle Explorer",
+      "url": "https://chain.litprotocol.com"
+    }
+  ],
+  "website": "https://developer.litprotocol.com/v3/network/rollup",
+  "aliases": [
+    "LPC",
+    "lpc"
+  ]
+}

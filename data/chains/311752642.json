@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "OneLedger",
+  "slug": "oneledger",
+  "chainId": 311752642,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OLT",
+    "symbol": "OLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.oneledger.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OneLedger Block Explorer",
+      "url": "https://mainnet-explorer.oneledger.network"
+    }
+  ],
+  "website": "https://oneledger.io",
+  "aliases": [
+    "OLT"
+  ]
+}

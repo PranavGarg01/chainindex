@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Step Testnet",
+  "slug": "step-testnet",
+  "chainId": 12345,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FITFI",
+    "symbol": "FITFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.step.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "StepScan",
+      "url": "https://testnet.stepscan.io"
+    }
+  ],
+  "website": "https://step.network",
+  "aliases": [
+    "STEP",
+    "steptest",
+    "Step Test Network"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "exSat",
+  "slug": "exsat",
+  "chainId": 7200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.exsat.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "exSat Explorer",
+      "url": "https://scan.exsat.network"
+    }
+  ],
+  "website": "https://exsat.network/",
+  "aliases": [
+    "xsat"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mantle Hoodi Testnet",
+  "slug": "mantle-hoodi-testnet",
+  "chainId": 50002,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hoodi Mantle",
+    "symbol": "MNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hoodi.mantle.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.hoodi.mantle.xyz"
+    }
+  ],
+  "website": "https://mantle.xyz",
+  "aliases": [
+    "ETH",
+    "mnt-hoodi"
+  ]
+}

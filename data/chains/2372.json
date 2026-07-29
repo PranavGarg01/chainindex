@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BESC HYPERCHAIN",
+  "slug": "besc-hyperchain",
+  "chainId": 2372,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BESC HyperChain",
+    "symbol": "BESC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.beschyperchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BESC Explorer",
+      "url": "https://explorer.beschyperchain.com"
+    }
+  ],
+  "website": "https://beschyperchain.com",
+  "aliases": [
+    "BESC",
+    "besc"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BounceBit Testnet",
+  "slug": "bouncebit-testnet",
+  "chainId": 6000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BounceBit",
+    "symbol": "BB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fullnode-testnet.bouncebitapi.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BBScan Testnet Explorer",
+      "url": "https://bbscan.io"
+    }
+  ],
+  "website": "https://bouncebit.io",
+  "aliases": [
+    "BounceBit",
+    "bouncebit-testnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ECO",
+  "slug": "eco",
+  "chainId": 12343,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ELA",
+    "symbol": "ELA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.elastos.io/eco",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ECO Explorer",
+      "url": "https://eco.elastos.io/"
+    }
+  ],
+  "website": "https://eco.elastos.io/",
+  "aliases": [
+    "ela"
+  ]
+}

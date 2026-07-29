@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dorsen Testnet",
+  "slug": "dorsen-testnet",
+  "chainId": 99119,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dorsen Chain",
+    "symbol": "tDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.dorsenscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DorsenScan Testnet",
+      "url": "https://testnet.dorsenscan.io"
+    }
+  ],
+  "website": "https://docs.dorsenscan.io",
+  "aliases": [
+    "Dorsen",
+    "dorsen-main"
+  ]
+}

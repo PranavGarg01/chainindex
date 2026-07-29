@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Piece testnet",
+  "slug": "piece-testnet",
+  "chainId": 30067,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ECE",
+    "symbol": "ECE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc0.piecenetwork.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Piece Scan",
+      "url": "https://testnet-scan.piecenetwork.com"
+    }
+  ],
+  "website": "https://piecenetwork.com",
+  "aliases": [
+    "PieceNetwork",
+    "Piece"
+  ]
+}

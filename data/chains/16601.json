@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "0G-Galileo-Testnet",
+  "slug": "0g-galileo-testnet-16601",
+  "chainId": 16601,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OG",
+    "symbol": "OG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmrpc-testnet.0g.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "0G Chain Explorer",
+      "url": "https://chainscan-galileo.0g.ai"
+    }
+  ],
+  "website": "https://0g.ai",
+  "aliases": [
+    "0G",
+    "0g-galileo"
+  ]
+}

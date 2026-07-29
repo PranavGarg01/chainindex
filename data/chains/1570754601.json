@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Haust Testnet",
+  "slug": "haust-testnet",
+  "chainId": 1570754601,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HAUST",
+    "symbol": "HAUST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-test.haust.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://haust-testnet-blockscout.eu-north-2.gateway.fm"
+    }
+  ],
+  "website": "https://haust.network/",
+  "aliases": [
+    "Haust-testnet",
+    "hst-test"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 2,
+  "name": "Arbitrum Sepolia",
+  "slug": "arbitrum-sepolia",
+  "chainId": 421614,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://endpoints.omniatech.io/v1/arbitrum/sepolia/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/arbitrum-sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-sepolia.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/arb-sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-sepolia.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-sepolia.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-sepolia.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-sepolia-testnet.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sepolia-rollup.arbitrum.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-sepolia-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "arbiscan-sepolia",
+      "url": "https://sepolia.arbiscan.io"
+    },
+    {
+      "name": "Arbitrum Sepolia Rollup Testnet Explorer",
+      "url": "https://sepolia-explorer.arbitrum.io"
+    }
+  ],
+  "website": "https://arbitrum.io",
+  "aliases": [
+    "ETH",
+    "arb-sep",
+    "Arbitrum Sepolia Rollup Testnet"
+  ]
+}

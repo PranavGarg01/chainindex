@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Polis",
+  "slug": "polis",
+  "chainId": 333999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Polis",
+    "symbol": "POLIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.polis.tech",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://polis.tech",
+  "aliases": [
+    "Olympus",
+    "olympus"
+  ]
+}

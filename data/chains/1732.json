@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Fuga",
+  "slug": "fuga",
+  "chainId": 1732,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "FUGA",
+    "symbol": "FUGA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fuga.blue",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://fuga.one"
+}

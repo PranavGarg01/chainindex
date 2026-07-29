@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Verify testnet",
+  "slug": "verify-testnet",
+  "chainId": 1833,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Matic",
+    "symbol": "MATIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.verify-testnet.gelato.digital",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://verify-testnet.blockscout.com"
+    }
+  ],
+  "website": "https://raas.gelato.network/rollups/details/public/verify-testnet",
+  "aliases": [
+    "verify-testnet"
+  ]
+}

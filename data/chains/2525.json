@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "inEVM",
+  "slug": "inevm",
+  "chainId": 2525,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.rpc.inevm.com/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://inevm.com"
+}

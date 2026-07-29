@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Shinzo Testnet",
+  "slug": "shinzo-testnet",
+  "chainId": 91273001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shinzo",
+    "symbol": "SHNZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://shinzo-testnet.web3cdn.rest",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://shinzo.network",
+  "aliases": [
+    "SHNZ",
+    "shinzo-testnet"
+  ]
+}

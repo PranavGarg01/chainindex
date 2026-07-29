@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Radius Testnet",
+  "slug": "radius-testnet",
+  "chainId": 863,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Useless",
+    "symbol": "USLS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dev-secure.rpc.theradius.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.theradius.xyz/",
+  "aliases": [
+    "Radius",
+    "radius-testnet"
+  ]
+}

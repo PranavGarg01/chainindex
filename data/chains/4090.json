@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Fastex Chain (Bahamut) Oasis Testnet",
+  "slug": "fastex-chain-bahamut-oasis-testnet",
+  "chainId": 4090,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FTN",
+    "symbol": "FTN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.oasis.bahamutchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://oasis.ftnscan.com"
+    }
+  ],
+  "website": "https://fastexchain.com",
+  "aliases": [
+    "Fastex Chain (Bahamut)",
+    "Oasis",
+    "Bahamut testnet Oasis"
+  ]
+}

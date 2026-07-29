@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MACos Chain",
+  "slug": "macos-chain",
+  "chainId": 20261,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MACos Coin",
+    "symbol": "MCOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.codeupp.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MACos Explorer",
+      "url": "https://macosscan.codeupp.xyz"
+    }
+  ],
+  "website": "https://macosscan.codeupp.xyz",
+  "aliases": [
+    "MACOS",
+    "macos"
+  ]
+}

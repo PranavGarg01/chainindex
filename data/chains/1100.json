@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Dymension",
+  "slug": "dymension",
+  "chainId": 1100,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DYM",
+    "symbol": "DYM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonrpc.dymension.nodestake.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rollapp.jrpc.cumulo.com.es",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dymension.liquify.com/json-rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dymension-evm.kynraze.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dymension.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.mainnet.dymension.aviaone.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm.rpc.mainnet.dymension.aviaone.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dymension.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/dymension",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dymension-evm.blockpi.network/v1/rpc/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dymension-evm-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dym.fyi",
+      "url": "https://dym.fyi"
+    }
+  ],
+  "website": "https://dymension.xyz"
+}

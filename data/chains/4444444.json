@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Altar Testnet",
+  "slug": "altar-testnet",
+  "chainId": 4444444,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://altar-rpc.ceremonies.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "altar testnet explorer",
+      "url": "https://altar-explorer.ceremonies.ai"
+    }
+  ],
+  "website": "https://ceremonies.gitbook.io",
+  "aliases": [
+    "Altar",
+    "altarTestnet"
+  ]
+}

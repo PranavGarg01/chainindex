@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitgert",
+  "slug": "bitgert",
+  "chainId": 32520,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitrise Token",
+    "symbol": "Brise",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-bitgert.icecreamswap.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://nodes.vefinetwork.org/bitgert",
+      "isRecommended": false
+    },
+    {
+      "url": "https://flux-rpc.brisescan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://flux-rpc1.brisescan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://flux-rpc2.brisescan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-1.chainrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-2.chainrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node1.serverrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node2.serverrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc.brisescan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://chainrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://serverrpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Brise Scan",
+      "url": "https://brisescan.com"
+    }
+  ],
+  "website": "https://bitgert.com/",
+  "aliases": [
+    "Brise"
+  ]
+}

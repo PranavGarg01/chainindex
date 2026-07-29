@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "KaiChain",
+  "slug": "kaichain",
+  "chainId": 61406,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KaiChain Native Token",
+    "symbol": "KEC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.kaichain.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KaiChain Explorer",
+      "url": "https://explorer.kaichain.net"
+    }
+  ],
+  "website": "https://kaichain.net",
+  "aliases": [
+    "kec"
+  ]
+}

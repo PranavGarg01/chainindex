@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "B2 Hub",
+  "slug": "b2-hub",
+  "chainId": 213,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BSquared Token",
+    "symbol": "B2",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hub-rpc.bsquared.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "B2 Hub Mainnet Explorer",
+      "url": "https://hub-explorer.bsquared.network"
+    }
+  ],
+  "website": "https://www.bsquared.network",
+  "aliases": [
+    "B2",
+    "B2Hub-mainnet"
+  ]
+}

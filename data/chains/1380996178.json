@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RaptorChain",
+  "slug": "raptorchain",
+  "chainId": 1380996178,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Raptor",
+    "symbol": "RPTR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.raptorchain.io/web3",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RaptorChain Explorer",
+      "url": "https://explorer.raptorchain.io"
+    }
+  ],
+  "website": "https://raptorchain.io",
+  "aliases": [
+    "RPTR",
+    "rptr"
+  ]
+}

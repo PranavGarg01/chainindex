@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "WorldMobileChain-Mainnet",
+  "slug": "worldmobilechain-mainnet",
+  "chainId": 869,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "World Mobile Token",
+    "symbol": "WMTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://worldmobilechain-mainnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "World Mobile Chain Explorer",
+      "url": "https://explorer.worldmobile.io"
+    }
+  ],
+  "website": "https://worldmobile.io/the-chain",
+  "aliases": [
+    "WMC"
+  ]
+}

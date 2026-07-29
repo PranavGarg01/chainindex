@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "InoAi",
+  "slug": "inoai",
+  "chainId": 88559,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "InoAi",
+    "symbol": "INO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://inoai-network.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "inoai.live",
+      "url": "https://inoai.live"
+    }
+  ],
+  "website": "https://docs.inoai.info/",
+  "aliases": [
+    "INO"
+  ]
+}

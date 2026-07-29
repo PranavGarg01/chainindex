@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "ALL",
+  "slug": "all",
+  "chainId": 651940,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ALL",
+    "symbol": "ALL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.alltra.global",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Alltra SmartChain Explorer",
+      "url": "https://alltra.global"
+    }
+  ],
+  "website": "https://alltra.world"
+}

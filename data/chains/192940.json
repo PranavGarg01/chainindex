@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Mind Network Testnet",
+  "slug": "mind-network-testnet",
+  "chainId": 192940,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.mindnetwork.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://mindnetwork.xyz",
+  "aliases": [
+    "FHET",
+    "fhet"
+  ]
+}

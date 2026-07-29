@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "XRPL EVM",
+  "slug": "xrpl-evm",
+  "chainId": 1440000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xrplevm.buildintheshade.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://xrpl.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.xrplevm.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XRPL EVM Explorer",
+      "url": "https://explorer.xrplevm.org"
+    }
+  ],
+  "website": "https://www.xrplevm.org/",
+  "aliases": [
+    "XRPL",
+    "xrplevm"
+  ]
+}

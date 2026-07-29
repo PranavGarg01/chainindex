@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Kronobit",
+  "slug": "kronobit",
+  "chainId": 13600,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kronobit",
+    "symbol": "KNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.qbitscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "qbitscan",
+      "url": "https://explorer.qbitscan.com"
+    }
+  ],
+  "website": "https://kronobit.org",
+  "aliases": [
+    "KNB",
+    "Kronobit Mainnet"
+  ]
+}

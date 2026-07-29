@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "AgentsCoin",
+  "slug": "agentscoin",
+  "chainId": 24368,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AgentsCoin",
+    "symbol": "AGENT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.agents-coin.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.agents-coin.com"
+    }
+  ],
+  "website": "https://agents-coin.com",
+  "aliases": [
+    "AGENT"
+  ]
+}

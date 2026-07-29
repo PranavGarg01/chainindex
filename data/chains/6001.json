@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BounceBit",
+  "slug": "bouncebit",
+  "chainId": 6001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BounceBit",
+    "symbol": "BB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fullnode-mainnet.bouncebitapi.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BBScan Mainnet Explorer",
+      "url": "https://bbscan.io"
+    }
+  ],
+  "website": "https://bouncebit.io",
+  "aliases": [
+    "bouncebit-mainnet"
+  ]
+}

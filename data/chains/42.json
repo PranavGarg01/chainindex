@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "LUKSO",
+  "slug": "lukso",
+  "chainId": 42,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LUKSO",
+    "symbol": "LYX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.lukso.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.lukso.sigmacore.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://42.rpc.thirdweb.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-lukso.nownodes.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LUKSO Execution Explorer",
+      "url": "https://explorer.lukso.network"
+    }
+  ],
+  "website": "https://lukso.network"
+}

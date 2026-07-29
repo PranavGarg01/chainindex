@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CAGA",
+  "slug": "caga",
+  "chainId": 72888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CAGA",
+    "symbol": "CAGA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cagamainnet.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "caga",
+      "url": "https://explorer.cagamainnet.com"
+    }
+  ],
+  "website": "https://www.cagacrypto.com/",
+  "aliases": [
+    "caga-mainnet"
+  ]
+}

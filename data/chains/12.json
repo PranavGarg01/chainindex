@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Metadium Testnet",
+  "slug": "metadium-testnet",
+  "chainId": 12,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metadium Testnet Ether",
+    "symbol": "KAL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.metadium.com/dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://metadium.com",
+  "aliases": [
+    "META",
+    "kal"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "SagaEVM",
+  "slug": "sagaevm",
+  "chainId": 5464,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sagaevm.jsonrpc.sagarpc.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sagaevm.sagaexplorer.io"
+    }
+  ],
+  "website": "https://www.saga.xyz"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo EUR1-Chain",
+  "slug": "juneo-eur1-chain",
+  "chainId": 45011,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EUR1",
+    "symbol": "EUR1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/EUR1/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/6"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "EUR1"
+  ]
+}

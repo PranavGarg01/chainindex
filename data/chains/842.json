@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Taraxa Testnet",
+  "slug": "taraxa-testnet",
+  "chainId": 842,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tara",
+    "symbol": "TARA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.taraxa.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://ws.testnet.taraxa.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tara.to Explorer",
+      "url": "https://testnet.to"
+    },
+    {
+      "name": "Taraxa Explorer",
+      "url": "https://explorer.testnet.taraxa.io"
+    }
+  ],
+  "website": "https://taraxa.io",
+  "aliases": [
+    "TARA",
+    "taratest"
+  ]
+}

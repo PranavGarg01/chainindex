@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "INRI CHAIN",
+  "slug": "inri-chain",
+  "chainId": 3777,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "INRI",
+    "symbol": "INRI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.inri.life",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-chain.inri.life",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "INRI Explorer",
+      "url": "https://explorer.inri.life"
+    }
+  ],
+  "website": "https://inri.life",
+  "aliases": [
+    "INRI",
+    "inri"
+  ]
+}

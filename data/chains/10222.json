@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GLScan",
+  "slug": "glscan",
+  "chainId": 10222,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GLC",
+    "symbol": "GLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://glc-dataseed.glscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GLScan Explorer",
+      "url": "https://glscan.io"
+    }
+  ],
+  "website": "https://glscan.io/",
+  "aliases": [
+    "GLC",
+    "glc"
+  ]
+}

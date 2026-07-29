@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Singularity ZERO",
+  "slug": "singularity-zero",
+  "chainId": 12052,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "ZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zerorpc.singularity.gold",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zeroscan",
+      "url": "https://zeroscan.singularity.gold"
+    }
+  ],
+  "website": "https://www.singularity.gold",
+  "aliases": [
+    "ZERO"
+  ]
+}

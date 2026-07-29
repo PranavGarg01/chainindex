@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "TMY Chain",
+  "slug": "tmy-chain",
+  "chainId": 8768,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TMY",
+    "symbol": "TMY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node1.tmyblockchain.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://tmychain.org/",
+  "aliases": [
+    "TMY",
+    "tmy"
+  ]
+}

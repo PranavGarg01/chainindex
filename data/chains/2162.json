@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Animechain Testnet",
+  "slug": "animechain-testnet",
+  "chainId": 2162,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Coin",
+    "symbol": "COIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.kanda.animechain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.kanda.animechain.ai"
+    }
+  ],
+  "website": "https://animechain.ai",
+  "aliases": [
+    "Animechain",
+    "animechaint"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "World Chain",
+  "slug": "world-chain",
+  "chainId": 480,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://worldchain-mainnet.g.alchemy.com/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://480.rpc.thirdweb.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://worldchain-mainnet.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sparkling-autumn-dinghy.worldchain-mainnet.quiknode.pro",
+      "isRecommended": false
+    },
+    {
+      "url": "https://worldchain.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://worldscan.org"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://worldchain-mainnet.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://world.org/world-chain",
+  "aliases": [
+    "ETH",
+    "wc"
+  ]
+}

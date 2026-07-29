@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Orbinum",
+  "slug": "orbinum",
+  "chainId": 270,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ORB",
+    "symbol": "ORB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-1.orbinum.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-2.orbinum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Orbinum Privacy Explorer",
+      "url": "https://explorer.orbinum.network"
+    }
+  ],
+  "website": "https://www.orbinum.network",
+  "aliases": [
+    "ORB"
+  ]
+}

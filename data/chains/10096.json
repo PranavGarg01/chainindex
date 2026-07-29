@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "MetaNova Verse",
+  "slug": "metanova-verse",
+  "chainId": 10096,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MNV",
+    "symbol": "MNV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://web3.metanovaverse.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.metanovaverse.com"
+    },
+    {
+      "name": "Cosmos Explorer (Ping)",
+      "url": "https://ping.metanovaverse.com/metanovaverse"
+    }
+  ],
+  "website": "https://metanovaverse.com/",
+  "aliases": [
+    "MNV",
+    "mnv"
+  ]
+}

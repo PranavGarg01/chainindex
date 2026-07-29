@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CheckDot Blockchain Devnet",
+  "slug": "checkdot-blockchain-devnet",
+  "chainId": 831,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CDT",
+    "symbol": "CDT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet.checkdot.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CDT Explorer",
+      "url": "https://explorer.checkdot.io"
+    }
+  ],
+  "website": "https://checkdot.io",
+  "aliases": [
+    "CDT Blockchain",
+    "cdt"
+  ]
+}

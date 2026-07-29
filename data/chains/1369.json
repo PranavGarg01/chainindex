@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zafirium",
+  "slug": "zafirium",
+  "chainId": 1369,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zakumi Chain Native Token",
+    "symbol": "ZAFIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.zakumi.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zafirium-explorer",
+      "url": "https://explorer.zakumi.io"
+    }
+  ],
+  "website": "https://www.zakumi.io",
+  "aliases": [
+    "ZAFIC",
+    "zafic"
+  ]
+}

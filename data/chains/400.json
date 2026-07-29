@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HyperonChain TestNet",
+  "slug": "hyperonchain-testnet",
+  "chainId": 400,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HyperonChain",
+    "symbol": "HPN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.hyperonchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.hyperonchain.com"
+    }
+  ],
+  "website": "https://docs.hyperonchain.com",
+  "aliases": [
+    "HPN",
+    "hpn"
+  ]
+}

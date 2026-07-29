@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Apertum",
+  "slug": "apertum",
+  "chainId": 2786,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Apertum",
+    "symbol": "APTM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.apertum.io/ext/bc/YDJ1r9RMkewATmA7B35q1bdV18aywzmdiXwd9zGBq3uQjsCnn/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Apertum Explorer",
+      "url": "https://explorer.apertum.io"
+    }
+  ],
+  "website": "https://apertum.io",
+  "aliases": [
+    "APTM",
+    "aptm"
+  ]
+}

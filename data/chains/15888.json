@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitroot",
+  "slug": "bitroot",
+  "chainId": 15888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BRT",
+    "symbol": "BRT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitroot.co",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-rpc.bitroot.co",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitroot Explorer",
+      "url": "https://explorer.bitroot.co"
+    }
+  ],
+  "website": "https://bitroot.co"
+}

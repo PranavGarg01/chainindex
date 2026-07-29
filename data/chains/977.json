@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nepal Blockchain Network",
+  "slug": "nepal-blockchain-network",
+  "chainId": 977,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nepal Blockchain Network Ether",
+    "symbol": "YETI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.nepalblockchain.dev",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.nepalblockchain.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://nepalblockchain.network",
+  "aliases": [
+    "YETI",
+    "yeti"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "name": "KCC",
+  "slug": "kcc",
+  "chainId": 321,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.kcc.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://kcc.mytokenpocket.vip",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kcc-rpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://services.tokenview.io/vipapi/nodeservice/kcs?apikey=qVHq2o6jpaakcw3lRstl",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kcs-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-rpc.blockpi.io/http/kcc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KCC Explorer",
+      "url": "https://explorer.kcc.io/en"
+    }
+  ],
+  "website": "https://kcc.io",
+  "aliases": [
+    "kcs"
+  ]
+}

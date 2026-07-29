@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "QuarkChain Devnet Shard 6",
+  "slug": "quarkchain-devnet-shard-6",
+  "chainId": 110007,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet-s6-ethapi.quarkchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "quarkchain-devnet",
+      "url": "https://devnet.quarkchain.io/6"
+    }
+  ],
+  "website": "https://www.quarkchain.io",
+  "aliases": [
+    "QuarkChain",
+    "qkc-d-s6"
+  ]
+}

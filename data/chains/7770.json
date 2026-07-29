@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PandaSea Testnet",
+  "slug": "pandasea-testnet",
+  "chainId": 7770,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PandaSea Coin",
+    "symbol": "PANDA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.pandasea.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://test.pandaseascan.com"
+    }
+  ],
+  "website": "https://test.pandaseascan.com",
+  "aliases": [
+    "Pandasea-Testnet"
+  ]
+}

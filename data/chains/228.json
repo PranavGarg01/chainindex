@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Mind Network",
+  "slug": "mind-network",
+  "chainId": 228,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.mindnetwork.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://mindnetwork.xyz",
+  "aliases": [
+    "FHE",
+    "fhe"
+  ]
+}

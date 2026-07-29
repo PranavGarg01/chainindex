@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Exorium Testnet",
+  "slug": "exorium-testnet",
+  "chainId": 7957,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EXOR",
+    "symbol": "tEXOR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-1-testnet.exorium.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-2-testnet.exorium.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-testnet.exoscan.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EXORIUM Testnet Explorer",
+      "url": "https://testnet.exoscan.net"
+    }
+  ],
+  "website": "https://exorium.net",
+  "aliases": [
+    "EXOR",
+    "texor"
+  ]
+}

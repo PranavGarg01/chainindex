@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Plian Mainnet Main",
+  "slug": "plian-mainnet-main",
+  "chainId": 2099156,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plian Token",
+    "symbol": "PI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.plian.io/pchain",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "piscan",
+      "url": "https://piscan.plian.org/pchain"
+    }
+  ],
+  "website": "https://plian.org/",
+  "aliases": [
+    "Plian",
+    "plian-mainnet"
+  ]
+}

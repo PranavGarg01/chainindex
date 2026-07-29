@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nxy Oasis",
+  "slug": "nxy-oasis",
+  "chainId": 272520,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nxy",
+    "symbol": "NXY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nxy.social/mainnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nxy Explorer",
+      "url": "https://explorer.nxy.social"
+    }
+  ],
+  "website": "https://nxy.social/l1",
+  "aliases": [
+    "NXY",
+    "nxy"
+  ]
+}

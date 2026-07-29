@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Newton",
+  "slug": "newton",
+  "chainId": 1012,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Newton",
+    "symbol": "NEW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://global.rpc.mainnet.newtonproject.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.newtonproject.org/",
+  "aliases": [
+    "NEW",
+    "new"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Access Network",
+  "slug": "access-network",
+  "chainId": 22888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Access Coin",
+    "symbol": "ACCESS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://accesschain.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Access Network Explorer",
+      "url": "https://accesschain.org/explorer"
+    }
+  ],
+  "website": "https://accesschain.org",
+  "aliases": [
+    "ACCESS",
+    "access"
+  ]
+}

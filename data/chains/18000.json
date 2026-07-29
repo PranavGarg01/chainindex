@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Frontier of Dreams Testnet",
+  "slug": "frontier-of-dreams-testnet",
+  "chainId": 18000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZKST",
+    "symbol": "ZKST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fod.games",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Game Network",
+      "url": "https://explorer.fod.games"
+    }
+  ],
+  "website": "https://goexosphere.com",
+  "aliases": [
+    "Game Network",
+    "ZKST"
+  ]
+}

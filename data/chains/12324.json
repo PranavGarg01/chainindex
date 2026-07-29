@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "L3X Protocol",
+  "slug": "l3x-protocol",
+  "chainId": 12324,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.l3x.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "L3X Mainnet Explorer",
+      "url": "https://explorer.l3x.com"
+    }
+  ],
+  "website": "https://l3x.com",
+  "aliases": [
+    "L3X",
+    "l3x"
+  ]
+}

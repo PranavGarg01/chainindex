@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PointPay",
+  "slug": "pointpay",
+  "chainId": 5511,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PointPay",
+    "symbol": "PXP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.pointpay.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PointPay Mainnet Explorer",
+      "url": "https://explorer.pointpay.io"
+    }
+  ],
+  "website": "https://pointpay.io",
+  "aliases": [
+    "PP"
+  ]
+}

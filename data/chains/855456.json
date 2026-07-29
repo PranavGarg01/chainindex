@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Dodao",
+  "slug": "dodao",
+  "chainId": 855456,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dodao",
+    "symbol": "DODAO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dodao EVM Explorer",
+      "url": "https://evmexplorer.tanssi-chains.network/?rpcUrl=https://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network"
+    },
+    {
+      "name": "Dodao Polkadot Explorer",
+      "url": "https://polkadot.js.org/apps/?rpc=wss://fraa-flashbox-4643-rpc.a.stagenet.tanssi.network#/explorer"
+    }
+  ],
+  "website": "https://dodao.dev/",
+  "aliases": [
+    "EVMCC"
+  ]
+}

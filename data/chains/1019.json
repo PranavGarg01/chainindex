@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "MAI Chain",
+  "slug": "mai-chain",
+  "chainId": 1019,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAI Chain Native Token",
+    "symbol": "MAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-node-0.maichain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-node-1.maichain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-node-2.maichain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "maiscan",
+      "url": "https://maiscan.org"
+    }
+  ],
+  "aliases": [
+    "MAI",
+    "mai"
+  ]
+}

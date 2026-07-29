@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Eclipse Testnet",
+  "slug": "eclipse-testnet",
+  "chainId": 555666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eclipse",
+    "symbol": "ECLPS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/eclipsecha/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ECLIPSE Explorer",
+      "url": "https://subnets-test.avax.network/eclipsecha"
+    }
+  ],
+  "aliases": [
+    "ECLIPSE",
+    "eclipset"
+  ]
+}

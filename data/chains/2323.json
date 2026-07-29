@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "SOMA Network Testnet",
+  "slug": "soma-network-testnet",
+  "chainId": 2323,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SMA",
+    "symbol": "tSMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://data-testnet-v1.somanetwork.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://block-testnet-v1.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-au-server-2.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-au-server-1.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-sg-server-1.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-sg-server-2.somanetwork.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SOMA Testnet Explorer",
+      "url": "https://testnet.somascan.io"
+    }
+  ],
+  "website": "https://somanetwork.io",
+  "aliases": [
+    "SOMA",
+    "sma"
+  ]
+}

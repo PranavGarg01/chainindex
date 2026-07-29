@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "name": "Unichain",
+  "slug": "unichain",
+  "chainId": 130,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.unichain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://unichain.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/unichain",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-unichain-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/unichain",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Unichain Mainnet Explorer",
+      "url": "https://uniscan.xyz"
+    },
+    {
+      "name": "Unichain Mainnet Explorer",
+      "url": "https://unichain.blockscout.com"
+    }
+  ],
+  "website": "https://unichain.org",
+  "aliases": [
+    "ETH"
+  ]
+}

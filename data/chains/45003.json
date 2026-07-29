@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo JUNE-Chain",
+  "slug": "juneo-june-chain",
+  "chainId": 45003,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JUNE",
+    "symbol": "JUNE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/JUNE/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/2"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "JUNE"
+  ]
+}

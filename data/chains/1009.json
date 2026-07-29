@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Jumbochain",
+  "slug": "jumbochain",
+  "chainId": 1009,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JNFTC",
+    "symbol": "JNFTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpcpriv.jumbochain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-datajumbo1.jumbochain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-datajumbo2.jumbochain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-datajumbo3.jumbochain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Jumboscan",
+      "url": "https://jumboscan.jumbochain.org"
+    }
+  ],
+  "website": "https://jumbochain.org",
+  "aliases": [
+    "Jumbo",
+    "Jumboscan"
+  ]
+}

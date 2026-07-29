@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "IOLite",
+  "slug": "iolite",
+  "chainId": 18289463,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IOLite Ether",
+    "symbol": "ILT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://net.iolite.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://iolite.io",
+  "aliases": [
+    "ILT",
+    "ilt"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Star Social Testnet",
+  "slug": "star-social-testnet",
+  "chainId": 700,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Social",
+    "symbol": "SNS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://avastar.cc/ext/bc/C/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "starscan",
+      "url": "https://avastar.info"
+    }
+  ],
+  "website": "https://info.avastar.cc",
+  "aliases": [
+    "SNS"
+  ]
+}

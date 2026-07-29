@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ATRNXOS Chain",
+  "slug": "atrnxos-chain",
+  "chainId": 19966,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATRNXOS",
+    "symbol": "EATB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bas.atrnx.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ATRNXOS Explorer",
+      "url": "https://explorer.bas.atrnx.com"
+    }
+  ],
+  "website": "https://atrnx.org",
+  "aliases": [
+    "ATRNXOS",
+    "atrnxos"
+  ]
+}

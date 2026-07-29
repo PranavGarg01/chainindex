@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Prometheuz Testnet",
+  "slug": "prometheuz-testnet",
+  "chainId": 565,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pyre",
+    "symbol": "PYRE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://explorer.testnet.prometheuz.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Prometheuz Explorer",
+      "url": "https://explorer.testnet.prometheuz.io"
+    }
+  ],
+  "aliases": [
+    "Prometheuz",
+    "prometheuz-testnet"
+  ]
+}

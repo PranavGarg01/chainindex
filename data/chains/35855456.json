@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Joys Digital",
+  "slug": "joys-digital",
+  "chainId": 35855456,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JOYS",
+    "symbol": "JOYS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.joys.digital",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://joys.digital",
+  "aliases": [
+    "JOYS"
+  ]
+}

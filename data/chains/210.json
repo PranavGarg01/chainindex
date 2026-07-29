@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitnet",
+  "slug": "bitnet",
+  "chainId": 210,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitnet",
+    "symbol": "BTN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitnet.money",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.btnscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.btn.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.bitnetmoney.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.btn-network.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitnet Explorer",
+      "url": "https://btnscan.com"
+    }
+  ],
+  "website": "https://bitnet.technology",
+  "aliases": [
+    "BTN"
+  ]
+}

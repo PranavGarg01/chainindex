@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Eventum Testnet",
+  "slug": "eventum-testnet",
+  "chainId": 16182,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.eh-dev.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-blockscout.eh-dev.app"
+    }
+  ],
+  "website": "https://raas.gelato.network/rollups/details/public/event-horizon-eventum-testnet",
+  "aliases": [
+    "eventum-testnet"
+  ]
+}

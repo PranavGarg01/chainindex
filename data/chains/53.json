@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Plato",
+  "slug": "plato",
+  "chainId": 53,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plato USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  "rpc": [
+    {
+      "url": "https://api-mainnet.plato.exchange",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Plato Mainnet Explorer",
+      "url": "https://mainnet.plato.exchange/explorer"
+    }
+  ]
+}

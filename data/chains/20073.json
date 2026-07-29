@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Niza Chain Testnet",
+  "slug": "niza-chain-testnet",
+  "chainId": 20073,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Niza Global",
+    "symbol": "NIZA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.nizascan.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NizaScan",
+      "url": "https://testnet.nizascan.io"
+    }
+  ],
+  "website": "https://niza.io",
+  "aliases": [
+    "NIZA",
+    "niza_testnet"
+  ]
+}

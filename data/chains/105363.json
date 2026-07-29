@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lumoz Chain Testnet",
+  "slug": "lumoz-chain-testnet",
+  "chainId": 105363,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lumoz Testnet Token",
+    "symbol": "MOZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.lumoz.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LumozTestInfo",
+      "url": "https://testnet-scan.lumoz.info"
+    }
+  ],
+  "website": "https://lumoz.org",
+  "aliases": [
+    "ETH",
+    "Lumoz-Chain-Testnet"
+  ]
+}

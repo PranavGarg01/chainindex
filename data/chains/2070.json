@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NeutronX",
+  "slug": "neutronx",
+  "chainId": 2070,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NeutronX",
+    "symbol": "NTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.neutronchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NeutronX Explorer",
+      "url": "https://explorer.neutronchain.io"
+    }
+  ],
+  "website": "https://neutronx.com",
+  "aliases": [
+    "NTX",
+    "ntx"
+  ]
+}

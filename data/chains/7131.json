@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "VRCN Chain",
+  "slug": "vrcn-chain",
+  "chainId": 7131,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VRCN Chain",
+    "symbol": "VRCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet-4.vrcchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "VRC Explorer",
+      "url": "https://explorer.vrcchain.com"
+    },
+    {
+      "name": "VRCNChain",
+      "url": "https://vrcchain.com"
+    },
+    {
+      "name": "dxbchain",
+      "url": "https://dxb.vrcchain.com"
+    }
+  ],
+  "website": "https://vrccoin.com",
+  "aliases": [
+    "VRCN",
+    "vrcn"
+  ]
+}

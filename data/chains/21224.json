@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DCpay Testnet",
+  "slug": "dcpay-testnet",
+  "chainId": 21224,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DCP",
+    "symbol": "DCP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.dcpay.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DCpay Testnet Explorer",
+      "url": "https://testnet.dcpay.io"
+    }
+  ],
+  "website": "https://dcpay.io",
+  "aliases": [
+    "DCpay",
+    "DCPt"
+  ]
+}

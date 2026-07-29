@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "Xone",
+  "slug": "xone",
+  "chainId": 3721,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Xone Coin",
+    "symbol": "XOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.xone.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-node-1.xone.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-node-2.xone.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-node-3.xone.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-node-4.xone.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "xone_main",
+      "url": "https://xonescan.com"
+    }
+  ],
+  "website": "https://xone.org",
+  "aliases": [
+    "XOC"
+  ]
+}

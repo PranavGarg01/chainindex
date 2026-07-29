@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Pego Network",
+  "slug": "pego-network",
+  "chainId": 20201022,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pego Native Token",
+    "symbol": "PG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://pegorpc.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node1.pegorpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node2.pegorpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3.pegorpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pego Network Explorer",
+      "url": "https://scan.pego.network"
+    }
+  ],
+  "website": "https://pego.network",
+  "aliases": [
+    "PEGO",
+    "pg"
+  ]
+}

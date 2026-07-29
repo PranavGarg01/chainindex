@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Sapphire by Unique",
+  "slug": "sapphire-by-unique",
+  "chainId": 8883,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quartz",
+    "symbol": "QTZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-sapphire.unique.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://us-rpc-sapphire.unique.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eu-rpc-sapphire.unique.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://asia-rpc-sapphire.unique.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Unique Scan / Sapphire",
+      "url": "https://uniquescan.io/sapphire"
+    }
+  ],
+  "website": "https://unique.network",
+  "aliases": [
+    "UNQ",
+    "sph"
+  ]
+}

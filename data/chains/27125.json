@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "XferChain Testnet",
+  "slug": "xferchain-testnet",
+  "chainId": 27125,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dapo",
+    "symbol": "Dapo",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.xferchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XferChain Testnet Explorer",
+      "url": "https://testnet.xferchain.org"
+    }
+  ],
+  "website": "https://xferchain.org",
+  "aliases": [
+    "DPt"
+  ]
+}

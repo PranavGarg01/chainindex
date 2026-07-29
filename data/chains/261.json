@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Guru Network Testnet",
+  "slug": "guru-network-testnet",
+  "chainId": 261,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "testGURU",
+    "symbol": "tGURU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-test.gurunetwork.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "guruscan",
+      "url": "https://sepolia.gurunetwork.ai"
+    }
+  ],
+  "website": "https://gurunetwork.ai",
+  "aliases": [
+    "tGURU",
+    "tguru"
+  ]
+}

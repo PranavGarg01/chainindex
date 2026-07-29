@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vention Smart Chain Testnet",
+  "slug": "vention-smart-chain-testnet",
+  "chainId": 741,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VNT",
+    "symbol": "VNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node-testnet.vention.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ventionscan",
+      "url": "https://testnet.ventionscan.io"
+    }
+  ],
+  "website": "https://testnet.ventionscan.io",
+  "aliases": [
+    "VSCT",
+    "vsct"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "StreamuX Blockchain",
+  "slug": "streamux-blockchain",
+  "chainId": 8098,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "StreamuX",
+    "symbol": "SmuX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://u0ma6t6heb:KDNwOsRDGcyM2Oeui1p431Bteb4rvcWkuPgQNHwB4FM@u0xy4x6x82-u0e2mg517m-rpc.us0-aws.kaleido.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.streamux.cloud",
+  "aliases": [
+    "StreamuX"
+  ]
+}

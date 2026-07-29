@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "B2 Testnet",
+  "slug": "b2-testnet",
+  "chainId": 1123,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://b2-testnet.alt.technology",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/b2_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-rpc.bsquared.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-explorer.bsquared.network"
+    }
+  ],
+  "website": "https://www.bsquared.network",
+  "aliases": [
+    "Habitat",
+    "B2-testnet"
+  ]
+}

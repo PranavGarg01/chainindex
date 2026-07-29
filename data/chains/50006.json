@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Yooldo Verse Testnet",
+  "slug": "yooldo-verse-testnet",
+  "chainId": 50006,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.yooldo-verse.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Yooldo Verse Explorer",
+      "url": "https://explorer.testnet.yooldo-verse.xyz"
+    }
+  ],
+  "website": "https://yooldo.gg/",
+  "aliases": [
+    "Yooldo Verse",
+    "YVT"
+  ]
+}

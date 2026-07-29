@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ArmaChain Testnet",
+  "slug": "armachain-testnet",
+  "chainId": 2028,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet ARMA",
+    "symbol": "tARMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.armascan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ArmaScan",
+      "url": "https://armascan.io"
+    }
+  ],
+  "website": "https://armadex.io",
+  "aliases": [
+    "ArmaChain",
+    "arma-testnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Bandai Namco Research Verse",
+  "slug": "bandai-namco-research-verse",
+  "chainId": 876,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.main.oasvrs.bnken.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bandai Namco Research Verse Explorer",
+      "url": "https://explorer.main.oasvrs.bnken.net"
+    }
+  ],
+  "website": "https://www.bandainamco-mirai.com/en/",
+  "aliases": [
+    "BNKEN"
+  ]
+}

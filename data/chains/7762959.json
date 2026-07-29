@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Musicoin",
+  "slug": "musicoin",
+  "chainId": 7762959,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Musicoin",
+    "symbol": "MUSIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mewapi.musicoin.tw",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://musicoin.tw",
+  "aliases": [
+    "MUSIC",
+    "music"
+  ]
+}

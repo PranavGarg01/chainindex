@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Mantle Sepolia Testnet",
+  "slug": "mantle-sepolia-testnet",
+  "chainId": 5003,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Mantle",
+    "symbol": "MNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sepolia.mantle.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/mantle/sepolia/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantle-sepolia.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.sepolia.mantle.xyz"
+    }
+  ],
+  "website": "https://mantle.xyz",
+  "aliases": [
+    "ETH",
+    "mnt-sep"
+  ]
+}

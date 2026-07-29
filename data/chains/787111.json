@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NVNM Testnet EVM",
+  "slug": "nvnm-testnet-evm",
+  "chainId": 787111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MANTRA USD",
+    "symbol": "MANTRAUSD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.testnet.nvnmchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NVNM Chain Testnet explorer",
+      "url": "https://explorer.evm.testnet.nvnmchain.io/"
+    }
+  ],
+  "website": "https://www.nvnmchain.io/",
+  "aliases": [
+    "NVNM",
+    "nvnm-testnet-evm"
+  ]
+}

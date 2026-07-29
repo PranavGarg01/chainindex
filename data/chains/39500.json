@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Cincoin",
+  "slug": "cincoin",
+  "chainId": 39500,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cincoin",
+    "symbol": "CIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cincoin.asia",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "cincoin explorer",
+      "url": "https://scan.cincoin.asia"
+    }
+  ],
+  "website": "https://cincoin.asia",
+  "aliases": [
+    "CIN",
+    "cin"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lovely Network Testnet",
+  "slug": "lovely-network-testnet",
+  "chainId": 307,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lovely",
+    "symbol": "LOVELY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://trpc.lovely.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lovely Network Testnet",
+      "url": "https://tscan.lovely.network"
+    }
+  ],
+  "website": "https://lovely.network",
+  "aliases": [
+    "Lovely",
+    "LOVELY-Testnet"
+  ]
+}

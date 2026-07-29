@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "BOB Sepolia",
+  "slug": "bob-sepolia",
+  "chainId": 808813,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bob-sepolia.rpc.gobob.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://bob-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bobscout",
+      "url": "https://bob-sepolia.explorer.gobob.xyz"
+    }
+  ],
+  "website": "https://gobob.xyz",
+  "aliases": [
+    "ETH",
+    "bob-sepolia"
+  ]
+}

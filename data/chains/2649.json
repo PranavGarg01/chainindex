@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "AILayer",
+  "slug": "ailayer",
+  "chainId": 2649,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.ailayer.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://mainnet-explorer.ailayer.xyz"
+    }
+  ],
+  "website": "https://ailayer.xyz/",
+  "aliases": [
+    "ailayer-mainnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "World Mobile Chain Testnet",
+  "slug": "world-mobile-chain-testnet",
+  "chainId": 323432,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATestingToken",
+    "symbol": "WOMOX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://worldmobile-testnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "World Mobile Testnet Explorer",
+      "url": "https://testnet-explorer.worldmobile.net"
+    }
+  ],
+  "website": "https://worldmobile.io/the-chain",
+  "aliases": [
+    "WOMOX",
+    "WMCTEST"
+  ]
+}

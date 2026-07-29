@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Z Chain",
+  "slug": "z-chain",
+  "chainId": 9369,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Z",
+    "symbol": "Z",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://zscan.live"
+    }
+  ],
+  "website": "https://zero.tech",
+  "aliases": [
+    "Z",
+    "z"
+  ]
+}

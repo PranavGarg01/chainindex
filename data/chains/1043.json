@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Awakening Testnet",
+  "slug": "awakening-testnet",
+  "chainId": 1043,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BlockDAG",
+    "symbol": "BDAG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://relay.awakening.bdagscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockDAG Explorer",
+      "url": "https://awakening.bdagscan.com/"
+    }
+  ],
+  "website": "https://www.blockdag.network/",
+  "aliases": [
+    "BDAG",
+    "bdag"
+  ]
+}

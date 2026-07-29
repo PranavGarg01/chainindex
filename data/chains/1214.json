@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EnterChain",
+  "slug": "enterchain",
+  "chainId": 1214,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EnterCoin",
+    "symbol": "ENTER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tapi.entercoin.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Enter Explorer - Expenter",
+      "url": "https://explorer.entercoin.net"
+    }
+  ],
+  "website": "https://entercoin.net",
+  "aliases": [
+    "ENTER",
+    "enter"
+  ]
+}

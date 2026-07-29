@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CENNZnet Nikau",
+  "slug": "cennznet-nikau",
+  "chainId": 3001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CPAY",
+    "symbol": "CPAY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nikau.centrality.me/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UNcover",
+      "url": "https://www.uncoverexplorer.com/?network=Nikau"
+    }
+  ],
+  "website": "https://cennz.net",
+  "aliases": [
+    "CENNZnet",
+    "cennz-n"
+  ]
+}

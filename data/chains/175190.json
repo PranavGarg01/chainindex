@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Chronicle Loa - Lit Protocol Testnet",
+  "slug": "chronicle-loa-lit-protocol-testnet",
+  "chainId": 175190,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test Lit",
+    "symbol": "tLit",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://loa-rpc.litprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lit Chronicle Loa Explorer",
+      "url": "https://loa-explorer.litprotocol.com"
+    }
+  ],
+  "website": "https://litprotocol.com",
+  "aliases": [
+    "LPL",
+    "lpl"
+  ]
+}

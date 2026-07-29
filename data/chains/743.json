@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Tranched",
+  "slug": "tranched",
+  "chainId": 743,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tranched-mainnet.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tranched Mainnet Caldera Explorer",
+      "url": "https://tranched-mainnet.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://tranched-mainnet.hub.caldera.xyz",
+  "aliases": [
+    "tranched-mainnet"
+  ]
+}

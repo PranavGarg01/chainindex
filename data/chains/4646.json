@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MST",
+  "slug": "mst",
+  "chainId": 4646,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MST Native Coin",
+    "symbol": "MSTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mariorpc.mstblockchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://craftrpc.mstblockchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mstscan",
+      "url": "https://mstscan.com"
+    }
+  ],
+  "website": "https://mstblockchain.com"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Alpha Chain Testnet",
+  "slug": "alpha-chain-testnet",
+  "chainId": 511111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.goalpha.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Alpha Chain Scan",
+      "url": "https://testnet-scan.goalpha.org"
+    }
+  ],
+  "website": "https://docs.alphatoken.com/AlphaChain/about-alpha-chain",
+  "aliases": [
+    "Alpha Chain",
+    "alpha"
+  ]
+}

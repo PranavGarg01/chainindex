@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Jiritsu Testnet Subnet",
+  "slug": "jiritsu-testnet-subnet",
+  "chainId": 11227,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JIRI",
+    "symbol": "TZW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/jiritsutes/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JIRITSUTES Explorer",
+      "url": "https://subnets-test.avax.network/jiritsutes"
+    }
+  ],
+  "website": "https://jiritsu.network",
+  "aliases": [
+    "JIRITSUTES",
+    "jiritsutes"
+  ]
+}

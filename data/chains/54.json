@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Openpiece",
+  "slug": "openpiece",
+  "chainId": 54,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Belly",
+    "symbol": "BELLY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.openpiece.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Belly Scan",
+      "url": "https://bellyscan.com"
+    }
+  ],
+  "website": "https://cryptopiece.online",
+  "aliases": [
+    "OP"
+  ]
+}

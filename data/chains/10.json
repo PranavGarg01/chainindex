@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "name": "OP",
+  "slug": "op",
+  "chainId": 10,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nodeflare.app/op/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet.optimism.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://optimism-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/op",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://opt-mainnet.g.alchemy.com/v2/demo",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.public.blockpi.network/v1/rpc/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.optimism.gateway.fm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.meowrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/opt-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gateway.tenderly.co/public/optimism",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.stateless.solutions/optimism/v1/demo",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/optimism-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://go.getblock.io/e8a75f8dcf614861becfbcb185be6eb4",
+      "isRecommended": false
+    },
+    {
+      "url": "https://opt-mainnet.4everland.org/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/op/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.buildbear.io/esquivelfabian",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.lava.build",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/opt/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-op-mainnet.fastnode.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-optimism-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://optimism.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/optimism",
+      "isRecommended": false
+    },
+    {
+      "url": "https://op-rpc.keccak.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://optimistic.etherscan.io"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://optimism.blockscout.com"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://optimism.dex.guru"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://mainnet.superscan.network"
+    }
+  ],
+  "website": "https://optimism.io",
+  "aliases": [
+    "ETH",
+    "oeth"
+  ]
+}

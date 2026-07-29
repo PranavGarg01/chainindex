@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "MAKI Chain",
+  "slug": "maki-chain",
+  "chainId": 8000008,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.makiai.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://makiai.app",
+  "aliases": [
+    "MAKI",
+    "maki"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "KultChain",
+  "slug": "kultchain",
+  "chainId": 220312,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KultCoin",
+    "symbol": "KLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://kultrpc.kultchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.kultchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KultChain Explorer",
+      "url": "https://explorer.kultchain.com"
+    }
+  ],
+  "website": "https://kultchain.com",
+  "aliases": [
+    "KLT",
+    "klt"
+  ]
+}

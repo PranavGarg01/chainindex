@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Hydra Chain",
+  "slug": "hydra-chain",
+  "chainId": 4488,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hydra",
+    "symbol": "HYDRA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.hydrachain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hydra Chain Mainnet explorer",
+      "url": "https://skynet.hydrachain.org"
+    }
+  ],
+  "website": "https://hydrachain.org",
+  "aliases": [
+    "HYDRA"
+  ]
+}

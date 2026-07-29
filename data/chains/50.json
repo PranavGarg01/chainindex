@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "name": "XDC Network",
+  "slug": "xdc-network",
+  "chainId": 50,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XinFin",
+    "symbol": "XDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.xdcrpc.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.xinfin.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://erpc.xinfin.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://erpc.xdcrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.xdc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.xdc.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://earpc.xinfin.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/xdc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://xdc-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-xdc-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.xinfin.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "xdcscan",
+      "url": "https://xdcscan.com"
+    },
+    {
+      "name": "openscan",
+      "url": "https://xdcscan.io"
+    }
+  ],
+  "website": "https://xinfin.org",
+  "aliases": [
+    "XDC",
+    "xdc"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SX Network",
+  "slug": "sx-network",
+  "chainId": 416,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SX Network",
+    "symbol": "SX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sx.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SX Network Explorer",
+      "url": "https://explorer.sx.technology"
+    }
+  ],
+  "website": "https://www.sx.technology",
+  "aliases": [
+    "SX"
+  ]
+}

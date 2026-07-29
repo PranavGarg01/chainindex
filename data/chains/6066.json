@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Tres",
+  "slug": "tres",
+  "chainId": 6066,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TRES",
+    "symbol": "TRES",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tresleches.finance",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.treschain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "treslechesexplorer",
+      "url": "https://explorer.tresleches.finance"
+    }
+  ],
+  "website": "https://treschain.com",
+  "aliases": [
+    "TresLeches",
+    "TRESMAIN"
+  ]
+}

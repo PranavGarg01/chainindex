@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Algen Layer2",
+  "slug": "algen-layer2",
+  "chainId": 8921,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ALG",
+    "symbol": "ALG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.alg2.algen.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "algl2scan",
+      "url": "https://scan.alg2.algen.network"
+    }
+  ],
+  "website": "https://www.algen.network",
+  "aliases": [
+    "ALG L2",
+    "algl2"
+  ]
+}

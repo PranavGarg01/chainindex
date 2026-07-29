@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NVNM Mainnet EVM",
+  "slug": "nvnm-mainnet-evm",
+  "chainId": 1611,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MANTRA USD",
+    "symbol": "MANTRAUSD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.nvnmchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NVNM Chain Mainnet explorer",
+      "url": "https://explorer.evm.nvnmchain.io/"
+    }
+  ],
+  "website": "https://www.nvnmchain.io/",
+  "aliases": [
+    "NVNM",
+    "nvnm-evm"
+  ]
+}

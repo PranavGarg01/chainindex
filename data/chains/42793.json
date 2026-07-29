@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Etherlink",
+  "slug": "etherlink",
+  "chainId": 42793,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tez",
+    "symbol": "XTZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.mainnet.etherlink.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/etherlink_mainnet",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Etherlink Explorer",
+      "url": "https://explorer.etherlink.com"
+    }
+  ],
+  "website": "https://etherlink.com",
+  "aliases": [
+    "etlk"
+  ]
+}

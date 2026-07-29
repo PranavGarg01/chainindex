@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Integra",
+  "slug": "integra",
+  "chainId": 26217,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Integra",
+    "symbol": "IRL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.integralayer.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Integra Explorer",
+      "url": "https://scan.integralayer.com"
+    },
+    {
+      "name": "Integra Blockscout",
+      "url": "https://blockscout.integralayer.com"
+    }
+  ],
+  "website": "https://integralayer.com"
+}

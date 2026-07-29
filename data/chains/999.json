@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "name": "HyperEVM",
+  "slug": "hyperevm",
+  "chainId": 999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HYPE",
+    "symbol": "HYPE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nodeflare.app/hl/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://hyperevm.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.hyperliquid.xyz/evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.hypurrscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hyperliquid-json-rpc.stakely.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hyperliquid.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.hyperlend.finance",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hyperliquid.api.onfinality.io/evm/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hyperliquid.rpc.blxrbdn.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HyperEVMScan",
+      "url": "https://hyperevmscan.io/"
+    }
+  ],
+  "website": "https://hyperfoundation.org/",
+  "aliases": [
+    "HYPE",
+    "hyper_evm"
+  ]
+}

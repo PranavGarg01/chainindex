@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "CX Chain",
+  "slug": "cx-chain",
+  "chainId": 737373,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CX",
+    "symbol": "CX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://katana-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://subnets.avax.network/cx/mainnet/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CX Chain Mainnet Explorer",
+      "url": "https://subnets.avax.network/cx"
+    }
+  ],
+  "website": "https://www.cxchain.xyz/",
+  "aliases": [
+    "CX",
+    "cx"
+  ]
+}

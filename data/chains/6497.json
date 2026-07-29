@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MIZUHIKI Testnet Awaji",
+  "slug": "mizuhiki-testnet-awaji",
+  "chainId": 6497,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MIZU",
+    "symbol": "MIZU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.awaji.mizuhiki.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://awaji.blockscout.com"
+    }
+  ],
+  "website": "https://mizuhiki.io/",
+  "aliases": [
+    "MIZU",
+    "awaji"
+  ]
+}

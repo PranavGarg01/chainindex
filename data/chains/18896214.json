@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Crynux on Base",
+  "slug": "crynux-on-base",
+  "chainId": 18896214,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Crynux",
+    "symbol": "CNX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.base.crynux.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://crynux.io",
+  "aliases": [
+    "ETH",
+    "crynux-base"
+  ]
+}

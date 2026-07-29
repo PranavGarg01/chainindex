@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HAPchain Testnet",
+  "slug": "hapchain-testnet",
+  "chainId": 373737,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HAP",
+    "symbol": "HAP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonrpc-test.hap.land",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HAP EVM Explorer (Blockscout)",
+      "url": "https://blockscout-test.hap.land"
+    }
+  ],
+  "website": "https://hap.land",
+  "aliases": [
+    "HAPchain",
+    "hap-testnet"
+  ]
+}

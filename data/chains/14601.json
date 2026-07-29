@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Sonic Testnet",
+  "slug": "sonic-testnet",
+  "chainId": 14601,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sonic-testnet-v2.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.testnet.soniclabs.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sonic Testnet Explorer",
+      "url": "https://explorer.testnet.soniclabs.com"
+    }
+  ],
+  "website": "https://testnet.soniclabs.com",
+  "aliases": [
+    "sonic-testnet"
+  ]
+}

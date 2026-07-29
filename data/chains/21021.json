@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Flashnet",
+  "slug": "flashnet",
+  "chainId": 21021,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.flashnet.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://flashnet.xyz"
+}

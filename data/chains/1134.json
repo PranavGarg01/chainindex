@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "StateMesh",
+  "slug": "statemesh",
+  "chainId": 1134,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "StateMesh",
+    "symbol": "MESH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.statemesh.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.statemesh.net"
+    }
+  ],
+  "website": "https://statemesh.net",
+  "aliases": [
+    "MESH",
+    "mesh"
+  ]
+}

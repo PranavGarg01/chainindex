@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Energi",
+  "slug": "energi",
+  "chainId": 39797,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Energi",
+    "symbol": "NRG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nodeapi.energi.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://explorer.energi.network/api/eth-rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.energi.world/",
+  "aliases": [
+    "NRG",
+    "nrg"
+  ]
+}

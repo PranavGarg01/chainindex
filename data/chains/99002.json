@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Mars",
+  "slug": "mars",
+  "chainId": 99002,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mars Coin",
+    "symbol": "MC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mars.free.nf/rpc.php",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MarsScan",
+      "url": "https://mars.free.nf/explorer.php"
+    }
+  ],
+  "aliases": [
+    "MC"
+  ]
+}

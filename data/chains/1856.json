@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Teslafunds",
+  "slug": "teslafunds",
+  "chainId": 1856,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Teslafunds Ether",
+    "symbol": "TSF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tsfapi.europool.me",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://teslafunds.io",
+  "aliases": [
+    "TSF",
+    "tsf"
+  ]
+}

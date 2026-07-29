@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Eden testnet",
+  "slug": "eden-testnet",
+  "chainId": 3735928814,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.eden.gateway.fm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Eden Testnet Explorer",
+      "url": "https://eden-testnet.blockscout.com"
+    }
+  ],
+  "aliases": [
+    "edent"
+  ]
+}

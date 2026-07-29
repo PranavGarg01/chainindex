@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Milkomeda C1",
+  "slug": "milkomeda-c1",
+  "chainId": 2001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "milkAda",
+    "symbol": "mADA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com"
+    }
+  ],
+  "website": "https://milkomeda.com",
+  "aliases": [
+    "milkAda"
+  ]
+}

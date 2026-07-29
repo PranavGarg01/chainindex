@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Treasurenet Testnet",
+  "slug": "treasurenet-testnet",
+  "chainId": 5005,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UNIT",
+    "symbol": "UNIT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node0.testnet.treasurenet.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node1.testnet.treasurenet.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node2.testnet.treasurenet.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3.testnet.treasurenet.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Treasurenet EVM BlockExplorer",
+      "url": "https://evmexplorer.testnet.treasurenet.io"
+    }
+  ],
+  "website": "https://www.testnet.treasurenet.io",
+  "aliases": [
+    "tntest"
+  ]
+}

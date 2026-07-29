@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "ChooChain",
+  "slug": "choochain",
+  "chainId": 247,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ChooChain Token",
+    "symbol": "CHOO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.choochain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ChooChain Explorer",
+      "url": "https://blocks.choochain.io"
+    }
+  ],
+  "website": "https://github.com/Trinketz/ChooChain",
+  "aliases": [
+    "CHOO",
+    "choo",
+    "ChooChain Mainnet"
+  ]
+}

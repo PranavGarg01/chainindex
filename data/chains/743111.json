@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Hemi Sepolia",
+  "slug": "hemi-sepolia",
+  "chainId": 743111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hemi-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet.rpc.hemi.network/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.explorer.hemi.xyz"
+    }
+  ],
+  "website": "https://hemi.xyz",
+  "aliases": [
+    "ETH",
+    "hemi-sep"
+  ]
+}

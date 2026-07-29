@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Venidium Testnet",
+  "slug": "venidium-testnet",
+  "chainId": 4918,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Venidium",
+    "symbol": "XVM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-evm-testnet.venidium.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Venidium EVM Testnet Explorer",
+      "url": "https://evm-testnet.venidiumexplorer.com"
+    }
+  ],
+  "website": "https://venidium.io",
+  "aliases": [
+    "XVM",
+    "txvm"
+  ]
+}

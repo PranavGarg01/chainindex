@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitcoin Protocol Testnet",
+  "slug": "bitcoin-protocol-testnet",
+  "chainId": 1227,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC Protocol",
+    "symbol": "BTCP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-chain.btcprotocol.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BTCP explorer",
+      "url": "https://explorer.btcprotocol.io"
+    }
+  ],
+  "website": "https://btcprotocol.io/",
+  "aliases": [
+    "BTCP Testnet",
+    "BTCP"
+  ]
+}

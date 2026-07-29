@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Telos EVM Testnet",
+  "slug": "telos-evm-testnet",
+  "chainId": 41,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.telos.net/evm",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.testnet.telos.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://telos-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "teloscan",
+      "url": "https://testnet.teloscan.io"
+    }
+  ],
+  "website": "https://telos.net",
+  "aliases": [
+    "TLOS",
+    "TelosEVMTestnet"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Step Network",
+  "slug": "step-network",
+  "chainId": 1234,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FITFI",
+    "symbol": "FITFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.step.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "StepScan",
+      "url": "https://stepscan.io"
+    }
+  ],
+  "website": "https://step.network",
+  "aliases": [
+    "STEP",
+    "step",
+    "Step Main Network"
+  ]
+}

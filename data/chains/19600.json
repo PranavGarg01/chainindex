@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "LBRY",
+  "slug": "lbry",
+  "chainId": 19600,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LBRY Credits",
+    "symbol": "LBC",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://lbry.nl/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LBRY Block Explorer",
+      "url": "https://explorer.lbry.com"
+    }
+  ],
+  "website": "https://lbry.com"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethos",
+  "slug": "ethos",
+  "chainId": 100000000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETHOS",
+    "symbol": "ETHOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ethos.cool",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ethos scan",
+      "url": "https://scan.ethos.cool"
+    }
+  ],
+  "website": "https://ethos.cool"
+}

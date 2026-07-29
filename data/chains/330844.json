@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TTcoin Smart Chain",
+  "slug": "ttcoin-smart-chain",
+  "chainId": 330844,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TTcoin",
+    "symbol": "TC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.tscscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TTcoin Smart Chain Explorer",
+      "url": "https://tscscan.com"
+    }
+  ],
+  "website": "https://ttcoin.info/",
+  "aliases": [
+    "TSC",
+    "tc"
+  ]
+}

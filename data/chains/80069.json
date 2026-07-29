@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Berachain Bepolia",
+  "slug": "berachain-bepolia",
+  "chainId": 80069,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet BERA Token",
+    "symbol": "BERA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://berachain-bepolia.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://berachain-bepolia.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bepolia.rpc.berachain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Beratrail",
+      "url": "https://bepolia.beratrail.io"
+    }
+  ],
+  "website": "https://www.berachain.com",
+  "aliases": [
+    "Berachain",
+    "berachain-bepolia"
+  ]
+}

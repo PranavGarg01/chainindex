@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Taycan",
+  "slug": "taycan",
+  "chainId": 22023,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "shuffle",
+    "symbol": "SFL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://taycan-rpc.hupayx.io:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Taycan Explorer(Blockscout)",
+      "url": "https://taycan-evmscan.hupayx.io"
+    },
+    {
+      "name": "Taycan Cosmos Explorer(BigDipper)",
+      "url": "https://taycan-cosmoscan.hupayx.io"
+    }
+  ],
+  "website": "https://hupayx.io",
+  "aliases": [
+    "SFL"
+  ]
+}

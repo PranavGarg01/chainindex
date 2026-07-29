@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "name": "Moonbeam",
+  "slug": "moonbeam",
+  "chainId": 1284,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Glimmer",
+    "symbol": "GLMR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.api.moonbeam.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://moonbeam.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam.unitedbloc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/glmr",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam-rpc.dwellir.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/moonbeam/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam.public.curie.radiumblock.co/ws",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/moonbeam",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node.histori.xyz/moonbeam-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/moonbeam",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam.public.blastapi.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "moonscan",
+      "url": "https://moonbeam.moonscan.io"
+    }
+  ],
+  "website": "https://moonbeam.network/networks/moonbeam/",
+  "aliases": [
+    "MOON",
+    "mbeam"
+  ]
+}

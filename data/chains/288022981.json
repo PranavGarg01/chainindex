@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "SLCChain",
+  "slug": "slcchain",
+  "chainId": 288022981,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Super Link Coin",
+    "symbol": "SLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.sl.cool",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.sl.cool",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.sl.cool",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc4.sl.cool",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc5.sl.cool",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc6.sl.cool",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "slcscan",
+      "url": "https://scan.sl.cool"
+    }
+  ],
+  "website": "https://sl.cool",
+  "aliases": [
+    "Openverse",
+    "slcchain-mainnet"
+  ]
+}

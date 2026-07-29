@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mandala Chain Testnet",
+  "slug": "mandala-chain-testnet",
+  "chainId": 20011,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-testnet.mandalachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.testnet.mandalachain.io"
+    }
+  ],
+  "website": "https://mandalachain.io",
+  "aliases": [
+    "MANDALA",
+    "mandala-testnet"
+  ]
+}

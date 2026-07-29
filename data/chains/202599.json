@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "JuChain Testnet",
+  "slug": "juchain-testnet",
+  "chainId": 202599,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JUcoin",
+    "symbol": "JU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.juchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "juscan-testnet",
+      "url": "https://testnet.juscan.io"
+    }
+  ],
+  "website": "https://juchain.org",
+  "aliases": [
+    "JU",
+    "ju"
+  ]
+}

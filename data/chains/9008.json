@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Shido Network",
+  "slug": "shido-network",
+  "chainId": 9008,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shido",
+    "symbol": "SHIDO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://shido-mainnet-archive-lb-nw5es9.zeeve.net/USjg7xqUmCZ4wCsqEOOE/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm.shidoscan.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Shidoscan",
+      "url": "https://shidoscan.com"
+    }
+  ],
+  "website": "https://shido.io",
+  "aliases": [
+    "Shido Mainnet",
+    "Shido"
+  ]
+}

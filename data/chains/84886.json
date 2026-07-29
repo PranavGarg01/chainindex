@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Aerie Network",
+  "slug": "aerie-network",
+  "chainId": 84886,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aerie",
+    "symbol": "AER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.aerielab.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Aerie Explorer",
+      "url": "https://explorer.aerielab.io"
+    }
+  ],
+  "website": "https://aerielab.io/",
+  "aliases": [
+    "Aerie"
+  ]
+}

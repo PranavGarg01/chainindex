@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "GoodData",
+  "slug": "gooddata",
+  "chainId": 33,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GoodData Mainnet Ether",
+    "symbol": "GooD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.goodata.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.goodata.org",
+  "aliases": [
+    "GooD"
+  ]
+}

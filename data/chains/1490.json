@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Vitruveo",
+  "slug": "vitruveo",
+  "chainId": 1490,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vitruveo Coin",
+    "symbol": "VTRU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.vitruveo.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vitruveo Explorer",
+      "url": "https://explorer.vitruveo.xyz"
+    }
+  ],
+  "website": "https://www.vitruveo.xyz",
+  "aliases": [
+    "Vitruveo is a blockchain for Creators"
+  ]
+}

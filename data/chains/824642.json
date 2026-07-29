@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ZugChain Testnet",
+  "slug": "zugchain-testnet",
+  "chainId": 824642,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZUG",
+    "symbol": "ZUG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zugchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZugChain Explorer",
+      "url": "https://explorer.zugchain.org"
+    }
+  ],
+  "website": "https://zugchain.org",
+  "aliases": [
+    "ZUG",
+    "zug"
+  ]
+}

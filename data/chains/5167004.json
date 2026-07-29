@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Moonchain Geneva Testnet",
+  "slug": "moonchain-geneva-testnet",
+  "chainId": 5167004,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Moonchain Geneva Testnet",
+    "symbol": "MXC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://geneva-rpc.moonchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Moonchain Geneva Testnet",
+      "url": "https://geneva-explorer.moonchain.com"
+    }
+  ],
+  "website": "https://doc.mxc.com/docs/intro",
+  "aliases": [
+    "MXC zkEVM",
+    "MXC"
+  ]
+}

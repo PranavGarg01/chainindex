@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PLYR TAU Testnet",
+  "slug": "plyr-tau-testnet",
+  "chainId": 62831,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PLYR",
+    "symbol": "PLYR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/plyr/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PLYR TAU Explorer",
+      "url": "https://explorer-testnet.plyr.network"
+    }
+  ],
+  "website": "https://plyr.network",
+  "aliases": [
+    "PLYR",
+    "plyr-tau-testnet"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "WorldLand",
+  "slug": "worldland",
+  "chainId": 103,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Worldland",
+    "symbol": "WLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://seoul.worldland.foundation",
+      "isRecommended": true
+    },
+    {
+      "url": "https://seoul2.worldland.foundation",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Worldland Explorer",
+      "url": "https://scan.worldland.foundation"
+    }
+  ],
+  "website": "https://worldland.foundation",
+  "aliases": [
+    "WLC"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Hammer Chain",
+  "slug": "hammer-chain",
+  "chainId": 25888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GOLDT",
+    "symbol": "GOLDT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://www.hammerchain.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hammer Chain Explorer",
+      "url": "https://www.hammerchain.io"
+    }
+  ],
+  "website": "https://www.hammerchain.io",
+  "aliases": [
+    "HammerChain",
+    "GOLDT"
+  ]
+}

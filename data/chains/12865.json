@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Liberland testnet",
+  "slug": "liberland-testnet",
+  "chainId": 12865,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Liberland Dollar",
+    "symbol": "LDN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.liberland.org:9944",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://testnet.liberland.org",
+  "aliases": [
+    "LLT",
+    "liberland-testnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "IBVM",
+  "slug": "ibvm",
+  "chainId": 2105,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IBVM",
+    "symbol": "IBVM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.ibvm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IBVM explorer",
+      "url": "https://ibvmscan.io"
+    }
+  ],
+  "website": "https://ibvm.io/",
+  "aliases": [
+    "IBVM Mainnet"
+  ]
+}

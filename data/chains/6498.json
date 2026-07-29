@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "MIZUHIKI",
+  "slug": "mizuhiki",
+  "chainId": 6498,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MIZU",
+    "symbol": "MIZU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mizuhiki.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.mizuhiki.io"
+    }
+  ],
+  "website": "https://mizuhiki.io/",
+  "aliases": [
+    "MIZU"
+  ]
+}

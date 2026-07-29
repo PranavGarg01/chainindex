@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Chang Chain Foundation",
+  "slug": "chang-chain-foundation",
+  "chainId": 5858,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Chang Coin Thailand",
+    "symbol": "CTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cthscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CTH Scan",
+      "url": "https://cthscan.com"
+    }
+  ],
+  "website": "https://changcoin.foundation/",
+  "aliases": [
+    "ChangChain"
+  ]
+}

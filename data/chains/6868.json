@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Pools",
+  "slug": "pools",
+  "chainId": 6868,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POOLS Native Token",
+    "symbol": "POOLS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.poolsmobility.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "poolsscan",
+      "url": "https://scan.poolsmobility.com"
+    }
+  ],
+  "website": "https://www.poolschain.org"
+}

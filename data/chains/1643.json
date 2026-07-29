@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "XGR",
+  "slug": "xgr",
+  "chainId": 1643,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XGR",
+    "symbol": "XGR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.xgr.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.xgr.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.xgr.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XGR Explorer",
+      "url": "https://explorer.xgr.network"
+    }
+  ],
+  "website": "https://xgr.network"
+}

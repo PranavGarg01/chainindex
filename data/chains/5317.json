@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OpTrust Testnet",
+  "slug": "optrust-testnet",
+  "chainId": 5317,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TestBSC",
+    "symbol": "tBNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpctest.optrust.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OpTrust Testnet explorer",
+      "url": "https://scantest.optrust.io"
+    }
+  ],
+  "website": "https://optrust.io",
+  "aliases": [
+    "OpTrust",
+    "toptrust"
+  ]
+}

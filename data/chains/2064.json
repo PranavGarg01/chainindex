@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MFX Network",
+  "slug": "mfx-network",
+  "chainId": 2064,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MFX",
+    "symbol": "MFX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mfx.network/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MFX Explorer",
+      "url": "https://explorer.mfx.network"
+    }
+  ],
+  "website": "https://docs.mfx.network/integration.html",
+  "aliases": [
+    "MFX",
+    "mfx"
+  ]
+}

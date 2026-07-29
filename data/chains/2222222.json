@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Coinweb BNB shard",
+  "slug": "coinweb-bnb-shard",
+  "chainId": 2222222,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CWEB",
+    "symbol": "CWEB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api-cloud.coinweb.io/eth-rpc-service/bnb",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Coinweb block explorer",
+      "url": "https://explorer.coinweb.io"
+    }
+  ],
+  "website": "https://coinweb.io",
+  "aliases": [
+    "CWEB BNB",
+    "cweb-bnb"
+  ]
+}

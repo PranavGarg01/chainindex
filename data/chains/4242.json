@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexi",
+  "slug": "nexi",
+  "chainId": 4242,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nexi",
+    "symbol": "NEXI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.chain.nexi.technology",
+      "isRecommended": true
+    },
+    {
+      "url": "https://chain.nexilix.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://chain.nexi.evmnode.online",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "nexiscan",
+      "url": "https://www.nexiscan.com"
+    }
+  ],
+  "website": "https://www.nexi.technology/"
+}

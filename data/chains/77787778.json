@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "0xHash Testnet",
+  "slug": "0xhash-testnet",
+  "chainId": 77787778,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "0xHash",
+    "symbol": "HETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-test.0xhash.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://test.0xhashscan.io"
+    }
+  ],
+  "website": "https://0xhash.io",
+  "aliases": [
+    "HETH"
+  ]
+}

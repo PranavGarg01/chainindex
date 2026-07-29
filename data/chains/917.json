@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Rinia",
+  "slug": "rinia",
+  "chainId": 917,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Firechain",
+    "symbol": "FIRE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rinia-rpc1.thefirechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-rinia.firestation.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FireScan",
+      "url": "https://rinia.firescan.io"
+    }
+  ],
+  "website": "https://thefirechain.com",
+  "aliases": [
+    "FIRE",
+    "tfire",
+    "Firechain Testnet Rinia"
+  ]
+}

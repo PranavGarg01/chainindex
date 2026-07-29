@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "Sei Network",
+  "slug": "sei-network",
+  "chainId": 1329,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sei",
+    "symbol": "SEI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.sei-apis.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://sei.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sei-evm-rpc.stakeme.pro",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sei-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sei.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sei.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/sei",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Seiscan",
+      "url": "https://seiscan.io"
+    }
+  ],
+  "website": "https://www.sei.io",
+  "aliases": [
+    "Sei",
+    "sei"
+  ]
+}

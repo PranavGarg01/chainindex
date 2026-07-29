@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BinaryChain Testnet",
+  "slug": "binarychain-testnet",
+  "chainId": 9876,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BINARY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpctestnet.binarychain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BinaryChain Testnet Explorer",
+      "url": "https://explorer.testnet.binarychain.org"
+    }
+  ],
+  "website": "https://binarychain.org",
+  "aliases": [
+    "BinaryChain",
+    "binarytestnet"
+  ]
+}

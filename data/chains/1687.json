@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mint Sepolia Testnet",
+  "slug": "mint-sepolia-testnet",
+  "chainId": 1687,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-testnet-rpc.mintchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sepolia-testnet-explorer.mintchain.io"
+    }
+  ],
+  "website": "https://www.mintchain.io",
+  "aliases": [
+    "ETH",
+    "mintsepoliatest"
+  ]
+}

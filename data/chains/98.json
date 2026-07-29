@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Six Protocol",
+  "slug": "six-protocol",
+  "chainId": 98,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SIX evm token",
+    "symbol": "SIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sixnet-rpc-evm.sixprotocol.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SIX Scan",
+      "url": "https://sixscan.io/sixnet"
+    }
+  ],
+  "website": "https://six.network/",
+  "aliases": [
+    "SIXNET",
+    "six"
+  ]
+}

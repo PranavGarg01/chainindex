@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "One World Chain",
+  "slug": "one-world-chain",
+  "chainId": 309075,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OWCT",
+    "symbol": "OWCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.oneworldchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "One World Chain Mainnet Explorer",
+      "url": "https://mainnet.oneworldchain.org"
+    }
+  ],
+  "website": "https://oneworldchain.org",
+  "aliases": [
+    "OWCTm"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Alaya Dev Testnet",
+  "slug": "alaya-dev-testnet",
+  "chainId": 201030,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATP",
+    "symbol": "atp",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnetopenapi.alaya.network/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "alaya explorer",
+      "url": "https://devnetscan.alaya.network"
+    }
+  ],
+  "website": "https://www.alaya.network/",
+  "aliases": [
+    "Alaya",
+    "alayadev"
+  ]
+}

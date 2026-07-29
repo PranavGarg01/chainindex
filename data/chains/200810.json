@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitlayer Testnet",
+  "slug": "bitlayer-testnet",
+  "chainId": 200810,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/bitlayer_testnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-rpc.bitlayer.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-rpc.bitlayer-rpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bitlayer testnet scan",
+      "url": "https://testnet.btrscan.com"
+    }
+  ],
+  "website": "https://docs.bitlayer.org/",
+  "aliases": [
+    "Bitlayer",
+    "btrt"
+  ]
+}

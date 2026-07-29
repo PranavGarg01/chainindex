@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Edgeless Testnet",
+  "slug": "edgeless-testnet",
+  "chainId": 202,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Edgeless Wrapped Eth",
+    "symbol": "EwEth",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.edgeless.network/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Edgeless Explorer",
+      "url": "https://testnet.explorer.edgeless.network"
+    }
+  ],
+  "website": "https://edgeless.network",
+  "aliases": [
+    "EdgelessTestnet",
+    "edgeless-testnet"
+  ]
+}

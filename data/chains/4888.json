@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BlackFort Exchange Network Testnet",
+  "slug": "blackfort-exchange-network-testnet",
+  "chainId": 4888,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BlackFort Testnet Token",
+    "symbol": "BXNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blackfort.network/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.blackfortscan.com"
+    }
+  ],
+  "website": "https://blackfort.com",
+  "aliases": [
+    "BXNT"
+  ]
+}

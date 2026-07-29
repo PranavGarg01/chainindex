@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "IoTeX Network Testnet",
+  "slug": "iotex-network-testnet",
+  "chainId": 4690,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://babel-api.testnet.iotex.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "testnet iotexscan",
+      "url": "https://testnet.iotexscan.io"
+    }
+  ],
+  "website": "https://iotex.io",
+  "aliases": [
+    "iotex.io",
+    "iotex-testnet"
+  ]
+}

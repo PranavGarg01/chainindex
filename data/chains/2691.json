@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Splendor",
+  "slug": "splendor",
+  "chainId": 2691,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Splendor Token",
+    "symbol": "SPLD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.splendor.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://splendor-rpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Splendor Explorer",
+      "url": "https://explorer.splendor.org"
+    }
+  ],
+  "website": "https://splendor.org",
+  "aliases": [
+    "spld"
+  ]
+}

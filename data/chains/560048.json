@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethereum Hoodi",
+  "slug": "ethereum-hoodi",
+  "chainId": 560048,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hoodi Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hoodi.ethpandaops.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://0xrpc.io/hoodi",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ethereum-hoodi.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hoodi.rpc.sentio.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dora",
+      "url": "https://light-hoodi.beaconcha.in"
+    }
+  ],
+  "website": "https://hoodi.ethpandaops.io",
+  "aliases": [
+    "ETH",
+    "hoe",
+    "Ethereum Testnet Hoodi"
+  ]
+}

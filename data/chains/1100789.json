@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Netmind Chain Testnet",
+  "slug": "netmind-chain-testnet",
+  "chainId": 1100789,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NMT",
+    "symbol": "NMT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testblock.protago-dev.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NetMind Testnet Explorer",
+      "url": "https://testbrower.protago-dev.com"
+    }
+  ],
+  "website": "https://netmind.ai",
+  "aliases": [
+    "NetMind",
+    "nmtTest"
+  ]
+}

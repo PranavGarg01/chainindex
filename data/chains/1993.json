@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "B3 Sepolia Testnet",
+  "slug": "b3-sepolia-testnet",
+  "chainId": 1993,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.b3.fun",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://sepolia.explorer.b3.fun"
+    }
+  ],
+  "website": "https://b3.fun",
+  "aliases": [
+    "b3-sepolia"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PAWCHAIN Testnet",
+  "slug": "pawchain-testnet",
+  "chainId": 542,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PAW",
+    "symbol": "PAW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://pawchainx.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PAWCHAIN Testnet",
+      "url": "https://pawscan.io"
+    }
+  ],
+  "website": "https://pawchainx.com/",
+  "aliases": [
+    "PAW"
+  ]
+}

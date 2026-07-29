@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Polkadot",
+  "slug": "polkadot",
+  "chainId": 420420419,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOT",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://services.polkadothub-rpc.com/mainnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://eth-rpc.polkadot.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.polkadot.io"
+    },
+    {
+      "name": "routescan",
+      "url": "https://polkadot.routescan.io"
+    }
+  ],
+  "website": "https://polkadot.com",
+  "aliases": [
+    "DOT",
+    "dot"
+  ]
+}

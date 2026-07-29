@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BSOS Chain",
+  "slug": "bsos-chain",
+  "chainId": 77888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BSOS",
+    "symbol": "BSOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.one.bsos.co",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BSOS Chain Explorer",
+      "url": "https://explorer.one.bsos.co"
+    }
+  ],
+  "website": "https://www.bsos.co",
+  "aliases": [
+    "BSOS",
+    "bsos"
+  ]
+}

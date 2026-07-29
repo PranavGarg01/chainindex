@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "zeroone Mainnet Subnet",
+  "slug": "zeroone-mainnet-subnet",
+  "chainId": 27827,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "ZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/zeroonemai/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZEROONEMAI Explorer",
+      "url": "https://subnets.avax.network/zeroonemai"
+    }
+  ],
+  "website": "https://zeroone.art/",
+  "aliases": [
+    "ZEROONEMAI",
+    "zeroonemai"
+  ]
+}

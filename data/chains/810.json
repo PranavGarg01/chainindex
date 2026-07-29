@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Haven1 Testnet",
+  "slug": "haven1-testnet",
+  "chainId": 810,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Haven1",
+    "symbol": "H1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.haven1.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Haven1 Explorer",
+      "url": "https://testnet-explorer.haven1.org"
+    }
+  ],
+  "website": "https://www.haven1.org",
+  "aliases": [
+    "haven1",
+    "h1"
+  ]
+}

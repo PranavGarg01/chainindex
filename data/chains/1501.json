@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "BEVM Canary",
+  "slug": "bevm-canary",
+  "chainId": 1501,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-canary-1.bevm.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-canary-2.bevm.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bevm canary scan",
+      "url": "https://scan-canary.bevm.io"
+    }
+  ],
+  "website": "https://chainx.org",
+  "aliases": [
+    "ChainX",
+    "chainx"
+  ]
+}

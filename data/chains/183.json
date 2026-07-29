@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethernity",
+  "slug": "ethernity",
+  "chainId": 183,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.ethernitychain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ethernity Explorer",
+      "url": "https://ernscan.io"
+    }
+  ],
+  "website": "https://www.ethernity.io",
+  "aliases": [
+    "ethernity-mainnet"
+  ]
+}

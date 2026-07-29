@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Eclat",
+  "slug": "eclat",
+  "chainId": 165279,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eclat",
+    "symbol": "ECLAT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.eclatscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Eclat Mainnet Explorer",
+      "url": "https://eclatscan.com"
+    }
+  ],
+  "website": "https://eclatscan.com"
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Stable",
+  "slug": "stable",
+  "chainId": 988,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://stable-mainnet.rpc.sentio.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://stable.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.stable.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "stablescan",
+      "url": "https://stablescan.xyz"
+    }
+  ],
+  "website": "https://stable.xyz"
+}

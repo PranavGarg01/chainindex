@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethersocial Network",
+  "slug": "ethersocial-network",
+  "chainId": 31102,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethersocial Network Ether",
+    "symbol": "ESN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.esn.gonspool.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ethersocial.org",
+  "aliases": [
+    "ESN",
+    "esn"
+  ]
+}

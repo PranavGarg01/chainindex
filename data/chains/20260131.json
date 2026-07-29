@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Meta Assets Chain",
+  "slug": "meta-assets-chain",
+  "chainId": 20260131,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MetaAssets",
+    "symbol": "MA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ma-chain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Meta Assets Chain Explorer",
+      "url": "https://ma-chain.xyz"
+    }
+  ],
+  "website": "https://ma-chain.xyz",
+  "aliases": [
+    "MA",
+    "ma"
+  ]
+}

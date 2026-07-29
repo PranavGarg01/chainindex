@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Lamina1",
+  "slug": "lamina1",
+  "chainId": 10849,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "L1",
+    "symbol": "L1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/lamina1/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lamina1 Explorer",
+      "url": "https://subnets.avax.network/lamina1"
+    }
+  ],
+  "website": "https://www.lamina1.com/"
+}

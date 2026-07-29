@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NirmalX Smart Chain",
+  "slug": "nirmalx-smart-chain",
+  "chainId": 15526,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NirmalX Smart Chain",
+    "symbol": "NRXN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nirmalxscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NirmalX Explorer",
+      "url": "https://nirmalxscan.com"
+    }
+  ],
+  "website": "https://nirmalxscan.com/",
+  "aliases": [
+    "NRXN",
+    "nrxn"
+  ]
+}

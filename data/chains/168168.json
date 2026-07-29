@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Zchains",
+  "slug": "zchains",
+  "chainId": 168168,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZCD",
+    "symbol": "ZCD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zchains.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zchains",
+      "url": "https://scan.zchains.com"
+    }
+  ],
+  "website": "https://www.zchains.com/"
+}

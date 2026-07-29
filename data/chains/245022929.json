@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Neon EVM Devnet Rollup",
+  "slug": "neon-evm-devnet-rollup",
+  "chainId": 245022929,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Neon",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet.rollup.neonevm.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://neonevm.org/",
+  "aliases": [
+    "Solana",
+    "neonevm-devnet-rollup"
+  ]
+}

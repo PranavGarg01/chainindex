@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "ZKFair",
+  "slug": "zkfair",
+  "chainId": 42766,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDC Token",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zkfair.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/zkfair/mainnet/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.zkfair.io"
+    }
+  ],
+  "website": "https://zkfair.io",
+  "aliases": [
+    "ZKFair-Mainnet",
+    "ZKFair Mainnet"
+  ]
+}

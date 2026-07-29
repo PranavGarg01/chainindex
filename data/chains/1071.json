@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OpenGPU",
+  "slug": "opengpu",
+  "chainId": 1071,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OGPU",
+    "symbol": "OGPU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.ogpuscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OpenGPU Explorer",
+      "url": "https://ogpuscan.io"
+    }
+  ],
+  "website": "https://opengpu.network",
+  "aliases": [
+    "OGPU",
+    "ogpu"
+  ]
+}

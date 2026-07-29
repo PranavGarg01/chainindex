@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zytron Linea Testnet",
+  "slug": "zytron-linea-testnet",
+  "chainId": 19546,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://linea-testnet-zytron.zypher.game",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://linea-testnet-zytron-blockscout.zypher.game"
+    }
+  ],
+  "website": "https://zytron.zypher.network/",
+  "aliases": [
+    "ETH",
+    "zytron-linea-testnet"
+  ]
+}

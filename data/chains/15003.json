@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Immutable zkEVM Devnet",
+  "slug": "immutable-zkevm-devnet",
+  "chainId": 15003,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dev IMX",
+    "symbol": "dIMX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dev.immutable.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Immutable Devnet explorer",
+      "url": "https://explorer.dev.immutable.com"
+    }
+  ],
+  "website": "https://www.immutable.com",
+  "aliases": [
+    "Immutable zkEVM",
+    "imx-devnet"
+  ]
+}

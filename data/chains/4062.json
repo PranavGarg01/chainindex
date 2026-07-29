@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nahmii 3 Testnet",
+  "slug": "nahmii-3-testnet",
+  "chainId": 4062,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.nahmii.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nahmii 3 Testnet Explorer",
+      "url": "https://explorer.testnet.nahmii.io"
+    }
+  ],
+  "website": "https://nahmii.io",
+  "aliases": [
+    "Nahmii",
+    "Nahmii3Testnet"
+  ]
+}

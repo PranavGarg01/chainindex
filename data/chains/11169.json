@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Gleec",
+  "slug": "gleec",
+  "chainId": 11169,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GLEEC",
+    "symbol": "GLEEC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.gleec.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gleec EVM Explorer",
+      "url": "https://evm-explorer.gleec.com"
+    }
+  ],
+  "website": "https://evm-info.gleec.com/"
+}

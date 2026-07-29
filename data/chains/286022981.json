@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "ISTChain",
+  "slug": "istchain",
+  "chainId": 286022981,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IST",
+    "symbol": "IST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.istchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.istchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.istchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc4.istchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc5.istchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc6.istchain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "istscan",
+      "url": "https://scan.istchain.org"
+    }
+  ],
+  "website": "https://istchain.org",
+  "aliases": [
+    "Openverse",
+    "istchain-mainnet"
+  ]
+}

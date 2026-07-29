@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Milkomeda C1 Testnet",
+  "slug": "milkomeda-c1-testnet",
+  "chainId": 200101,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "milkTAda",
+    "symbol": "mTAda",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-devnet-cardano-evm.c1.milkomeda.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer-devnet-cardano-evm.c1.milkomeda.com"
+    }
+  ],
+  "website": "https://milkomeda.com",
+  "aliases": [
+    "milkTAda"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "OKXChain",
+  "slug": "okxchain",
+  "chainId": 66,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OKXChain Global Utility Token",
+    "symbol": "OKT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://exchainrpc.okex.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://oktc-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/oktc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://oktc.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://okc-mainnet.gateway.pokt.network/v1/lb/6275309bea1b320039c893ff",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OKLink",
+      "url": "https://www.oklink.com/en/okc"
+    }
+  ],
+  "website": "https://www.okex.com/okc",
+  "aliases": [
+    "okt"
+  ]
+}

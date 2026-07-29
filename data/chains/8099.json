@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Bharat Blockchain Network",
+  "slug": "bharat-blockchain-network-8099",
+  "chainId": 8099,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BBN",
+    "symbol": "BBN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bbnrpc.mainnet.bharatblockchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://bharatblockchain.io/",
+  "aliases": [
+    "BBN",
+    "bbn"
+  ]
+}

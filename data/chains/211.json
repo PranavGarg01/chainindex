@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Freight Trust Network",
+  "slug": "freight-trust-network",
+  "chainId": 211,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Freight Trust Native",
+    "symbol": "0xF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://app.freighttrust.net/ftn/${API_KEY}",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://freighttrust.com",
+  "aliases": [
+    "EDI"
+  ]
+}

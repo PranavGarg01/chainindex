@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "RoonChain",
+  "slug": "roonchain",
+  "chainId": 1314520,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ROON",
+    "symbol": "ROON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.roonchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RoonChain Mainnet explorer",
+      "url": "https://mainnet.roonchain.com"
+    }
+  ],
+  "website": "https://roonchain.com",
+  "aliases": [
+    "ROON"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 2,
+  "name": "Arbitrum One",
+  "slug": "arbitrum-one",
+  "chainId": 42161,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nodeflare.app/arb/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb1.arbitrum.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/arb",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/arbitrum/c4cc6a8c87ec30258076de433ab2cf3d834228aae3fc4d76087873e4fea11635",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-one-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb-mainnet.g.alchemy.com/v2/demo",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-one.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb-mainnet-public.unifra.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.arb1.arbitrum.gateway.fm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-one-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum.meowrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/arb-one",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/arbitrum-one",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.stateless.solutions/arbitrum-one/v1/demo",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/arbitrum/one/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb1.lava.build",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/arb/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb-one-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/arbitrum",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb-one.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-arb-mainnet.fastnode.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-arbitrum-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-one.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/arbitrum",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpcfree.com/arbitrum-rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arbitrum-one-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb-rpc.keccak.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://arb-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Arbiscan",
+      "url": "https://arbiscan.io"
+    },
+    {
+      "name": "Arbitrum Explorer",
+      "url": "https://explorer.arbitrum.io"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://arbitrum.dex.guru"
+    }
+  ],
+  "website": "https://arbitrum.io",
+  "aliases": [
+    "ETH",
+    "arb1"
+  ]
+}

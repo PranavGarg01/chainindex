@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "ShimmerEVM",
+  "slug": "shimmerevm",
+  "chainId": 148,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SMR",
+    "symbol": "SMR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.evm.shimmer.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.evm.shimmer.network"
+    }
+  ],
+  "website": "https://shimmer.network"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "xFair.AI",
+  "slug": "xfair-ai",
+  "chainId": 278,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FAI",
+    "symbol": "FAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc_mainnet.xfair.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://xfair.ai",
+  "aliases": [
+    "FAI",
+    "fai"
+  ]
+}

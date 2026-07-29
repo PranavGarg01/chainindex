@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Haqq Network",
+  "slug": "haqq-network",
+  "chainId": 11235,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Islamic Coin",
+    "symbol": "ISLM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.eth.haqq.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://haqq-evm.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm.haqq.sh",
+      "isRecommended": false
+    },
+    {
+      "url": "https://haqq-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://haqq.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://haqq-evm-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mainnet HAQQ Explorer",
+      "url": "https://explorer.haqq.network"
+    }
+  ],
+  "website": "https://islamiccoin.net",
+  "aliases": [
+    "Haqq",
+    "ISLM"
+  ]
+}

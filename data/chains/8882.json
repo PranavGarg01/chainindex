@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Opal testnet by Unique",
+  "slug": "opal-testnet-by-unique",
+  "chainId": 8882,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Opal",
+    "symbol": "UNQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-opal.unique.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://us-rpc-opal.unique.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eu-rpc-opal.unique.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://asia-rpc-opal.unique.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Unique Scan / Opal",
+      "url": "https://uniquescan.io/opal"
+    }
+  ],
+  "website": "https://unique.network",
+  "aliases": [
+    "UNQ",
+    "opl"
+  ]
+}

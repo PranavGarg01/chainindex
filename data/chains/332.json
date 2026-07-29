@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Omax Testnet",
+  "slug": "omax-testnet",
+  "chainId": 332,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OMAX TESTCOIN",
+    "symbol": "OMAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testapi.omaxray.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Omax Chain Explorer",
+      "url": "https://testnet.omaxscan.com"
+    }
+  ],
+  "website": "https://www.omaxcoin.com/",
+  "aliases": [
+    "Omax Chain",
+    "omaxt"
+  ]
+}

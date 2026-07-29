@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Westend Asset Hub",
+  "slug": "westend-asset-hub",
+  "chainId": 420420421,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Westies",
+    "symbol": "WND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://westend-asset-hub-eth-rpc.polkadot.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://assethub-westend.subscan.io"
+    }
+  ],
+  "website": "https://polkadot.network",
+  "aliases": [
+    "WST",
+    "wst"
+  ]
+}

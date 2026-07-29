@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Manta Pacific Sepolia Testnet",
+  "slug": "manta-pacific-sepolia-testnet",
+  "chainId": 3441006,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://pacific-rpc.sepolia-testnet.manta.network/http",
+      "isRecommended": true
+    },
+    {
+      "url": "https://manta-sepolia.rpc.caldera.xyz/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/manta-pacific/sepolia/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://manta-pacific-sepolia.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "manta-testnet Explorer",
+      "url": "https://pacific-explorer.sepolia-testnet.manta.network"
+    }
+  ],
+  "website": "https://manta-testnet.caldera.dev/",
+  "aliases": [
+    "Manta Pacific",
+    "mantaSepoliaTestnet"
+  ]
+}

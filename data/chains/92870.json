@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Watr Testnet",
+  "slug": "watr-testnet",
+  "chainId": 92870,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Watr",
+    "symbol": "WATR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.watr.org/ext/bc/2ZZiR6T2sJjebQguABb53rRpzme8zfK4R9zt5vMM8MX1oUm3g/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Watr Explorer",
+      "url": "https://explorer.testnet.watr.org"
+    }
+  ],
+  "website": "https://www.watr.org",
+  "aliases": [
+    "WATR",
+    "watr-testnet"
+  ]
+}

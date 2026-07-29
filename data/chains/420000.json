@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Infinaeon",
+  "slug": "infinaeon",
+  "chainId": 420000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.infinaeon.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://explorer.infinaeon.com"
+    }
+  ]
+}

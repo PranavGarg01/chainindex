@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "All About Health",
+  "slug": "all-about-health",
+  "chainId": 21133,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AAH",
+    "symbol": "AAH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.aah.name",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AAH Blockscout",
+      "url": "https://exp.aah.name"
+    }
+  ],
+  "website": "https://aah.name",
+  "aliases": [
+    "AAH",
+    "aah"
+  ]
+}

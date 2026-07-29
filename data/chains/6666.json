@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Cybria Testnet",
+  "slug": "cybria-testnet",
+  "chainId": 6666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cybria",
+    "symbol": "CYBA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://l2-rpc.cybascan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cybria Explorer",
+      "url": "https://explorer.cybascan.io"
+    }
+  ],
+  "website": "https://cybria.io",
+  "aliases": [
+    "CYBA",
+    "tcyba"
+  ]
+}

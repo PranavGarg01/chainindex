@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Lens",
+  "slug": "lens",
+  "chainId": 232,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GHO",
+    "symbol": "GHO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lens.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://light-icy-dinghy.lens-mainnet.quiknode.pro",
+      "isRecommended": false
+    },
+    {
+      "url": "https://lens-mainnet.g.alchemy.com/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://lens.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lens Block Explorer",
+      "url": "https://explorer.lens.xyz"
+    }
+  ],
+  "website": "https://lens.xyz",
+  "aliases": [
+    "Lens mainnet"
+  ]
+}

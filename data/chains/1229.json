@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Exzo Network",
+  "slug": "exzo-network",
+  "chainId": 1229,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Exzo",
+    "symbol": "XZO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.exzo.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://exzoscan.io"
+    }
+  ],
+  "website": "https://exzo.network",
+  "aliases": [
+    "EXZO",
+    "xzo"
+  ]
+}

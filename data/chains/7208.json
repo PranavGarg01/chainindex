@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexera",
+  "slug": "nexera",
+  "chainId": 7208,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NXRA",
+    "symbol": "NXRA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nexera.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://nexera.network",
+  "aliases": [
+    "nxra-mainnet"
+  ]
+}

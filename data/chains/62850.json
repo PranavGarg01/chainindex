@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "LAOS Sigma Testnet",
+  "slug": "laos-sigma-testnet",
+  "chainId": 62850,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SIGMA",
+    "symbol": "SIGMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.laossigma.laosfoundation.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sigma.explorer.laosnetwork.io"
+    }
+  ],
+  "website": "https://laosnetwork.io",
+  "aliases": [
+    "laossigma"
+  ]
+}

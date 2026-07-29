@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "UPTN",
+  "slug": "uptn",
+  "chainId": 6119,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UPTN",
+    "symbol": "UPTN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node-api.uptn.io/v1/ext/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UPTN Explorer",
+      "url": "https://explorer.uptn.io"
+    }
+  ],
+  "website": "https://uptn.io"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Abey",
+  "slug": "abey",
+  "chainId": 179,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ABEY",
+    "symbol": "ABEY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.abeychain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "abeyscan",
+      "url": "https://abeyscan.com"
+    }
+  ],
+  "website": "https://abey.com"
+}

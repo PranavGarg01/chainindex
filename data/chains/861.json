@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Electra Network",
+  "slug": "electra-network",
+  "chainId": 861,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Electra",
+    "symbol": "ELC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.electranetwork.tech",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Electra Explorer",
+      "url": "https://scan.electranetwork.tech"
+    }
+  ],
+  "website": "https://www.electranetwork.tech",
+  "aliases": [
+    "Electra",
+    "elc"
+  ]
+}

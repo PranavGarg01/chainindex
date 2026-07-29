@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexera Testnet",
+  "slug": "nexera-testnet",
+  "chainId": 72080,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tNXRA",
+    "symbol": "tNXRA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.nexera.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://testnet.nexera.network",
+  "aliases": [
+    "Nexera",
+    "nxra-testnet"
+  ]
+}

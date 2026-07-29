@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Btachain",
+  "slug": "btachain",
+  "chainId": 1657,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin Asset",
+    "symbol": "BTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed1.btachain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://bitcoinasset.io/",
+  "aliases": [
+    "bta"
+  ]
+}

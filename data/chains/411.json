@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pepe Chain",
+  "slug": "pepe-chain",
+  "chainId": 411,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pepe-chain.vip",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "pepechain explorer",
+      "url": "https://explorer.pepe-chain.vip"
+    }
+  ],
+  "website": "https://pepe-chain.vip",
+  "aliases": [
+    "PC",
+    "pepe"
+  ]
+}

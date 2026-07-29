@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "UCHAIN",
+  "slug": "uchain",
+  "chainId": 2112,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UCASH",
+    "symbol": "UCASH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.uchain.link",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "uchain.info",
+      "url": "https://uchain.info"
+    }
+  ],
+  "website": "https://u.cash/"
+}

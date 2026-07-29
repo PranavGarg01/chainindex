@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BOT Chain",
+  "slug": "bot-chain",
+  "chainId": 677,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BOT",
+    "symbol": "BOT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.botchain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "botscan",
+      "url": "https://scan.botchain.ai/"
+    }
+  ],
+  "website": "https://www.botchain.ai/",
+  "aliases": [
+    "BOT",
+    "bot"
+  ]
+}

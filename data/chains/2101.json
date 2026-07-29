@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ecoball Testnet Espuma",
+  "slug": "ecoball-testnet-espuma",
+  "chainId": 2101,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Espuma Coin",
+    "symbol": "ECO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.ecoball.org/espuma",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ecoball Testnet Explorer",
+      "url": "https://espuma-scan.ecoball.org"
+    }
+  ],
+  "website": "https://ecoball.org",
+  "aliases": [
+    "ECO",
+    "esp"
+  ]
+}

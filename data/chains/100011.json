@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "QuarkChain L2",
+  "slug": "quarkchain-l2",
+  "chainId": 100011,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-l2-ethapi.quarkchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.quarkchain.io",
+  "aliases": [
+    "QuarkChain",
+    "qkc-l2"
+  ]
+}

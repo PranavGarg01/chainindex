@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AIE Testnet",
+  "slug": "aie-testnet",
+  "chainId": 413413,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AIE",
+    "symbol": "AIE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-testnet.aiechain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "aiescan-testnet",
+      "url": "https://testnet.aiescan.io"
+    }
+  ],
+  "website": "https://testnet.aiescan.io",
+  "aliases": [
+    "AIE",
+    "aie"
+  ]
+}

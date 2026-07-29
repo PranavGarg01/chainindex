@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Galaxy Chain",
+  "slug": "galaxy-chain",
+  "chainId": 420420420420,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Star",
+    "symbol": "STAR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://archive.galaxychain.co",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.galaxychain.co"
+    }
+  ],
+  "website": "https://galaxychain.co",
+  "aliases": [
+    "GALAXY",
+    "gxy"
+  ]
+}

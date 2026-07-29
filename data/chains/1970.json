@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Super Smart Chain",
+  "slug": "super-smart-chain",
+  "chainId": 1970,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Super Chain Native Token",
+    "symbol": "SCS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.scschain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.scschain.com"
+    }
+  ],
+  "website": "https://scschain.com",
+  "aliases": [
+    "SCS",
+    "scs"
+  ]
+}

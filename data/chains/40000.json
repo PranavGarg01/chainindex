@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DIV Chain",
+  "slug": "div-chain",
+  "chainId": 40000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DIVC",
+    "symbol": "DIVC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.divchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DIV Chain explorer",
+      "url": "https://scan.divchain.org"
+    }
+  ],
+  "website": "https://www.divchain.org",
+  "aliases": [
+    "DIVC",
+    "divc"
+  ]
+}

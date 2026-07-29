@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Tomb Chain",
+  "slug": "tomb-chain",
+  "chainId": 6969,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tomb",
+    "symbol": "TOMB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tombchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tombscout",
+      "url": "https://tombscout.com"
+    }
+  ],
+  "website": "https://tombchain.com/",
+  "aliases": [
+    "tombchain"
+  ]
+}

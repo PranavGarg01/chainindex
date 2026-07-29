@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "SATUCHAIN",
+  "slug": "satuchain",
+  "chainId": 10111945,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Satu",
+    "symbol": "STU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.satuchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-indo-mainnet.satuchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SATUCHAIN Mainnet Explorer",
+      "url": "https://stuscan.com"
+    }
+  ],
+  "website": "https://satuchain.com",
+  "aliases": [
+    "SATU",
+    "satumainnet"
+  ]
+}

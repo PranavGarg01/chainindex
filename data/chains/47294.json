@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TradeXcele",
+  "slug": "tradexcele",
+  "chainId": 47294,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TXCL",
+    "symbol": "TXCL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tradexcele.cloud/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TXCL Explorer",
+      "url": "https://tradexcele.cloud/chain"
+    }
+  ],
+  "website": "https://tradexcele.com/chain",
+  "aliases": [
+    "TXCL",
+    "txcl"
+  ]
+}

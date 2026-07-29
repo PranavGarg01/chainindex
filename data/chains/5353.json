@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Tritanium Testnet",
+  "slug": "tritanium-testnet",
+  "chainId": 5353,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tritanium Native Token",
+    "symbol": "tTRN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nodetestnet-station-one.tritanium.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://nodetestnet-station-two.tritanium.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TRITANIUM Testnet Explorer",
+      "url": "https://testnet.tritanium.network"
+    }
+  ],
+  "website": "https://tritanium.network",
+  "aliases": [
+    "TRITANIUM",
+    "ttrn"
+  ]
+}

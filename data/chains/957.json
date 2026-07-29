@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lyra Chain",
+  "slug": "lyra-chain",
+  "chainId": 957,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lyra.finance",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lyra Explorer",
+      "url": "https://explorer.lyra.finance"
+    }
+  ],
+  "website": "https://lyra.finance",
+  "aliases": [
+    "Lyra",
+    "lyra"
+  ]
+}

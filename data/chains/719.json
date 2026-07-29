@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Shibarium Beta",
+  "slug": "shibarium-beta",
+  "chainId": 719,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BONE",
+    "symbol": "BONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://puppynet.shibrpc.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "shibscan",
+      "url": "https://puppyscan.shib.io"
+    }
+  ],
+  "website": "https://beta.shibariumtech.com",
+  "aliases": [
+    "Shibarium",
+    "shibarium"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "pectra-devnet-5",
+  "slug": "pectra-devnet-5",
+  "chainId": 7088110746,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Testnet ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pectra-devnet-5.ethpandaops.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Explorer",
+      "url": "https://explorer.pectra-devnet-5.ethpandaops.io"
+    }
+  ],
+  "website": "https://pectra-devnet-5.ethpandaops.io",
+  "aliases": [
+    "ETH",
+    "pectra5"
+  ]
+}

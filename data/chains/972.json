@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Oort Ascraeus",
+  "slug": "oort-ascraeus",
+  "chainId": 972,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Oort",
+    "symbol": "CCNA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ascraeus-rpc.oortech.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Oort Ascraeus Explorer",
+      "url": "https://ascraeus-scan.oortech.com"
+    }
+  ],
+  "website": "https://oortech.com",
+  "aliases": [
+    "Ascraeus"
+  ]
+}

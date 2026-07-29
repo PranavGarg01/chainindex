@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Doric Network",
+  "slug": "doric-network",
+  "chainId": 1717,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Doric Native Token",
+    "symbol": "DRC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.doric.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Doric Explorer",
+      "url": "https://explorer.doric.network"
+    }
+  ],
+  "website": "https://doric.network",
+  "aliases": [
+    "DRC"
+  ]
+}

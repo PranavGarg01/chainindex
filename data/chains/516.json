@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Gear Zero Network",
+  "slug": "gear-zero-network",
+  "chainId": 516,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gear Zero Network Native Token",
+    "symbol": "GZN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gzn.linksme.info",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://token.gearzero.ca/mainnet",
+  "aliases": [
+    "GearZero",
+    "gz-mainnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dogechain Testnet",
+  "slug": "dogechain-testnet",
+  "chainId": 568,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.dogechain.dog",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dogechain testnet explorer",
+      "url": "https://explorer-testnet.dogechain.dog"
+    }
+  ],
+  "website": "https://dogechain.dog",
+  "aliases": [
+    "DC",
+    "dct"
+  ]
+}

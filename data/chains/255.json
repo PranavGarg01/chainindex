@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Kroma",
+  "slug": "kroma",
+  "chainId": 255,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.kroma.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/kroma",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kroma.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-kroma.rockx.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.kroma.network"
+    }
+  ],
+  "website": "https://kroma.network",
+  "aliases": [
+    "ETH"
+  ]
+}

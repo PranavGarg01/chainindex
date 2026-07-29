@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Kii Testnet Oro",
+  "slug": "kii-testnet-oro",
+  "chainId": 1336,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kii",
+    "symbol": "KII",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.uno.sentry.testnet.v3.kiivalidator.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KiiExplorer",
+      "url": "https://testnet.explorer.kiichain.io"
+    }
+  ],
+  "website": "https://kiichain.io",
+  "aliases": [
+    "KII",
+    "kiioro"
+  ]
+}

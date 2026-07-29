@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "TBSI",
+  "slug": "tbsi",
+  "chainId": 1707,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Jinda",
+    "symbol": "JINDA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blockchain.or.th",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://exp.blockchain.or.th"
+    }
+  ],
+  "website": "https://blockchain.or.th",
+  "aliases": [
+    "Thai Blockchain Service Infrastructure Mainnet"
+  ]
+}

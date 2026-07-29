@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Graphite",
+  "slug": "graphite",
+  "chainId": 440017,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Graphite",
+    "symbol": "@G",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://anon-entrypoint-1.atgraphite.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Graphite Mainnet Explorer",
+      "url": "https://main.atgraphite.com"
+    }
+  ],
+  "website": "https://atgraphite.com/"
+}

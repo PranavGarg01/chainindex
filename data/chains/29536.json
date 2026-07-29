@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KaiChain Testnet",
+  "slug": "kaichain-testnet",
+  "chainId": 29536,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KaiChain Testnet Native Token",
+    "symbol": "KEC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.kaichain.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KaiChain Explorer",
+      "url": "https://testnet-explorer.kaichain.net"
+    }
+  ],
+  "website": "https://kaichain.net",
+  "aliases": [
+    "KaiChain",
+    "tkec"
+  ]
+}

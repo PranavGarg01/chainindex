@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "name": "Boba Network",
+  "slug": "boba-network",
+  "chainId": 288,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.boba.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://boba-ethereum.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gateway.tenderly.co/public/boba-ethereum",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/boba/eth",
+      "isRecommended": false
+    },
+    {
+      "url": "https://boba-eth.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://boba.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-boba-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://replica.boba.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bobascan",
+      "url": "https://bobascan.com"
+    }
+  ],
+  "website": "https://boba.network",
+  "aliases": [
+    "ETH",
+    "Boba"
+  ]
+}

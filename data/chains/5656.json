@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "QIE Blockchain",
+  "slug": "qie-blockchain",
+  "chainId": 5656,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QIE Blockchain",
+    "symbol": "QIE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-main1.qiblockchain.online",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-main2.qiblockchain.online",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QIE Explorer",
+      "url": "https://mainnet.qiblockchain.online"
+    }
+  ],
+  "website": "https://qiblockchain.online/",
+  "aliases": [
+    "QIE"
+  ]
+}

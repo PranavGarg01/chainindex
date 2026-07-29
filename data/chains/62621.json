@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "MultiVAC",
+  "slug": "multivac",
+  "chainId": 62621,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MultiVAC",
+    "symbol": "MTV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mtv.ac",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-eu.mtv.ac",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MultiVAC Explorer",
+      "url": "https://e.mtv.ac"
+    }
+  ],
+  "website": "https://mtv.ac",
+  "aliases": [
+    "mtv"
+  ]
+}

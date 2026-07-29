@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bullions Smart Chain",
+  "slug": "bullions-smart-chain",
+  "chainId": 8732,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bullions",
+    "symbol": "BLN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bullionsx.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bullionscan",
+      "url": "https://bullionscan.org"
+    }
+  ],
+  "website": "https://www.bullionsx.io",
+  "aliases": [
+    "Bullions",
+    "bln"
+  ]
+}

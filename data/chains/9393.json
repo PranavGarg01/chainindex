@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dela Sepolia Testnet",
+  "slug": "dela-sepolia-testnet",
+  "chainId": 9393,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-dela.deperp.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "basescout",
+      "url": "https://sepolia-delascan.deperp.com"
+    }
+  ],
+  "website": "https://www.deperp.com/dela",
+  "aliases": [
+    "ETH",
+    "delasep"
+  ]
+}

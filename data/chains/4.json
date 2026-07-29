@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Rinkeby",
+  "slug": "rinkeby",
+  "chainId": 4,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rinkeby Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rinkeby.infura.io/3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan-rinkeby",
+      "url": "https://rinkeby.etherscan.io"
+    }
+  ],
+  "website": "https://www.rinkeby.io",
+  "aliases": [
+    "ETH",
+    "rin",
+    "Ethereum Testnet Rinkeby"
+  ]
+}

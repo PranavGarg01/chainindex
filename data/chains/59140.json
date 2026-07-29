@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Linea Goerli",
+  "slug": "linea-goerli",
+  "chainId": 59140,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Linea Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.goerli.linea.build",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://goerli.lineascan.build"
+    },
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.goerli.linea.build"
+    }
+  ],
+  "website": "https://linea.build",
+  "aliases": [
+    "ETH",
+    "linea-goerli",
+    "Linea Goerli Testnet"
+  ]
+}

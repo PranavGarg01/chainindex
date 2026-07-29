@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DYNO Testnet",
+  "slug": "dyno-testnet",
+  "chainId": 3967,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DYNO Token",
+    "symbol": "tDYNO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tapi.dynoprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DYNO Explorer",
+      "url": "https://testnet.dynoscan.io"
+    }
+  ],
+  "website": "https://dynoprotocol.com",
+  "aliases": [
+    "DYNO",
+    "tdyno"
+  ]
+}

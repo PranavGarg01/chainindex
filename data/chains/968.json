@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Datagram",
+  "slug": "datagram",
+  "chainId": 968,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DGRAM",
+    "symbol": "DGRAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.datagram.network/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.datagram.network"
+    }
+  ],
+  "website": "https://doc.datagram.network/introduction/what-is-datagram",
+  "aliases": [
+    "DGRAM",
+    "dgram"
+  ]
+}

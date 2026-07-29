@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "PHI Network V1",
+  "slug": "phi-network-v1",
+  "chainId": 4181,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PHI",
+    "symbol": "Φ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.phi.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.phi.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PHI Explorer",
+      "url": "https://explorer.phi.network"
+    }
+  ],
+  "website": "https://phi.network",
+  "aliases": [
+    "PHI V1",
+    "PHIv1"
+  ]
+}

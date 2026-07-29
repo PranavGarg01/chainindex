@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Qubetics",
+  "slug": "qubetics",
+  "chainId": 9030,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TICS",
+    "symbol": "TICS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.qubetics.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm.qubenode.space",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm.qubeticstralbo.eu",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QUBETICS mainnet explorer",
+      "url": "https://ticsscan.com"
+    }
+  ],
+  "website": "https://www.qubetics.com",
+  "aliases": [
+    "TICS"
+  ]
+}

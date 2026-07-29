@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DeFiChain EVM Network",
+  "slug": "defichain-evm-network",
+  "chainId": 1130,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "DeFiChain",
+    "symbol": "DFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dmc.mydefichain.com/mainnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dmc01.mydefichain.com/mainnet",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://meta.defichain.com/",
+  "aliases": [
+    "defichain-evm",
+    "DFI"
+  ]
+}

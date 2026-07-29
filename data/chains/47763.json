@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Neo X",
+  "slug": "neo-x",
+  "chainId": 47763,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-1.rpc.banelabs.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-2.rpc.banelabs.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Neo X - Explorer",
+      "url": "https://xexplorer.neo.org"
+    }
+  ],
+  "website": "https://neo.org/",
+  "aliases": [
+    "neox-mainnet"
+  ]
+}

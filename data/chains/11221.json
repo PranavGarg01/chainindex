@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Shine Chain",
+  "slug": "shine-chain",
+  "chainId": 11221,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shine",
+    "symbol": "SC20",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.shinescan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "shinescan",
+      "url": "https://shinescan.io"
+    }
+  ],
+  "website": "https://shinechain.tech",
+  "aliases": [
+    "SC20"
+  ]
+}

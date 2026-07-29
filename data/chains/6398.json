@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Connext Sepolia",
+  "slug": "connext-sepolia",
+  "chainId": 6398,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.connext-sepolia.gelato.digital",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Connext Sepolia",
+      "url": "https://connext-sepolia.blockscout.com"
+    }
+  ],
+  "aliases": [
+    "connext-sepolia"
+  ]
+}

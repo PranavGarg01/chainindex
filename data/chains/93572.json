@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LiquidLayer Testnet",
+  "slug": "liquidlayer-testnet",
+  "chainId": 93572,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LiquidLayer Testnet",
+    "symbol": "LILA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.liquidlayer.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LiquidLayer Testnet Explorer",
+      "url": "https://testnet-scan.liquidlayer.network"
+    }
+  ],
+  "website": "https://testnet-scan.liquidlayer.network",
+  "aliases": [
+    "LILA",
+    "tLILA"
+  ]
+}

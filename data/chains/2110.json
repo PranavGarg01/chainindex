@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Parallax",
+  "slug": "parallax",
+  "chainId": 2110,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Parallax",
+    "symbol": "LAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.parallaxprotocol.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Parallax Blockscout",
+      "url": "https://explorer.parallaxprotocol.org"
+    }
+  ],
+  "website": "https://parallaxprotocol.org"
+}

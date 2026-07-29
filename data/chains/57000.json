@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Rollux Testnet",
+  "slug": "rollux-testnet",
+  "chainId": 57000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Syscoin",
+    "symbol": "TSYS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/rollux_testnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-tanenbaum.rollux.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/rollux_testnet/${ANKR_API_KEY}",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rollux.rpc.tanenbaum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rollux Testnet Explorer",
+      "url": "https://rollux.tanenbaum.io"
+    }
+  ],
+  "website": "https://rollux.com",
+  "aliases": [
+    "SYS",
+    "tsys-rollux"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Core Blockchain",
+  "slug": "core-blockchain",
+  "chainId": 1116,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Core Blockchain Native Token",
+    "symbol": "CORE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.coredao.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/core",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/core",
+      "isRecommended": false
+    },
+    {
+      "url": "https://core.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/core-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-core.icecreamswap.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Core Scan",
+      "url": "https://scan.coredao.org"
+    }
+  ],
+  "website": "https://www.coredao.org",
+  "aliases": [
+    "Core",
+    "core"
+  ]
+}

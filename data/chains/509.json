@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BTB Chain",
+  "slug": "btb-chain",
+  "chainId": 509,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BitTap Chain Token",
+    "symbol": "BTB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://btb-dataseed.btbchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BTB Chain Explorer",
+      "url": "https://btb-explorer.btbchain.org"
+    }
+  ],
+  "website": "https://www.btbchain.org/",
+  "aliases": [
+    "BTB",
+    "btb"
+  ]
+}

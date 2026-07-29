@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitharvest Chain",
+  "slug": "bitharvest-chain",
+  "chainId": 14149,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitharvest Mainnet Native Token",
+    "symbol": "BTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bthscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitharvest Mainnet Scan",
+      "url": "https://bthscan.io"
+    }
+  ],
+  "aliases": [
+    "Bitharvest Chain Mainnet",
+    "BitharvestMainnet"
+  ]
+}

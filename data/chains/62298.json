@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Citrea Devnet",
+  "slug": "citrea-devnet",
+  "chainId": 62298,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Citrea BTC",
+    "symbol": "cBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.devnet.citrea.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Citrea Devnet Explorer",
+      "url": "https://explorer.devnet.citrea.xyz"
+    }
+  ],
+  "website": "https://citrea.xyz",
+  "aliases": [
+    "Citrea",
+    "citrea-devnet"
+  ]
+}

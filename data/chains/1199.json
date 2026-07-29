@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BMC Chain",
+  "slug": "bmc-chain",
+  "chainId": 1199,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitmeta Coin",
+    "symbol": "BMC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.bmcscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BMCScan",
+      "url": "https://bmcscan.io"
+    }
+  ],
+  "website": "https://bmcscan.io",
+  "aliases": [
+    "BMC",
+    "bmc"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Krown",
+  "slug": "krown",
+  "chainId": 1983,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KROWN",
+    "symbol": "KROWN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.krown.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet1.krown.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Krown Explorer",
+      "url": "https://explorer.krown.network"
+    }
+  ],
+  "website": "https://krown.network"
+}

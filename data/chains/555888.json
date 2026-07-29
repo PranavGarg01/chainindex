@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DustBoy IoT",
+  "slug": "dustboy-iot",
+  "chainId": 555888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "DST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dustboy-rpc.jibl2.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://dustboy.jibl2.com"
+    }
+  ],
+  "website": "https://www.cmuccdc.org/",
+  "aliases": [
+    "DUSTBOY",
+    "DustBoy_IoT"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Atelier",
+  "slug": "atelier",
+  "chainId": 1971,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATLR",
+    "symbol": "ATLR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://1971.network/atlr",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://1971.network/",
+  "aliases": [
+    "ALTR",
+    "atlr",
+    "Atelier Test Network"
+  ]
+}

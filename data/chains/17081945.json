@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SATUCHAIN Testnet",
+  "slug": "satuchain-testnet",
+  "chainId": 17081945,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Satu Testnet",
+    "symbol": "tSTU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.satuchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SATUCHAIN Testnet Explorer",
+      "url": "https://testnet.satuchain.com"
+    }
+  ],
+  "website": "https://satuchain.com",
+  "aliases": [
+    "SATU",
+    "satutestnet"
+  ]
+}

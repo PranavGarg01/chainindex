@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ECM Chain Testnet",
+  "slug": "ecm-chain-testnet",
+  "chainId": 1124,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ECM",
+    "symbol": "ECM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.ecmscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ecmscan",
+      "url": "https://explorer.testnet.ecmscan.io/"
+    }
+  ],
+  "website": "https://ecmcoin.com",
+  "aliases": [
+    "ECM Chain",
+    "ecm"
+  ]
+}

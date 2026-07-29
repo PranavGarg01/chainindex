@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "DeepSafe Beta",
+  "slug": "deepsafe-beta",
+  "chainId": 10011,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DeepSafe Native Token",
+    "symbol": "DEF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://betamainnet-rpc-node-http.deepsafe.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://deepsafe.network/",
+  "aliases": [
+    "DeepSafe"
+  ]
+}

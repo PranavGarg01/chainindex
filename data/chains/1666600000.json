@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Harmony Mainnet Shard 0",
+  "slug": "harmony-mainnet-shard-0",
+  "chainId": 1666600000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.harmony.one",
+      "isRecommended": true
+    },
+    {
+      "url": "https://a.api.s0.t.hmny.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.s0.t.hmny.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/one",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/harmony/mainnet-0/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://harmony-0.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/one/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://harmony.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://one-mainnet-s0.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/harmony",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Harmony Block Explorer",
+      "url": "https://explorer.harmony.one"
+    }
+  ],
+  "website": "https://www.harmony.one/",
+  "aliases": [
+    "Harmony",
+    "hmy-s0"
+  ]
+}

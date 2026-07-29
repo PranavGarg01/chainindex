@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Recall Testnet",
+  "slug": "recall-testnet",
+  "chainId": 2481632,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Recall",
+    "symbol": "RECALL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.v013.node-0.testnet.recall.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Recall testnet explorer",
+      "url": "https://explorer.testnet.recall.network"
+    }
+  ],
+  "website": "https://recall.network",
+  "aliases": [
+    "trecall"
+  ]
+}

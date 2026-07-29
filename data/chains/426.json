@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "The Widows Mite",
+  "slug": "the-widows-mite",
+  "chainId": 426,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "The Widows Mite",
+    "symbol": "MITE",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.twmcrypto.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "The Widows Mite Explorer",
+      "url": "https://scan.twmcrypto.com"
+    }
+  ],
+  "website": "https://twmcrypto.com/",
+  "aliases": [
+    "MITE",
+    "mite"
+  ]
+}

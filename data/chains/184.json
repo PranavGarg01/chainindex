@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dojima Testnet",
+  "slug": "dojima-testnet",
+  "chainId": 184,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dojima",
+    "symbol": "DOJ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-test-d11k.dojima.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dojima Testnet Explorer",
+      "url": "https://explorer-test.dojima.network"
+    }
+  ],
+  "website": "https://www.dojima.network/",
+  "aliases": [
+    "Dojima",
+    "dojtestnet"
+  ]
+}

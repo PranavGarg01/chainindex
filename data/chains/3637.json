@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Botanix",
+  "slug": "botanix",
+  "chainId": 3637,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Botanix",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/botanix_mainnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.botanixlabs.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Botanix Explorer",
+      "url": "https://botanixscan.io"
+    }
+  ],
+  "website": "https://botanixlabs.com",
+  "aliases": [
+    "BTNX"
+  ]
+}

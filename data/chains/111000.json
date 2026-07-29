@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Siberium Test Network",
+  "slug": "siberium-test-network",
+  "chainId": 111000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TestSIBR",
+    "symbol": "SIBR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.test.siberium.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Siberium Testnet Explorer - blockscout",
+      "url": "https://explorer.test.siberium.net"
+    }
+  ],
+  "website": "https://siberium.net",
+  "aliases": [
+    "SBR",
+    "testsbr"
+  ]
+}

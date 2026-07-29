@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "JasmyChain",
+  "slug": "jasmychain",
+  "chainId": 680,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.jasmyscan.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "jasmyscan",
+      "url": "https://explorer.jasmyscan.net"
+    }
+  ],
+  "website": "https://jasmy.global"
+}

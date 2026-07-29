@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DeepL Testnet",
+  "slug": "deepl-testnet",
+  "chainId": 222666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DeepL",
+    "symbol": "DEEPL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.deeplnetwork.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DeepL Testnet Explorer",
+      "url": "https://testnet-scan.deeplnetwork.org"
+    }
+  ],
+  "website": "https://deeplnetwork.org",
+  "aliases": [
+    "DEEPL",
+    "tdeepl"
+  ]
+}

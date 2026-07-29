@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dogcoin Testnet",
+  "slug": "dogcoin-testnet",
+  "chainId": 9339,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dogcoin",
+    "symbol": "DOGS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.dogcoin.me",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dogcoin",
+      "url": "https://testnet.dogcoin.network"
+    }
+  ],
+  "website": "https://dogcoin.network",
+  "aliases": [
+    "DOGS",
+    "DOGSt"
+  ]
+}

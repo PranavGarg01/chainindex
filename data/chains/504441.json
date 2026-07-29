@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Playdapp Network",
+  "slug": "playdapp-network",
+  "chainId": 504441,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Playdapp",
+    "symbol": "PDA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/playdappne/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Playdapp Explorer",
+      "url": "https://subnets.avax.network/playdappne"
+    }
+  ],
+  "website": "https://playdapp.io",
+  "aliases": [
+    "PDA"
+  ]
+}

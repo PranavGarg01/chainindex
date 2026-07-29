@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Hydra Chain Testnet",
+  "slug": "hydra-chain-testnet",
+  "chainId": 8844,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tHydra",
+    "symbol": "tHYDRA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.hydrachain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hydra Chain Testnet explorer",
+      "url": "https://hydragon.hydrachain.org"
+    }
+  ],
+  "website": "https://hydrachain.org",
+  "aliases": [
+    "HYDRA",
+    "THYDRA"
+  ]
+}

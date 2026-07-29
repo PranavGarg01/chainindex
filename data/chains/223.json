@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "B2",
+  "slug": "b2",
+  "chainId": 223,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bsquared.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://b2-mainnet.alt.technology",
+      "isRecommended": false
+    },
+    {
+      "url": "https://b2-mainnet-public.s.chainbase.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet.b2-rpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/b2",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.bsquared.network"
+    }
+  ],
+  "website": "https://www.bsquared.network",
+  "aliases": [
+    "B2-mainnet",
+    "B2 Mainnet"
+  ]
+}

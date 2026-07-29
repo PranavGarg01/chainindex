@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "XL Network Testnet",
+  "slug": "xl-network-testnet",
+  "chainId": 3084,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XLNetwork",
+    "symbol": "XLN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/xlnetworkt/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XL Network Explorer",
+      "url": "https://subnets-test.avax.network/xlnetworkt"
+    }
+  ],
+  "website": "https://www.nysl.io/",
+  "aliases": [
+    "nysl"
+  ]
+}

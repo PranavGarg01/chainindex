@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "name": "APChain",
+  "slug": "apchain",
+  "chainId": 21970,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "APX",
+    "symbol": "APX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.apchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "aliases": [
+    "AP"
+  ]
+}

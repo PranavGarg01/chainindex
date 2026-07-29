@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Blessnet Sepolia",
+  "slug": "blessnet-sepolia",
+  "chainId": 11145513,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bless",
+    "symbol": "BLESS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://blessnet-sepolia-testnet.rpc.caldera.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blessnet-sepolia-testnet.explorer.caldera.xyz"
+    }
+  ],
+  "website": "https://blessnet.io",
+  "aliases": [
+    "ETH",
+    "bless-sepolia"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Magnet Network",
+  "slug": "magnet-network",
+  "chainId": 19527,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Magnet Network",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://magnet-rpc.magport.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://magnet.magport.io/",
+  "aliases": [
+    "Magnet",
+    "mgt"
+  ]
+}

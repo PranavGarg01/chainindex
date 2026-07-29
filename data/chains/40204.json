@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Citrate Testnet",
+  "slug": "citrate-testnet",
+  "chainId": 40204,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SALT",
+    "symbol": "SALT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.citrate.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Citrate Explorer",
+      "url": "https://explorer.citrate.ai"
+    }
+  ],
+  "website": "https://citrate.ai",
+  "aliases": [
+    "CITRATE",
+    "salt"
+  ]
+}

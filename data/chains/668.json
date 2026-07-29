@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "JuncaChain",
+  "slug": "juncachain",
+  "chainId": 668,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JuncaChain Native Token",
+    "symbol": "JGC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juncachain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JuncaScan",
+      "url": "https://scan.juncachain.com"
+    }
+  ],
+  "website": "https://junca-cash.world",
+  "aliases": [
+    "junca"
+  ]
+}

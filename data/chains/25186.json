@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "LiquidLayer",
+  "slug": "liquidlayer",
+  "chainId": 25186,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LiquidLayer",
+    "symbol": "LILA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.liquidlayer.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LiquidLayer Mainnet Explorer",
+      "url": "https://scan.liquidlayer.network"
+    }
+  ],
+  "website": "https://scan.liquidlayer.network",
+  "aliases": [
+    "LILA"
+  ]
+}

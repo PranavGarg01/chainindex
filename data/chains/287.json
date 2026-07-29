@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "NetX",
+  "slug": "netx",
+  "chainId": 287,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NETX",
+    "symbol": "NETX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.netxscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NetXScan",
+      "url": "https://netxscan.io"
+    }
+  ],
+  "website": "https://netxscan.io/"
+}

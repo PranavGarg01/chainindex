@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "ONFA Chain Testnet",
+  "slug": "onfa-chain-testnet",
+  "chainId": 8691942025,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONFA Coin",
+    "symbol": "OFCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.onfa.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.onfachain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-testnet.onfachain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-testnet.onfachain.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ONFA Scan",
+      "url": "https://onfascan.io"
+    }
+  ],
+  "website": "https://onfachain.com",
+  "aliases": [
+    "onfa",
+    "onfatestnet"
+  ]
+}

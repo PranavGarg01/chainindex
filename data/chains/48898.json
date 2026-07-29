@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Zircuit Garfield Testnet",
+  "slug": "zircuit-garfield-testnet",
+  "chainId": 48898,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://garfield-testnet.zircuit.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zircuit",
+      "url": "https://explorer.garfield-testnet.zircuit.com"
+    }
+  ],
+  "website": "https://www.zircuit.com/",
+  "aliases": [
+    "zircuit-garfield-testnet"
+  ]
+}

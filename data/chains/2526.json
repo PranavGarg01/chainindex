@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ANUBIS Testnet",
+  "slug": "anubis-testnet",
+  "chainId": 2526,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ANUBI",
+    "symbol": "ANUBI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc.anubispace.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "anubiscan",
+      "url": "https://test-scan.anubispace.org"
+    }
+  ],
+  "website": "https://docs.anubispace.org",
+  "aliases": [
+    "ANUBIS",
+    "anubi"
+  ]
+}

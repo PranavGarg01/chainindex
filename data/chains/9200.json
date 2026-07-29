@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LightchainAI",
+  "slug": "lightchainai",
+  "chainId": 9200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LightchainAI",
+    "symbol": "LCAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.lightchain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lightchain Explorer",
+      "url": "https://lightscan.app"
+    }
+  ],
+  "website": "https://lightchain.ai",
+  "aliases": [
+    "LCAI",
+    "lcai"
+  ]
+}

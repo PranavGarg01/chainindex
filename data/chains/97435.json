@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SlingShot Testnet",
+  "slug": "slingshot-testnet",
+  "chainId": 97435,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sling Test",
+    "symbol": "SLINGT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-dependent-emerald-whippet-gh6kch3nen.t.conduit.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SlingShot Test Explorer",
+      "url": "https://explorer-dependent-emerald-whippet-gh6kch3nen.t.conduit.xyz"
+    }
+  ],
+  "website": "https://slingshotdao.com",
+  "aliases": [
+    "SLING",
+    "sling"
+  ]
+}

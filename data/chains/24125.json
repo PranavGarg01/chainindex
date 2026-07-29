@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexurachain",
+  "slug": "nexurachain",
+  "chainId": 24125,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XURA",
+    "symbol": "XURA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nexurachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nexurachain Explorer",
+      "url": "https://explorer.nexurachain.io"
+    }
+  ],
+  "website": "https://nexurachain.io",
+  "aliases": [
+    "XURAm"
+  ]
+}

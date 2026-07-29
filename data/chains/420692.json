@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Alterium L2 Testnet",
+  "slug": "alterium-l2-testnet",
+  "chainId": 420692,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Alterium ETH",
+    "symbol": "AltETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://l2-testnet-rpc.altscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Alterium L2 Testnet Explorer",
+      "url": "https://l2-testnet.altscan.org"
+    }
+  ],
+  "website": "https://alteriumprotocol.org",
+  "aliases": [
+    "ALT",
+    "alterium"
+  ]
+}

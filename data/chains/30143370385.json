@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Buburuza",
+  "slug": "buburuza",
+  "chainId": 30143370385,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BUBU",
+    "symbol": "BUB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.buburuza.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Buburuza Explorer",
+      "url": "https://explorer-mainnet.buburuza.com/"
+    }
+  ],
+  "website": "https://buburuza.com",
+  "aliases": [
+    "BUBU",
+    "BUB"
+  ]
+}

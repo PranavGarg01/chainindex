@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DeepBrainChain Testnet",
+  "slug": "deepbrainchain-testnet",
+  "chainId": 19850818,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DeepBrainChain",
+    "symbol": "tDBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.dbcwallet.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DeepBrainChain Testnet",
+      "url": "https://testnet.dbcscan.io"
+    }
+  ],
+  "website": "https://www.deepbrainchain.org",
+  "aliases": [
+    "DeepBrainChain",
+    "tDBC"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Prodao",
+  "slug": "prodao",
+  "chainId": 4936,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ProDAO Token",
+    "symbol": "PROD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.prodao.club",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ProDAO Explorer",
+      "url": "https://explorer.prodao.club"
+    }
+  ],
+  "website": "https://prodao.club",
+  "aliases": [
+    "PROD"
+  ]
+}

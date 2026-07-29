@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Chronicle Yellowstone - Lit Protocol Testnet",
+  "slug": "chronicle-yellowstone-lit-protocol-testnet",
+  "chainId": 175188,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test LPX",
+    "symbol": "tstLPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://yellowstone-rpc.litprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lit Chronicle Yellowstone Explorer",
+      "url": "https://yellowstone-explorer.litprotocol.com"
+    }
+  ],
+  "website": "https://litprotocol.com",
+  "aliases": [
+    "LPY",
+    "lpy"
+  ]
+}

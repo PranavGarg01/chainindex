@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "YuanChain",
+  "slug": "yuanchain",
+  "chainId": 3999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "YCC",
+    "symbol": "YCC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.yuan.org/eth",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "YuanChain Explorer",
+      "url": "https://mainnet.yuan.org"
+    }
+  ],
+  "website": "https://www.yuan.org",
+  "aliases": [
+    "YCC",
+    "ycc"
+  ]
+}

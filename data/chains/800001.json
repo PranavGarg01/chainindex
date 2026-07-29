@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OctaSpace",
+  "slug": "octaspace",
+  "chainId": 800001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OctaSpace",
+    "symbol": "OCTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.octa.space",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.octa.space"
+    }
+  ],
+  "website": "https://octa.space",
+  "aliases": [
+    "OCTA",
+    "octa"
+  ]
+}

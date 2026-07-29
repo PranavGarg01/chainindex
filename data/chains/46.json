@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Darwinia Network",
+  "slug": "darwinia-network",
+  "chainId": 46,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Darwinia Network Native Token",
+    "symbol": "RING",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.darwinia.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://darwinia-rpc.dcdao.box",
+      "isRecommended": false
+    },
+    {
+      "url": "https://darwinia-rpc.dwellir.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://darwinia.rpc.subquery.network/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.darwinia.network"
+    }
+  ],
+  "website": "https://darwinia.network",
+  "aliases": [
+    "darwinia"
+  ]
+}

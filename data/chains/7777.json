@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TTL Coin",
+  "slug": "ttl-coin",
+  "chainId": 7777,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TTL Coin",
+    "symbol": "TTL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ttl1.top",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TTL Scan",
+      "url": "https://scan.ttl1.top"
+    }
+  ],
+  "website": "https://github.com/okneo31/ttlcoin",
+  "aliases": [
+    "TTL",
+    "ttl"
+  ]
+}

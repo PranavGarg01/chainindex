@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexis Network Testnet",
+  "slug": "nexis-network-testnet",
+  "chainId": 2370,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nexis",
+    "symbol": "NZT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-testnet.nexis.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nexis Testnet Explorer",
+      "url": "https://evm-testnet.nexscan.io"
+    }
+  ],
+  "website": "https://nexis.network/",
+  "aliases": [
+    "Nexis Network",
+    "nzt"
+  ]
+}

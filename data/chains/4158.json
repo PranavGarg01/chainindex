@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "CrossFi",
+  "slug": "crossfi",
+  "chainId": 4158,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CrossFi Token",
+    "symbol": "XFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.ms",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CrossFi Mainnet Scan",
+      "url": "https://xfiscan.com"
+    }
+  ],
+  "website": "https://crossfi.org"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dorsen Chain",
+  "slug": "dorsen-chain",
+  "chainId": 99110,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dorsen Chain",
+    "symbol": "DC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.dorsenscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DorsenScan Mainnet",
+      "url": "https://dorsenscan.io"
+    }
+  ],
+  "website": "https://docs.dorsenscan.io",
+  "aliases": [
+    "Dorsen",
+    "dorsen-test"
+  ]
+}

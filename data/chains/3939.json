@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DOS Testnet",
+  "slug": "dos-testnet",
+  "chainId": 3939,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOS",
+    "symbol": "DOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test.doschain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DOScan-Test",
+      "url": "https://test.doscan.io"
+    }
+  ],
+  "website": "https://doschain.com",
+  "aliases": [
+    "DOS",
+    "dos-test"
+  ]
+}

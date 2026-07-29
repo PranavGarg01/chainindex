@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SKALE Europa Hub Testnet",
+  "slug": "skale-europa-hub-testnet",
+  "chainId": 1444673419,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.skalenodes.com/v1/juicy-low-small-testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://juicy-low-small-testnet.explorer.testnet.skalenodes.com"
+    }
+  ],
+  "website": "https://europahub.network/",
+  "aliases": [
+    "juicy-low-small-testnet",
+    "europa-testnet"
+  ]
+}

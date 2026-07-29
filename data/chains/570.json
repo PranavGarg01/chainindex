@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Rollux",
+  "slug": "rollux",
+  "chainId": 570,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.rollux.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rollux.rpc.syscoin.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/rollux",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rollux Mainnet Explorer",
+      "url": "https://explorer.rollux.com"
+    }
+  ],
+  "website": "https://rollux.com",
+  "aliases": [
+    "SYS",
+    "sys-rollux"
+  ]
+}

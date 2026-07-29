@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "WMC Testnet",
+  "slug": "wmc-testnet",
+  "chainId": 42070,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WMTx",
+    "symbol": "WMTx",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet-base.worldmobile.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "WMC Explorer",
+      "url": "https://explorer-testnet-base.worldmobile.net"
+    }
+  ],
+  "website": "https://worldmobiletoken.com",
+  "aliases": [
+    "WMC",
+    "wmtx"
+  ]
+}

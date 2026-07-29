@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Foundry Chain Testnet",
+  "slug": "foundry-chain-testnet",
+  "chainId": 77238,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Foundry Chain Testnet",
+    "symbol": "tFNC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.foundryscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Foundry Scan Testnet",
+      "url": "https://testnet-explorer.foundryscan.org"
+    }
+  ],
+  "website": "https://foundrychain.org",
+  "aliases": [
+    "tFNC",
+    "fnc"
+  ]
+}

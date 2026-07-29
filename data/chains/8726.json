@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Storagechain",
+  "slug": "storagechain",
+  "chainId": 8726,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Storagechain",
+    "symbol": "STOR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-validator.storagechain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Storscan",
+      "url": "https://explorer-storagechain.invo.zone/?network=StorageChain"
+    }
+  ],
+  "website": "https://storagechain.io/about-us",
+  "aliases": [
+    "stor"
+  ]
+}

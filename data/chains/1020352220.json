@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SKALE Titan Hub Testnet",
+  "slug": "skale-titan-hub-testnet",
+  "chainId": 1020352220,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.skalenodes.com/v1/aware-fake-trim-testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://aware-fake-trim-testnet.explorer.testnet.skalenodes.com"
+    }
+  ],
+  "aliases": [
+    "aware-fake-trim-testnet",
+    "titan-testnet"
+  ]
+}

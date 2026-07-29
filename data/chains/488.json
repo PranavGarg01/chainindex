@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BlackFort Exchange Network",
+  "slug": "blackfort-exchange-network",
+  "chainId": 488,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BlackFort Token",
+    "symbol": "BXN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blackfort.network/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blackfortscan.com"
+    }
+  ],
+  "website": "https://blackfort.com",
+  "aliases": [
+    "BXN"
+  ]
+}

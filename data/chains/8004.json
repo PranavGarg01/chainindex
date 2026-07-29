@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ProbeChain",
+  "slug": "probechain",
+  "chainId": 8004,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Probe",
+    "symbol": "PROBE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://proscan.pro/chain/rydberg-rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ProScan",
+      "url": "https://proscan.pro/rydberg"
+    }
+  ],
+  "website": "https://probechain.org",
+  "aliases": [
+    "PROBE",
+    "probe"
+  ]
+}

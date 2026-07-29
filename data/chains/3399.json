@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ByteChain Testnet",
+  "slug": "bytechain-testnet",
+  "chainId": 3399,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BEXC",
+    "symbol": "BEXC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc.bexc.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ByteChain Testnet Explorer",
+      "url": "https://testnet.bexc.io"
+    }
+  ],
+  "website": "https://bexc.io",
+  "aliases": [
+    "tBEXC",
+    "bytechaintest"
+  ]
+}

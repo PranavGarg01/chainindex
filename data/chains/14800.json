@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 2,
+  "name": "Vana Moksha Testnet",
+  "slug": "vana-moksha-testnet",
+  "chainId": 14800,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VANA",
+    "symbol": "VANA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.moksha.vana.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-moksha-vana.josephtran.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moksha-vana-rpc.tech-coha05.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vana Moksha Testnet",
+      "url": "https://vanascan.io"
+    }
+  ],
+  "aliases": [
+    "vana-moksha"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Unitsky String Technologies",
+  "slug": "unitsky-string-technologies",
+  "chainId": 778889,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Unitsky Token",
+    "symbol": "UST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://147-45-143-23.sslip.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Unitsky Explorer",
+      "url": "https://147-45-143-23.sslip.io"
+    }
+  ],
+  "website": "https://147-45-143-23.sslip.io",
+  "aliases": [
+    "Unitsky",
+    "ust"
+  ]
+}

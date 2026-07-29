@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Firechain",
+  "slug": "firechain",
+  "chainId": 529,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Firechain",
+    "symbol": "FIRE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.thefirechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-mainnet.firestation.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://thefirechain.com",
+  "aliases": [
+    "FIRE",
+    "fire"
+  ]
+}

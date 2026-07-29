@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Splendor Testnet",
+  "slug": "splendor-testnet",
+  "chainId": 2692,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Splendor Test Token",
+    "symbol": "SPLDT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.splendor.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Splendor Testnet Explorer",
+      "url": "https://testnet-explorer.splendor.org"
+    }
+  ],
+  "website": "https://splendor.org",
+  "aliases": [
+    "SPLD-TESTNET",
+    "spldt"
+  ]
+}

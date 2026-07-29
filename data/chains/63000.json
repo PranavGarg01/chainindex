@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "eSync Network",
+  "slug": "esync-network",
+  "chainId": 63000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "eCredits",
+    "symbol": "ECS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ecredits.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.esync.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "eSync Network Mainnet Explorer",
+      "url": "https://explorer.esync.network"
+    }
+  ],
+  "website": "https://esync.network",
+  "aliases": [
+    "ECS",
+    "esync-mainnet",
+    "eSync Network Mainnet"
+  ]
+}

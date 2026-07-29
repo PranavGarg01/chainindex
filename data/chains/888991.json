@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Unite Testnet",
+  "slug": "unite-testnet",
+  "chainId": 888991,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Unite",
+    "symbol": "UNITE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://unite-testnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Unite Testnet Explorer",
+      "url": "https://unite-testnet.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://unite.io",
+  "aliases": [
+    "UNITE",
+    "unitetestnet"
+  ]
+}

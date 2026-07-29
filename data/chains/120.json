@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "ENULS Testnet",
+  "slug": "enuls-testnet",
+  "chainId": 120,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NULS",
+    "symbol": "NULS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://beta.evmapi.nuls.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://beta.evmapi2.nuls.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "enulsscan",
+      "url": "https://beta.evmscan.nuls.io"
+    }
+  ],
+  "website": "https://nuls.io",
+  "aliases": [
+    "ENULS",
+    "enulst"
+  ]
+}

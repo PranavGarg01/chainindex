@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mars Chain Testnet",
+  "slug": "mars-chain-testnet",
+  "chainId": 704852,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mars Coin",
+    "symbol": "MarsC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.mars-chain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mars Chain Testnet Explorer",
+      "url": "https://testnet-explorer.mars-chain.io/"
+    }
+  ],
+  "website": "https://testnet-explorer.mars-chain.io/",
+  "aliases": [
+    "MARS",
+    "marschain-testnet"
+  ]
+}

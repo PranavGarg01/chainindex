@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "R5 Network Testnet",
+  "slug": "r5-network-testnet",
+  "chainId": 33710,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test R5",
+    "symbol": "TR5",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.r5.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "R5 Explorer",
+      "url": "https://explorer-testnet.r5.network"
+    }
+  ],
+  "website": "https://r5.network",
+  "aliases": [
+    "r5testnet",
+    "tr5"
+  ]
+}

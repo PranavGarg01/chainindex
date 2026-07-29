@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CIC Chain",
+  "slug": "cic-chain",
+  "chainId": 1353,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Crazy Internet Coin",
+    "symbol": "CIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xapi.cicscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CICscan",
+      "url": "https://cicscan.com"
+    }
+  ],
+  "website": "https://www.cicchain.net",
+  "aliases": [
+    "CIC"
+  ]
+}

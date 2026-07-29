@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Taf ECO Chain",
+  "slug": "taf-eco-chain",
+  "chainId": 224168,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Taf ECO Chain Mainnet",
+    "symbol": "TAFECO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.tafchain.com/v1",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Taf ECO Chain Mainnet",
+      "url": "https://ecoscan.tafchain.com"
+    }
+  ],
+  "website": "https://www.tafchain.com",
+  "aliases": [
+    "TAFECO"
+  ]
+}

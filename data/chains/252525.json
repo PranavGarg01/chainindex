@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CELESTIUM Network Testnet",
+  "slug": "celestium-network-testnet",
+  "chainId": 252525,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CLT",
+    "symbol": "tCLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-private-testnet.celestium.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CELESTIUM Testnet Explorer",
+      "url": "https://testnet.celestium.network"
+    }
+  ],
+  "website": "https://celestium.network",
+  "aliases": [
+    "CELESTIUM",
+    "tclt"
+  ]
+}

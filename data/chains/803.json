@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Haic",
+  "slug": "haic",
+  "chainId": 803,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Haicoin",
+    "symbol": "HAIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://orig.haichain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.haichain.io/"
+}

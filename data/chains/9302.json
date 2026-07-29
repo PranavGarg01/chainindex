@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Galactica-Reticulum",
+  "slug": "galactica-reticulum",
+  "chainId": 9302,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Galactica Reticulum",
+    "symbol": "GNET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc-http-reticulum.galactica.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Galactica-Reticulum Explorer",
+      "url": "https://explorer-reticulum.galactica.com"
+    }
+  ],
+  "website": "https://galactica.com",
+  "aliases": [
+    "Galactica Testnet",
+    "GNET"
+  ]
+}

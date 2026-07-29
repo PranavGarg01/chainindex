@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Runic Chain Testnet",
+  "slug": "runic-chain-testnet",
+  "chainId": 822,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "rBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.runic.build",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RunicScan",
+      "url": "https://scan.runic.build"
+    }
+  ],
+  "website": "https://runic.build",
+  "aliases": [
+    "Runic",
+    "runic-testnet"
+  ]
+}

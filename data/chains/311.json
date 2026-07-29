@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Omax",
+  "slug": "omax",
+  "chainId": 311,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OMAX COIN",
+    "symbol": "OMAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainapi.omaxray.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainapi.omaxscan.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Omax Chain Explorer",
+      "url": "https://omaxray.com"
+    }
+  ],
+  "website": "https://www.omaxcoin.com/",
+  "aliases": [
+    "OMAX Chain"
+  ]
+}

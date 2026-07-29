@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Intuition Testnet",
+  "slug": "intuition-testnet",
+  "chainId": 13579,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet TRUST",
+    "symbol": "TTRUST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.intuition.systems",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IntuitionScan (Testnet)",
+      "url": "https://testnet.explorer.intuition.systems"
+    }
+  ],
+  "website": "https://intuition.systems",
+  "aliases": [
+    "INTUITION",
+    "intuition-testnet"
+  ]
+}

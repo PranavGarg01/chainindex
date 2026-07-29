@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "KYMTC",
+  "slug": "kymtc",
+  "chainId": 15430,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KYMTC",
+    "symbol": "KYMTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.kymaticscan.online",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KYMTC Mainnet Explorer",
+      "url": "https://kymaticscan.online"
+    }
+  ],
+  "website": "https://kymaticscan.online"
+}

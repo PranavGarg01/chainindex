@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "KorthoTest",
+  "slug": "korthotest",
+  "chainId": 8285,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kortho Test",
+    "symbol": "KTO",
+    "decimals": 11
+  },
+  "rpc": [
+    {
+      "url": "https://www.krotho-test.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.kortho.io/",
+  "aliases": [
+    "Kortho"
+  ]
+}

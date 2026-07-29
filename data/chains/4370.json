@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ILITY",
+  "slug": "ility",
+  "chainId": 4370,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ILITY",
+    "symbol": "ILY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ility.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ILITY Mainnet Explorer",
+      "url": "https://scan.ility.xyz"
+    }
+  ],
+  "website": "https://ility.xyz",
+  "aliases": [
+    "ILY",
+    "ily"
+  ]
+}

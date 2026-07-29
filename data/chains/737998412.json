@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tau Testnet",
+  "slug": "tau-testnet",
+  "chainId": 737998412,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAU",
+    "symbol": "TAU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tau.gateway.fm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockScout",
+      "url": "https://explorer.tau.gateway.fm"
+    }
+  ],
+  "website": "https://presto.gateway.fm/rollups/8bd8406f-a64f-484f-b299-046dd5f24a0f",
+  "aliases": [
+    "Tau",
+    "tau-testnet"
+  ]
+}

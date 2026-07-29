@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Metacces Testnet",
+  "slug": "metacces-testnet",
+  "chainId": 1260,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metacces",
+    "symbol": "ACCES",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tapi.accesscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "accesscan",
+      "url": "https://testnet.accesscan.io"
+    }
+  ],
+  "website": "https://metacces.com",
+  "aliases": [
+    "ACCESt"
+  ]
+}

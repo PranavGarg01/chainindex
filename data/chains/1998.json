@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Kyoto Testnet",
+  "slug": "kyoto-testnet",
+  "chainId": 1998,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kyoto",
+    "symbol": "KYOTO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.kyotoprotocol.io:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kyotoscan",
+      "url": "https://testnet.kyotoscan.io"
+    }
+  ],
+  "website": "https://kyotoprotocol.io",
+  "aliases": [
+    "KYOTO",
+    "kyoto-testnet"
+  ]
+}

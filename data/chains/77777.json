@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Toronet",
+  "slug": "toronet",
+  "chainId": 77777,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Toroe",
+    "symbol": "TOROE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://www.toronet.org/rpc2",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "toronet_explorer",
+      "url": "https://toronet.org/explorer"
+    }
+  ],
+  "website": "https://toronet.org"
+}

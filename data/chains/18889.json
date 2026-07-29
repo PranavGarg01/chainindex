@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Titan (TKX) Testnet",
+  "slug": "titan-tkx-testnet",
+  "chainId": 18889,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Titan tkx",
+    "symbol": "TKX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://titan-testnet-json-rpc.titanlab.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://titan-testnet-json-rpc-1.titanlab.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://titan-testnet-json-rpc-2.titanlab.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Titan Explorer",
+      "url": "https://titan-testnet-explorer-light.titanlab.io/Titan%20Testnet"
+    }
+  ],
+  "website": "https://titanlab.io",
+  "aliases": [
+    "Titan (TKX)",
+    "titan_tkx-testnet"
+  ]
+}

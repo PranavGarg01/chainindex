@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "IDChain",
+  "slug": "idchain",
+  "chainId": 74,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EIDI",
+    "symbol": "EIDI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://idchain.one/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.idchain.one"
+    }
+  ],
+  "website": "https://idchain.one/begin/"
+}

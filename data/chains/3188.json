@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BeeChain",
+  "slug": "beechain",
+  "chainId": 3188,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BeeChain",
+    "symbol": "BKC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.beechain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BeeChainScan",
+      "url": "https://scan.beechain.ai"
+    }
+  ],
+  "website": "https://beechain.ai",
+  "aliases": [
+    "BKC"
+  ]
+}

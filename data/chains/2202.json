@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Antofy",
+  "slug": "antofy",
+  "chainId": 2202,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Antofy",
+    "symbol": "ABN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.antofy.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Antofy Mainnet",
+      "url": "https://antofyscan.com"
+    }
+  ],
+  "website": "https://antofy.io",
+  "aliases": [
+    "ABN",
+    "ABNm"
+  ]
+}

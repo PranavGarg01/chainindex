@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "High Performance Blockchain",
+  "slug": "high-performance-blockchain",
+  "chainId": 269,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "High Performance Blockchain Ether",
+    "symbol": "HPB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hpbnode.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "hscan",
+      "url": "https://hscan.org"
+    }
+  ],
+  "website": "https://hpb.io",
+  "aliases": [
+    "HPB",
+    "hpb"
+  ]
+}

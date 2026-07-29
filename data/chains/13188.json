@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BeeChain Testnet",
+  "slug": "beechain-testnet",
+  "chainId": 13188,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BeeChain",
+    "symbol": "BKC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpctest.beechain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BeeChainScan",
+      "url": "https://scantest.beechain.ai"
+    }
+  ],
+  "website": "https://beechain.ai",
+  "aliases": [
+    "BKC"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Toronet Testnet",
+  "slug": "toronet-testnet",
+  "chainId": 54321,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Toroe",
+    "symbol": "TOROE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.toronet.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "toronet_explorer",
+      "url": "https://testnet.toronet.org"
+    }
+  ],
+  "website": "https://toronet.org",
+  "aliases": [
+    "Toronet",
+    "ToronetTestnet"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "MaalChain Testnet",
+  "slug": "maalchain-testnet",
+  "chainId": 7860,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAAL",
+    "symbol": "MAAL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node1.maalscan.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-bntest.maalscan.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "maalscan testnet",
+      "url": "https://testnet.maalscan.io"
+    }
+  ],
+  "website": "https://www.maalchain.com/",
+  "aliases": [
+    "maal-test"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "name": "Qitmeer Network",
+  "slug": "qitmeer-network",
+  "chainId": 813,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Qitmeer",
+    "symbol": "MEER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.meerlabs.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm-dataseed1.meerscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-dataseed2.meerscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-dataseed3.meerscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-dataseed.meerscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://qng.rpc.qitmeer.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.dimai.ai",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.woowow.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "meerscan",
+      "url": "https://qng.qitmeer.io"
+    },
+    {
+      "name": "meerscan",
+      "url": "https://qng.meerscan.io"
+    }
+  ],
+  "website": "https://github.com/Qitmeer",
+  "aliases": [
+    "MEER",
+    "meer"
+  ]
+}

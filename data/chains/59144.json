@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "name": "Linea",
+  "slug": "linea",
+  "chainId": 59144,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Linea Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.linea.build",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/linea",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea.decubate.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/linea/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/linea",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-linea-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/linea",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://lineascan.build"
+    },
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.linea.build"
+    },
+    {
+      "name": "L2scan",
+      "url": "https://linea.l2scan.co"
+    }
+  ],
+  "website": "https://linea.build",
+  "aliases": [
+    "ETH",
+    "Linea Mainnet"
+  ]
+}

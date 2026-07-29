@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "FONChain",
+  "slug": "fonchain",
+  "chainId": 201022,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FON",
+    "symbol": "FON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fsc-dataseed1.fonscan.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://fsc-dataseed2.fonscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fsc-dataseed3.fonscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fsc-dataseed4.fonscan.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "fonscan",
+      "url": "https://fonscan.io"
+    }
+  ],
+  "website": "https://fonchain.io",
+  "aliases": [
+    "FSC",
+    "fsc"
+  ]
+}

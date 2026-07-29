@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Atoshi Testnet",
+  "slug": "atoshi-testnet",
+  "chainId": 167,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATOSHI",
+    "symbol": "ATOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.atoshi.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node2.atoshi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3.atoshi.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "atoshiscan",
+      "url": "https://scan.atoverse.info"
+    }
+  ],
+  "website": "https://atoshi.org",
+  "aliases": [
+    "ATOSHI",
+    "atoshi"
+  ]
+}

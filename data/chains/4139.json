@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Humans.ai Testnet",
+  "slug": "humans-ai-testnet",
+  "chainId": 4139,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HEART",
+    "symbol": "HEART",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://humans-testnet-evm.itrocket.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm-rpc.testnet.humans.zone",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://humans.ai",
+  "aliases": [
+    "Humans Testnet",
+    "humans_testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "JOA Chain",
+  "slug": "joa-chain",
+  "chainId": 1191,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JOA Coin",
+    "symbol": "JC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.joachain.live",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JOA Explorer",
+      "url": "https://scan.joachain.live"
+    }
+  ],
+  "website": "https://joachain.live",
+  "aliases": [
+    "JOA",
+    "joa"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "HyperCluster",
+  "slug": "hypercluster",
+  "chainId": 838838,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HYPEC",
+    "symbol": "HYPEC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hypercluster.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HyperCluster Explorer",
+      "url": "https://explorer.hypercluster.org/"
+    }
+  ],
+  "website": "https://hypercluster.org/"
+}

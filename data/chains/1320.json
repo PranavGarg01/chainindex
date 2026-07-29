@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AIA Testnet",
+  "slug": "aia-testnet",
+  "chainId": 1320,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AIA Testnet",
+    "symbol": "AIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://aia-dataseed1-testnet.aiachain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AIA Chain Explorer Testnet",
+      "url": "https://testnet.aiascan.com"
+    }
+  ],
+  "website": "https://aiachain.org",
+  "aliases": [
+    "AIA",
+    "aiatestnet"
+  ]
+}

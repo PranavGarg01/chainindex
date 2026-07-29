@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "6Degree of Outreach",
+  "slug": "6degree-of-outreach",
+  "chainId": 2477,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "6Degree Coin",
+    "symbol": "6DO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.6dochain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.6dochain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.6dochain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "6Degree Chain Explorer",
+      "url": "https://explorer.6dochain.com"
+    }
+  ],
+  "website": "https://6do.world",
+  "aliases": [
+    "6DO",
+    "6do"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CMP-Mainnet",
+  "slug": "cmp-mainnet",
+  "chainId": 256256,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Caduceus Token",
+    "symbol": "CMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.block.caduceus.foundation",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mainnet Scan",
+      "url": "https://mainnet.scan.caduceus.foundation"
+    }
+  ],
+  "website": "https://caduceus.foundation/",
+  "aliases": [
+    "CMP"
+  ]
+}

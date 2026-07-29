@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Ctex Scan Blockchain",
+  "slug": "ctex-scan-blockchain",
+  "chainId": 1455,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CTEX",
+    "symbol": "CTEX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.ctexscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ctex Scan Explorer",
+      "url": "https://ctexscan.com"
+    }
+  ],
+  "website": "https://ctextoken.io",
+  "aliases": [
+    "CTEX"
+  ]
+}

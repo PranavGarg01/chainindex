@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Synapse Chain Testnet",
+  "slug": "synapse-chain-testnet",
+  "chainId": 444,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.synapseprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Synapse Chain Sepolia",
+      "url": "https://sepolia.synapsescan.com"
+    }
+  ],
+  "website": "https://synapseprotocol.com",
+  "aliases": [
+    "ETH",
+    "synapse-sepolia"
+  ]
+}

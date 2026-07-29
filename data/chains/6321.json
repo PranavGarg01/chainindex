@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Aura Euphoria Testnet",
+  "slug": "aura-euphoria-testnet",
+  "chainId": 6321,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "test-EAura",
+    "symbol": "eAura",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonrpc.euphoria.aura.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Aurascan Explorer",
+      "url": "https://euphoria.aurascan.io"
+    }
+  ],
+  "website": "https://aura.network",
+  "aliases": [
+    "Aura",
+    "eaura"
+  ]
+}

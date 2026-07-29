@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "FyroChain",
+  "slug": "fyrochain",
+  "chainId": 511,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Fyro",
+    "symbol": "FYRO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fyrochain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FyroScan",
+      "url": "https://fyrochain.org"
+    }
+  ],
+  "website": "https://fyrochain.org",
+  "aliases": [
+    "FYRO",
+    "fyro"
+  ]
+}

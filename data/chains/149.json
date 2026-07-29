@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "JITO Public Network",
+  "slug": "jito-public-network",
+  "chainId": 149,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JITO",
+    "symbol": "JITO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.flowpe.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "jito-explorer",
+      "url": "https://explorer.flowpe.io"
+    }
+  ],
+  "website": "https://jito.flowpe.io",
+  "aliases": [
+    "JITO",
+    "jito149"
+  ]
+}

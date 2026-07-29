@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "name": "Amoy",
+  "slug": "amoy",
+  "chainId": 80002,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POL",
+    "symbol": "POL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-amoy.polygon.technology",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.satelink.network/rpc/amoy",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-bor-amoy-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy.blockpi.network/v1/rpc/private",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/polygon-amoy",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://poly-amoy.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-amoy-bor-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "polygonscan-amoy",
+      "url": "https://amoy.polygonscan.com"
+    }
+  ],
+  "website": "https://polygon.technology/",
+  "aliases": [
+    "Polygon",
+    "polygonamoy",
+    "Polygon Amoy Testnet"
+  ]
+}

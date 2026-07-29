@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tron Classic",
+  "slug": "tron-classic",
+  "chainId": 30485,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tron Classic",
+    "symbol": "TRXC",
+    "decimals": 6
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tronclassicscan.org:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TronClassicScan",
+      "url": "https://tronclassicscan.org"
+    }
+  ],
+  "website": "https://trxclassic.com",
+  "aliases": [
+    "TRXC",
+    "trxc"
+  ]
+}

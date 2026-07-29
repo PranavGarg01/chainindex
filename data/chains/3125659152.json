@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Pirl",
+  "slug": "pirl",
+  "chainId": 3125659152,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pirl Ether",
+    "symbol": "PIRL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://wallrpc.pirl.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://pirl.io"
+}

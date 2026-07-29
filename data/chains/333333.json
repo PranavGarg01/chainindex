@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nativ3 Testnet",
+  "slug": "nativ3-testnet",
+  "chainId": 333333,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USNT",
+    "symbol": "USNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpctest.nativ3.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nativ3 Test Explorer",
+      "url": "https://scantest.nativ3.network"
+    }
+  ],
+  "website": "https://nativ3.network",
+  "aliases": [
+    "N3-Test"
+  ]
+}

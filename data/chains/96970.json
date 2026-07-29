@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Mantis Testnet (Hexapod)",
+  "slug": "mantis-testnet-hexapod",
+  "chainId": 96970,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mantis",
+    "symbol": "MANTIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mantis-rpc.switch.ch",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mantis-rpc.kore-technologies.ch",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantis-rpc.phoenix-systems.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mantis Blockscout",
+      "url": "https://blockscout.mantis.hexapod.network"
+    }
+  ],
+  "website": "https://hexapod.network",
+  "aliases": [
+    "Mantis",
+    "mantis"
+  ]
+}

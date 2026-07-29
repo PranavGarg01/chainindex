@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "GomChain",
+  "slug": "gomchain",
+  "chainId": 190278,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GOM",
+    "symbol": "GOM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gomchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "gomscan",
+      "url": "https://scan.gomchain.com"
+    }
+  ],
+  "website": "https://gomchain.com",
+  "aliases": [
+    "gomchain-mainnet"
+  ]
+}

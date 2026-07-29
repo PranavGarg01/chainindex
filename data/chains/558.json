@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Tao Network",
+  "slug": "tao-network",
+  "chainId": 558,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tao",
+    "symbol": "TAO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tao.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.testnet.tao.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://tao.network",
+  "aliases": [
+    "TAO",
+    "tao"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "NFB Chain",
+  "slug": "nfb-chain",
+  "chainId": 632,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NFBCoin",
+    "symbol": "NFBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.nfbchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NFB Chain Explorer",
+      "url": "https://scan.nfbchain.com"
+    }
+  ],
+  "website": "https://nfbchain.com/",
+  "aliases": [
+    "nfbchain"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Hertz Network",
+  "slug": "hertz-network",
+  "chainId": 26600,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hertz",
+    "symbol": "HTZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.hertzscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hertz Scan",
+      "url": "https://hertzscan.com"
+    }
+  ],
+  "website": "https://www.hertz-network.com",
+  "aliases": [
+    "HTZ"
+  ]
+}

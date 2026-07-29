@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Dexit Network",
+  "slug": "dexit-network",
+  "chainId": 877,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dexit network",
+    "symbol": "DXT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dxt.dexit.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dxtscan",
+      "url": "https://dxtscan.com"
+    }
+  ],
+  "website": "https://dexit.network",
+  "aliases": [
+    "DXT"
+  ]
+}

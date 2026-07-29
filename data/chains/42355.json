@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GoldXChain",
+  "slug": "goldxchain",
+  "chainId": 42355,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GoldX",
+    "symbol": "GOLDX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.goldxchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GoldXChain Explorer",
+      "url": "https://explorer.goldxchain.io"
+    }
+  ],
+  "website": "https://goldxchain.io",
+  "aliases": [
+    "GoldX",
+    "goldx"
+  ]
+}

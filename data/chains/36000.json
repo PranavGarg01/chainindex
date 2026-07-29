@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Voidchain",
+  "slug": "voidchain",
+  "chainId": 36000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Voidchain",
+    "symbol": "TC",
+    "decimals": 9
+  },
+  "rpc": [
+    {
+      "url": "https://wallet.voidchain.net/api",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "voidchainscan",
+      "url": "https://explorer.voidchain.net"
+    }
+  ],
+  "website": "https://ethereum.org",
+  "aliases": [
+    "TC",
+    "tc"
+  ]
+}

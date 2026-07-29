@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Pharos",
+  "slug": "pharos",
+  "chainId": 1672,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PharosCoin",
+    "symbol": "PROS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://infra.originstake.com/pharos/evm",
+      "isRecommended": true
+    },
+    {
+      "url": "https://pharos.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.pharos.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pharos Explorer",
+      "url": "https://pharosscan.xyz"
+    }
+  ],
+  "website": "https://pharos.xyz/",
+  "aliases": [
+    "Pharos Mainnet"
+  ]
+}

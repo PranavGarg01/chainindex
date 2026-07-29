@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "MetaDot",
+  "slug": "metadot",
+  "chainId": 16000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MetaDot Token",
+    "symbol": "MTT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.metadot.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://metadot.network",
+  "aliases": [
+    "MTT",
+    "mtt"
+  ]
+}

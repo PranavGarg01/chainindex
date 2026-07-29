@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nal",
+  "slug": "nal",
+  "chainId": 328527,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nal.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nal Network Explorer",
+      "url": "https://scan.nal.network"
+    }
+  ],
+  "website": "https://www.nal.network",
+  "aliases": [
+    "ETH"
+  ]
+}

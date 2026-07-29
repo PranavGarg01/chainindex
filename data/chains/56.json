@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 2,
+  "name": "BNB Smart Chain",
+  "slug": "bnb-smart-chain",
+  "chainId": 56,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nodeflare.app/bnb/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed.bnbchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.campioneinfrastructure.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed1.defibit.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed1.ninicoin.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed2.defibit.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed3.defibit.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed4.defibit.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed2.ninicoin.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed3.ninicoin.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed4.ninicoin.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed1.bnbchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed2.bnbchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed3.bnbchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed4.bnbchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-dataseed6.dict.life",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-bsc.48.club",
+      "isRecommended": false
+    },
+    {
+      "url": "https://0.48.club",
+      "isRecommended": false
+    },
+    {
+      "url": "https://binance-smart-chain-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3",
+      "isRecommended": false
+    },
+    {
+      "url": "https://go.getblock.io/cc778cdbdf5c4b028ec9456e0e6c0cf3",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bscrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.rpcgator.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://binance.nodereal.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-mainnet.rpcfast.com?api_key=xbhWBI1Wkguk8SNMu1bvvLurPGLXmgwYeC4S6g2H7WdwFigZSmPWVZRxrskEQwIf",
+      "isRecommended": false
+    },
+    {
+      "url": "https://nodes.vefinetwork.org/smartchain",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/bnb",
+      "isRecommended": true
+    },
+    {
+      "url": "https://bsc.rpc.blxrbdn.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.blockpi.network/v1/rpc/private",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bnb.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.meowrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/bsc-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://services.tokenview.io/vipapi/nodeservice/bsc?apikey=gVFJX5OyPdc2kHH7youg",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.polysplit.cloud/v1/chain/56",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/bsc-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-bsc.nownodes.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-mainnet.4everland.org/v1/37fa9972c1b1cd5fab542c7bdd4cde2f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.blockrazor.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/bsc/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/bsc/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/bsc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-bsc-mainnet.fastnode.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-bsc-mainnet-full.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/bsc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gw-aql.tomo.services/v1/bnbchain/aql_live_2dba7f55b5cf0f356538a727da2079fe",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bsc-rpc.keccak.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bscscan",
+      "url": "https://bscscan.com"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://bnb.dex.guru"
+    }
+  ],
+  "website": "https://www.bnbchain.org/en",
+  "aliases": [
+    "BSC",
+    "bnb"
+  ]
+}

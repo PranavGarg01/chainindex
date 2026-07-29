@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Turkchain",
+  "slug": "turkchain",
+  "chainId": 1919,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TC",
+    "symbol": "TURK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.turkscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TURKCHAIN Explorer",
+      "url": "https://turkscan.com"
+    }
+  ],
+  "website": "https://turkchain1919.com"
+}

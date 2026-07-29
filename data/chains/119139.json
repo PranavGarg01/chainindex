@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MetaDAP Enterprise Testnet",
+  "slug": "metadap-enterprise-testnet",
+  "chainId": 119139,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DAP",
+    "symbol": "DAP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.chain.metadap.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MetaDAP Enterprise Testnet explorer",
+      "url": "https://explorer.testnet.chain.metadap.io"
+    }
+  ],
+  "website": "https://metadap.io/",
+  "aliases": [
+    "MetaDAP",
+    "MetaDAP-T"
+  ]
+}

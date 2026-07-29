@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Gogo",
+  "slug": "gogo",
+  "chainId": 99001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gogo",
+    "symbol": "GOGO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gogoblockchain.wuaze.com/node_rpc.php",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GogoScan",
+      "url": "https://gogoblockchain.wuaze.com/explorer.php"
+    }
+  ]
+}

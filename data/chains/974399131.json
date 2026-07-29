@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SKALE Calypso Hub Testnet",
+  "slug": "skale-calypso-hub-testnet",
+  "chainId": 974399131,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.skalenodes.com/v1/giant-half-dual-testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://giant-half-dual-testnet.explorer.testnet.skalenodes.com"
+    }
+  ],
+  "website": "https://calypsohub.network/",
+  "aliases": [
+    "giant-half-dual-testnet",
+    "calypso-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ARK Testnet",
+  "slug": "ark-testnet",
+  "chainId": 11812,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "DARK Token",
+    "symbol": "DARK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.mainsailhq.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ARK Testnet Explorer",
+      "url": "https://explorer-demo.mainsailhq.com"
+    }
+  ],
+  "website": "https://ark.io",
+  "aliases": [
+    "ARK",
+    "ark-testnet"
+  ]
+}

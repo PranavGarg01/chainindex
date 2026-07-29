@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Realchain",
+  "slug": "realchain",
+  "chainId": 121,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Realchain",
+    "symbol": "REAL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rcl-dataseed1.rclsidechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rcl-dataseed2.rclsidechain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rcl-dataseed3.rclsidechain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rcl-dataseed4.rclsidechain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "realscan",
+      "url": "https://rclscan.com"
+    }
+  ],
+  "website": "https://www.rclsidechain.com/",
+  "aliases": [
+    "REAL"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ARZIO Chain",
+  "slug": "arzio-chain",
+  "chainId": 456,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ARZIO",
+    "symbol": "AZO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain-rpc.arzio.co",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ARZIO Scan",
+      "url": "https://scan.arzio.co"
+    }
+  ],
+  "website": "https://chain.arzio.co",
+  "aliases": [
+    "ARZIO",
+    "arzio"
+  ]
+}

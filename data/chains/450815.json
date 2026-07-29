@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Maroo Testnet",
+  "slug": "maroo-testnet",
+  "chainId": 450815,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet OKRW",
+    "symbol": "tOKRW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.maroo.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-testnet.maroo.io"
+    }
+  ],
+  "website": "https://maroo.io",
+  "aliases": [
+    "MAROO",
+    "maroo-testnet"
+  ]
+}

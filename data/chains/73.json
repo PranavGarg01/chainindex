@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "FNCY",
+  "slug": "fncy",
+  "chainId": 73,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FNCY",
+    "symbol": "FNCY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fncy-seed1.fncy.world",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "fncy scan",
+      "url": "https://fncyscan.fncy.world"
+    }
+  ],
+  "website": "https://fncyscan.fncy.world"
+}

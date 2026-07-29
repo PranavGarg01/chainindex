@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Meroneum Testnet",
+  "slug": "meroneum-testnet",
+  "chainId": 3369,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MERON",
+    "symbol": "MERON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-node1.meronscan.ai",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-node2.meronscan.ai",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-node3.meronscan.ai",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "meronscan",
+      "url": "https://testnet.meronscan.ai"
+    }
+  ],
+  "website": "https://www.meroneum.ai/",
+  "aliases": [
+    "MERON",
+    "meron"
+  ]
+}

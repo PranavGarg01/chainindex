@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "QuarryChain Testnet",
+  "slug": "quarrychain-testnet",
+  "chainId": 1129,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quarry",
+    "symbol": "QRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.quarrychain.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QuarryScan",
+      "url": "https://explorer.testnet.quarrychain.network"
+    }
+  ],
+  "website": "https://quarrychain.network",
+  "aliases": [
+    "QuarryChain",
+    "qry"
+  ]
+}

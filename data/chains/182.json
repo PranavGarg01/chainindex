@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "IOST",
+  "slug": "iost",
+  "chainId": 182,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://l2-mainnet.iost.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IOSTscan",
+      "url": "https://l2-scan.iost.io"
+    }
+  ],
+  "website": "https://iost.io"
+}

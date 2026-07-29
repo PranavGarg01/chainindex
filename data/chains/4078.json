@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Muster",
+  "slug": "muster",
+  "chainId": 4078,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://muster.alt.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Musterscan",
+      "url": "https://muster-explorer.alt.technology"
+    }
+  ]
+}

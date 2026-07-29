@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Abyss Protocol",
+  "slug": "abyss-protocol",
+  "chainId": 229772,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AbyssETH",
+    "symbol": "aETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.abyssprotocol.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.abyssprotocol.ai"
+    }
+  ],
+  "website": "https://abyssprotocol.ai/",
+  "aliases": [
+    "Abyss Protocol Testnet",
+    "abyss"
+  ]
+}

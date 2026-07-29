@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Larissa Chain",
+  "slug": "larissa-chain",
+  "chainId": 9898,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Larissa",
+    "symbol": "LRS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.larissa.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Larissa Scan",
+      "url": "https://scan.larissa.network"
+    }
+  ],
+  "website": "https://larissa.network",
+  "aliases": [
+    "Larissa",
+    "lrs"
+  ]
+}

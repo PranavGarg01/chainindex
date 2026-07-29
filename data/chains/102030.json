@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Creditcoin",
+  "slug": "creditcoin",
+  "chainId": 102030,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CTC",
+    "symbol": "CTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://creditcoin.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet3.creditcoin.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://creditcoin.blockscout.com"
+    }
+  ],
+  "website": "https://creditcoin.org",
+  "aliases": [
+    "CTC",
+    "ctc"
+  ]
+}

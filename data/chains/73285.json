@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Nebula",
+  "slug": "nebula",
+  "chainId": 73285,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nebula Cash",
+    "symbol": "NEBX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nebula-chain.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nebula Explorer",
+      "url": "https://nebxscan.nebula-chain.com"
+    }
+  ],
+  "website": "https://nebula-chain.com"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Paribu Net",
+  "slug": "paribu-net",
+  "chainId": 3400,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PRB",
+    "symbol": "PRB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.paribu.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Paribu Net Explorer",
+      "url": "https://explorer.paribu.network"
+    }
+  ],
+  "website": "https://net.paribu.com",
+  "aliases": [
+    "PRB",
+    "prb"
+  ]
+}

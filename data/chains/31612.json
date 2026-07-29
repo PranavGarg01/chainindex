@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Mezo",
+  "slug": "mezo",
+  "chainId": 31612,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mezo.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc_evm-mezo.imperator.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mezo-mainnet.boar.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet.mezo.public.validationcloud.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-internal.mezo.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.mezo.org"
+    }
+  ],
+  "website": "https://mezo.org/"
+}

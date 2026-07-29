@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Movement EVM Testnet",
+  "slug": "movement-evm-testnet",
+  "chainId": 30732,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Move",
+    "symbol": "MOVE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mevm.testnet.imola.movementlabs.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mevm explorer",
+      "url": "https://explorer.testnet.imola.movementlabs.xyz"
+    }
+  ],
+  "website": "https://movementlabs.xyz",
+  "aliases": [
+    "MOVE",
+    "movetest"
+  ]
+}

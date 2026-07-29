@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "X1 Devnet",
+  "slug": "x1-devnet",
+  "chainId": 202212,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://x1-devnet.xen.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.x1-devnet.xen.network"
+    }
+  ],
+  "website": "https://docs.xen.network/x1/",
+  "aliases": [
+    "X1",
+    "x1-devnet"
+  ]
+}

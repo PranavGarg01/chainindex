@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ClawCoin",
+  "slug": "clawcoin",
+  "chainId": 11111111,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ClawCoin",
+    "symbol": "CC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.clawcoin.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://clawcoin.com",
+  "aliases": [
+    "CC",
+    "cc"
+  ]
+}

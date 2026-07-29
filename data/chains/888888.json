@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vision -",
+  "slug": "vision",
+  "chainId": 888888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VS",
+    "symbol": "VS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://infragrid.v.network/ethereum/compatible",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Visionscan",
+      "url": "https://www.visionscan.org"
+    }
+  ],
+  "website": "https://www.v.network",
+  "aliases": [
+    "Vision",
+    "vision"
+  ]
+}

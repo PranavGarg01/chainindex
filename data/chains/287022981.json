@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "DNAChain",
+  "slug": "dnachain",
+  "chainId": 287022981,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DNA",
+    "symbol": "DNA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.gene.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.gene.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.gene.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc4.gene.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc5.gene.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc6.gene.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dnascan",
+      "url": "https://scan.gene.network"
+    }
+  ],
+  "website": "https://gene.network",
+  "aliases": [
+    "Openverse",
+    "dnachain-mainnet"
+  ]
+}

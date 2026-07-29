@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Wyzth Testnet",
+  "slug": "wyzth-testnet",
+  "chainId": 309,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Wyzth",
+    "symbol": "WYZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet3.wyzthchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://wyzth.org/",
+  "aliases": [
+    "WYZ",
+    "wyz"
+  ]
+}

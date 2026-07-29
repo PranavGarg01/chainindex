@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "COTI Devnet",
+  "slug": "coti-devnet",
+  "chainId": 13068200,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "COTI2",
+    "symbol": "COTI2",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet.coti.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "coti devnet explorer",
+      "url": "https://explorer-devnet.coti.io"
+    }
+  ],
+  "website": "https://coti.io/",
+  "aliases": [
+    "COTI",
+    "coti-devnet"
+  ]
+}

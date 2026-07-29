@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "AETRON",
+  "slug": "aetron",
+  "chainId": 3355,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AETRON",
+    "symbol": "AET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://entrypoint-mainnet.aetron.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://aetron.io",
+  "aliases": [
+    "aet"
+  ]
+}

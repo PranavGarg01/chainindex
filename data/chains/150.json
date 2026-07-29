@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Six Protocol Testnet",
+  "slug": "six-protocol-testnet",
+  "chainId": 150,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SIX testnet evm token",
+    "symbol": "tSIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-evm.fivenet.sixprotocol.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SIX Scan fivenet",
+      "url": "https://sixscan.io/fivenet"
+    }
+  ],
+  "website": "https://six.network/",
+  "aliases": [
+    "FIVENET",
+    "sixt"
+  ]
+}

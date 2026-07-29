@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MON CHAIN",
+  "slug": "mon-chain",
+  "chainId": 19901,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Monetae",
+    "symbol": "MON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.monlite.online",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MON CHAIN Explorer",
+      "url": "https://scan.monlite.online"
+    }
+  ],
+  "website": "https://monlite.online",
+  "aliases": [
+    "MON",
+    "mon"
+  ]
+}

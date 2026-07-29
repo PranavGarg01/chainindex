@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GDPR Testnet",
+  "slug": "gdpr-testnet",
+  "chainId": 85321,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GDPR",
+    "symbol": "GDPR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.gdprchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GDPR Testnet Explorer (Blockscout)",
+      "url": "https://explorer.testnet.gdprchain.com"
+    }
+  ],
+  "website": "https://explorer.testnet.gdprchain.com",
+  "aliases": [
+    "GDPR",
+    "gdpr-testnet"
+  ]
+}

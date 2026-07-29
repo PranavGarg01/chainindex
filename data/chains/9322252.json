@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "XCAP",
+  "slug": "xcap",
+  "chainId": 9322252,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xcap-mainnet.relay.xcap.network/znzvh2ueyvm2yts5fv5gnul395jbkfb2/rpc1",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://xcap-mainnet.explorer.xcap.network"
+    }
+  ],
+  "website": "https://xcap.network/",
+  "aliases": [
+    "XCAP Mainnet"
+  ]
+}

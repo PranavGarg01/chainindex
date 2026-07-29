@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ClubMos",
+  "slug": "clubmos",
+  "chainId": 1188,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ClubMos",
+    "symbol": "MOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.mosscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mosscan",
+      "url": "https://www.mosscan.com"
+    }
+  ],
+  "website": "https://www.mosscan.com",
+  "aliases": [
+    "MOS"
+  ]
+}

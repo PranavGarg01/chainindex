@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "SlerfChain",
+  "slug": "slerfchain",
+  "chainId": 918,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WSLERF",
+    "symbol": "WSLERF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.slerfchain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SlerfChain Scan",
+      "url": "https://scan.slerfchain.xyz"
+    }
+  ],
+  "website": "https://slerfchain.xyz",
+  "aliases": [
+    "SLERF CHAIN",
+    "SlerfChain-Mainnet",
+    "SlerfChain Mainnet"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "OptimusZ7",
+  "slug": "optimusz7",
+  "chainId": 9797,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OptimusZ7",
+    "symbol": "OZ7",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.optimusz7.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OptimusZ7 Mainnet Explorer",
+      "url": "https://explorer.optimusz7.com"
+    }
+  ],
+  "aliases": [
+    "OZ7m"
+  ]
+}

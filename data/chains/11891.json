@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Polygon Supernet Arianee",
+  "slug": "polygon-supernet-arianee",
+  "chainId": 11891,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Arianee",
+    "symbol": "ARIA20",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.polygonsupernet.public.arianee.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Polygon Supernet Arianee Explorer",
+      "url": "https://polygonsupernet.explorer.arianee.net"
+    }
+  ],
+  "website": "https://arianee.org",
+  "aliases": [
+    "Arianee"
+  ]
+}

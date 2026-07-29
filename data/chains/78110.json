@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Firenze test network",
+  "slug": "firenze-test-network",
+  "chainId": 78110,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Firenze Ether",
+    "symbol": "FIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ethnode.primusmoney.com/firenze",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://primusmoney.com",
+  "aliases": [
+    "ETH",
+    "firenze"
+  ]
+}

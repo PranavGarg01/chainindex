@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "JuncaChain testnet",
+  "slug": "juncachain-testnet",
+  "chainId": 669,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JuncaChain Testnet Native Token",
+    "symbol": "JGCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.juncachain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JuncaScan",
+      "url": "https://scan-testnet.juncachain.com"
+    }
+  ],
+  "website": "https://junca-cash.world",
+  "aliases": [
+    "juncat"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "HYCHAIN",
+  "slug": "hychain",
+  "chainId": 2911,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TOPIA",
+    "symbol": "TOPIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hychain.com/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.hychain.com"
+    }
+  ],
+  "website": "https://www.hychain.com",
+  "aliases": [
+    "ETH"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Moonrock",
+  "slug": "moonrock",
+  "chainId": 1288,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rocs",
+    "symbol": "ROC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.api.moonrock.moonbeam.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://docs.moonbeam.network/learn/platform/networks/overview/",
+  "aliases": [
+    "MOON",
+    "mrock"
+  ]
+}

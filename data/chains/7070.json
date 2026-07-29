@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Planq",
+  "slug": "planq",
+  "chainId": 7070,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Planq",
+    "symbol": "PLQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://planq-public.nodies.app",
+      "isRecommended": true
+    },
+    {
+      "url": "https://jsonrpc.planq.nodestake.top",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-rpc.planq.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Planq EVM Explorer (Blockscout)",
+      "url": "https://evm.planq.network"
+    },
+    {
+      "name": "Planq Cosmos Explorer (BigDipper)",
+      "url": "https://explorer.planq.network"
+    }
+  ],
+  "website": "https://planq.network"
+}

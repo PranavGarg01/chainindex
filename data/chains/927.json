@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Yidark Chain",
+  "slug": "yidark-chain",
+  "chainId": 927,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Yidark",
+    "symbol": "YDK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.yidark.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Yidarkscan",
+      "url": "https://yidarkscan.com"
+    }
+  ],
+  "website": "https://yidarkscan.com",
+  "aliases": [
+    "Yidark",
+    "ydk"
+  ]
+}

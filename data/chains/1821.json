@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Ruby Smart Chain",
+  "slug": "ruby-smart-chain",
+  "chainId": 1821,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RUBY Smart Chain Native Token",
+    "symbol": "RUBY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-data.rubychain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet.rubychain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RUBY Smart Chain MAINNET Explorer",
+      "url": "https://rubyscan.net"
+    }
+  ],
+  "website": "https://rubychain.io",
+  "aliases": [
+    "RUBY"
+  ]
+}

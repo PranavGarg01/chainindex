@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "OptimusZ7 Testnet",
+  "slug": "optimusz7-testnet",
+  "chainId": 97970,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OptimusZ7",
+    "symbol": "OZ7",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.optimusz7.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OptimusZ7 Testnet Explorer",
+      "url": "https://testnet.optimusz7.com"
+    }
+  ],
+  "aliases": [
+    "OptimusZ7",
+    "OZ7t"
+  ]
+}

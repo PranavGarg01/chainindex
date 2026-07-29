@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "XPLA Verse",
+  "slug": "xpla-verse",
+  "chainId": 7300,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-xpla-verse.xpla.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XPLA Verse Explorer",
+      "url": "https://explorer-xpla-verse.xpla.dev"
+    }
+  ],
+  "website": "https://www.xpla.io",
+  "aliases": [
+    "XPLAVERSE"
+  ]
+}

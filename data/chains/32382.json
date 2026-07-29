@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Santiment Intelligence Network",
+  "slug": "santiment-intelligence-network",
+  "chainId": 32382,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SANR",
+    "symbol": "SANR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.sanr.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Santiment Intelligence Explorer",
+      "url": "https://app-explorer-pos.sanr.app"
+    }
+  ],
+  "website": "https://sanr.app",
+  "aliases": [
+    "SANR"
+  ]
+}

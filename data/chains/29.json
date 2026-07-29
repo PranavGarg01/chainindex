@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Genesis L1",
+  "slug": "genesis-l1",
+  "chainId": 29,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "L1 coin",
+    "symbol": "L1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.genesisl1.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Genesis L1 blockchain explorer",
+      "url": "https://explorer.genesisl1.org"
+    }
+  ],
+  "website": "https://www.genesisl1.com",
+  "aliases": [
+    "genesis",
+    "L1"
+  ]
+}

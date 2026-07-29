@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "name": "Avalanche Fuji Testnet",
+  "slug": "avalanche-fuji-testnet",
+  "chainId": 43113,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.avax-test.network/ext/bc/C/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/avax/fuji/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanchetestapi.terminet.io/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ava-testnet.public.blastapi.io/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche-fuji-c-chain-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/avax-fuji/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/avalanche-fuji",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche-fuji.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche-fuji.therpc.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://testnet.snowscan.xyz"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://testnet.snowtrace.io"
+    },
+    {
+      "name": "Avascan",
+      "url": "https://testnet.avascan.info"
+    }
+  ],
+  "website": "https://cchain.explorer.avax-test.network",
+  "aliases": [
+    "AVAX",
+    "Fuji"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lambda Chain Testnet",
+  "slug": "lambda-chain-testnet",
+  "chainId": 17000920,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnrpc.lambda.im",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lambda Chain Testnet Explorer",
+      "url": "https://testscan.lambda.im"
+    }
+  ],
+  "website": "https://lambda.im",
+  "aliases": [
+    "Lambda Chain",
+    "tlambda"
+  ]
+}

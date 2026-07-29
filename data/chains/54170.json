@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Graphite Testnet",
+  "slug": "graphite-testnet",
+  "chainId": 54170,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Graphite",
+    "symbol": "@G",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://anon-entrypoint-test-1.atgraphite.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Graphite Testnet Explorer",
+      "url": "https://test.atgraphite.com"
+    }
+  ],
+  "website": "https://atgraphite.com/",
+  "aliases": [
+    "Graphite",
+    "graphiteTest"
+  ]
+}

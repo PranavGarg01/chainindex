@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Dubxcoin testnet",
+  "slug": "dubxcoin-testnet",
+  "chainId": 3270,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dubxcoin testnet",
+    "symbol": "TDUBX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpctestnet.arabianchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://arabianchain.org",
+  "aliases": [
+    "TESTDUBX",
+    "testdubx"
+  ]
+}

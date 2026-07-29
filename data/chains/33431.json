@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Edge Testnet",
+  "slug": "edge-testnet",
+  "chainId": 33431,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://edge-testnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Alchemy Explorer",
+      "url": "https://edge-testnet.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://www.edgex.exchange",
+  "aliases": [
+    "ETH",
+    "edge-testnet"
+  ]
+}

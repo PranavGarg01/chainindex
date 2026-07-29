@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "name": "Manta Pacific",
+  "slug": "manta-pacific",
+  "chainId": 169,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://pacific-rpc.manta.network/http",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/manta",
+      "isRecommended": false
+    },
+    {
+      "url": "https://manta-pacific-gascap.calderachain.xyz/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://www.tencentcloud-rpc.com/v2/manta/manta-rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://r1.pacific.manta.systems/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://manta.nirvanalabs.xyz/mantapublic",
+      "isRecommended": false
+    },
+    {
+      "url": "https://manta-pacific.calderachain.xyz/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://manta-pacific.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/manta-pacific/mainnet/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "manta-pacific Explorer",
+      "url": "https://pacific-explorer.manta.network"
+    }
+  ],
+  "website": "https://pacific-info.manta.network",
+  "aliases": [
+    "manta"
+  ]
+}

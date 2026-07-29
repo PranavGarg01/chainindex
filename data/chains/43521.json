@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "name": "Formicarium",
+  "slug": "formicarium",
+  "chainId": 43521,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Formicarium M",
+    "symbol": "M",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.formicarium.memecore.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OKX-Formicarium",
+      "url": "https://www.okx.com/web3/explorer/formicarium-testnet"
+    },
+    {
+      "name": "MemeCoreScan-Formicarium",
+      "url": "https://formicarium.memecorescan.io"
+    },
+    {
+      "name": "MemeCore Testnet Formicarium Explorer",
+      "url": "https://formicarium.blockscout.memecore.com"
+    }
+  ],
+  "website": "https://memecore.com",
+  "aliases": [
+    "MemeCore",
+    "form",
+    "MemeCore Testnet Formicarium"
+  ]
+}

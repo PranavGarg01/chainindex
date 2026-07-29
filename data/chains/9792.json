@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Carbon EVM Testnet",
+  "slug": "carbon-evm-testnet",
+  "chainId": 9792,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "swth",
+    "symbol": "SWTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-evm-api.carbon.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://carbon.network/",
+  "aliases": [
+    "Carbon",
+    "carbon-testnet"
+  ]
+}

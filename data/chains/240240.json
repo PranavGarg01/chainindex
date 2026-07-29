@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Studio Testnet",
+  "slug": "studio-testnet",
+  "chainId": 240240,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Studio Token",
+    "symbol": "STO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.studio-blockchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Studio Scan",
+      "url": "https://studio-scan.com"
+    }
+  ],
+  "website": "https://studio-blockchain.com",
+  "aliases": [
+    "STO",
+    "sto"
+  ]
+}

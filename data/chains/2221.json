@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Kava Testnet",
+  "slug": "kava-testnet",
+  "chainId": 2221,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TKava",
+    "symbol": "TKAVA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.testnet.kava.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://kava-evm-testnet.rpc.thirdweb.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kava-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.kava.io",
+  "aliases": [
+    "KAVA",
+    "tkava"
+  ]
+}

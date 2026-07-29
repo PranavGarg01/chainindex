@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SlingShot",
+  "slug": "slingshot",
+  "chainId": 33401,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sling",
+    "symbol": "SLING",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.slingshotdao.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SlingShot Explorer",
+      "url": "https://explore.slingshotdao.com"
+    }
+  ],
+  "website": "https://slingshotdao.com",
+  "aliases": [
+    "SLING"
+  ]
+}

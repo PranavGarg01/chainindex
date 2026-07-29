@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "MetaChain Istanbul",
+  "slug": "metachain-istanbul",
+  "chainId": 1453,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metatime Coin",
+    "symbol": "MTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://istanbul-rpc.metachain.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MetaExplorer",
+      "url": "https://istanbul-explorer.metachain.dev"
+    }
+  ],
+  "website": "https://metatime.com/en",
+  "aliases": [
+    "MTC",
+    "metatimeistanbul",
+    "MetaChain Testnet Istanbul"
+  ]
+}

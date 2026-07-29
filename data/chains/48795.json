@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Space Subnet Testnet",
+  "slug": "space-subnet-testnet",
+  "chainId": 48795,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FUEL",
+    "symbol": "FUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/space/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SPACE Explorer",
+      "url": "https://subnets-test.avax.network/space"
+    }
+  ],
+  "website": "https://otherworld.network",
+  "aliases": [
+    "SPACETESTNET",
+    "spacetestnet"
+  ]
+}

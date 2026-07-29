@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DeInfra Devnet3",
+  "slug": "deinfra-devnet3",
+  "chainId": 1000000003,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "dev3SK",
+    "symbol": "dSK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://c3n1.thepower.io/jsonrpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Deinfra Devnet Chain 3 Network Explorer",
+      "url": "https://bs.thepower.io"
+    }
+  ],
+  "website": "https://deinfra.net",
+  "aliases": [
+    "DeInfraDev3",
+    "deinfra-dev3"
+  ]
+}

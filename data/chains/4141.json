@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tipboxcoin Testnet",
+  "slug": "tipboxcoin-testnet",
+  "chainId": 4141,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tipboxcoin",
+    "symbol": "TPBX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.tipboxcoin.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tipboxcoin",
+      "url": "https://testnet.tipboxcoin.net"
+    }
+  ],
+  "website": "https://tipboxcoin.net",
+  "aliases": [
+    "TPBX",
+    "TPBXt"
+  ]
+}

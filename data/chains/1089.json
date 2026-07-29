@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "name": "Humans.ai",
+  "slug": "humans-ai",
+  "chainId": 1089,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HEART",
+    "symbol": "HEART",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://humans-mainnet-evm.itrocket.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://jsonrpc.humans.nodestake.top",
+      "isRecommended": false
+    },
+    {
+      "url": "https://humans-evm-rpc.staketab.org:443",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm.humans.stakepool.dev.br",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-humans-evm.konsortech.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-rpc.mainnet.humans.zone",
+      "isRecommended": false
+    },
+    {
+      "url": "https://json-rpc.humans.bh.rocks",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-rpc.humans.huginn.tech",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer.guru",
+      "url": "https://humans.explorers.guru"
+    }
+  ],
+  "website": "https://humans.ai",
+  "aliases": [
+    "Humans",
+    "humans"
+  ]
+}

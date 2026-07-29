@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PayNetwork",
+  "slug": "paynetwork",
+  "chainId": 3969,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PayNetwork",
+    "symbol": "Pay",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.paynetwork.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://paynetwork-main.calderachain.xyz/http",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PayNetwork Mainnet Caldera Explorer",
+      "url": "https://paynetwork-main.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://paynetwork-main.hub.caldera.xyz"
+}

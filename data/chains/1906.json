@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "KWALA Stagenet",
+  "slug": "kwala-stagenet",
+  "chainId": 1906,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KWALA",
+    "symbol": "KWALA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://qa-kwala-rpc-node.p2eppl.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://kwala.network",
+  "aliases": [
+    "KWALA",
+    "kwala-stagenet"
+  ]
+}

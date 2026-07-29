@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "K2",
+  "slug": "k2",
+  "chainId": 2410,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.karak.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "K2 Mainnet Explorer",
+      "url": "https://explorer.karak.network"
+    }
+  ],
+  "website": "https://karak.network",
+  "aliases": [
+    "K2-mainnet"
+  ]
+}

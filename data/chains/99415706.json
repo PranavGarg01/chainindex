@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Joys Digital TestNet",
+  "slug": "joys-digital-testnet",
+  "chainId": 99415706,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TOYS",
+    "symbol": "TOYS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://toys.joys.cash",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://joys.digital",
+  "aliases": [
+    "TOYS"
+  ]
+}

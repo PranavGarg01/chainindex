@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "StarCHAIN Testnet",
+  "slug": "starchain-testnet",
+  "chainId": 1570,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "STARX",
+    "symbol": "STARX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc1.starworksglobal.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "StarCHAIN Explorer",
+      "url": "https://testnet.starchainscan.io"
+    }
+  ],
+  "website": "https://www.starworksglobal.com",
+  "aliases": [
+    "StarCHAIN",
+    "starchain-testnet"
+  ]
+}

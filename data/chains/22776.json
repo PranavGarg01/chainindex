@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MAP Protocol",
+  "slug": "map-protocol",
+  "chainId": 22776,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAPO",
+    "symbol": "MAPO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.maplabs.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "maposcan",
+      "url": "https://maposcan.io"
+    }
+  ],
+  "website": "https://mapprotocol.io/",
+  "aliases": [
+    "MAPO",
+    "mapo"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SX Rollup",
+  "slug": "sx-rollup",
+  "chainId": 4162,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SX Network",
+    "symbol": "SX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sx-rollup.gelato.digital",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SX L2 Explorer",
+      "url": "https://explorerl2.sx.technology"
+    }
+  ],
+  "website": "https://www.sx.technology",
+  "aliases": [
+    "SX",
+    "SXR"
+  ]
+}

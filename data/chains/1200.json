@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Cuckoo Chain",
+  "slug": "cuckoo-chain",
+  "chainId": 1200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CuckooAI",
+    "symbol": "CAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.cuckoo.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cuckoo Chain Explorer",
+      "url": "https://scan.cuckoo.network"
+    }
+  ],
+  "website": "https://cuckoo.network",
+  "aliases": [
+    "CuckooAI",
+    "cai"
+  ]
+}

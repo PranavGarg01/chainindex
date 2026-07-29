@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SUR Blockchain Network",
+  "slug": "sur-blockchain-network",
+  "chainId": 262,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Suren",
+    "symbol": "SRN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sur.nilin.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Surnet Explorer",
+      "url": "https://explorer.surnet.org"
+    }
+  ],
+  "website": "https://surnet.org",
+  "aliases": [
+    "SUR"
+  ]
+}

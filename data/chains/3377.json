@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tajirchain",
+  "slug": "tajirchain",
+  "chainId": 3377,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Tajir",
+    "symbol": "TJR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tajirchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tajirchain Explorer",
+      "url": "https://explorer.tajirchain.com"
+    }
+  ],
+  "website": "https://tajirchain.com",
+  "aliases": [
+    "TJR",
+    "tjr"
+  ]
+}

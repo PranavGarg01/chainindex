@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "RealChain",
+  "slug": "realchain-1098",
+  "chainId": 1098,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RealCoin",
+    "symbol": "R",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.realchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RealChain explorer",
+      "url": "https://scan.realchain.io/"
+    }
+  ],
+  "website": "https://www.realchain.io/"
+}

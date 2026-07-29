@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "E Canna",
+  "slug": "e-canna",
+  "chainId": 4111,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "E Canna",
+    "symbol": "ECNA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ecnascan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ecnascan",
+      "url": "https://explorer.ecnascan.com"
+    }
+  ],
+  "website": "https://ecnascan.com",
+  "aliases": [
+    "ECNA",
+    "ecna"
+  ]
+}

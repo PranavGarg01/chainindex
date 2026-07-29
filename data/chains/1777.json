@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Gauss",
+  "slug": "gauss",
+  "chainId": 1777,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GANG",
+    "symbol": "GANG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gaussgang.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gauss Explorer",
+      "url": "https://explorer.gaussgang.com"
+    }
+  ],
+  "website": "https://gaussgang.com/"
+}

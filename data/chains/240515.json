@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Orange Chain Testnet",
+  "slug": "orange-chain-testnet",
+  "chainId": 240515,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.orangechain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://testnet-scan.orangechain.xyz"
+    }
+  ],
+  "website": "https://orangechain.xyz",
+  "aliases": [
+    "Orange Chain",
+    "Orange-Chain-Testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Callisto",
+  "slug": "callisto",
+  "chainId": 820,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Callisto",
+    "symbol": "CLO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.callistodao.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout-callisto-network",
+      "url": "https://explorer.callistodao.org"
+    }
+  ],
+  "website": "https://callistodao.org",
+  "aliases": [
+    "CLO",
+    "clo"
+  ]
+}

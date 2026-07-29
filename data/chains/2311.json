@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Chronicle Vesuvius - Lit Protocol Testnet",
+  "slug": "chronicle-vesuvius-lit-protocol-testnet",
+  "chainId": 2311,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test LPX",
+    "symbol": "tstLPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://vesuvius-rpc.litprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lit Chronicle Vesuvius Explorer",
+      "url": "https://vesuvius-explorer.litprotocol.com"
+    }
+  ],
+  "website": "https://litprotocol.com",
+  "aliases": [
+    "LPV",
+    "lpv"
+  ]
+}

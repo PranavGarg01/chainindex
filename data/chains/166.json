@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nomina",
+  "slug": "nomina",
+  "chainId": 166,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NOM",
+    "symbol": "NOM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.nomina.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nomina Explorer",
+      "url": "https://nomscan.io/"
+    }
+  ],
+  "website": "https://www.nomina.io",
+  "aliases": [
+    "NOM"
+  ]
+}

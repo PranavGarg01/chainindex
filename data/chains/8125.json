@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lerax Chain Testnet",
+  "slug": "lerax-chain-testnet",
+  "chainId": 8125,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lerax",
+    "symbol": "tLRX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet-dataseed.lerax.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Leraxscan Testnet",
+      "url": "https://testnet.leraxscan.com/"
+    }
+  ],
+  "website": "https://lerax.org/",
+  "aliases": [
+    "LERAX",
+    "lerax"
+  ]
+}

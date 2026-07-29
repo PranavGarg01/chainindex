@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AppLayer Testnet",
+  "slug": "applayer-testnet",
+  "chainId": 75338,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AppLayer",
+    "symbol": "APPL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-api.applayer.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Applayer Testnet Explorer",
+      "url": "https://testnet-explorer.applayer.com"
+    }
+  ],
+  "website": "https://applayer.com",
+  "aliases": [
+    "AppLayer",
+    "applayer-testnet"
+  ]
+}

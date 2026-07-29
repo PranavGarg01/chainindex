@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Ancient8",
+  "slug": "ancient8",
+  "chainId": 888888888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ancient8.gg",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ancient8 Explorer",
+      "url": "https://scan.ancient8.gg"
+    }
+  ],
+  "website": "https://ancient8.gg/"
+}

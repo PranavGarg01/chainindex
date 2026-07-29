@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "TAAQO",
+  "slug": "taaqo",
+  "chainId": 5566,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAAQO",
+    "symbol": "TAAQO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.taaqo.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.taaqo.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.taaqo.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TAAQO Scan",
+      "url": "https://taaqoscan.com"
+    }
+  ],
+  "website": "https://taaqo.com"
+}

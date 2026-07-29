@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "TAC",
+  "slug": "tac",
+  "chainId": 239,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAC",
+    "symbol": "TAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/tac",
+      "isRecommended": true
+    },
+    {
+      "url": "https://tac.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://tac.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.tac.build",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ws.rpc.tac.build",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TAC Explorer",
+      "url": "https://explorer.tac.build"
+    },
+    {
+      "name": "Blockscout",
+      "url": "https://tac.blockscout.com"
+    }
+  ],
+  "website": "https://tac.build/",
+  "aliases": [
+    "tacchain",
+    "TAC Mainnet"
+  ]
+}

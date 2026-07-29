@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KB Chain",
+  "slug": "kb-chain",
+  "chainId": 11000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KBC",
+    "symbol": "KBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.kbcfoundation.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KBC Explorer",
+      "url": "https://scan.kbcfoundation.com"
+    }
+  ],
+  "website": "https://kbcfoundation.com",
+  "aliases": [
+    "KB",
+    "KBC"
+  ]
+}

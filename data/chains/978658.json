@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Treasure Topaz",
+  "slug": "treasure-topaz",
+  "chainId": 978658,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet MAGIC",
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.topaz.treasure.lol",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Treasure Topaz Block Explorer",
+      "url": "https://topaz.treasurescan.io"
+    }
+  ],
+  "website": "https://app.treasure.lol",
+  "aliases": [
+    "treasure-topaz"
+  ]
+}

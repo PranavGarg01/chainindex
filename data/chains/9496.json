@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Load Alphanet",
+  "slug": "load-alphanet",
+  "chainId": 9496,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Load Token",
+    "symbol": "tLOAD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://alphanet.load.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Load Network Explorer",
+      "url": "https://explorer.load.network"
+    }
+  ],
+  "website": "https://load.network",
+  "aliases": [
+    "LOAD",
+    "tload"
+  ]
+}

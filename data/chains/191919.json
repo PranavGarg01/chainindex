@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Altblockscan",
+  "slug": "altblockscan",
+  "chainId": 191919,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Altblockscan",
+    "symbol": "ALTB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.altblockscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "altblockscan",
+      "url": "https://scan.altblockscan.com"
+    }
+  ],
+  "website": "https://altblockscan.com",
+  "aliases": [
+    "ALTB",
+    "altb"
+  ]
+}

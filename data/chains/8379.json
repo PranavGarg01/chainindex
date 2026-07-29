@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bery",
+  "slug": "bery",
+  "chainId": 8379,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BRY",
+    "symbol": "BRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bery.in/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bery Explorer",
+      "url": "https://bery.in/explorer"
+    }
+  ],
+  "website": "https://bery.in",
+  "aliases": [
+    "BRY",
+    "bry"
+  ]
+}

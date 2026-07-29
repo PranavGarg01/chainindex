@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "OYchain",
+  "slug": "oychain",
+  "chainId": 126,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OYchain Token",
+    "symbol": "OY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.oychain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.oychain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OYchain Mainnet Explorer",
+      "url": "https://explorer.oychain.io"
+    }
+  ],
+  "website": "https://www.oychain.io",
+  "aliases": [
+    "OYchainMainnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "StableNet Testnet",
+  "slug": "stablenet-testnet",
+  "chainId": 8283,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WKRC",
+    "symbol": "WKRC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.test.stablenet.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "StableNet Testnet Explorer",
+      "url": "https://explorer.stablenet.network"
+    }
+  ],
+  "website": "https://stablenet.network",
+  "aliases": [
+    "StableNet",
+    "stablenet-testnet"
+  ]
+}

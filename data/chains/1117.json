@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dogcoin",
+  "slug": "dogcoin",
+  "chainId": 1117,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dogcoin",
+    "symbol": "DOGS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.dogcoin.me",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dogcoin",
+      "url": "https://explorer.dogcoin.network"
+    }
+  ],
+  "website": "https://dogcoin.network",
+  "aliases": [
+    "DOGS",
+    "DOGSm"
+  ]
+}

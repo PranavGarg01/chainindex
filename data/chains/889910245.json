@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PTCESCAN Testnet",
+  "slug": "ptcescan-testnet",
+  "chainId": 889910245,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PTCE",
+    "symbol": "PTCE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.ptcscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PTCESCAN Testnet Explorer",
+      "url": "https://explorer-testnet.ptcscan.io"
+    }
+  ],
+  "website": "https://ptcscan.io",
+  "aliases": [
+    "PTCE"
+  ]
+}

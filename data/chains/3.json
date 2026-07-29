@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Ropsten",
+  "slug": "ropsten",
+  "chainId": 3,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ropsten Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://ropsten.etherscan.io"
+    }
+  ],
+  "website": "https://github.com/ethereum/ropsten",
+  "aliases": [
+    "ETH",
+    "rop",
+    "Ethereum Testnet Ropsten"
+  ]
+}

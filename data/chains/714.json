@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Eden",
+  "slug": "eden",
+  "chainId": 714,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TIA",
+    "symbol": "TIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.eden.gateway.fm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://eden.blockscout.com"
+    }
+  ],
+  "website": "https://celestia.org"
+}

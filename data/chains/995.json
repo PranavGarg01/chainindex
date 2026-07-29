@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "5ireChain",
+  "slug": "5irechain",
+  "chainId": 995,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "5ire Token",
+    "symbol": "5ire",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.5ire.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "5ireChain Explorer",
+      "url": "https://5irescan.io"
+    }
+  ],
+  "website": "https://5ire.org",
+  "aliases": [
+    "5ire"
+  ]
+}

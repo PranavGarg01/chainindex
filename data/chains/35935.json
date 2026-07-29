@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tractsafe Testnet",
+  "slug": "tractsafe-testnet",
+  "chainId": 35935,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tractsafe",
+    "symbol": "TRCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tapi.tractsafe.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tractsafescan",
+      "url": "https://testnet.tractsafe.com"
+    }
+  ],
+  "website": "https://tractsafe.com",
+  "aliases": [
+    "TRCT",
+    "trct"
+  ]
+}

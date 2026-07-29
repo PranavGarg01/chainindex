@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HUMAN Protocol",
+  "slug": "human-protocol",
+  "chainId": 1273227453,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.skalenodes.com/v1/wan-red-ain",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://wan-red-ain.explorer.mainnet.skalenodes.com"
+    }
+  ],
+  "website": "https://www.humanprotocol.org",
+  "aliases": [
+    "wan-red-ain",
+    "human-mainnet"
+  ]
+}

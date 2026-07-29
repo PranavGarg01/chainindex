@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Ellaism",
+  "slug": "ellaism",
+  "chainId": 64,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ellaism Ether",
+    "symbol": "ELLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonrpc.ellaism.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ellaism.org",
+  "aliases": [
+    "ELLA"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Quai Orchard Testnet",
+  "slug": "quai-orchard-testnet",
+  "chainId": 15000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quai",
+    "symbol": "QUAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://orchard.rpc.quai.network/cyprus1",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Orchard Quaiscan",
+      "url": "https://orchard.quaiscan.io"
+    }
+  ],
+  "website": "https://qu.ai",
+  "aliases": [
+    "QUAI",
+    "quait"
+  ]
+}

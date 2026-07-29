@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ARDENIUM Athena",
+  "slug": "ardenium-athena",
+  "chainId": 7895,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ARD",
+    "symbol": "tARD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-athena.ardescan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ARDENIUM Athena Explorer",
+      "url": "https://testnet.ardscan.com"
+    }
+  ],
+  "website": "https://ardenium.org",
+  "aliases": [
+    "ATHENA",
+    "ard"
+  ]
+}

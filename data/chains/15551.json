@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "name": "LoopNetwork",
+  "slug": "loopnetwork",
+  "chainId": 15551,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LOOP",
+    "symbol": "LOOP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.mainnetloop.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "aliases": [
+    "loop"
+  ]
+}

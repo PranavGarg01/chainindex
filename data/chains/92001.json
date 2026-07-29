@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lambda Testnet",
+  "slug": "lambda-testnet",
+  "chainId": 92001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "test-Lamb",
+    "symbol": "LAMB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.lambda.top",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lambda EVM Explorer",
+      "url": "https://explorer.lambda.top"
+    }
+  ],
+  "website": "https://lambda.im",
+  "aliases": [
+    "Lambda",
+    "lambda-testnet"
+  ]
+}

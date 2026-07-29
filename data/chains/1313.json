@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "JaiHo Chain",
+  "slug": "jaiho-chain",
+  "chainId": 1313,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JaiHo",
+    "symbol": "JaiHo",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.jaihochain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JaiHo Chain Explorer",
+      "url": "https://jaihochain.com"
+    }
+  ],
+  "website": "https://jaihochain.com",
+  "aliases": [
+    "JaiHoChain",
+    "JHC"
+  ]
+}

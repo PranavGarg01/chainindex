@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "Monad Testnet",
+  "slug": "monad-testnet",
+  "chainId": 10143,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet MON Token",
+    "symbol": "MON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://monad-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/monad_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad-testnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad-testnet.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-testnet.monadinfra.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad-testnet-rpc.huginn.tech",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-rpc.monad.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Monad Testnet Explorer",
+      "url": "https://testnet.monadexplorer.com"
+    }
+  ],
+  "website": "https://monad.xyz",
+  "aliases": [
+    "MON",
+    "mon-testnet"
+  ]
+}

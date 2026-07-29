@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zilliqa EVM Isolated Server",
+  "slug": "zilliqa-evm-isolated-server",
+  "chainId": 32990,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zilliqa-isolated-server.zilliqa.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zilliqa EVM Isolated Server Explorer",
+      "url": "https://devex.zilliqa.com/?network=https://zilliqa-isolated-server.zilliqa.com"
+    }
+  ],
+  "website": "https://www.zilliqa.com/",
+  "aliases": [
+    "ZIL",
+    "zil-isolated-server"
+  ]
+}

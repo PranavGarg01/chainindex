@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Carbon EVM",
+  "slug": "carbon-evm",
+  "chainId": 9790,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "swth",
+    "symbol": "SWTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-api.carbon.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://carbon.network/",
+  "aliases": [
+    "Carbon",
+    "carbon"
+  ]
+}

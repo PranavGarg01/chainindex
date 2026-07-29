@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DM2 Verse Testnet",
+  "slug": "dm2-verse-testnet",
+  "chainId": 68775,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.dm2verse.dmm.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DM2Verse Testnet Explorer",
+      "url": "https://explorer.testnet.dm2verse.dmm.com"
+    }
+  ],
+  "website": "https://seamoon.dmm.com",
+  "aliases": [
+    "DM2 Verse",
+    "dm2t"
+  ]
+}

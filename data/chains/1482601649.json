@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SKALE Nebula Hub",
+  "slug": "skale-nebula-hub",
+  "chainId": 1482601649,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.skalenodes.com/v1/green-giddy-denebola",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com"
+    }
+  ],
+  "website": "https://nebulachain.io/",
+  "aliases": [
+    "green-giddy-denebola",
+    "nebula-mainnet"
+  ]
+}

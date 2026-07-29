@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AirDAO Testnet",
+  "slug": "airdao-testnet",
+  "chainId": 22040,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Amber",
+    "symbol": "AMB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://network.ambrosus-test.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AirDAO Network Explorer",
+      "url": "https://testnet.airdao.io/explorer"
+    }
+  ],
+  "website": "https://testnet.airdao.io",
+  "aliases": [
+    "ambnet-test",
+    "airdao-test"
+  ]
+}

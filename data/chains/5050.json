@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Skate",
+  "slug": "skate",
+  "chainId": 5050,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.liquidchain.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.xlcscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.skatechain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Skate Explorer",
+      "url": "https://scan.skatechain.org"
+    }
+  ],
+  "website": "https://www.skatechain.org/",
+  "aliases": [
+    "ETH"
+  ]
+}

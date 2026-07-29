@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Immutable zkEVM",
+  "slug": "immutable-zkevm",
+  "chainId": 13371,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IMX",
+    "symbol": "IMX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.immutable.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://immutable-zkevm.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://immutable.gateway.tenderly.co",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Immutable explorer",
+      "url": "https://explorer.immutable.com"
+    }
+  ],
+  "website": "https://www.immutable.com",
+  "aliases": [
+    "imx"
+  ]
+}

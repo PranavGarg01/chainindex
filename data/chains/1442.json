@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Polygon zkEVM Testnet",
+  "slug": "polygon-zkevm-testnet",
+  "chainId": 1442,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://endpoints.omniatech.io/v1/polygon-zkevm/testnet/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.public.zkevm-test.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-zkevm-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Polygon zkEVM explorer",
+      "url": "https://explorer.public.zkevm-test.net"
+    }
+  ],
+  "website": "https://polygon.technology/solutions/polygon-zkevm/",
+  "aliases": [
+    "Polygon",
+    "testnet-zkEVM-mango"
+  ]
+}

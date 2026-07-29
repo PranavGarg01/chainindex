@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "MagApe Testnet",
+  "slug": "magape-testnet",
+  "chainId": 141319,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MagApe",
+    "symbol": "MAG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-api.magape.io/chain",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://magape.io",
+  "aliases": [
+    "MagApe",
+    "mag",
+    "MagApeChain"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ruby Smart Chain Testnet",
+  "slug": "ruby-smart-chain-testnet",
+  "chainId": 1912,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RUBY Smart Chain Native Token",
+    "symbol": "tRUBY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rchain.rubychain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RUBY Smart Chain Testnet Explorer",
+      "url": "https://testnet.rubyscan.net"
+    }
+  ],
+  "website": "https://rubychain.io",
+  "aliases": [
+    "RUBY",
+    "tRUBY"
+  ]
+}

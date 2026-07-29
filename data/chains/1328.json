@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Sei Testnet",
+  "slug": "sei-testnet",
+  "chainId": 1328,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sei",
+    "symbol": "SEI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc-testnet.sei-apis.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://sei-testnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sei-testnet-public.nodies.app",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Seiscan",
+      "url": "https://testnet.seiscan.io"
+    }
+  ],
+  "website": "https://www.sei.io",
+  "aliases": [
+    "Sei",
+    "sei-testnet"
+  ]
+}

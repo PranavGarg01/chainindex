@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Emoney Network Testnet",
+  "slug": "emoney-network-testnet",
+  "chainId": 4544,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Emoney Network",
+    "symbol": "EMYC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.emoney.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EMoney Explorer",
+      "url": "https://explore-stage.emoney.network"
+    }
+  ],
+  "website": "https://emoney.network/",
+  "aliases": [
+    "Emoney",
+    "EmoneyTestnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bronos Testnet",
+  "slug": "bronos-testnet",
+  "chainId": 1038,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tBRO",
+    "symbol": "tBRO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-testnet.bronos.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bronos Testnet Explorer",
+      "url": "https://tbroscan.bronos.org"
+    }
+  ],
+  "website": "https://bronos.org",
+  "aliases": [
+    "Bronos",
+    "bronos-testnet"
+  ]
+}

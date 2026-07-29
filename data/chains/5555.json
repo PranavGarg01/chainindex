@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Chain Verse",
+  "slug": "chain-verse",
+  "chainId": 5555,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Oasys",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.chainverse.info",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Chain Verse Explorer",
+      "url": "https://explorer.chainverse.info"
+    }
+  ],
+  "website": "https://chainverse.info",
+  "aliases": [
+    "CVERSE",
+    "cverse"
+  ]
+}

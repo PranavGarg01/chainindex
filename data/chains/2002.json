@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Milkomeda A1",
+  "slug": "milkomeda-a1",
+  "chainId": 2002,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "milkALGO",
+    "symbol": "mALGO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer-mainnet-algorand-rollup.a1.milkomeda.com"
+    }
+  ],
+  "website": "https://milkomeda.com",
+  "aliases": [
+    "milkALGO"
+  ]
+}

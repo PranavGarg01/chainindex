@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pingaksha testnet",
+  "slug": "pingaksha-testnet",
+  "chainId": 1377,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rama",
+    "symbol": "tRAMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.ramestta.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pingaksha",
+      "url": "https://pingaksha.ramascan.com"
+    }
+  ],
+  "website": "https://www.ramestta.com",
+  "aliases": [
+    "Pingaksha",
+    "tRAMA"
+  ]
+}

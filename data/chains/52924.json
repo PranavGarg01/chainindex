@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "LazAI",
+  "slug": "lazai",
+  "chainId": 52924,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "METIS Token",
+    "symbol": "METIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.lazai.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LazAI Mainnet Explorer",
+      "url": "https://explorer.mainnet.lazai.network"
+    }
+  ],
+  "website": "https://lazai.network"
+}

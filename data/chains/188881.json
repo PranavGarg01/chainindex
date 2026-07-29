@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Condor Test Network",
+  "slug": "condor-test-network",
+  "chainId": 188881,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Condor Native Token",
+    "symbol": "CONDOR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.condor.systems/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CondorScan",
+      "url": "https://explorer.condor.systems"
+    }
+  ],
+  "website": "https://condor.systems",
+  "aliases": [
+    "CONDOR",
+    "condor"
+  ]
+}

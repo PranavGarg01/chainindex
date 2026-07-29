@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Plasma Testnet",
+  "slug": "plasma-testnet",
+  "chainId": 9746,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plasma",
+    "symbol": "XPL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.plasma.to",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Routescan",
+      "url": "https://testnet.plasmascan.to"
+    }
+  ],
+  "website": "https://plasma.to",
+  "aliases": [
+    "Plasma",
+    "plasma-testnet"
+  ]
+}

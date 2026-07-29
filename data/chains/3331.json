@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ZCore Testnet",
+  "slug": "zcore-testnet",
+  "chainId": 3331,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZCore",
+    "symbol": "ZCR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.zcore.cash",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://zcore.cash",
+  "aliases": [
+    "Beach",
+    "zcrbeach"
+  ]
+}

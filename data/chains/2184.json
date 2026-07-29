@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "PopDEX",
+  "slug": "popdex",
+  "chainId": 2184,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POP",
+    "symbol": "POP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.popdex.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PopDEX Explorer",
+      "url": "https://app.popdex.xyz/explorer"
+    }
+  ],
+  "website": "https://popdex.xyz"
+}

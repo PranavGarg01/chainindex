@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Warden",
+  "slug": "warden",
+  "chainId": 8765,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WARD",
+    "symbol": "WARD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.wardenprotocol.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Warden Labs",
+      "url": "https://explorer.wardenprotocol.org"
+    }
+  ],
+  "website": "https://wardenprotocol.org/",
+  "aliases": [
+    "WARD",
+    "ward"
+  ]
+}

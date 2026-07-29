@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Excoincial Chain Volta-Testnet",
+  "slug": "excoincial-chain-volta-testnet",
+  "chainId": 27082017,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TExlcoin",
+    "symbol": "TEXL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.exlscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "exlscan",
+      "url": "https://testnet-explorer.exlscan.com"
+    }
+  ],
+  "aliases": [
+    "TEXL",
+    "exlvolta"
+  ]
+}

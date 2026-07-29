@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "ETP",
+  "slug": "etp",
+  "chainId": 20256789,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETP Chain Native Token",
+    "symbol": "ETP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.etpscan.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ETPScan",
+      "url": "https://etpscan.xyz"
+    }
+  ],
+  "website": "https://www.etposchain.com"
+}

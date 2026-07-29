@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SilverBitcoin",
+  "slug": "silverbitcoin",
+  "chainId": 5200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SilverBitcoin",
+    "symbol": "SBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.silverbitcoin.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SilverBitcoin Explorer",
+      "url": "https://explorer.silverbitcoin.org/"
+    }
+  ],
+  "website": "https://silverbitcoin.org/",
+  "aliases": [
+    "SBTC",
+    "sbtc"
+  ]
+}

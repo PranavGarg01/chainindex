@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "OpTrust",
+  "slug": "optrust",
+  "chainId": 537,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BSC",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.optrust.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OpTrust explorer",
+      "url": "https://scan.optrust.io"
+    }
+  ],
+  "website": "https://optrust.io"
+}

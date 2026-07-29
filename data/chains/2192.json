@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "SnaxChain",
+  "slug": "snaxchain",
+  "chainId": 2192,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.snaxchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://snaxchain.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.snaxchain.io"
+    }
+  ],
+  "website": "https://synthetix.io",
+  "aliases": [
+    "ETH",
+    "snax"
+  ]
+}

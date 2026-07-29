@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RACE",
+  "slug": "race",
+  "chainId": 6805,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://racemainnet.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://racescan.io"
+    }
+  ],
+  "website": "https://race.foundation/",
+  "aliases": [
+    "ETH",
+    "raceeth"
+  ]
+}

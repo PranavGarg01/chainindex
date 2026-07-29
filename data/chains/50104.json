@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Sophon",
+  "slug": "sophon",
+  "chainId": 50104,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sophon",
+    "symbol": "SOPH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sophon.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-quicknode.sophon.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sophon Block Explorer",
+      "url": "https://explorer.sophon.xyz"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "HPP",
+  "slug": "hpp",
+  "chainId": 190415,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.hpp.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HPP Mainnet Explorer",
+      "url": "https://explorer.hpp.io"
+    }
+  ],
+  "website": "https://www.hpp.io",
+  "aliases": [
+    "hpp-mainnet"
+  ]
+}

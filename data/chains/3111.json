@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Alpha Chain",
+  "slug": "alpha-chain",
+  "chainId": 3111,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.goalpha.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Alpha Chain Scan",
+      "url": "https://scan.goalpha.org"
+    }
+  ],
+  "website": "https://docs.alphatoken.com/AlphaChain/about-alpha-chain",
+  "aliases": [
+    "alpha"
+  ]
+}

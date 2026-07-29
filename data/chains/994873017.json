@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Lumia",
+  "slug": "lumia",
+  "chainId": 994873017,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lumia",
+    "symbol": "LUMIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.lumia.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lumia Mainnet Explorer",
+      "url": "https://explorer.lumia.org"
+    }
+  ],
+  "website": "https://lumia.org",
+  "aliases": [
+    "ETH",
+    "lumia-mainnet",
+    "Lumia Mainnet"
+  ]
+}

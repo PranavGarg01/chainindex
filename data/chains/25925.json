@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KUB Testnet",
+  "slug": "kub-testnet",
+  "chainId": 25925,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KUB Coin",
+    "symbol": "tKUB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.bitkubchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KUB Testnet Explorer",
+      "url": "https://testnet.kubscan.com"
+    }
+  ],
+  "website": "https://www.kubchain.com/",
+  "aliases": [
+    "KUB",
+    "kubt"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "StateMesh Testnet",
+  "slug": "statemesh-testnet",
+  "chainId": 11343,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "StateMesh",
+    "symbol": "MESH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-test.statemesh.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-test.statemesh.net"
+    }
+  ],
+  "website": "https://statemesh.net",
+  "aliases": [
+    "MESH",
+    "mesh-test"
+  ]
+}

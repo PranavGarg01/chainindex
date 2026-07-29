@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Hika Network Testnet",
+  "slug": "hika-network-testnet",
+  "chainId": 5729,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hik Token",
+    "symbol": "HIK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.hika.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hika Network Testnet Explorer",
+      "url": "https://scan-testnet.hika.network"
+    }
+  ],
+  "website": "https://hika.network/",
+  "aliases": [
+    "HIK",
+    "hik"
+  ]
+}

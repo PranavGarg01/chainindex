@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ZKAmoeba",
+  "slug": "zkamoeba",
+  "chainId": 381,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "filecoin",
+    "symbol": "FIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.zkamoeba.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZKAmoeba Explorer",
+      "url": "https://explorer.zkamoeba.com"
+    }
+  ],
+  "website": "https://www.zkamoeba.com",
+  "aliases": [
+    "FIL"
+  ]
+}

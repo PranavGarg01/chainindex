@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Agung Network",
+  "slug": "agung-network",
+  "chainId": 9990,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Agung",
+    "symbol": "AGNG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://wss-async.agung.peaq.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Polkadot.js",
+      "url": "https://polkadot.js.org/apps/?rpc=wss:///wss-async.agung.peaq.network#/explorer"
+    },
+    {
+      "name": "Subscan",
+      "url": "https://agung-testnet.subscan.io"
+    }
+  ],
+  "website": "https://www.peaq.network",
+  "aliases": [
+    "Agung",
+    "AGNG"
+  ]
+}

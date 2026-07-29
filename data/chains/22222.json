@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nautilus",
+  "slug": "nautilus",
+  "chainId": 22222,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zebec",
+    "symbol": "ZBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.nautilus.nautchain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nautscan",
+      "url": "https://nautscan.com"
+    }
+  ],
+  "website": "https://docs.nautchain.xyz",
+  "aliases": [
+    "ETH",
+    "NAUTCHAIN"
+  ]
+}

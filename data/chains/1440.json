@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Living Assets",
+  "slug": "living-assets",
+  "chainId": 1440,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LAS",
+    "symbol": "LAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://beta.mainnet.livingassets.io/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://gamma.mainnet.livingassets.io/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://dev.livingassets.io/",
+  "aliases": [
+    "LAS"
+  ]
+}

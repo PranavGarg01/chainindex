@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Aerochain Testnet",
+  "slug": "aerochain-testnet",
+  "chainId": 788,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aerochain Testnet",
+    "symbol": "TAero",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.aerochain.id",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "aeroscan",
+      "url": "https://testnet.aeroscan.id"
+    }
+  ],
+  "website": "https://aerochaincoin.org/",
+  "aliases": [
+    "Aerochain",
+    "taero"
+  ]
+}

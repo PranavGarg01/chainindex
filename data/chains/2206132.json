@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PlatON Dev Testnet2",
+  "slug": "platon-dev-testnet2",
+  "chainId": 2206132,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LAT",
+    "symbol": "lat",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet2openapi.platon.network/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PlatON explorer",
+      "url": "https://devnet2scan.platon.network"
+    }
+  ],
+  "website": "https://www.platon.network",
+  "aliases": [
+    "PlatON",
+    "platondev2"
+  ]
+}

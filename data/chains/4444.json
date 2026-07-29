@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Htmlcoin",
+  "slug": "htmlcoin",
+  "chainId": 4444,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Htmlcoin",
+    "symbol": "HTML",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://janus.htmlcoin.dev/janus",
+      "isRecommended": true
+    },
+    {
+      "url": "https://janus.htmlcoin.com/api",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "htmlcoin",
+      "url": "https://explorer.htmlcoin.com"
+    }
+  ],
+  "website": "https://htmlcoin.com",
+  "aliases": [
+    "mainnet",
+    "html"
+  ]
+}

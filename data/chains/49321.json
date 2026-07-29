@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GUNZ Testnet",
+  "slug": "gunz-testnet",
+  "chainId": 49321,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GUN",
+    "symbol": "GUN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gunz.dev/ext/bc/ryk9vkvNuKtewME2PeCgybo9sdWXGmCkBrrx4VPuZPdVdAak8/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.gunzscan.io"
+    }
+  ],
+  "website": "https://gunbygunz.com",
+  "aliases": [
+    "tGUN",
+    "Stork"
+  ]
+}

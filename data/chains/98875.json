@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nillion Network",
+  "slug": "nillion-network",
+  "chainId": 98875,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nillion.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.nillion.network"
+    }
+  ],
+  "website": "https://nillion.com/",
+  "aliases": [
+    "ETH",
+    "nil"
+  ]
+}

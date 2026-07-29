@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "IOTA EVM",
+  "slug": "iota-evm",
+  "chainId": 8822,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.evm.iotaledger.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://iota-mainnet-evm.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/iota_evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://iota-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.evm.iota.org"
+    }
+  ],
+  "website": "https://www.iota.org",
+  "aliases": [
+    "iotaevm"
+  ]
+}

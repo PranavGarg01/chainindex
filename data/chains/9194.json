@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Xyberchain Testnet",
+  "slug": "xyberchain-testnet",
+  "chainId": 9194,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XYB",
+    "symbol": "XYB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xyberchain-rpc.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Xyberchain Explorer",
+      "url": "https://xyberchainexplorer.xyz/"
+    }
+  ],
+  "website": "https://www.xyberchain.network/",
+  "aliases": [
+    "XYB",
+    "xyb-testnet"
+  ]
+}

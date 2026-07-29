@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Memo Smart Chain",
+  "slug": "memo-smart-chain",
+  "chainId": 985,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Memo",
+    "symbol": "CMEMO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain.metamemo.one:8501",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Memo Mainnet Explorer",
+      "url": "https://scan.metamemo.one:8080"
+    }
+  ],
+  "aliases": [
+    "MEMO",
+    "memochain"
+  ]
+}

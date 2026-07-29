@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Catena",
+  "slug": "catena",
+  "chainId": 2121,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Catena",
+    "symbol": "CMCX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.catenarpc.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "catenascan",
+      "url": "https://catenascan.com"
+    }
+  ],
+  "website": "https://catena.network",
+  "aliases": [
+    "CMCX",
+    "cmcx"
+  ]
+}

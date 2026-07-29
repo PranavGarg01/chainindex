@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Kiwi Subnet",
+  "slug": "kiwi-subnet",
+  "chainId": 2037,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shrapgas",
+    "symbol": "SHRAP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/kiwi/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KIWI Explorer",
+      "url": "https://subnets-test.avax.network/kiwi"
+    }
+  ],
+  "aliases": [
+    "KIWI",
+    "kiwi"
+  ]
+}

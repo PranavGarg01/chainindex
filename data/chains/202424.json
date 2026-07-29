@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Blockfit",
+  "slug": "blockfit",
+  "chainId": 202424,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BFIT",
+    "symbol": "BFIT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blockfitscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://blockfitscan.io"
+    }
+  ],
+  "website": "https://blockfit.io",
+  "aliases": [
+    "202424"
+  ]
+}

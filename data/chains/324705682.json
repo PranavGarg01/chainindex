@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SKALE Base Sepolia",
+  "slug": "skale-base-sepolia",
+  "chainId": 324705682,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Credits",
+    "symbol": "CREDIT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://base-sepolia-testnet.skalenodes.com/v1/jubilant-horrible-ancha",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://base-sepolia-testnet-explorer.skalenodes.com"
+    }
+  ],
+  "website": "https://docs.skale.space/welcome/skale-on-base",
+  "aliases": [
+    "skale-base-sepolia"
+  ]
+}

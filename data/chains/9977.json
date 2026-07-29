@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Mind Smart Chain Testnet",
+  "slug": "mind-smart-chain-testnet",
+  "chainId": 9977,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MIND Coin",
+    "symbol": "tMIND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-msc.mindchain.info",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mind Chain explorer",
+      "url": "https://testnet.mindscan.info"
+    }
+  ],
+  "website": "https://mindchain.info",
+  "aliases": [
+    "tMIND"
+  ]
+}

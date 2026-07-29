@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Toki Testnet",
+  "slug": "toki-testnet",
+  "chainId": 8655,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Toki",
+    "symbol": "TOKI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.buildwithtoki.com/v0/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.buildwithtoki.com",
+  "aliases": [
+    "TOKI",
+    "toki-testnet"
+  ]
+}

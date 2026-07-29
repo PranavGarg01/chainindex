@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "B20 Testnet",
+  "slug": "b20-testnet",
+  "chainId": 223344,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "B20",
+    "symbol": "TBOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.beonescan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "beonescan",
+      "url": "https://beonescan.com"
+    }
+  ],
+  "website": "https://rpc.beonescan.com",
+  "aliases": [
+    "B20"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HashKey Chain Testnet(discard)",
+  "slug": "hashkey-chain-testnet-discard",
+  "chainId": 230315,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HashKey Token",
+    "symbol": "tHSK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.hashkeychain/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HashKey Chain Testnet Explorer",
+      "url": "https://testnet.hashkeyscan.io"
+    }
+  ],
+  "website": "https://www.hashkey.com",
+  "aliases": [
+    "HashKey",
+    "hsktest"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Shardeum Liberty 1.X",
+  "slug": "shardeum-liberty-1-x",
+  "chainId": 8080,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shardeum SHM",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://liberty10.shardeum.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Shardeum Scan",
+      "url": "https://explorer-liberty10.shardeum.org"
+    }
+  ],
+  "website": "https://docs.shardeum.org/",
+  "aliases": [
+    "Shardeum",
+    "Liberty10"
+  ]
+}

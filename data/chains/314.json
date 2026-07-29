@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 2,
+  "name": "Filecoin",
+  "slug": "filecoin",
+  "chainId": 314,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "filecoin",
+    "symbol": "FIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.node.glif.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node.filutils.com/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/filecoin",
+      "isRecommended": false
+    },
+    {
+      "url": "https://filecoin.chainup.net/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://infura.sftproject.io/filecoin/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.chain.love/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://filecoin.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://filecoin.lava.build",
+      "isRecommended": false
+    },
+    {
+      "url": "https://filecoin-mainnet.chainstacklabs.com/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://filfox.info/rpc/v1",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Filfox",
+      "url": "https://filfox.info/en"
+    },
+    {
+      "name": "Beryx",
+      "url": "https://beryx.zondax.ch"
+    },
+    {
+      "name": "Glif Explorer",
+      "url": "https://explorer.glif.io"
+    },
+    {
+      "name": "Dev.storage",
+      "url": "https://dev.storage"
+    },
+    {
+      "name": "Filscan",
+      "url": "https://filscan.io"
+    },
+    {
+      "name": "Filscout",
+      "url": "https://filscout.io/en"
+    }
+  ],
+  "website": "https://filecoin.io",
+  "aliases": [
+    "FIL",
+    "filecoin"
+  ]
+}

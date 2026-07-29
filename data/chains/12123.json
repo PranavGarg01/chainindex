@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "BRC Chain",
+  "slug": "brc-chain",
+  "chainId": 12123,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BRC Chain mainnet native token",
+    "symbol": "BRC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hoodi.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.brcchain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BRC Chain Explorer",
+      "url": "https://scan.brcchain.io"
+    }
+  ],
+  "website": "https://bridge.brcchain.io",
+  "aliases": [
+    "BRC"
+  ]
+}

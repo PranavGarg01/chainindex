@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Automata",
+  "slug": "automata",
+  "chainId": 65536,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATA",
+    "symbol": "ATA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ata.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://automata-mainnet.alt.technology",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Automata Explorer",
+      "url": "https://explorer.ata.network"
+    }
+  ],
+  "website": "https://ata.network",
+  "aliases": [
+    "Automata Mainnet",
+    "automatamainnet"
+  ]
+}

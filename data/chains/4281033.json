@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Worlds Caldera",
+  "slug": "worlds-caldera",
+  "chainId": 4281033,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://worlds-test.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://caldera.xyz/",
+  "aliases": [
+    "WCal",
+    "worldscal"
+  ]
+}

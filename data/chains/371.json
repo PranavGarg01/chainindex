@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Consta Testnet",
+  "slug": "consta-testnet",
+  "chainId": 371,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tCNT",
+    "symbol": "tCNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.theconsta.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-testnet.theconsta.com"
+    }
+  ],
+  "aliases": [
+    "tCNT"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "POA Network Sokol",
+  "slug": "poa-network-sokol",
+  "chainId": 77,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POA Sokol Ether",
+    "symbol": "SPOA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sokol.poa.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/poa/sokol"
+    }
+  ],
+  "website": "https://poa.network",
+  "aliases": [
+    "POA",
+    "spoa"
+  ]
+}

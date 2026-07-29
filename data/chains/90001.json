@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pundi AIFX Omnilayer Testnet",
+  "slug": "pundi-aifx-omnilayer-testnet",
+  "chainId": 90001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pundi AIFX",
+    "symbol": "PUNDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-fx-json-web3.functionx.io:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PundiScan Explorer",
+      "url": "https://testnet.pundiscan.io"
+    }
+  ],
+  "website": "https://fx.pundi.ai/",
+  "aliases": [
+    "PUNDIAI",
+    "dhobyghaut"
+  ]
+}

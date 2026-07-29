@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "UPchain",
+  "slug": "upchain",
+  "chainId": 336666,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UBTC",
+    "symbol": "UBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.uniport.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UPchain Mainnet Explorer",
+      "url": "https://explorer.uniport.network"
+    }
+  ],
+  "website": "https://uniport.network",
+  "aliases": [
+    "UPchain-mainnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Metacces",
+  "slug": "metacces",
+  "chainId": 2071,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Metacces",
+    "symbol": "ACCES",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://oli.accesscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "accesscan",
+      "url": "https://accesscan.io"
+    }
+  ],
+  "website": "https://metacces.com",
+  "aliases": [
+    "Metacces Mainnet",
+    "ACCES"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ULALO",
+  "slug": "ulalo",
+  "chainId": 237007,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ULA",
+    "symbol": "ULA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://grpc.ulalo.xyz/ext/bc/2uN4Y9JHkLeAJK85Y48LExpNnEiepf7VoZAtmjnwDSZzpZcNig/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ULALO Explorer",
+      "url": "https://tracehawk.ulalo.xyz"
+    }
+  ],
+  "website": "https://ulalo.xyz",
+  "aliases": [
+    "ulalo-mainnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AgentLayer Testnet",
+  "slug": "agentlayer-testnet",
+  "chainId": 42072,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Agent",
+    "symbol": "AGENT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.agentlayer.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AgentLayer Testnet Explorer",
+      "url": "https://testnet-explorer.agentlayer.xyz"
+    }
+  ],
+  "website": "https://agentlayer.xyz/home",
+  "aliases": [
+    "AgentLayer",
+    "agent"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MAXI Chain Testnet",
+  "slug": "maxi-chain-testnet",
+  "chainId": 898,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAXI GAS",
+    "symbol": "MGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.maxi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Maxi Chain Testnet Explorer",
+      "url": "https://testnet.maxi.network"
+    }
+  ],
+  "website": "https://maxi.network",
+  "aliases": [
+    "MAXI",
+    "maxi-testnet"
+  ]
+}

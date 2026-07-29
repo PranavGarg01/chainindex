@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "FileFileGo",
+  "slug": "filefilego",
+  "chainId": 191,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FFG",
+    "symbol": "FFG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.filefilego.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://filefilego.com",
+  "aliases": [
+    "FFG",
+    "ffg"
+  ]
+}

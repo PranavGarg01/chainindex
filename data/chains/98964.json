@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Pay1 Network",
+  "slug": "pay1-network",
+  "chainId": 98964,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pay1",
+    "symbol": "Pay1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pay1coin.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc0.pay1coin.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc1.pay1coin.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.pay1coin.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pay1Scan",
+      "url": "https://pay1scan.io"
+    }
+  ],
+  "website": "https://pay1coin.com",
+  "aliases": [
+    "PAY1",
+    "pay1"
+  ]
+}

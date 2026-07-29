@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Lamina1 Testnet",
+  "slug": "lamina1-testnet",
+  "chainId": 764984,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lamina1 Test",
+    "symbol": "L1T",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/lamina1tes/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lamina1 Test Explorer",
+      "url": "https://subnets-test.avax.network/lamina1tes"
+    }
+  ],
+  "website": "https://fuji.lamina1.com/",
+  "aliases": [
+    "lamina1test"
+  ]
+}

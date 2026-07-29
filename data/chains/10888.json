@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "GameSwift Chain Testnet",
+  "slug": "gameswift-chain-testnet",
+  "chainId": 10888,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TGameSwift",
+    "symbol": "tGS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.gameswift.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.gameswift.io"
+    }
+  ],
+  "website": "https://raas.gelato.network/rollups/details/public/gameswift-chain-testnet",
+  "aliases": [
+    "gameswift-chain-testnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Rayls",
+  "slug": "rayls",
+  "chainId": 72957,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USD Rayls",
+    "symbol": "USDr",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.rayls.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rayls Mainnet Explorer",
+      "url": "https://explorer.rayls.com"
+    }
+  ],
+  "website": "https://rayls.com",
+  "aliases": [
+    "RLS"
+  ]
+}

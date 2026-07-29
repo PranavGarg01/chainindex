@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vector Smart Chain",
+  "slug": "vector-smart-chain",
+  "chainId": 420042,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vector Smart Gas",
+    "symbol": "VSG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.vscblockchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "vscexplorer",
+      "url": "https://explorer.vscblockchain.org"
+    }
+  ],
+  "website": "https://vsgofficial.com",
+  "aliases": [
+    "VSC",
+    "vsg"
+  ]
+}

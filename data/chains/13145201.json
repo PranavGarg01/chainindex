@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RoonChain Testnet",
+  "slug": "roonchain-testnet",
+  "chainId": 13145201,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ROON",
+    "symbol": "ROON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.roonchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RoonChain Testnet explorer",
+      "url": "https://testnets.roonchain.com"
+    }
+  ],
+  "website": "https://roonchain.com",
+  "aliases": [
+    "ROON",
+    "roonchain"
+  ]
+}

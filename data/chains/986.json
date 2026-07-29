@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LAGOM",
+  "slug": "lagom",
+  "chainId": 986,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LAGO",
+    "symbol": "LAGO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.lagom.mainnet.zeeve.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tracehawk",
+      "url": "https://Explorer.lagomchain.com"
+    }
+  ],
+  "website": "https://lagomchain.com",
+  "aliases": [
+    "LAGOM Mainnet",
+    "Lagom-Chain"
+  ]
+}

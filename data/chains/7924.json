@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "MO",
+  "slug": "mo",
+  "chainId": 7924,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MO",
+    "symbol": "MO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.mochain.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MO Explorer",
+      "url": "https://moscan.app"
+    }
+  ],
+  "website": "https://mochain.app"
+}

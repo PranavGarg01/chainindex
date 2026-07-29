@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Laika",
+  "slug": "laika",
+  "chainId": 6942,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnetrpc.laikachain.dog",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Laika Mainnet Explorer",
+      "url": "https://explorer.laikachain.dog"
+    }
+  ],
+  "website": "https://laikachain.dog"
+}

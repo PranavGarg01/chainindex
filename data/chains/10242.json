@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Arthera",
+  "slug": "arthera",
+  "chainId": 10242,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Arthera",
+    "symbol": "AA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.arthera.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.arthera.net"
+    }
+  ],
+  "website": "https://docs.arthera.net/build/developing-sc/using-hardhat",
+  "aliases": [
+    "AA",
+    "aa"
+  ]
+}

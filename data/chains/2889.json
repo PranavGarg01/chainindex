@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Aarma",
+  "slug": "aarma",
+  "chainId": 2889,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aarma",
+    "symbol": "ARMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://aarmarpc.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "aarmascan",
+      "url": "https://aarmascan.com"
+    }
+  ],
+  "website": "https://aarmachain.com",
+  "aliases": [
+    "ARMA"
+  ]
+}

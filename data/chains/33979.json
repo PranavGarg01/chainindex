@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Funki",
+  "slug": "funki",
+  "chainId": 33979,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.funkichain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Funki Mainnet Explorer",
+      "url": "https://explorer.funkichain.com"
+    },
+    {
+      "name": "FunkiScan",
+      "url": "https://funkiscan.io"
+    }
+  ],
+  "website": "https://funkichain.com",
+  "aliases": [
+    "ETH"
+  ]
+}

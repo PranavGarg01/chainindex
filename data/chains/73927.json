@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mixin Virtual Machine",
+  "slug": "mixin-virtual-machine",
+  "chainId": 73927,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://geth.mvm.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mvmscan",
+      "url": "https://scan.mvm.dev"
+    }
+  ],
+  "website": "https://mvm.dev",
+  "aliases": [
+    "MVM",
+    "mvm"
+  ]
+}

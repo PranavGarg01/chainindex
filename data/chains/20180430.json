@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SmartMesh",
+  "slug": "smartmesh",
+  "chainId": 20180430,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SmartMesh Native Token",
+    "symbol": "SMT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonapi1.smartmesh.cn",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "spectrum",
+      "url": "https://spectrum.pub"
+    }
+  ],
+  "website": "https://smartmesh.io",
+  "aliases": [
+    "Spectrum",
+    "spectrum"
+  ]
+}

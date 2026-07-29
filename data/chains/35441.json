@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Q",
+  "slug": "q",
+  "chainId": 35441,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QGOV",
+    "symbol": "QGOV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.q.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Q explorer",
+      "url": "https://explorer.q.org"
+    }
+  ],
+  "website": "https://q.org"
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "0XL3",
+  "slug": "0xl3",
+  "chainId": 7117,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XL3",
+    "symbol": "XL3",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.0xl3.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "0XL3 Explorer",
+      "url": "https://exp.0xl3.com"
+    }
+  ],
+  "website": "https://0xl3.com"
+}

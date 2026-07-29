@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CyberChain",
+  "slug": "cyberchain",
+  "chainId": 65535,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XCC",
+    "symbol": "XCC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cyberchain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CyberChain explorer",
+      "url": "https://scan.cyberchain.xyz"
+    }
+  ],
+  "website": "https://cyberchain.xyz",
+  "aliases": [
+    "XCC",
+    "xcc"
+  ]
+}

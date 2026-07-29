@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Backstop Testnet",
+  "slug": "backstop-testnet",
+  "chainId": 88558801,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Backstop Testnet 1",
+    "symbol": "ZBS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.backstop.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://backstop.technology/testnet",
+  "aliases": [
+    "backstopTestnet",
+    "backstop-testnet"
+  ]
+}

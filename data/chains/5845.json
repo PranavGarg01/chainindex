@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Tangle",
+  "slug": "tangle",
+  "chainId": 5845,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tangle",
+    "symbol": "TNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tangle.tools",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tangle EVM Explorer",
+      "url": "https://explorer.tangle.tools"
+    }
+  ],
+  "website": "https://docs.tangle.tools"
+}

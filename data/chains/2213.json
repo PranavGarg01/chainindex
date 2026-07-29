@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Evanesco",
+  "slug": "evanesco",
+  "chainId": 2213,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EVA",
+    "symbol": "EVA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://seed4.evanesco.org:8546",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evanesco Explorer",
+      "url": "https://explorer.evanesco.org"
+    }
+  ],
+  "website": "https://evanesco.org/",
+  "aliases": [
+    "EVA"
+  ]
+}

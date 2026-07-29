@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Sports Chain Network",
+  "slug": "sports-chain-network",
+  "chainId": 1904,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SCN",
+    "symbol": "SCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sportschainnetwork.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.sportschainnetwork.xyz"
+    }
+  ],
+  "website": "https://sportschainnetwork.xyz",
+  "aliases": [
+    "SCN"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PAIX Development Network",
+  "slug": "paix-development-network",
+  "chainId": 32380,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PAIX Token",
+    "symbol": "PAIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet.ppaix.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PAIX BlockScout",
+      "url": "https://blockscout.ppaix.com"
+    }
+  ],
+  "website": "https://ppaix.com",
+  "aliases": [
+    "PAIX",
+    "paix"
+  ]
+}

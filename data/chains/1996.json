@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Sanko",
+  "slug": "sanko",
+  "chainId": 1996,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DMT",
+    "symbol": "DMT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.sanko.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sanko Explorer",
+      "url": "https://explorer.sanko.xyz"
+    }
+  ],
+  "website": "https://sanko.xyz/"
+}

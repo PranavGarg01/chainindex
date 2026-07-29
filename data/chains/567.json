@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Validium Network",
+  "slug": "validium-network",
+  "chainId": 567,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Validium",
+    "symbol": "VLDM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.l2.rpc.validium.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Validium Network Testnet Block Explorer",
+      "url": "https://testnet.explorer.validium.network"
+    }
+  ],
+  "website": "https://www.validium.network",
+  "aliases": [
+    "Validium Network Testnet",
+    "validium-testnet"
+  ]
+}

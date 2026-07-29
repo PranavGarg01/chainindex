@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Settlus",
+  "slug": "settlus",
+  "chainId": 5371,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://settlus-mainnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Settlus Mainnet Explorer",
+      "url": "https://mainnet.settlus.network"
+    }
+  ],
+  "website": "https://settlus.org",
+  "aliases": [
+    "ETH",
+    "setl"
+  ]
+}

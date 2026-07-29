@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Xterio Testnet",
+  "slug": "xterio-testnet",
+  "chainId": 1637450,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tBNB",
+    "symbol": "tBNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xterio-testnet.alt.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Xterio Testnet Explorer",
+      "url": "https://testnet.xterscan.io"
+    }
+  ],
+  "website": "https://xter.io",
+  "aliases": [
+    "xteriotest"
+  ]
+}

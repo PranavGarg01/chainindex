@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Shyft",
+  "slug": "shyft",
+  "chainId": 7341,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shyft",
+    "symbol": "SHYFT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.shyft.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Shyft BX",
+      "url": "https://bx.shyft.network"
+    }
+  ],
+  "website": "https://shyft.network"
+}

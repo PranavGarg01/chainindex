@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo SGD1-Chain",
+  "slug": "juneo-sgd1-chain",
+  "chainId": 45012,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SGD1",
+    "symbol": "SGD1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/SGD1/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/7"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "SGD1"
+  ]
+}

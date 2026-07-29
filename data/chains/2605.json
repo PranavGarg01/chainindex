@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Pho Blockchain",
+  "slug": "pho-blockchain",
+  "chainId": 2605,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pho",
+    "symbol": "PHO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.phochain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pho Scan",
+      "url": "https://phoscan.org"
+    }
+  ],
+  "aliases": [
+    "PHO",
+    "pho"
+  ]
+}

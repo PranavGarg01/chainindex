@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "name": "ZetaChain",
+  "slug": "zetachain",
+  "chainId": 7000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zeta",
+    "symbol": "ZETA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zetachain-evm.blockpi.network/v1/rpc/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://zetachain-mainnet.g.allthatnode.com/archive/evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zeta-chain.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zetachain-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://7000.rpc.thirdweb.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-zetachain-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZetaScan",
+      "url": "https://zetascan.com"
+    }
+  ],
+  "website": "https://zetachain.com/docs",
+  "aliases": [
+    "zetachain-mainnet"
+  ]
+}

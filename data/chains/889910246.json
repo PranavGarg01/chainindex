@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "PTCESCAN",
+  "slug": "ptcescan",
+  "chainId": 889910246,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PTCE",
+    "symbol": "PTCE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ptcscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PTCESCAN Explorer",
+      "url": "https://ptcscan.io"
+    }
+  ],
+  "website": "https://ptcscan.io",
+  "aliases": [
+    "PTCE",
+    "POLYTECH",
+    "PTCESCAN Mainnet"
+  ]
+}

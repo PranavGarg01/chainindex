@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Infinite Drive",
+  "slug": "infinite-drive",
+  "chainId": 421018,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Improbability",
+    "symbol": "42",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc-infinite.mschihuahua.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm.infinitedrive.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Infinite Drive Explorer",
+      "url": "https://scan.infinitedrive.xyz"
+    }
+  ],
+  "website": "https://infinitedrive.xyz",
+  "aliases": [
+    "INFINITE",
+    "infinite"
+  ]
+}

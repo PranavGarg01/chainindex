@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Auroria Testnet",
+  "slug": "auroria-testnet",
+  "chainId": 205205,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tSTRAX",
+    "symbol": "tSTRAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://auroria.rpc.xertra.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Auroria Testnet Explorer",
+      "url": "https://auroria.explorer.xertra.com"
+    }
+  ],
+  "website": "https://xertra.com",
+  "aliases": [
+    "Auroria",
+    "auroria",
+    "Xertra Testnet Auroria"
+  ]
+}

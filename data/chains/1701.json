@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Anytype EVM Chain",
+  "slug": "anytype-evm-chain",
+  "chainId": 1701,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ANY",
+    "symbol": "ANY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://geth.anytype.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Anytype Explorer",
+      "url": "https://explorer.anytype.io"
+    }
+  ],
+  "website": "https://evm.anytype.io",
+  "aliases": [
+    "ETH",
+    "AnytypeChain"
+  ]
+}

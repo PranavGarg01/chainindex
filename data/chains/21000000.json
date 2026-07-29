@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Corn",
+  "slug": "corn",
+  "chainId": 21000000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcorn",
+    "symbol": "BTCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.corn-rpc.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/corn_maizenet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://maizenet-rpc.usecorn.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Corn Explorer",
+      "url": "https://cornscan.io"
+    },
+    {
+      "name": "Corn Blockscout",
+      "url": "https://maizenet-explorer.usecorn.com"
+    }
+  ],
+  "website": "https://usecorn.com",
+  "aliases": [
+    "BTCN"
+  ]
+}

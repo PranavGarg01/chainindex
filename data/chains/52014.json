@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Electroneum",
+  "slug": "electroneum",
+  "chainId": 52014,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Electroneum",
+    "symbol": "ETN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/electroneum",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.electroneum.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockexplorer.electroneum.com"
+    }
+  ],
+  "website": "https://electroneum.com",
+  "aliases": [
+    "etn-mainnet"
+  ]
+}

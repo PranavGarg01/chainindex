@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Winr Protocol Testnet",
+  "slug": "winr-protocol-testnet",
+  "chainId": 66666666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Winr",
+    "symbol": "WINR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-devnet.winr.games",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Winr Protocol Testnet Explorer",
+      "url": "https://explorer-winrprotocoltestnet-wmwv59m23g.t.conduit.xyz"
+    }
+  ],
+  "website": "https://winr.games",
+  "aliases": [
+    "WINR",
+    "winrtestnet"
+  ]
+}

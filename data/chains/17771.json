@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DMD Diamond",
+  "slug": "dmd-diamond",
+  "chainId": 17771,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DMD",
+    "symbol": "DMD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bit.diamonds",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.bit.diamonds"
+    }
+  ],
+  "website": "https://bit.diamonds",
+  "aliases": [
+    "DMD",
+    "dmd"
+  ]
+}

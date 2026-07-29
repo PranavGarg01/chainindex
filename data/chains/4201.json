@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "LUKSO Testnet",
+  "slug": "lukso-testnet",
+  "chainId": 4201,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TestLYX",
+    "symbol": "LYXt",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.lukso.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LUKSO Testnet Execution Explorer",
+      "url": "https://explorer.execution.testnet.lukso.network"
+    }
+  ],
+  "website": "https://lukso.network",
+  "aliases": [
+    "lukso-testnet"
+  ]
+}

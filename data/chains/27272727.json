@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pecu Novus",
+  "slug": "pecu-novus",
+  "chainId": 27272727,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pecu Novus",
+    "symbol": "PECU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.pecunovus.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "pecuscan",
+      "url": "https://www.pecuscan.com"
+    }
+  ],
+  "website": "https://www.pecunovus.com",
+  "aliases": [
+    "PECU",
+    "pecu"
+  ]
+}

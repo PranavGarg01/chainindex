@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Game7",
+  "slug": "game7",
+  "chainId": 2187,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "G7",
+    "symbol": "G7",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.game7.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-rpc.game7.build",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://mainnet.game7.io"
+    }
+  ],
+  "website": "https://game7.io/",
+  "aliases": [
+    "g7"
+  ]
+}

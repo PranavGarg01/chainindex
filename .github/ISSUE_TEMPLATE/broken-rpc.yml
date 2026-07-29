@@ -1,0 +1,35 @@
+name: Report a broken RPC
+description: Report an endpoint failure with evidence
+title: "Broken RPC: "
+labels: ["data", "bug"]
+body:
+  - type: input
+    id: chain
+    attributes:
+      label: Chain name and ID
+      placeholder: Ethereum (1)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: RPC URL
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Error and time observed
+      description: Include the response, status code, and date/time with timezone.
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Approximate location
+      description: Country or region only; do not share a precise address.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Optional logs
+      description: Remove IP addresses, credentials, and other sensitive information before posting.

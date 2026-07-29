@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Monsoon",
+  "slug": "monsoon",
+  "chainId": 100610,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RDP",
+    "symbol": "RDP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://monsoon.rainfall.one",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Monsoon Scan",
+      "url": "https://scout.monsoon.rainfall.one"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Citrea Testnet",
+  "slug": "citrea-testnet",
+  "chainId": 5115,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Citrea BTC",
+    "symbol": "cBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.citrea.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Citrea Testnet Explorer",
+      "url": "https://explorer.testnet.citrea.xyz"
+    }
+  ],
+  "website": "https://citrea.xyz",
+  "aliases": [
+    "Citrea",
+    "citrea-testnet"
+  ]
+}

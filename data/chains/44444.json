@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Frenchain",
+  "slug": "frenchain",
+  "chainId": 44444,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FREN",
+    "symbol": "FREN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-02.frenscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://frenscan.io"
+    }
+  ],
+  "website": "https://frenchain.app",
+  "aliases": [
+    "fren",
+    "FREN"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pyrope Testnet",
+  "slug": "pyrope-testnet",
+  "chainId": 695569,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pyropechain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://pyrope.blockscout.com"
+    }
+  ],
+  "website": "https://pyropechain.com",
+  "aliases": [
+    "ETH",
+    "pyrope"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Beam",
+  "slug": "beam",
+  "chainId": 4337,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://build.onbeam.com/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://subnets.avax.network/beam/mainnet/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Beam Explorer",
+      "url": "https://subnets.avax.network/beam"
+    }
+  ],
+  "website": "https://www.onbeam.com"
+}

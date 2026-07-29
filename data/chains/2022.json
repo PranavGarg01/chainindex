@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Beresheet BereEVM Testnet",
+  "slug": "beresheet-bereevm-testnet",
+  "chainId": 2022,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet EDG",
+    "symbol": "tEDG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://beresheet-evm.jelliedowl.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Edgscan by Bharathcoorg",
+      "url": "https://testnet.edgscan.live"
+    }
+  ],
+  "website": "https://edgeware.io/build",
+  "aliases": [
+    "EDG",
+    "edgt"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Lummio Network",
+  "slug": "lummio-network",
+  "chainId": 12020498,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lummio Reward Points",
+    "symbol": "LRPO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lummio.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.lummio.net"
+    }
+  ],
+  "website": "https://lummio.net",
+  "aliases": [
+    "lummio"
+  ]
+}

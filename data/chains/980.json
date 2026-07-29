@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TOP Mainnet EVM",
+  "slug": "top-mainnet-evm",
+  "chainId": 980,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ethapi.topnetwork.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "topscan.dev",
+      "url": "https://www.topscan.io"
+    }
+  ],
+  "website": "https://www.topnetwork.org/",
+  "aliases": [
+    "TOP",
+    "top_evm"
+  ]
+}

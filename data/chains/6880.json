@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MTT Network",
+  "slug": "mtt-network",
+  "chainId": 6880,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MTT Network native coin",
+    "symbol": "MTT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.mtt.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mtt explorer",
+      "url": "https://explorer.mtt.network"
+    }
+  ],
+  "website": "https://mtt.network",
+  "aliases": [
+    "MTT",
+    "mtt-network"
+  ]
+}

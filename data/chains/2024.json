@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Swan Saturn Testnet",
+  "slug": "swan-saturn-testnet",
+  "chainId": 2024,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SWANETH",
+    "symbol": "sETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://saturn-rpc.swanchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://swanchain.io/",
+  "aliases": [
+    "SWAN",
+    "saturn"
+  ]
+}

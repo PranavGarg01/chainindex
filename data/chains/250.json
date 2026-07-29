@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 2,
+  "name": "Fantom Opera",
+  "slug": "fantom-opera",
+  "chainId": 250,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpcapi.fantom.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://fantom-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ftm.tools",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.fantom.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.fantom.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.fantom.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/ftm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.fantom.gateway.fm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/fantom/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-json-rpc.stakely.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/ftm-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/ftm/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-ftm-mainnet.fastnode.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ftmscan",
+      "url": "https://ftmscan.com"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://fantom.dex.guru"
+    }
+  ],
+  "website": "https://fantom.foundation",
+  "aliases": [
+    "FTM",
+    "ftm"
+  ]
+}

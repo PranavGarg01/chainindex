@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Lorenzo",
+  "slug": "lorenzo",
+  "chainId": 8329,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lorenzo stBTC",
+    "symbol": "stBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lorenzo-protocol.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lorenzo Explorer",
+      "url": "https://scan.lorenzo-protocol.xyz"
+    }
+  ],
+  "website": "https://www.lorenzo-protocol.xyz/",
+  "aliases": [
+    "lrz"
+  ]
+}

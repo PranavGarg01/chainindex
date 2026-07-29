@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "GeneChain",
+  "slug": "genechain",
+  "chainId": 80,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RNA",
+    "symbol": "RNA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.genechain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GeneChain Scan",
+      "url": "https://scan.genechain.io"
+    }
+  ],
+  "website": "https://scan.genechain.io/"
+}

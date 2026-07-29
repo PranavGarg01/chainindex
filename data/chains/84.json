@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Linqto Devnet",
+  "slug": "linqto-devnet",
+  "chainId": 84,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://linqto-dev.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Linqto Devnet Explorer",
+      "url": "https://explorer.linqto-dev.com"
+    }
+  ],
+  "website": "https://linqto.com",
+  "aliases": [
+    "LNQ",
+    "linqto-devnet"
+  ]
+}

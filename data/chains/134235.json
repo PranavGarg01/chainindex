@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ARIA Chain",
+  "slug": "aria-chain",
+  "chainId": 134235,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ARIA",
+    "symbol": "ARIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ariascan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ARIA Explorer",
+      "url": "https://explorer.ariascan.org"
+    }
+  ],
+  "website": "https://ariascan.org",
+  "aliases": [
+    "ARIA",
+    "aria"
+  ]
+}

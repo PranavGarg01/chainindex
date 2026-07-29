@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Etica",
+  "slug": "etica",
+  "chainId": 61803,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EGAZ",
+    "symbol": "EGAZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eticamainnet.eticascan.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://eticamainnet.eticaprotocol.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "eticascan",
+      "url": "https://eticascan.org"
+    }
+  ],
+  "website": "https://eticaprotocol.org",
+  "aliases": [
+    "Etica Protocol (ETI/EGAZ)"
+  ]
+}

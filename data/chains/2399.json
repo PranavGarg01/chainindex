@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BOMB Chain Testnet",
+  "slug": "bomb-chain-testnet",
+  "chainId": 2399,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BOMB Token",
+    "symbol": "tBOMB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bombchain-testnet.ankr.com/bas_full_rpc_1",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bombscan-testnet",
+      "url": "https://explorer.bombchain-testnet.ankr.com"
+    }
+  ],
+  "website": "https://www.bombmoney.com",
+  "aliases": [
+    "BOMB",
+    "bombt"
+  ]
+}

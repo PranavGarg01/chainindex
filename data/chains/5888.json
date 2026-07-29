@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MANTRA Chain",
+  "slug": "mantra-chain",
+  "chainId": 5888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MANTRA",
+    "symbol": "MANTRA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.mantrachain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MANTRA Explorer",
+      "url": "https://blockscout.mantrascan.io"
+    }
+  ],
+  "website": "https://mantrachain.io",
+  "aliases": [
+    "MANTRA",
+    "mantra"
+  ]
+}

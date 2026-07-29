@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Niza Chain",
+  "slug": "niza-chain",
+  "chainId": 20041,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Niza Global",
+    "symbol": "NIZA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nizascan.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NizaScan",
+      "url": "https://nizascan.io"
+    }
+  ],
+  "website": "https://niza.io",
+  "aliases": [
+    "NIZA",
+    "niza"
+  ]
+}

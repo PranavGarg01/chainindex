@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Redlight Chain",
+  "slug": "redlight-chain",
+  "chainId": 2611,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Redlight Coin",
+    "symbol": "REDLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed2.redlightscan.finance",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "REDLC Explorer",
+      "url": "https://redlightscan.finance"
+    }
+  ],
+  "website": "https://redlight.finance/",
+  "aliases": [
+    "REDLC"
+  ]
+}

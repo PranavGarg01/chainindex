@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "SmartPay Mobile Money",
+  "slug": "smartpay-mobile-money",
+  "chainId": 666301179999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SmartPay Mobile Money",
+    "symbol": "SMM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://network.uat.smartmoneyewallet.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://network.uat.smartmoneyewallet.com/",
+  "aliases": [
+    "Mobile Money",
+    "SmartPay"
+  ]
+}

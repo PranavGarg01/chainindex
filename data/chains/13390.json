@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MeeChain Network",
+  "slug": "meechain-network",
+  "chainId": 13390,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mee",
+    "symbol": "MEE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.meechain.live/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MeeScan",
+      "url": "https://scan.meechain.live"
+    }
+  ],
+  "website": "https://scan.meechain.live",
+  "aliases": [
+    "MeeChain",
+    "mee"
+  ]
+}

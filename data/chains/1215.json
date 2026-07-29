@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ADF Chain",
+  "slug": "adf-chain",
+  "chainId": 1215,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ADDFILL",
+    "symbol": "ADF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.adftechnology.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ADF explorer",
+      "url": "https://explorer.adftechnology.com"
+    }
+  ],
+  "website": "https://www.adfstarworld.com/",
+  "aliases": [
+    "ADF"
+  ]
+}

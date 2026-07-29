@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Anq World Testnet",
+  "slug": "anq-world-testnet",
+  "chainId": 11417,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-public-test.anq.world",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout-test.anq.world"
+    }
+  ],
+  "website": "https://anquantum.com/chain",
+  "aliases": [
+    "ETH",
+    "eth"
+  ]
+}

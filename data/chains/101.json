@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "EtherInc",
+  "slug": "etherinc",
+  "chainId": 101,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EtherInc Ether",
+    "symbol": "ETI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.einc.io/jsonrpc/mainnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://einc.io",
+  "aliases": [
+    "ETI",
+    "eti"
+  ]
+}

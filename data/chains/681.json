@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "JASMY Chain Testnet",
+  "slug": "jasmy-chain-testnet",
+  "chainId": 681,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jasmy-chain-testnet.alt.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JASMY Chain Testnet Explorer",
+      "url": "https://jasmy-chain-testnet-explorer.alt.technology"
+    }
+  ],
+  "website": "https://www.jasmy.co.jp/en.html",
+  "aliases": [
+    "JASMY",
+    "jasmy"
+  ]
+}

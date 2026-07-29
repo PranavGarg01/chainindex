@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Testnet BeOne Chain",
+  "slug": "testnet-beone-chain",
+  "chainId": 8181,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet BeOne Chain",
+    "symbol": "tBOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://pre-boc1.beonechain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Testnet BeOne Chain",
+      "url": "https://testnet.beonescan.com"
+    }
+  ],
+  "website": "https://testnet.beonescan.com",
+  "aliases": [
+    "tBOC"
+  ]
+}

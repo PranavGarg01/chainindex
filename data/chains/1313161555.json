@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Aurora Testnet",
+  "slug": "aurora-testnet",
+  "chainId": 1313161555,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.aurora.dev",
+      "isRecommended": true
+    },
+    {
+      "url": "https://aurora-testnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/aurora/testnet/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Aurora Explorer",
+      "url": "https://explorer.testnet.aurora.dev"
+    }
+  ],
+  "website": "https://aurora.dev",
+  "aliases": [
+    "NEAR",
+    "aurora-testnet"
+  ]
+}

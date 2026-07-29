@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Seven Chain",
+  "slug": "seven-chain",
+  "chainId": 70007,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Seven",
+    "symbol": "SEVEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://theseven.meme/api/seven-chain/jsonrpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Seven Chain Explorer",
+      "url": "https://theseven.meme/blockchain/explorer"
+    }
+  ],
+  "website": "https://theseven.meme",
+  "aliases": [
+    "SEVEN",
+    "seven"
+  ]
+}

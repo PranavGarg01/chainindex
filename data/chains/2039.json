@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Aleph Zero",
+  "slug": "aleph-zero",
+  "chainId": 2039,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TZERO",
+    "symbol": "TZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.alephzero-testnet.gelato.digital",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Aleph Zero",
+      "url": "https://evm-explorer-testnet.alephzero.org"
+    }
+  ],
+  "website": "https://alephzero.org/",
+  "aliases": [
+    "aleph"
+  ]
+}

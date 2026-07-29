@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "YuuChain",
+  "slug": "yuuchain",
+  "chainId": 19001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Yuu",
+    "symbol": "YUU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.theyuusystem.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "YuuChain Explorer",
+      "url": "https://explorer.theyuusystem.com"
+    }
+  ],
+  "website": "https://theyuusystem.com",
+  "aliases": [
+    "YUU"
+  ]
+}

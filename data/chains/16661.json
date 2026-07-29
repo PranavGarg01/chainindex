@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "0G",
+  "slug": "0g",
+  "chainId": 16661,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "0G",
+    "symbol": "0G",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmrpc.0g.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "0G Chain Explorer",
+      "url": "https://chainscan.0g.ai"
+    }
+  ],
+  "website": "https://0g.ai"
+}

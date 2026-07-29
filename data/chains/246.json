@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Energy Web Chain",
+  "slug": "energy-web-chain",
+  "chainId": 246,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Energy Web Token",
+    "symbol": "EWT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.energyweb.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.energyweb.org"
+    }
+  ],
+  "website": "https://energyweb.org",
+  "aliases": [
+    "ewt"
+  ]
+}

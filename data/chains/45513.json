@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Blessnet",
+  "slug": "blessnet",
+  "chainId": 45513,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bless",
+    "symbol": "BLESS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://blessnet.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blessnet.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://blessnet.io",
+  "aliases": [
+    "ETH",
+    "bless"
+  ]
+}

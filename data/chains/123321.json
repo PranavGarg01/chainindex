@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Gemchain",
+  "slug": "gemchain",
+  "chainId": 123321,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GEM",
+    "symbol": "GEM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.gemchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gemchain Scan",
+      "url": "https://scan.gemchain.org"
+    }
+  ],
+  "website": "https://gemchain.org"
+}

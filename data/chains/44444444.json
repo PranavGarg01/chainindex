@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Tensora",
+  "slug": "tensora",
+  "chainId": 44444444,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tensora.sh",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tensora Explorer",
+      "url": "https://explorer.tensora.sh"
+    }
+  ],
+  "website": "https://tensora.ai"
+}

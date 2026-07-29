@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "name": "Hydration",
+  "slug": "hydration",
+  "chainId": 222222,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hydradx.cloud",
+      "isRecommended": true
+    },
+    {
+      "url": "https://hydration-rpc.n.dwellir.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.helikon.io/hydradx",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hydration.dotters.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hydration.ibp.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.cay.hydration.cloud",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.parm.hydration.cloud",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.roach.hydration.cloud",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.zipp.hydration.cloud",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.sin.hydration.cloud",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.coke.hydration.cloud",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.evm.hydration.cloud"
+    }
+  ],
+  "website": "https://hydration.net/",
+  "aliases": [
+    "HDX",
+    "hdx"
+  ]
+}

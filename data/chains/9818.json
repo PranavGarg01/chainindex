@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "IMPERIUM TESTNET",
+  "slug": "imperium-testnet",
+  "chainId": 9818,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tIMP",
+    "symbol": "tIMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://data-aws-testnet.imperiumchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://data-aws2-testnet.imperiumchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IMPERIUM TESTNET Explorer",
+      "url": "https://network.impscan.com"
+    }
+  ],
+  "website": "https://imperiumchain.com",
+  "aliases": [
+    "tIMP"
+  ]
+}

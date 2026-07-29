@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Goliath",
+  "slug": "goliath",
+  "chainId": 327,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XCN",
+    "symbol": "XCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.goliath.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Goliath Explorer",
+      "url": "https://explorer.goliath.net"
+    }
+  ],
+  "website": "https://docs.goliath.net"
+}

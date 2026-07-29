@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "COTI",
+  "slug": "coti",
+  "chainId": 2632500,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "COTI",
+    "symbol": "COTI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://coti-rpc.Hyperflow.finance",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.poolz.finance/coti",
+      "isRecommended": false
+    },
+    {
+      "url": "https://tokyo.fullnode.mainnet.coti.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://virginia.fullnode.mainnet.coti.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://new-york.fullnode.mainnet.coti.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://community-enabler-1.fullnode.mainnet.coti.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet.coti.io/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "COTI Mainnet Explorer",
+      "url": "https://mainnet.cotiscan.io"
+    }
+  ],
+  "website": "https://coti.io/"
+}

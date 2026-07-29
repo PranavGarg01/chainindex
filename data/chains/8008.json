@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Polynomial",
+  "slug": "polynomial",
+  "chainId": 8008,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.polynomial.fi",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Polynomial Explorer",
+      "url": "https://polynomialscan.io"
+    }
+  ],
+  "website": "https://polynomial.fi"
+}

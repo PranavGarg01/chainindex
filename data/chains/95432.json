@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SRICHAIN",
+  "slug": "srichain",
+  "chainId": 95432,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SRIX",
+    "symbol": "SRIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sriscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SRICHAIN",
+      "url": "https://sriscan.com"
+    }
+  ],
+  "website": "https://sriscan.com",
+  "aliases": [
+    "sriscan"
+  ]
+}

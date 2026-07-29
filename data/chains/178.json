@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Abey Testnet",
+  "slug": "abey-testnet",
+  "chainId": 178,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ABEY",
+    "symbol": "tABEY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testrpc.abeychain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "abeyscan-testnet",
+      "url": "https://testnet.abeyscan.com"
+    }
+  ],
+  "website": "https://abey.com",
+  "aliases": [
+    "Abey",
+    "abeyt"
+  ]
+}

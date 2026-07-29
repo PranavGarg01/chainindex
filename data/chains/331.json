@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Telos zkEVM Testnet",
+  "slug": "telos-zkevm-testnet",
+  "chainId": 331,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zkrpc.testnet.telos.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TeloScan",
+      "url": "https://zkexplorer.testnet.telos.net"
+    }
+  ],
+  "aliases": [
+    "Telos",
+    "telos-zkevm-testnet"
+  ]
+}

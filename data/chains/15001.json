@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Midl Testnet",
+  "slug": "midl-testnet",
+  "chainId": 15001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.midl.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://midl.xyz/",
+  "aliases": [
+    "MIDL",
+    "midl-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "H2 Lambda",
+  "slug": "h2-lambda",
+  "chainId": 25821,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "H2",
+    "symbol": "H2",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.h-1.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "H2Scan",
+      "url": "https://lambda.h2scan.io"
+    }
+  ],
+  "website": "https://h2chain.io",
+  "aliases": [
+    "H2",
+    "h2lambda"
+  ]
+}

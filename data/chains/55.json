@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Zyx",
+  "slug": "zyx",
+  "chainId": 55,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zyx",
+    "symbol": "ZYX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-1.zyx.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-2.zyx.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-3.zyx.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-5.zyx.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-4.zyx.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-6.zyx.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zyxscan",
+      "url": "https://zyxscan.com"
+    }
+  ],
+  "website": "https://zyx.network/"
+}

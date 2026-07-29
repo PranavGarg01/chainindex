@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AlveyChain Testnet",
+  "slug": "alveychain-testnet",
+  "chainId": 25839,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AlveyCoin Testnet",
+    "symbol": "tALV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.alvey.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AlveyScan Testnet",
+      "url": "https://alveytestnet.com"
+    }
+  ],
+  "website": "https://alveychain.com/",
+  "aliases": [
+    "tALV",
+    "talv"
+  ]
+}

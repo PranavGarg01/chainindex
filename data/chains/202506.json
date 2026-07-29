@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Aurex Testnet",
+  "slug": "aurex-testnet",
+  "chainId": 202506,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aurex",
+    "symbol": "AUREX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://aurexgold.com:3000",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Aurex Testnet Explorer",
+      "url": "https://aurexgold.com:4001"
+    }
+  ],
+  "website": "https://aurexgold.com",
+  "aliases": [
+    "AUREX",
+    "aurext"
+  ]
+}

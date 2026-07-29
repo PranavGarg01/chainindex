@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "MAPO Makalu",
+  "slug": "mapo-makalu",
+  "chainId": 212,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Makalu MAPO",
+    "symbol": "MAPO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.maplabs.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "maposcan",
+      "url": "https://testnet.maposcan.io"
+    }
+  ],
+  "website": "https://mapprotocol.io/",
+  "aliases": [
+    "MAPO",
+    "makalu",
+    "MAPO Testnet Makalu"
+  ]
+}

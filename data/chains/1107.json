@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BLXq Testnet",
+  "slug": "blxq-testnet",
+  "chainId": 1107,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BLXQ",
+    "symbol": "BLXQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetq1.blx.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BLXq Explorer",
+      "url": "https://explorer.blx.org"
+    }
+  ],
+  "website": "https://blx.org",
+  "aliases": [
+    "BLXQ",
+    "tblxq"
+  ]
+}

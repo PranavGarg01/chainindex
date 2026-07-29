@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Codefin",
+  "slug": "codefin",
+  "chainId": 9223,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Codefin",
+    "symbol": "COF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain-rpc.codefin.pro",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Codefin Net Explorer",
+      "url": "https://explorer.codefin.pro"
+    }
+  ],
+  "website": "https://network.codefin.pro",
+  "aliases": [
+    "COF"
+  ]
+}

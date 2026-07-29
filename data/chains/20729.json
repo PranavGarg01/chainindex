@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Callisto Testnet",
+  "slug": "callisto-testnet",
+  "chainId": 20729,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Callisto",
+    "symbol": "CLO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.callisto.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://callisto.network",
+  "aliases": [
+    "CLO",
+    "CLOTestnet"
+  ]
+}

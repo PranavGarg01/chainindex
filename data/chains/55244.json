@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Superposition",
+  "slug": "superposition",
+  "chainId": 55244,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.superposition.so",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Superposition Explorer",
+      "url": "https://explorer.superposition.so"
+    }
+  ],
+  "website": "https://superposition.so",
+  "aliases": [
+    "spn"
+  ]
+}

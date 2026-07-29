@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "GOAT Network",
+  "slug": "goat-network",
+  "chainId": 2345,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.goat.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://goat-mainnet-alpha.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/goat_mainnet",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.goat.network"
+    }
+  ],
+  "website": "https://www.goat.network",
+  "aliases": [
+    "GOAT",
+    "goat"
+  ]
+}

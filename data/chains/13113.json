@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RANNTA X-Chain",
+  "slug": "rannta-x-chain",
+  "chainId": 13113,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RANNTA Core X",
+    "symbol": "RNTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.rannta.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RANNTA X-Chain Explorer",
+      "url": "https://explorer.rannta.com"
+    }
+  ],
+  "website": "https://rannta.com",
+  "aliases": [
+    "RANNTA",
+    "rntx"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Chips Network",
+  "slug": "chips-network",
+  "chainId": 2882,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.chips.ooo/wasp/api/v1/chains/iota1pp3d3mnap3ufmgqnjsnw344sqmf5svjh26y2khnmc89sv6788y3r207a8fn/evm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.chips.ooo",
+  "aliases": [
+    "CHIPS",
+    "chips"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Origin Testnet",
+  "slug": "origin-testnet",
+  "chainId": 1170,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Origin",
+    "symbol": "UOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.origin.uptick.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Origin Explorer",
+      "url": "https://evm-explorer.origin.uptick.network"
+    }
+  ],
+  "website": "https://www.uptick.network",
+  "aliases": [
+    "Origin",
+    "auoc"
+  ]
+}

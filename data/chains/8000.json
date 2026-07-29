@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Teleport",
+  "slug": "teleport",
+  "chainId": 8000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tele",
+    "symbol": "TELE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed.testnet.teleport.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm-rpc.teleport.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Teleport EVM Explorer (Blockscout)",
+      "url": "https://evm-explorer.teleport.network"
+    },
+    {
+      "name": "Teleport Cosmos Explorer (Big Dipper)",
+      "url": "https://explorer.teleport.network"
+    }
+  ],
+  "website": "https://teleport.network"
+}

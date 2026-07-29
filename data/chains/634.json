@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Avocado",
+  "slug": "avocado",
+  "chainId": 634,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.avocado.instadapp.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "avoscan",
+      "url": "https://avoscan.co"
+    }
+  ],
+  "website": "https://avocado.instadapp.io"
+}

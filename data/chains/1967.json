@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Eleanor",
+  "slug": "eleanor",
+  "chainId": 1967,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eleanor Metacoin",
+    "symbol": "MTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.metatime.com/eleanor",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "metaexplorer-eleanor",
+      "url": "https://explorer.metatime.com/eleanor"
+    }
+  ],
+  "website": "https://eleanor.metatime.com",
+  "aliases": [
+    "MTC",
+    "mtc",
+    "Metatime Testnet Eleanor"
+  ]
+}

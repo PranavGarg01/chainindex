@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "QuantumBit",
+  "slug": "quantumbit",
+  "chainId": 90909,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QuantumBit",
+    "symbol": "QB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://quantumbit.foo/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QuantumBit Explorer",
+      "url": "https://quantumbit.foo"
+    }
+  ],
+  "website": "https://quantumbit.foo",
+  "aliases": [
+    "QB",
+    "qb"
+  ]
+}

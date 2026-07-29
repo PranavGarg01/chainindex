@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Deviant Token Blockchain",
+  "slug": "deviant-token-blockchain",
+  "chainId": 52027071,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Deviant Token",
+    "symbol": "DTBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.devianttoken.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://devianttoken.net",
+  "aliases": [
+    "DTBC",
+    "dtbc"
+  ]
+}

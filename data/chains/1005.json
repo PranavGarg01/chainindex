@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "LemonChainTestnet",
+  "slug": "lemonchaintestnet",
+  "chainId": 1005,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "testnet LEMX",
+    "symbol": "tLEMX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.lemonchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.testnet.allthingslemon.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://dapp.allthingslemon.io/home",
+  "aliases": [
+    "tLEMX",
+    "tlemx"
+  ]
+}

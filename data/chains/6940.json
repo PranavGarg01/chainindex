@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Monolythium Testnet",
+  "slug": "monolythium-testnet",
+  "chainId": 6940,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lythium",
+    "symbol": "LYTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.testnet.mononodes.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Monoscan",
+      "url": "https://testnet.monoscan.xyz"
+    }
+  ],
+  "website": "https://monolythium.com",
+  "aliases": [
+    "LYTH",
+    "lyth-testnet"
+  ]
+}

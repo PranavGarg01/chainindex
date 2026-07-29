@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Strato",
+  "slug": "strato",
+  "chainId": 123354377739506,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Strato USDST",
+    "symbol": "USDST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://noderpc.strato.nexus/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Strato Explorer",
+      "url": "https://stratoscan.strato.nexus/"
+    }
+  ],
+  "website": "https://strato.nexus/"
+}

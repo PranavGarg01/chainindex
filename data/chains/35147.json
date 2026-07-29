@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CoinAfrica",
+  "slug": "coinafrica",
+  "chainId": 35147,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "COINA",
+    "symbol": "COINA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.coinafrica.tech",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CoinA-Scan",
+      "url": "https://coinascan.com"
+    }
+  ],
+  "website": "https://coinafrica.tech",
+  "aliases": [
+    "coina"
+  ]
+}

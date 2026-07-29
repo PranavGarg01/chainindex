@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CloudTx",
+  "slug": "cloudtx",
+  "chainId": 31223,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CloudTx",
+    "symbol": "CLD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.cloudtx.finance",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "cloudtxscan",
+      "url": "https://scan.cloudtx.finance"
+    }
+  ],
+  "website": "https://cloudtx.finance",
+  "aliases": [
+    "CLD",
+    "CLDTX"
+  ]
+}

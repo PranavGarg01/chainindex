@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EOS EVM Network Testnet",
+  "slug": "eos-evm-network-testnet",
+  "chainId": 15557,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EOS",
+    "symbol": "EOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.testnet.evm.eosnetwork.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EOS EVM Explorer",
+      "url": "https://explorer.testnet.evm.eosnetwork.com"
+    }
+  ],
+  "website": "https://eosnetwork.com/eos-evm",
+  "aliases": [
+    "EOS",
+    "eos-testnet"
+  ]
+}

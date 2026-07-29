@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "KUB",
+  "slug": "kub",
+  "chainId": 96,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KUB Coin",
+    "symbol": "KUB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitkubchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KUB Mainnet Explorer",
+      "url": "https://kubscan.com"
+    }
+  ],
+  "website": "https://www.kubchain.com/"
+}

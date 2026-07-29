@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lumia Testnet",
+  "slug": "lumia-testnet",
+  "chainId": 1952959480,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lumia",
+    "symbol": "LUMIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.lumia.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lumia Testnet Explorer",
+      "url": "https://testnet-explorer.lumia.org"
+    }
+  ],
+  "website": "https://lumia.org",
+  "aliases": [
+    "ETH",
+    "lumiatestnet"
+  ]
+}

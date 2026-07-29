@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Harmony Testnet Shard 0",
+  "slug": "harmony-testnet-shard-0",
+  "chainId": 1666700000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.s0.b.hmny.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/harmony/testnet-0/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Harmony Testnet Block Explorer",
+      "url": "https://explorer.testnet.harmony.one"
+    }
+  ],
+  "website": "https://www.harmony.one/",
+  "aliases": [
+    "Harmony",
+    "hmy-b-s0"
+  ]
+}

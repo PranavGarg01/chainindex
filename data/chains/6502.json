@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Peerpay",
+  "slug": "peerpay",
+  "chainId": 6502,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Peerpay",
+    "symbol": "P2P",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://peerpay.su.gy/p2p",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://peerpay.su.gy",
+  "aliases": [
+    "P2P"
+  ]
+}

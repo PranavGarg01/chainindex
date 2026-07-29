@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "POTOS",
+  "slug": "potos",
+  "chainId": 60603,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POTOS Token",
+    "symbol": "POT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.potos.hk",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "POTOS Mainnet explorer",
+      "url": "https://scan.potos.hk"
+    }
+  ],
+  "website": "https://potos.hk"
+}

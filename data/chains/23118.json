@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Opside Testnet",
+  "slug": "opside-testnet",
+  "chainId": 23118,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IDE",
+    "symbol": "IDE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testrpc.opside.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "opsideInfo",
+      "url": "https://opside.info"
+    }
+  ],
+  "website": "https://opside.network",
+  "aliases": [
+    "Opside",
+    "opside"
+  ]
+}

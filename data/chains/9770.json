@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Nepachain",
+  "slug": "nepachain",
+  "chainId": 9770,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nepacoin",
+    "symbol": "NPC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://network.nepachain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://network.nepachain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://docs.nepachain.org/"
+}

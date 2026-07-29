@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Electroneum Testnet",
+  "slug": "electroneum-testnet",
+  "chainId": 5201420,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Electroneum",
+    "symbol": "ETN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/electroneum_testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-blockexplorer.electroneum.com"
+    }
+  ],
+  "website": "https://electroneum.com",
+  "aliases": [
+    "Electroneum",
+    "etn-testnet"
+  ]
+}

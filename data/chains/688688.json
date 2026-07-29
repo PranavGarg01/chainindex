@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pharos Testnet",
+  "slug": "pharos-testnet",
+  "chainId": 688688,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PHRS",
+    "symbol": "PHRS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.dplabs-internal.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pharos Testnet Explorer",
+      "url": "https://testnet.pharosscan.xyz"
+    }
+  ],
+  "website": "https://testnet.pharosnetwork.xyz/",
+  "aliases": [
+    "Pharos",
+    "pharos-testnet"
+  ]
+}

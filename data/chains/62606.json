@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Apollo",
+  "slug": "apollo",
+  "chainId": 62606,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Apollo",
+    "symbol": "APOLLO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.apolloscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Apollo Mainnet Explorer",
+      "url": "https://apolloscan.io"
+    }
+  ],
+  "website": "https://apolloscan.io"
+}

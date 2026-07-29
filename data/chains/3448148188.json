@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tron Nile",
+  "slug": "tron-nile",
+  "chainId": 3448148188,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tron",
+    "symbol": "TRX",
+    "decimals": 6
+  },
+  "rpc": [
+    {
+      "url": "https://nile.trongrid.io/jsonrpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "nile tronscan",
+      "url": "https://nile.tronscan.org"
+    }
+  ],
+  "website": "https://tron.network",
+  "aliases": [
+    "TRON",
+    "tron-nile"
+  ]
+}

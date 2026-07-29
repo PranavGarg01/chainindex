@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Oone Chain Testnet",
+  "slug": "oone-chain-testnet",
+  "chainId": 333666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tOONE",
+    "symbol": "tOONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.oonechain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.oonescan.com"
+    }
+  ],
+  "website": "https://oonechain.com",
+  "aliases": [
+    "OONE Testnet",
+    "oonetest"
+  ]
+}

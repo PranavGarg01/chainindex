@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Paribu Net Testnet",
+  "slug": "paribu-net-testnet",
+  "chainId": 3500,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PRB",
+    "symbol": "PRB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.paribuscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Paribu Net Testnet Explorer",
+      "url": "https://testnet.paribuscan.com"
+    }
+  ],
+  "website": "https://net.paribu.com",
+  "aliases": [
+    "PRB",
+    "prbtestnet"
+  ]
+}

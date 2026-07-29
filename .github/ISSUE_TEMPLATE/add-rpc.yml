@@ -1,0 +1,63 @@
+name: Add an RPC
+description: Propose a public RPC endpoint
+title: "RPC: "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only public HTTPS endpoints that work without authentication can be listed.
+  - type: input
+    id: chain
+    attributes:
+      label: Chain name and ID
+      placeholder: Ethereum (1)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: RPC URL
+      placeholder: https://rpc.example.org
+    validations:
+      required: true
+  - type: input
+    id: provider
+    attributes:
+      label: Provider
+      description: Name of the organization operating the endpoint.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source URL
+      description: Link to provider or network documentation that publishes this endpoint.
+    validations:
+      required: true
+  - type: dropdown
+    id: transport
+    attributes:
+      label: Transport
+      options:
+        - HTTP
+        - WebSocket
+        - Both
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Verification
+      description: Explain how you verified the returned chain ID and endpoint availability.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: The endpoint works without an API key, token, login, or environment-variable placeholder.
+          required: true
+        - label: The endpoint returns the chain ID listed above.
+          required: true
+        - label: I searched existing issues and chain records for this endpoint.
+          required: true

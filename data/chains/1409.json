@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "VFlow Volta Testnet",
+  "slug": "vflow-volta-testnet",
+  "chainId": 1409,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet zkVerify",
+    "symbol": "tVFY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://vflow-volta-rpc.zkverify.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://vflow-testnet.subscan.io"
+    }
+  ],
+  "website": "https://zkverify.io",
+  "aliases": [
+    "TVFL",
+    "tvfl"
+  ]
+}

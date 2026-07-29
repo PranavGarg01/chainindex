@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PMON Chain",
+  "slug": "pmon-chain",
+  "chainId": 42001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PMON Token",
+    "symbol": "PMON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pmon.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.pmon.xyz"
+    }
+  ],
+  "website": "https://protocolmonsterlabs.com/pmon-chain",
+  "aliases": [
+    "42001",
+    "pmon"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Cryptos Testnet Beta",
+  "slug": "cryptos-testnet-beta",
+  "chainId": 77777777,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cryptos",
+    "symbol": "CRPTOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet-beta-evm.cryptos.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cryptos Explorer (Testnet Beta)",
+      "url": "https://explorer-beta.cryptos.com"
+    }
+  ],
+  "website": "https://cryptos.com",
+  "aliases": [
+    "CRYPTOS",
+    "cryptos-testnet-beta"
+  ]
+}

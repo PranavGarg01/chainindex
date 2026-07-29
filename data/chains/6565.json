@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Fox Testnet Network",
+  "slug": "fox-testnet-network",
+  "chainId": 6565,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FOX Native Token",
+    "symbol": "tFOX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet-v1.foxchain.app",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2-testnet-v1.foxchain.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3-testnet-v1.foxchain.app",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FOX Testnet Explorer",
+      "url": "https://testnet.foxscan.app"
+    }
+  ],
+  "website": "https://foxchain.app",
+  "aliases": [
+    "FOX",
+    "fox"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ETND Chain Mainnets",
+  "slug": "etnd-chain-mainnets",
+  "chainId": 131419,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETND",
+    "symbol": "ETND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.node1.etnd.pro",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etndscan",
+      "url": "https://scan.etnd.pro"
+    }
+  ],
+  "website": "https://www.etnd.pro",
+  "aliases": [
+    "ETND"
+  ]
+}

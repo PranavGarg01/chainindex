@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Arcadia",
+  "slug": "arcadia",
+  "chainId": 4278608,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AIP",
+    "symbol": "AIP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://arcadia.khalani.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Arcadia Mainnet Explorer",
+      "url": "https://explorer.arcadia.khalani.network"
+    }
+  ],
+  "website": "https://khalani.network",
+  "aliases": [
+    "aip"
+  ]
+}

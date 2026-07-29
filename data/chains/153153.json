@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Odyssey Chain",
+  "slug": "odyssey-chain",
+  "chainId": 153153,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DIONE",
+    "symbol": "DIONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.dioneprotocol.com/ext/bc/D/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Odyssey Scan",
+      "url": "https://odysseyscan.com"
+    }
+  ],
+  "website": "https://www.dioneprotocol.com",
+  "aliases": [
+    "DIONE",
+    "Odyssey"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "name": "BeOne Chain",
+  "slug": "beone-chain",
+  "chainId": 818,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BeOne Chain Mainnet",
+    "symbol": "BOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed1.beonechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dataseed2.beonechain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataseed-us1.beonechain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataseed-us2.beonechain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataseed-uk1.beonechain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataseed-uk2.beonechain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BeOne Chain Mainnet",
+      "url": "https://beonescan.com"
+    }
+  ],
+  "website": "https://beonechain.com",
+  "aliases": [
+    "BOC"
+  ]
+}

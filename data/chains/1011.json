@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Rebus Classic",
+  "slug": "rebus-classic",
+  "chainId": 1011,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rebus Classic",
+    "symbol": "REBUS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://apievm.rebuschain.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rebus EVM Explorer (Blockscout)",
+      "url": "https://evm-l1.rebuschain.com"
+    },
+    {
+      "name": "Rebus Cosmos Explorer (ping.pub)",
+      "url": "https://cosmos.rebuschain.com"
+    }
+  ],
+  "website": "https://www.rebuschain.com",
+  "aliases": [
+    "REBUS",
+    "rebusclassic",
+    "Rebuschain Mainnet"
+  ]
+}

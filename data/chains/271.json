@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EgonCoin",
+  "slug": "egoncoin",
+  "chainId": 271,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EgonCoin",
+    "symbol": "EGON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.egonscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EgonCoin Mainnet",
+      "url": "https://egonscan.com"
+    }
+  ],
+  "website": "https://egonscan.com",
+  "aliases": [
+    "EGON",
+    "EGONm"
+  ]
+}

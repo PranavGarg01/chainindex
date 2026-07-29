@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EthXY Testnet",
+  "slug": "ethxy-testnet",
+  "chainId": 979,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Settled EthXY Token",
+    "symbol": "SEXY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.ethxy.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EthXY Testnet Network Explorer",
+      "url": "https://explorer.testnet.ethxy.com"
+    }
+  ],
+  "website": "https://ethxy.com",
+  "aliases": [
+    "EthXY",
+    "sexyTestnet"
+  ]
+}

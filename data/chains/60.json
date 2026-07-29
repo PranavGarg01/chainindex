@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GoChain",
+  "slug": "gochain",
+  "chainId": 60,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GoChain Ether",
+    "symbol": "GO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gochain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GoChain Explorer",
+      "url": "https://explorer.gochain.io"
+    }
+  ],
+  "website": "https://gochain.io",
+  "aliases": [
+    "GO",
+    "go"
+  ]
+}

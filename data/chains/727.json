@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Blucrates",
+  "slug": "blucrates",
+  "chainId": 727,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Blucrates",
+    "symbol": "BLU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://data.bluchain.pro",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.blucrates.com",
+  "aliases": [
+    "BLU",
+    "blu"
+  ]
+}

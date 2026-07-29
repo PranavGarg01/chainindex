@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Neon EVM Devnet",
+  "slug": "neon-evm-devnet",
+  "chainId": 245022926,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Neon",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet.neonevm.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://neon-evm-devnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "neonscan",
+      "url": "https://devnet.neonscan.org"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://neon-devnet.blockscout.com"
+    }
+  ],
+  "website": "https://neon-labs.org",
+  "aliases": [
+    "Solana",
+    "neonevm-devnet"
+  ]
+}

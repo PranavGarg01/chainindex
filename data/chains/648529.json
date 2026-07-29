@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Modulax",
+  "slug": "modulax",
+  "chainId": 648529,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Modulax",
+    "symbol": "MDX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.modulax.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "modulax",
+      "url": "https://explorer.modulax.org"
+    }
+  ],
+  "website": "https://modulax.org",
+  "aliases": [
+    "MDX",
+    "mdx"
+  ]
+}

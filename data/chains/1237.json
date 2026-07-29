@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AEREDIUM Testnet",
+  "slug": "aeredium-testnet",
+  "chainId": 1237,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet AER",
+    "symbol": "tAER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc.aeredium.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AEREDIUM Testnet Explorer",
+      "url": "https://testnet.explorer.aeredium.io"
+    }
+  ],
+  "website": "https://aeredium.io",
+  "aliases": [
+    "AER",
+    "aer-testnet"
+  ]
+}

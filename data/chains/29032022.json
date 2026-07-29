@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Flachain",
+  "slug": "flachain",
+  "chainId": 29032022,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Flacoin",
+    "symbol": "FLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://flachain.flaexchange.top",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FLXExplorer",
+      "url": "https://explorer.flaexchange.top"
+    }
+  ],
+  "website": "https://www.flaexchange.top",
+  "aliases": [
+    "FLX",
+    "fla"
+  ]
+}

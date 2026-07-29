@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Defi Oracle Meta",
+  "slug": "defi-oracle-meta",
+  "chainId": 138,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-http-pub.d-bis.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.d-bis.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.d-bis.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.public-0138.defi-oracle.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.defi-oracle.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.d-bis.org"
+    }
+  ],
+  "website": "https://d-bis.org",
+  "aliases": [
+    "dfiometa",
+    "dfio-meta-main"
+  ]
+}

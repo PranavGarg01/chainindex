@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "name": "Gnosis",
+  "slug": "gnosis",
+  "chainId": 100,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "xDAI",
+    "symbol": "XDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gnosischain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://xdai-archive.blockscout.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.gnosis.gateway.fm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ap-southeast-1.gateway.fm/v4/gnosis/non-archival/mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/gnosis/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/gnosis",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gno-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-gno-mainnet.fastnode.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/gnosis",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/gnosis",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosischain-rpc.gateway.pokt.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis.blockpi.network/v1/rpc/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://web3endpoints.com/gnosischain-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gnosis.oat.farm",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "gnosisscan",
+      "url": "https://gnosisscan.io"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://gnosis.blockscout.com"
+    },
+    {
+      "name": "dexguru",
+      "url": "https://gnosis.dex.guru"
+    }
+  ],
+  "website": "https://docs.gnosischain.com",
+  "aliases": [
+    "GNO",
+    "gno"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "WAGMI",
+  "slug": "wagmi",
+  "chainId": 11111,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WAGMI",
+    "symbol": "WGM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.trywagmi.xyz/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://subnets.avax.network/wagmi/wagmi-chain-testnet/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Avalanche Subnet Explorer",
+      "url": "https://subnets-test.avax.network/wagmi"
+    }
+  ],
+  "website": "https://subnets-test.avax.network/wagmi/details"
+}

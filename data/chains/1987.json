@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "EtherGem",
+  "slug": "ethergem",
+  "chainId": 1987,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EtherGem Ether",
+    "symbol": "EGEM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonrpc.egem.io/custom",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://egem.io",
+  "aliases": [
+    "EGEM",
+    "egem"
+  ]
+}

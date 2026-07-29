@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "B2 Hub Testnet",
+  "slug": "b2-hub-testnet",
+  "chainId": 1113,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BSquared Token",
+    "symbol": "B2",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-hub-rpc.bsquared.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "B2 Hub Habitat Testnet Explorer",
+      "url": "https://testnet-hub-explorer.bsquared.network"
+    }
+  ],
+  "website": "https://www.bsquared.network",
+  "aliases": [
+    "BSQ",
+    "B2Hub-testnet"
+  ]
+}

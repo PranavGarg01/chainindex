@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethernova",
+  "slug": "ethernova",
+  "chainId": 121525,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethernova",
+    "symbol": "NOVA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ethnova.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ethernova Explorer",
+      "url": "https://explorer.ethnova.net"
+    }
+  ],
+  "website": "https://ethnova.net",
+  "aliases": [
+    "NOVA",
+    "ethnova"
+  ]
+}

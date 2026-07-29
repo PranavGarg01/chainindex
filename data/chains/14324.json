@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EVOLVE Testnet",
+  "slug": "evolve-testnet",
+  "chainId": 14324,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Evolve",
+    "symbol": "EVO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.evolveblockchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evolve Testnet Explorer",
+      "url": "https://testnet.evolveblockchain.io"
+    }
+  ],
+  "website": "https://evolveblockchain.io",
+  "aliases": [
+    "EVO",
+    "evo"
+  ]
+}

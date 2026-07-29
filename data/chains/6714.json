@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ANUBIS",
+  "slug": "anubis",
+  "chainId": 6714,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "gasDAI",
+    "symbol": "gasDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.anubispace.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "browser",
+      "url": "https://browser.anubispace.org"
+    }
+  ],
+  "website": "https://docs.anubispace.org",
+  "aliases": [
+    "anubi"
+  ]
+}

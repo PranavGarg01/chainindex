@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Nova Network",
+  "slug": "nova-network",
+  "chainId": 87,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Supernova",
+    "symbol": "SNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.novanetwork.io:9070",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dev.rpc.novanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://connect.novanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://0x57.redjackstudio.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "novanetwork",
+      "url": "https://explorer.novanetwork.io"
+    }
+  ],
+  "website": "https://novanetwork.io",
+  "aliases": [
+    "NNW",
+    "nnw"
+  ]
+}

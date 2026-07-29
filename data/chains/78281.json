@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Dragonfly Mainnet (Hexapod)",
+  "slug": "dragonfly-mainnet-hexapod",
+  "chainId": 78281,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dragonfly",
+    "symbol": "DFLY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dragonfly-rpc.switch.ch",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dragonfly-rpc.kore-technologies.ch",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dragonfly-rpc.phoenix-systems.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dragonfly-rpc.block-spirit.ch",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dragonfly Blockscout",
+      "url": "https://blockscout.dragonfly.hexapod.network"
+    }
+  ],
+  "website": "https://hexapod.network",
+  "aliases": [
+    "Dragonfly",
+    "dfly"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "OP Celestia Raspberry",
+  "slug": "op-celestia-raspberry",
+  "chainId": 123420111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.opcelestia-raspberry.gelato.digital",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://opcelestia-raspberry.gelatoscout.com"
+    }
+  ],
+  "website": "https://raas.gelato.network/rollups/details/public/opcelestia-raspberry",
+  "aliases": [
+    "ETH",
+    "opcelestia-raspberry",
+    "OP Celestia Raspberry Testnet"
+  ]
+}

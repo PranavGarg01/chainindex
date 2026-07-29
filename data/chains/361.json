@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Theta",
+  "slug": "theta",
+  "chainId": 361,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc-api.thetatoken.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Theta Mainnet Explorer",
+      "url": "https://explorer.thetatoken.org"
+    }
+  ],
+  "website": "https://www.thetatoken.org/",
+  "aliases": [
+    "theta-mainnet"
+  ]
+}

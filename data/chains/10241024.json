@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "AlienX",
+  "slug": "alienx",
+  "chainId": 10241024,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.alienxchain.io/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AlienXChain Explorer",
+      "url": "https://explorer.alienxchain.io"
+    }
+  ],
+  "website": "https://alienxchain.io/home",
+  "aliases": [
+    "AlienX Mainnet"
+  ]
+}

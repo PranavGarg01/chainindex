@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "exSat Testnet",
+  "slug": "exsat-testnet",
+  "chainId": 839999,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-tst3.exsat.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "exSat Testnet Explorer",
+      "url": "https://scan-testnet.exsat.network"
+    }
+  ],
+  "website": "https://exsat.network/",
+  "aliases": [
+    "exSat",
+    "txsat"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SuperAIChain",
+  "slug": "superaichain",
+  "chainId": 19998,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SUP",
+    "symbol": "SUP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.superaichain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SuperAIChain Explorer",
+      "url": "https://scan.superaichain.ai"
+    }
+  ],
+  "website": "https://superaichain.ai",
+  "aliases": [
+    "sup"
+  ]
+}

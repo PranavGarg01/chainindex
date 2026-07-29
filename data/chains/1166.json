@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ClubMOS Testnet",
+  "slug": "clubmos-testnet",
+  "chainId": 1166,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ClubMOS",
+    "symbol": "tCMX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.mosscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mosscan",
+      "url": "https://testnet.mosscan.com"
+    }
+  ],
+  "website": "https://www.clubmos.com",
+  "aliases": [
+    "tCMX"
+  ]
+}

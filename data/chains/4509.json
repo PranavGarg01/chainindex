@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Studio Chain",
+  "slug": "studio-chain",
+  "chainId": 4509,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Karrat coin",
+    "symbol": "KARRAT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://studiochain-cf4a1621.calderachain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Studio Chain explorer",
+      "url": "https://studiochain-cf4a1621.calderaexplorer.xyz/"
+    }
+  ],
+  "website": "https://studiochain-cf4a1621.hub.caldera.xyz",
+  "aliases": [
+    "SC"
+  ]
+}

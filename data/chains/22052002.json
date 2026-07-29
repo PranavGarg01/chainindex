@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Excelon",
+  "slug": "excelon",
+  "chainId": 22052002,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Excelon",
+    "symbol": "xlon",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://edgewallet1.xlon.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Excelon explorer",
+      "url": "https://explorer.excelon.io"
+    }
+  ],
+  "website": "https://xlon.org",
+  "aliases": [
+    "XLON",
+    "xlon"
+  ]
+}

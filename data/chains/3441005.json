@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Manta Pacific Testnet",
+  "slug": "manta-pacific-testnet",
+  "chainId": 3441005,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Manta",
+    "symbol": "MANTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://manta-testnet.calderachain.xyz/http",
+      "isRecommended": true
+    },
+    {
+      "url": "https://manta-pacific-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "manta-testnet Explorer",
+      "url": "https://manta-testnet.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://manta-testnet.caldera.dev/",
+  "aliases": [
+    "Manta Pacific",
+    "mantaTestnet"
+  ]
+}

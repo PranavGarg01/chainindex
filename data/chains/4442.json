@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Denergy Testnet",
+  "slug": "denergy-testnet",
+  "chainId": 4442,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WATT",
+    "symbol": "WATT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.denergytestnet.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Denergy Explorer",
+      "url": "https://explorer.denergytestnet.com"
+    }
+  ],
+  "website": "https://d.energy/",
+  "aliases": [
+    "DEN",
+    "den-testnet"
+  ]
+}

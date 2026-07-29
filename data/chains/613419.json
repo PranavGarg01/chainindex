@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Galactica",
+  "slug": "galactica",
+  "chainId": 613419,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GNET",
+    "symbol": "GNET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://galactica-mainnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.galactica.com"
+    }
+  ],
+  "website": "https://galactica.com",
+  "aliases": [
+    "GNET"
+  ]
+}

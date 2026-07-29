@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "ONUS Chain",
+  "slug": "onus-chain",
+  "chainId": 1975,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONUS",
+    "symbol": "ONUS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.onuschain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Onus explorer mainnet",
+      "url": "https://explorer.onuschain.io"
+    }
+  ],
+  "website": "https://onuschain.io",
+  "aliases": [
+    "onus",
+    "onus-mainnet",
+    "ONUS Chain Mainnet"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "quarkblockchain",
+  "slug": "quarkblockchain",
+  "chainId": 20181205,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "quarkblockchain Native Token",
+    "symbol": "QKI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hz.rpc.qkiscan.cn",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.qkiscan.cn",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.qkiscan.cn",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.qkiscan.cn",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc1.qkiscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.qkiscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.qkiscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc1.qkirpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.qkirpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.qkirpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "qkiscan",
+      "url": "https://qkiscan.io"
+    }
+  ],
+  "website": "https://quarkblockchain.org/",
+  "aliases": [
+    "QKI",
+    "qki"
+  ]
+}

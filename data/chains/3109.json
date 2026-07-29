@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SatoshiVM",
+  "slug": "satoshivm",
+  "chainId": 3109,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SatoshiVM",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://alpha-rpc-node-http.svmscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Svmscan",
+      "url": "https://svmscan.io/"
+    }
+  ],
+  "website": "https://www.satoshivm.io/",
+  "aliases": [
+    "BTC",
+    "svm"
+  ]
+}

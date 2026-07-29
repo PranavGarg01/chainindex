@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Bool Network Beta",
+  "slug": "bool-network-beta",
+  "chainId": 11100,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BOL",
+    "symbol": "BOL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://beta-rpc-node-http.bool.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://bool.network/",
+  "aliases": [
+    "BOOL",
+    "BOL"
+  ]
+}

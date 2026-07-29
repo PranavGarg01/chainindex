@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Vulture EVM Beta",
+  "slug": "vulture-evm-beta",
+  "chainId": 3102,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VFI",
+    "symbol": "VFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fraa-dancebox-3050-rpc.a.dancebox.tanssi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://vulture.finance",
+  "aliases": [
+    "VFIEVMCC",
+    "VFI"
+  ]
+}

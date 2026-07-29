@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ultra EVM Network",
+  "slug": "ultra-evm-network",
+  "chainId": 19991,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ultra Token",
+    "symbol": "UOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.ultra.eosusa.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ultra EVM Explorer",
+      "url": "https://evmexplorer.ultra.io"
+    }
+  ],
+  "website": "https://ultra.io",
+  "aliases": [
+    "Ultra",
+    "ultra"
+  ]
+}

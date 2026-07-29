@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Findora Testnet",
+  "slug": "findora-testnet",
+  "chainId": 2153,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FRA",
+    "symbol": "FRA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://prod-testnet.prod.findora.org:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "findorascan",
+      "url": "https://testnet-anvil.evm.findorascan.io"
+    }
+  ],
+  "website": "https://findora.org/",
+  "aliases": [
+    "Testnet-anvil",
+    "findora-testnet"
+  ]
+}

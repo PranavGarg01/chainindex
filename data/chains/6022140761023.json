@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Molereum Network",
+  "slug": "molereum-network",
+  "chainId": 6022140761023,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Molereum Ether",
+    "symbol": "MOLE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://molereum.jdubedition.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://github.com/Jdubedition/molereum",
+  "aliases": [
+    "ETH",
+    "mole"
+  ]
+}

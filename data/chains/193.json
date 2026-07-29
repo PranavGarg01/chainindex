@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Crypto Emergency",
+  "slug": "crypto-emergency",
+  "chainId": 193,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Crypto Emergency",
+    "symbol": "CEM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cemchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "cemscan",
+      "url": "https://cemscan.com"
+    }
+  ],
+  "website": "https://cemblockchain.com/",
+  "aliases": [
+    "CEM",
+    "cem"
+  ]
+}

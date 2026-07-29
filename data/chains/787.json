@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Acala Network",
+  "slug": "acala-network",
+  "chainId": 787,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Acala Token",
+    "symbol": "ACA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc-acala.aca-staging.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.evm.acala.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-rpc-acala.aca-api.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.acala.network"
+    }
+  ],
+  "website": "https://acala.network",
+  "aliases": [
+    "ACA",
+    "aca"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TOOL Global",
+  "slug": "tool-global",
+  "chainId": 8723,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TOOL Global",
+    "symbol": "OLO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-web3.wolot.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OLO Block Explorer",
+      "url": "https://www.olo.network"
+    }
+  ],
+  "website": "https://ibdt.io",
+  "aliases": [
+    "OLO",
+    "olo"
+  ]
+}

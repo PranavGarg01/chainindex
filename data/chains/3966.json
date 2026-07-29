@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "DYNO",
+  "slug": "dyno",
+  "chainId": 3966,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DYNO Token",
+    "symbol": "DYNO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.dynoprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DYNO Explorer",
+      "url": "https://dynoscan.io"
+    }
+  ],
+  "website": "https://dynoprotocol.com"
+}

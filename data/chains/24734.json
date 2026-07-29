@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "MintMe.com Coin",
+  "slug": "mintme-com-coin",
+  "chainId": 24734,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MintMe.com Coin",
+    "symbol": "MINTME",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node1.mintme.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node.1000x.ch",
+      "isRecommended": false
+    },
+    {
+      "url": "https://0xrpc.io/mint",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.mintme.com",
+  "aliases": [
+    "MINTME",
+    "mintme"
+  ]
+}

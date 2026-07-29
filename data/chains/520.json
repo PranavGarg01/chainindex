@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "XT Smart Chain",
+  "slug": "xt-smart-chain",
+  "chainId": 520,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XT Smart Chain Native Token",
+    "symbol": "XT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://datarpc1.xsc.pub",
+      "isRecommended": true
+    },
+    {
+      "url": "https://datarpc2.xsc.pub",
+      "isRecommended": false
+    },
+    {
+      "url": "https://datarpc3.xsc.pub",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "xscscan",
+      "url": "https://xscscan.pub"
+    }
+  ],
+  "website": "https://xsc.pub/",
+  "aliases": [
+    "XSC",
+    "xt"
+  ]
+}

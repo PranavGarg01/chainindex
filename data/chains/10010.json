@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Warden Testnet",
+  "slug": "warden-testnet",
+  "chainId": 10010,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WARD",
+    "symbol": "WARD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.chiado.wardenprotocol.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://wardenprotocol.org",
+  "aliases": [
+    "WARD",
+    "ward"
+  ]
+}

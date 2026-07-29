@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Quadrans Blockchain",
+  "slug": "quadrans-blockchain",
+  "chainId": 10946,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quadrans Coin",
+    "symbol": "QDC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.quadrans.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpcna.quadrans.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpceu.quadrans.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.quadrans.io"
+    }
+  ],
+  "website": "https://quadrans.io",
+  "aliases": [
+    "QDC",
+    "quadrans"
+  ]
+}

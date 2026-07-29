@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "CAPX",
+  "slug": "capx",
+  "chainId": 757,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CAPX",
+    "symbol": "CAPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://capx-mainnet.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://capxscan.com"
+    }
+  ],
+  "website": "https://www.capx.ai/"
+}

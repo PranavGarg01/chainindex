@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Xterio Chain (ETH)",
+  "slug": "xterio-chain-eth",
+  "chainId": 2702128,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xterio-eth.alt.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Xterio Chain (ETH) Explorer",
+      "url": "https://eth.xterscan.io"
+    }
+  ],
+  "website": "https://xter.io",
+  "aliases": [
+    "Xterio",
+    "xterio"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Evoke Testnet",
+  "slug": "evoke-testnet",
+  "chainId": 31414,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MTHN Testnet",
+    "symbol": "MTHN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.evokescan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evoke SmartChain Testnet Explorer",
+      "url": "https://testnet-explorer.evokescan.org"
+    }
+  ],
+  "website": "https://testnet-explorer.evokescan.org",
+  "aliases": [
+    "Evoke",
+    "tmthn"
+  ]
+}

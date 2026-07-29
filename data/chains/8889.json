@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Vyvo Smart Chain",
+  "slug": "vyvo-smart-chain",
+  "chainId": 8889,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VSC",
+    "symbol": "VSC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://vsc-dataseed.vyvo.org:8889",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://vsc-dataseed.vyvo.org",
+  "aliases": [
+    "VSC",
+    "vsc"
+  ]
+}

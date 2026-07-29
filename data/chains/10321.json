@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "TAO EVM",
+  "slug": "tao-evm",
+  "chainId": 10321,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAO",
+    "symbol": "TAO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.taoevm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TAO Mainnet Explorer",
+      "url": "https://taoscan.org"
+    }
+  ],
+  "website": "https://taoevm.io",
+  "aliases": [
+    "TAOm"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Arbitrum Blueberry",
+  "slug": "arbitrum-blueberry",
+  "chainId": 88153591557,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GelatoCGT",
+    "symbol": "CGT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://arb-blueberry-testnet.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.arb-blueberry.gelato.digital",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://arb-blueberry.gelatoscout.com"
+    }
+  ],
+  "website": "https://raas.gelato.network/rollups/details/public/arb-blueberry",
+  "aliases": [
+    "ETH",
+    "arb-blueberry",
+    "Arbitrum Blueberry Testnet"
+  ]
+}

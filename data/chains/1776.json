@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Injective",
+  "slug": "injective",
+  "chainId": 1776,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Injective",
+    "symbol": "INJ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sentry.evm-rpc.injective.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://injectiveevm-rpc.polkachu.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://injective-evm-rpc.scvsecurity.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.injective.network"
+    }
+  ],
+  "website": "https://injective.com"
+}

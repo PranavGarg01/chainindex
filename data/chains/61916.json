@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "DoKEN Super Chain",
+  "slug": "doken-super-chain",
+  "chainId": 61916,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DoKEN",
+    "symbol": "DKN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sgrpc.doken.dev",
+      "isRecommended": true
+    },
+    {
+      "url": "https://nyrpc.doken.dev",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ukrpc.doken.dev",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DSC Scan",
+      "url": "https://explore.doken.dev"
+    }
+  ],
+  "website": "https://doken.dev/",
+  "aliases": [
+    "DoKEN"
+  ]
+}

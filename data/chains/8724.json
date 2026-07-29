@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "TOOL Global Testnet",
+  "slug": "tool-global-testnet",
+  "chainId": 8724,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TOOL Global",
+    "symbol": "OLO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-web3.wolot.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://testnet-explorer.wolot.io",
+  "aliases": [
+    "OLO",
+    "tolo"
+  ]
+}

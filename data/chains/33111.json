@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Curtis",
+  "slug": "curtis",
+  "chainId": 33111,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.curtis.apechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://curtis.rpc.caldera.xyz/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://apechain-curtis.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Curtis Explorer",
+      "url": "https://explorer.curtis.apechain.com"
+    }
+  ],
+  "website": "https://curtis.hub.caldera.xyz"
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "name": "Tycooncoin",
+  "slug": "tycooncoin",
+  "chainId": 3630,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tycooncoin",
+    "symbol": "TYCO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.tycoscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "aliases": [
+    "TYCON"
+  ]
+}

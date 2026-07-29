@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "GembaBlockchain Testnet",
+  "slug": "gembablockchain-testnet",
+  "chainId": 821207,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gemba",
+    "symbol": "GMB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.gembascan.io/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.gembascan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.gembascan.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GembaScan",
+      "url": "https://testnet.gembascan.io"
+    }
+  ],
+  "website": "https://gembachain.io",
+  "aliases": [
+    "GMB",
+    "gembatest"
+  ]
+}

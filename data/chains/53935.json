@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "DFK Chain",
+  "slug": "dfk-chain",
+  "chainId": 53935,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Jewel",
+    "symbol": "JEWEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/defi-kingdoms/dfk-chain/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://avax-dfk.api.pocket.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ethernal",
+      "url": "https://explorer.dfkchain.com"
+    }
+  ],
+  "website": "https://defikingdoms.com",
+  "aliases": [
+    "DFK"
+  ]
+}

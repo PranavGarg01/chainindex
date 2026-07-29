@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NitroGraph Testnet",
+  "slug": "nitrograph-testnet",
+  "chainId": 200024,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nitro",
+    "symbol": "NOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.nitrograph.foundation",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "nitroscan",
+      "url": "https://explorer-testnet.nitrograph.foundation"
+    }
+  ],
+  "website": "https://nitrograph.com",
+  "aliases": [
+    "NOS",
+    "nos"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "Chiliz Chain",
+  "slug": "chiliz-chain",
+  "chainId": 88888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/chiliz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://chiliz-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-chiliz-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/chiliz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.chiliz.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://chiliz.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Chiliscan",
+      "url": "https://chiliscan.com/"
+    },
+    {
+      "name": "Scan Chiliz",
+      "url": "https://scan.chiliz.com"
+    }
+  ],
+  "website": "https://www.chiliz.com/",
+  "aliases": [
+    "CHZ",
+    "chiliz"
+  ]
+}

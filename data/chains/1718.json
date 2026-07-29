@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Palette Chain",
+  "slug": "palette-chain",
+  "chainId": 1718,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Palette Token",
+    "symbol": "PLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://palette-rpc.com:22000",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Palettescan",
+      "url": "https://palettescan.com"
+    }
+  ],
+  "website": "https://hashpalette.com/",
+  "aliases": [
+    "PLT",
+    "PCM"
+  ]
+}

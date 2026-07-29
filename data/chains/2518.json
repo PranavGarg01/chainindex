@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "name": "SVP Chain",
+  "slug": "svp-chain",
+  "chainId": 2518,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SVP Coin",
+    "symbol": "SVP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://svp-dataseed1.svpchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://svp-dataseed2.svpchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://svp-dataseed3.svpchain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SVP Explorer",
+      "url": "https://explorer.svpchain.com"
+    }
+  ],
+  "website": "https://svpchain.org",
+  "aliases": [
+    "SVP",
+    "svp",
+    "SVP Mainnet"
+  ]
+}

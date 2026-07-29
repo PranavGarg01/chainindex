@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SWSS Chain",
+  "slug": "swss-chain",
+  "chainId": 122605,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SWSS Coin",
+    "symbol": "SWSS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://swssrpc.swss.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SWSS Chain Scan",
+      "url": "https://swssscan.swss.io"
+    }
+  ],
+  "website": "https://swss.io",
+  "aliases": [
+    "SWSS",
+    "swss"
+  ]
+}

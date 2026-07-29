@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Kusama",
+  "slug": "kusama",
+  "chainId": 420420418,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KSM",
+    "symbol": "KSM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc.kusama.polkadot.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://eth-rpc-kusama.polkadot.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout-kusama.polkadot.io"
+    }
+  ],
+  "website": "https://polkadot.com",
+  "aliases": [
+    "KSM",
+    "ksm"
+  ]
+}

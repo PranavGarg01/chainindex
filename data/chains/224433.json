@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "CONET Cancun",
+  "slug": "conet-cancun",
+  "chainId": 224433,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CONET Cancun",
+    "symbol": "CONET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cancun-rpc.conet.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.conet.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://conet.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CONET Cancun Scan",
+      "url": "https://cancun.conet.network"
+    }
+  ],
+  "website": "https://conet.network",
+  "aliases": [
+    "conet-cancun"
+  ]
+}

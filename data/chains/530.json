@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Pundi AIFX Omnilayer",
+  "slug": "pundi-aifx-omnilayer",
+  "chainId": 530,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pundi AIFX",
+    "symbol": "PUNDAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fx-json-web3.portfolio-x.xyz:8545",
+      "isRecommended": true
+    },
+    {
+      "url": "https://fx-json-web3.functionx.io:8545",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PundiScan Explorer",
+      "url": "https://pundiscan.io/evm"
+    }
+  ],
+  "website": "https://fx.pundi.ai/",
+  "aliases": [
+    "PUNDIAI",
+    "pundiai"
+  ]
+}

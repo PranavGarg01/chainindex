@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Decentralized Web",
+  "slug": "decentralized-web",
+  "chainId": 124,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Decentralized Web Utility",
+    "symbol": "DWU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://decentralized-web.tech/dw_rpc.php",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://decentralized-web.tech/dw_chain.php",
+  "aliases": [
+    "DWU",
+    "dwu"
+  ]
+}

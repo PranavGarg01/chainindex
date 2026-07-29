@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Lightstreams",
+  "slug": "lightstreams",
+  "chainId": 163,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lightstreams PHT",
+    "symbol": "PHT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.mainnet.lightstreams.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://explorer.lightstreams.io",
+  "aliases": [
+    "PHT",
+    "pht"
+  ]
+}

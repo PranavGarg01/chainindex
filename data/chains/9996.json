@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Mind Smart Chain",
+  "slug": "mind-smart-chain",
+  "chainId": 9996,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MIND Coin",
+    "symbol": "MIND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-msc.mindchain.info",
+      "isRecommended": true
+    },
+    {
+      "url": "https://seednode.mindchain.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://archive.mindchain.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mind-smart-chain.rpc.thirdweb.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mind Chain explorer",
+      "url": "https://mainnet.mindscan.info"
+    }
+  ],
+  "website": "https://mindchain.info",
+  "aliases": [
+    "MIND"
+  ]
+}

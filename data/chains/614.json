@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Graphlinq Blockchain",
+  "slug": "graphlinq-blockchain",
+  "chainId": 614,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GLQ",
+    "symbol": "GLQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://glq-dataseed.graphlinq.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GLQ Explorer",
+      "url": "https://explorer.graphlinq.io"
+    }
+  ],
+  "website": "https://graphlinq.io",
+  "aliases": [
+    "GLQ Blockchain",
+    "glq"
+  ]
+}

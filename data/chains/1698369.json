@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Primea Network Testnet",
+  "slug": "primea-network-testnet",
+  "chainId": 1698369,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GoldPrimeaNetwork Test",
+    "symbol": "GOLDPN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc.primeanetwork.com/rpc-https",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://primeanetwork.com",
+  "aliases": [
+    "test-goldpn"
+  ]
+}

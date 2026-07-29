@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Datacore Smart Chain",
+  "slug": "datacore-smart-chain",
+  "chainId": 1555,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Datacore Smart Chain",
+    "symbol": "DSC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc01.dscscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Datacore Smart Chain",
+      "url": "https://dscscan.io"
+    }
+  ],
+  "website": "https://rpc01.dscscan.io",
+  "aliases": [
+    "DSCs"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "EDU Chain",
+  "slug": "edu-chain",
+  "chainId": 41923,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EDU",
+    "symbol": "EDU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.educhain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EDU Chain Explorer",
+      "url": "https://explorer.educhain.xyz"
+    }
+  ],
+  "website": "https://www.educhain.xyz/",
+  "aliases": [
+    "edu-chain"
+  ]
+}

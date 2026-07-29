@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Palm",
+  "slug": "palm",
+  "chainId": 11297108109,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PALM",
+    "symbol": "PALM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://palm-mainnet.infura.io/v3/3a961d6501e54add9a41aa53f15de99b",
+      "isRecommended": true
+    },
+    {
+      "url": "https://palm-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://palm-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Chainlens",
+      "url": "https://palm.chainlens.com"
+    },
+    {
+      "name": "Dora",
+      "url": "https://www.ondora.xyz/network/palm"
+    }
+  ],
+  "website": "https://palm.network"
+}

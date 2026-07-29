@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AME Chain",
+  "slug": "ame-chain",
+  "chainId": 180,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AME",
+    "symbol": "AME",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node1.amechain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AME Scan",
+      "url": "https://amescan.io"
+    }
+  ],
+  "website": "https://amechain.io/",
+  "aliases": [
+    "AME",
+    "ame"
+  ]
+}

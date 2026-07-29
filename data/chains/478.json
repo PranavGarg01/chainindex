@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Form Network",
+  "slug": "form-network",
+  "chainId": 478,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.form.network/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Form Explorer",
+      "url": "https://explorer.form.network"
+    }
+  ],
+  "website": "https://info.form.network",
+  "aliases": [
+    "form",
+    "formnetwork"
+  ]
+}

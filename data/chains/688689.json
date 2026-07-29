@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Pharos Atlantic Testnet",
+  "slug": "pharos-atlantic-testnet",
+  "chainId": 688689,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PHRS",
+    "symbol": "PHRS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.evm.pharos.testnet.cosmostation.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://atlantic.dplabs-internal.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pharos Atlantic Testnet Explorer",
+      "url": "https://atlantic.pharosscan.xyz"
+    }
+  ],
+  "website": "https://atlantic.pharosnetwork.xyz/",
+  "aliases": [
+    "Pharos",
+    "pharos-atlantic"
+  ]
+}

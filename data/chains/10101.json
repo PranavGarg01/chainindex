@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "name": "Blockchain Genesis",
+  "slug": "blockchain-genesis",
+  "chainId": 10101,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GEN",
+    "symbol": "GEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eu.mainnet.xixoio.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://us.mainnet.xixoio.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://asia.mainnet.xixoio.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.xixoio.com/",
+  "aliases": [
+    "GEN"
+  ]
+}

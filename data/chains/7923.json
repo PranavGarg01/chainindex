@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Dot Blox",
+  "slug": "dot-blox",
+  "chainId": 7923,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dot Blox",
+    "symbol": "DTBX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dotblox.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.dotblox.io"
+    }
+  ],
+  "website": "https://explorer.dotblox.io",
+  "aliases": [
+    "DTBX"
+  ]
+}

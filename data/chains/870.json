@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Autonomys",
+  "slug": "autonomys",
+  "chainId": 870,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AI3",
+    "symbol": "AI3",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://auto-evm.mainnet.autonomys.xyz/ws",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.autonomys.xyz",
+  "aliases": [
+    "autonomys-mainnet",
+    "AMN"
+  ]
+}

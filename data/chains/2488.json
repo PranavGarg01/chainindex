@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NOW Chain",
+  "slug": "now-chain",
+  "chainId": 2488,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NOW Coin",
+    "symbol": "NOW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nowscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NOW Scan",
+      "url": "https://nowscan.io"
+    }
+  ],
+  "website": "https://nowchain.co",
+  "aliases": [
+    "NOW",
+    "now"
+  ]
+}

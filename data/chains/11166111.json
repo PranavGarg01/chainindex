@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "R0AR Testnet",
+  "slug": "r0ar-testnet",
+  "chainId": 11166111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rpc-r0ar.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "R0ARscan (testnet)",
+      "url": "https://testnet.r0arscan.io"
+    }
+  ],
+  "website": "https://r0ar.io",
+  "aliases": [
+    "R0AR",
+    "r0art"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Matchain Testnet",
+  "slug": "matchain-testnet",
+  "chainId": 699,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.matchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Matchscan Testnet",
+      "url": "https://testnet.matchscan.io"
+    }
+  ],
+  "website": "https://www.matchain.io",
+  "aliases": [
+    "Matchain",
+    "tMatchain"
+  ]
+}

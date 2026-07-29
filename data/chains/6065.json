@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tres Testnet",
+  "slug": "tres-testnet",
+  "chainId": 6065,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TRES",
+    "symbol": "TRES",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-test.tresleches.finance",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "treslechesexplorer",
+      "url": "https://explorer-test.tresleches.finance"
+    }
+  ],
+  "website": "https://treschain.com",
+  "aliases": [
+    "TresLeches",
+    "TRESTEST"
+  ]
+}

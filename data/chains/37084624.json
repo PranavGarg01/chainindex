@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SKALE Nebula Hub Testnet",
+  "slug": "skale-nebula-hub-testnet",
+  "chainId": 37084624,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.skalenodes.com/v1/lanky-ill-funny-testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://lanky-ill-funny-testnet.explorer.testnet.skalenodes.com"
+    }
+  ],
+  "website": "https://nebulachain.io/",
+  "aliases": [
+    "lanky-ill-funny-testnet",
+    "nebula-testnet"
+  ]
+}

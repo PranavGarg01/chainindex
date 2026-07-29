@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GIL Testnet",
+  "slug": "gil-testnet",
+  "chainId": 1452,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GANG",
+    "symbol": "GANG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.giltestnet.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GIL Explorer",
+      "url": "https://explorer.giltestnet.com"
+    }
+  ],
+  "website": "https://gaussgang.com/",
+  "aliases": [
+    "GIL",
+    "gil"
+  ]
+}

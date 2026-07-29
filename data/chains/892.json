@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Advance Blockchain",
+  "slug": "advance-blockchain",
+  "chainId": 892,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "White Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.advanceblockchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.advanceblockchain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "advanceblockchainexplorer",
+      "url": "https://explorer.advanceblockchain.io/"
+    }
+  ],
+  "website": "https://advanceblockchain.io",
+  "aliases": [
+    "ABC",
+    "wbtc"
+  ]
+}

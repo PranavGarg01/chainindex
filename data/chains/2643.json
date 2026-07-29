@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Notes Network",
+  "slug": "notes-network",
+  "chainId": 2643,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kto",
+    "symbol": "KTO",
+    "decimals": 11
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.noschain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NosScan",
+      "url": "https://nosscan.noschain.org"
+    }
+  ],
+  "website": "https://note.bet",
+  "aliases": [
+    "NOTES",
+    "kto"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Superposition Testnet",
+  "slug": "superposition-testnet",
+  "chainId": 98985,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SPN",
+    "symbol": "SPN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.superposition.so",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Superposition Explorer",
+      "url": "https://testnet-explorer.superposition.so"
+    }
+  ],
+  "website": "https://superposition.so",
+  "aliases": [
+    "SPN",
+    "superposition-testnet",
+    "Sperposition Testnet"
+  ]
+}

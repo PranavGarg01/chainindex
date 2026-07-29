@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Ten Testnet",
+  "slug": "ten-testnet",
+  "chainId": 443,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.ten.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ten Sepolia Rollup Explorer",
+      "url": "https://tenscan.io"
+    }
+  ],
+  "website": "https://ten.xyz",
+  "aliases": [
+    "ETH",
+    "ten-testnet",
+    "Ten Sepolia Rollup Testnet"
+  ]
+}

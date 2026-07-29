@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Gemuchain Testnet",
+  "slug": "gemuchain-testnet",
+  "chainId": 1903648807,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gemuchain",
+    "symbol": "GEMU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gemutest-rpc.gemuchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gemuchain Explorer (Blockscout)",
+      "url": "https://gemutest-explorer.gemuchain.io"
+    }
+  ],
+  "website": "https://gemuchain.io/",
+  "aliases": [
+    "Gemuchain"
+  ]
+}

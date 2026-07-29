@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "MAZZE Testnet",
+  "slug": "mazze-testnet",
+  "chainId": 199991,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAZZE Testnet",
+    "symbol": "MAZZE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.mazze.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MAZZE Testnet Explorer",
+      "url": "https://mazzescan.io"
+    }
+  ],
+  "website": "https://mazze.io/",
+  "aliases": [
+    "MAZZE"
+  ]
+}

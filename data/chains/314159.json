@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Filecoin - Calibration testnet",
+  "slug": "filecoin-calibration-testnet",
+  "chainId": 314159,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "testnet filecoin",
+    "symbol": "tFIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://filecoin-calibration.chainup.net/rpc/v1",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.calibration.node.glif.io/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/filecoin_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://filecoin-calibration.chainstacklabs.com/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://calibration.filfox.info/rpc/v1",
+      "isRecommended": false
+    },
+    {
+      "url": "https://filecoin-calibration.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Filscan - Calibration",
+      "url": "https://calibration.filscan.io"
+    },
+    {
+      "name": "Filscout - Calibration",
+      "url": "https://calibration.filscout.com/en"
+    },
+    {
+      "name": "Filfox - Calibration",
+      "url": "https://calibration.filfox.info"
+    },
+    {
+      "name": "Glif Explorer - Calibration",
+      "url": "https://explorer.glif.io/?network=calibration"
+    },
+    {
+      "name": "Beryx",
+      "url": "https://beryx.zondax.ch"
+    }
+  ],
+  "website": "https://filecoin.io",
+  "aliases": [
+    "FIL",
+    "filecoin-calibration"
+  ]
+}

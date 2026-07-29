@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Asset Chain",
+  "slug": "asset-chain",
+  "chainId": 42420,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Real World Asset",
+    "symbol": "RWA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.assetchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://eth.nodebridge.xyz/assetchain/exec/b2da3d33-5708-4f61-8d1e-2c677124c35a",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Asset Chain Explorer",
+      "url": "https://scan.assetchain.org"
+    }
+  ],
+  "website": "https://docs.assetchain.org",
+  "aliases": [
+    "assetchain"
+  ]
+}

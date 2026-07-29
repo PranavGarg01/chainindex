@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethpar",
+  "slug": "ethpar",
+  "chainId": 1727,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethpar",
+    "symbol": "ETP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc01.ethpar.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ethpar Mainnet Explorer",
+      "url": "https://dora.ethpar.net"
+    }
+  ],
+  "website": "https://ethpar.com",
+  "aliases": [
+    "ETP"
+  ]
+}

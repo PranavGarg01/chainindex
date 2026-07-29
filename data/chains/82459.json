@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Smart Layer Network Testnet",
+  "slug": "smart-layer-network-testnet",
+  "chainId": 82459,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Service Unit Token",
+    "symbol": "SU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.test.smartlayer.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SLN Testnet Explorer",
+      "url": "https://explorer.test.smartlayer.network"
+    }
+  ],
+  "website": "https://www.smartlayer.network/",
+  "aliases": [
+    "SLN",
+    "tSLN"
+  ]
+}

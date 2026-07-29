@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lux",
+  "slug": "lux",
+  "chainId": 96369,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lux",
+    "symbol": "LUX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.lux.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lux Network Explorer",
+      "url": "https://explore.lux.network"
+    },
+    {
+      "name": "Lux Network Explorer",
+      "url": "https://explore.lux-test.network"
+    }
+  ],
+  "website": "https://lux.network"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitfinity Network",
+  "slug": "bitfinity-network",
+  "chainId": 355110,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitfinity Token",
+    "symbol": "BTF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.bitfinity.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitfinity Mainnet Block Explorer",
+      "url": "https://explorer.mainnet.bitfinity.network"
+    }
+  ],
+  "website": "https://bitfinity.network",
+  "aliases": [
+    "BTF",
+    "bitfinity-mainnet"
+  ]
+}

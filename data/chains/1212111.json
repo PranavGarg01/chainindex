@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "1Money Sidechain Testnet",
+  "slug": "1money-sidechain-testnet",
+  "chainId": 1212111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sidechain.testnet.1money.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.sidechain.testnet.1money.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.sidechain.testnet.1money.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.sidechain.testnet.1money.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.1moneynetwork.com",
+  "aliases": [
+    "1MoneySidechain",
+    "1money-sc-testnet"
+  ]
+}

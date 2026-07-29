@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "KiiChain",
+  "slug": "kiichain",
+  "chainId": 1783,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kii",
+    "symbol": "KII",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.kiivalidator.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KiiExplorer",
+      "url": "https://explorer.kiichain.io"
+    }
+  ],
+  "website": "https://kiichain.io",
+  "aliases": [
+    "KII"
+  ]
+}

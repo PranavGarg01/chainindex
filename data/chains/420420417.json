@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Polkadot Testnet",
+  "slug": "polkadot-testnet",
+  "chainId": 420420417,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PAS",
+    "symbol": "PAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://services.polkadothub-rpc.com/testnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://eth-rpc.testnet.polkadot.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-rpc-testnet.polkadot.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout-testnet.polkadot.io"
+    },
+    {
+      "name": "routescan",
+      "url": "https://polkadot.testnet.routescan.io"
+    }
+  ],
+  "website": "https://polkadot.com",
+  "aliases": [
+    "PAS",
+    "pas"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Gnodi",
+  "slug": "gnodi",
+  "chainId": 46634,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gnodi",
+    "symbol": "GNOD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.rpc.gnodi.zone",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "gnodiscan",
+      "url": "https://evm.gnodiscanner.com"
+    }
+  ],
+  "website": "https://gnodi.info"
+}

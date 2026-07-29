@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dinari Financial Network",
+  "slug": "dinari-financial-network",
+  "chainId": 202110,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dinari Gas",
+    "symbol": "DGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/dinari/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dinari Ledger",
+      "url": "https://subnets.avax.network/dinari"
+    }
+  ],
+  "website": "https://dinari.com",
+  "aliases": [
+    "DFN",
+    "dfn"
+  ]
+}

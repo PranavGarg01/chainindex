@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Aura",
+  "slug": "aura",
+  "chainId": 6322,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonrpc.aura.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Aurascan Explorer",
+      "url": "https://aurascan.io"
+    }
+  ],
+  "website": "https://aura.network"
+}

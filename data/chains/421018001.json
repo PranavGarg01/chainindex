@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Infinite Improbability Drive Testnet",
+  "slug": "infinite-improbability-drive-testnet",
+  "chainId": 421018001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TestImprobability",
+    "symbol": "TEST42",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc-testnet.infinitedrive.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Infinite Drive Explorer - Testnet",
+      "url": "https://testnet-scan.infinitedrive.xyz"
+    }
+  ],
+  "website": "https://infinitedrive.xyz",
+  "aliases": [
+    "INFINITE",
+    "infinite-testnet"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "name": "Mammoth",
+  "slug": "mammoth",
+  "chainId": 8898,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mammoth Token",
+    "symbol": "MMT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed.mmtscan.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dataseed1.mmtscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataseed2.mmtscan.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mmtscan",
+      "url": "https://mmtscan.io"
+    }
+  ],
+  "website": "https://mmtchain.io/",
+  "aliases": [
+    "MMT",
+    "mmt",
+    "Mammoth Chain"
+  ]
+}

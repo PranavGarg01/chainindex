@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PandoProject",
+  "slug": "pandoproject",
+  "chainId": 3601,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "pando-token",
+    "symbol": "PTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc-api.pandoproject.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pando Mainnet Explorer",
+      "url": "https://explorer.pandoproject.org"
+    }
+  ],
+  "website": "https://www.pandoproject.org/",
+  "aliases": [
+    "pando-mainnet"
+  ]
+}

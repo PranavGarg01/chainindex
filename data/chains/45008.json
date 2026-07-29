@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo GLD1-Chain",
+  "slug": "juneo-gld1-chain",
+  "chainId": 45008,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GLD1",
+    "symbol": "GLD1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/GLD1/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/8"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "GLD1"
+  ]
+}

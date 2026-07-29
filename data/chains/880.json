@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ambros Chain",
+  "slug": "ambros-chain",
+  "chainId": 880,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AMBROS",
+    "symbol": "AMBROS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.ambros.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ambros Chain Explorer",
+      "url": "https://ambrosscan.com"
+    }
+  ],
+  "website": "https://ambros.network",
+  "aliases": [
+    "ambroschain",
+    "ambros"
+  ]
+}

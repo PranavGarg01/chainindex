@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ReDeFi Layer 2",
+  "slug": "redefi-layer-2",
+  "chainId": 1899,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RED",
+    "symbol": "RED",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://layer2.redefi.world",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ReDeFi Scan",
+      "url": "https://scanlayer2.redefi.world"
+    }
+  ],
+  "website": "https://redefi.world",
+  "aliases": [
+    "ReDeFi",
+    "red"
+  ]
+}

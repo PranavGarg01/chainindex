@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Rufus",
+  "slug": "rufus",
+  "chainId": 2420,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dogelon",
+    "symbol": "ELON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rufus.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rufus Caldera Explorer",
+      "url": "https://rufus.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://rufus.hub.caldera.xyz"
+}

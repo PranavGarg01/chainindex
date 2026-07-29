@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Moonbase Alpha",
+  "slug": "moonbase-alpha",
+  "chainId": 1287,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dev",
+    "symbol": "DEV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.api.moonbase.moonbeam.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://moonbase.unitedbloc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbeam-alpha.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbase-alpha.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbase-alpha.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonbase-rpc.dwellir.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "moonscan",
+      "url": "https://moonbase.moonscan.io"
+    }
+  ],
+  "website": "https://docs.moonbeam.network/learn/platform/networks/moonbase/",
+  "aliases": [
+    "MOON",
+    "mbase"
+  ]
+}

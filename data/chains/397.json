@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "NEAR Protocol",
+  "slug": "near-protocol",
+  "chainId": 397,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://near.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://near-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-rpc.mainnet.near.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NEAR Explorer",
+      "url": "https://eth-explorer.near.org"
+    }
+  ],
+  "website": "https://near.org",
+  "aliases": [
+    "NEAR",
+    "near"
+  ]
+}

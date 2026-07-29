@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "L2 Protocol",
+  "slug": "l2-protocol",
+  "chainId": 12216,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "L2P",
+    "symbol": "L2P",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.l2protocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "L2 Protocol explorer",
+      "url": "https://l2pscan.com"
+    }
+  ],
+  "website": "https://l2protocol.com",
+  "aliases": [
+    "L2P",
+    "l2p"
+  ]
+}

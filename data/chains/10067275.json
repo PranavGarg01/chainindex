@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Plian Testnet Subchain 1",
+  "slug": "plian-testnet-subchain-1",
+  "chainId": 10067275,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plian Token",
+    "symbol": "TPI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.plian.io/child_test",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "piscan",
+      "url": "https://testnet.plian.org/child_test"
+    }
+  ],
+  "website": "https://plian.org/",
+  "aliases": [
+    "Plian",
+    "plian-testnet-l2"
+  ]
+}

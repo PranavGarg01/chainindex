@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Igra Testnet",
+  "slug": "igra-testnet",
+  "chainId": 38836,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IKas",
+    "symbol": "IKAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://galleon-testnet.igralabs.com:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Igra Testnet Explorer",
+      "url": "https://explorer.galleon-testnet.igralabs.com"
+    }
+  ],
+  "website": "https://igralabs.com",
+  "aliases": [
+    "Igra",
+    "igra-testnet"
+  ]
+}

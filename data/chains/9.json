@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Quai",
+  "slug": "quai",
+  "chainId": 9,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quai",
+    "symbol": "QUAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.quai.network/cyprus1",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Quaiscan",
+      "url": "https://quaiscan.io"
+    }
+  ],
+  "website": "https://qu.ai"
+}

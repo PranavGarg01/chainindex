@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bloom Genesis Testnet",
+  "slug": "bloom-genesis-testnet",
+  "chainId": 323213,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bloom",
+    "symbol": "BGBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.bloomgenesis.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bloom Genesis Testnet",
+      "url": "https://testnet.bloomgenesis.com"
+    }
+  ],
+  "website": "https://www.bloomgenesis.com",
+  "aliases": [
+    "Bloom",
+    "BGBC-Testnet"
+  ]
+}

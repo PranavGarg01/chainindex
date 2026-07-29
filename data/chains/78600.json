@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vanguard",
+  "slug": "vanguard",
+  "chainId": 78600,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vanguard Vanry",
+    "symbol": "VANRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-vanguard.vanarchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vanguard Explorer",
+      "url": "https://explorer-vanguard.vanarchain.com"
+    }
+  ],
+  "website": "https://vanarchain.com",
+  "aliases": [
+    "VANAR",
+    "Vanar Testnet Vanguard"
+  ]
+}

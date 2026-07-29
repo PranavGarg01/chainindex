@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Evnode Testnet",
+  "slug": "evnode-testnet",
+  "chainId": 4786,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Evnode Testnet Native Token",
+    "symbol": "tEVO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.evnode.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evnode Explorer Testnet",
+      "url": "https://testnet.evscan.net"
+    }
+  ],
+  "website": "https://evnode.org",
+  "aliases": [
+    "Evnode",
+    "evnode"
+  ]
+}

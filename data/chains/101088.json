@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Xitcoin",
+  "slug": "xitcoin",
+  "chainId": 101088,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Xitcoin",
+    "symbol": "$XTC",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://network.xitcoin.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://docs.xitcoin.org/"
+}

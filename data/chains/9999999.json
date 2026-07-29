@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Fluence",
+  "slug": "fluence",
+  "chainId": 9999999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FLT",
+    "symbol": "FLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.fluence.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.mainnet.fluence.dev"
+    }
+  ],
+  "website": "https://fluence.network/"
+}

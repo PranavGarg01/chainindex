@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Shrapnel Subnet",
+  "slug": "shrapnel-subnet",
+  "chainId": 2044,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shrapnel Gas Token",
+    "symbol": "SHRAPG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/shrapnel/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.shrapnel.com/",
+  "aliases": [
+    "shrapnel",
+    "Shrapnel"
+  ]
+}

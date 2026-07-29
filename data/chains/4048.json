@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GANchain L1",
+  "slug": "ganchain-l1",
+  "chainId": 4048,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GPUnet",
+    "symbol": "GPU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gpu.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ganscan",
+      "url": "https://ganscan.gpu.net"
+    }
+  ],
+  "website": "https://gpu.net",
+  "aliases": [
+    "GAN",
+    "gan"
+  ]
+}

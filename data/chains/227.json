@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Prom",
+  "slug": "prom",
+  "chainId": 227,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Prom",
+    "symbol": "PROM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://prom-rpc.eu-north-2.gateway.fm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://prom-blockscout.eu-north-2.gateway.fm"
+    }
+  ],
+  "website": "https://prom.io"
+}

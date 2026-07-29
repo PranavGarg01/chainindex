@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "ENI",
+  "slug": "eni",
+  "chainId": 173,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EGAS",
+    "symbol": "EGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.eniac.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.eniac.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.eniac.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://enirpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jp.enirpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jp.eniacrpc.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ENI Explorer",
+      "url": "https://scan.eniac.network"
+    }
+  ],
+  "website": "https://eniac.network/"
+}

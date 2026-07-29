@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AERE Network",
+  "slug": "aere-network",
+  "chainId": 2800,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AERE",
+    "symbol": "AERE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.aere.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AERE Explorer",
+      "url": "https://explorer.aere.network"
+    }
+  ],
+  "website": "https://aere.network",
+  "aliases": [
+    "AERE",
+    "aere"
+  ]
+}

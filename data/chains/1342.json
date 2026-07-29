@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BIE",
+  "slug": "bie",
+  "chainId": 1342,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BIE",
+    "symbol": "BIE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bie.ai",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.bie.ai",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BIE Explorer",
+      "url": "https://app.bie.ai/explorer"
+    }
+  ],
+  "website": "https://bie.ai"
+}

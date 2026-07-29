@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Proton Testnet",
+  "slug": "proton-testnet",
+  "chainId": 110,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Proton",
+    "symbol": "XPR",
+    "decimals": 4
+  },
+  "rpc": [
+    {
+      "url": "https://protontestnet.greymass.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://protonchain.com",
+  "aliases": [
+    "XPR",
+    "xpr"
+  ]
+}

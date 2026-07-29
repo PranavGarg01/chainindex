@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "OpenChain",
+  "slug": "openchain",
+  "chainId": 474142,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OpenCoin",
+    "symbol": "OPC",
+    "decimals": 10
+  },
+  "rpc": [
+    {
+      "url": "https://baas-rpc.luniverse.io:18545?lChainId=1641349324562974539",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SIDE SCAN",
+      "url": "https://sidescan.luniverse.io/1641349324562974539"
+    }
+  ],
+  "website": "https://www.openchain.live",
+  "aliases": [
+    "oc"
+  ]
+}

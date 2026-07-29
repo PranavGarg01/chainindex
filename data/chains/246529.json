@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ARTIS sigma1",
+  "slug": "artis-sigma1",
+  "chainId": 246529,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ARTIS sigma1 Ether",
+    "symbol": "ATS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sigma1.artis.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://artis.eco",
+  "aliases": [
+    "ARTIS",
+    "ats"
+  ]
+}

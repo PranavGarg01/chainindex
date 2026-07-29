@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Quantum Chain Testnet",
+  "slug": "quantum-chain-testnet",
+  "chainId": 12890,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quantum Chain",
+    "symbol": "tQNET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.quantumscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Quantum Scan Testnet",
+      "url": "https://testnet.quantumscan.org"
+    }
+  ],
+  "website": "https://quantumnetwork.gg",
+  "aliases": [
+    "tQNET",
+    "tqnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "eGold Chain",
+  "slug": "egold-chain",
+  "chainId": 11451,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aurum",
+    "symbol": "XAU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.egoldchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "eGold Chain Block Explorer",
+      "url": "https://egoldscan.io"
+    }
+  ],
+  "website": "https://www.egoldchain.com",
+  "aliases": [
+    "EGC",
+    "egoldchain"
+  ]
+}

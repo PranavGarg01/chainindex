@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Marschain",
+  "slug": "marschain",
+  "chainId": 890,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mars",
+    "symbol": "MARS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://marsdata.tuibi.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mars Explorer",
+      "url": "https://explorer.marschain.net"
+    }
+  ],
+  "website": "https://marschain.net",
+  "aliases": [
+    "MARS",
+    "mars"
+  ]
+}

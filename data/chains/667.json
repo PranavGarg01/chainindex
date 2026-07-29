@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "LAOS Arrakis",
+  "slug": "laos-arrakis",
+  "chainId": 667,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LAOS",
+    "symbol": "LAOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://arrakis.gorengine.com/own",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://arrakis.gorengine.com"
+    }
+  ],
+  "website": "https://www.laosfoundation.io/",
+  "aliases": [
+    "LAOS",
+    "laos",
+    "LAOS Testnet Arrakis"
+  ]
+}

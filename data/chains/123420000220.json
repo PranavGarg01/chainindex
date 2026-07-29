@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Fluence Stage",
+  "slug": "fluence-stage",
+  "chainId": 123420000220,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tFLT",
+    "symbol": "tFLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.stage.fluence.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.stage.fluence.dev"
+    }
+  ],
+  "website": "https://fluence.network/",
+  "aliases": [
+    "Fluence Stage (Testnet)",
+    "fluence-stage"
+  ]
+}

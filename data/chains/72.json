@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "DxChain Testnet",
+  "slug": "dxchain-testnet",
+  "chainId": 72,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DxChain Testnet",
+    "symbol": "DX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-http.dxchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://testnet.dxscan.io/",
+  "aliases": [
+    "DxChain",
+    "dxc"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Whitechain Sepolia",
+  "slug": "whitechain-sepolia",
+  "chainId": 1874,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WBT",
+    "symbol": "WBT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.whitechain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Whitechain Testnet Explorer",
+      "url": "https://explorer.testnet.whitechain.io"
+    }
+  ],
+  "website": "https://docs.whitechain.io",
+  "aliases": [
+    "WCH",
+    "WCH Sepolia"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BMC Testnet",
+  "slug": "bmc-testnet",
+  "chainId": 189,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTM",
+    "symbol": "BTM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.bmcchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockmeta",
+      "url": "https://bmctestnet.blockmeta.com"
+    }
+  ],
+  "website": "https://bmc.bytom.io/",
+  "aliases": [
+    "BMC",
+    "BMCT"
+  ]
+}

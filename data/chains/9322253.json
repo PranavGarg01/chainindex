@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Milvine",
+  "slug": "milvine",
+  "chainId": 9322253,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gas",
+    "symbol": "GAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xcap-milvine.relay.xcap.network/zj5l55ftsgi027kz4nf14vs8d89inego/rpc1",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://xcap-milvine.explorer.xcap.network"
+    }
+  ],
+  "website": "https://xcap.network/",
+  "aliases": [
+    "XCAP",
+    "milv",
+    "XCAP Testnet Milvine"
+  ]
+}

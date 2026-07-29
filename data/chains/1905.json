@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "KWALA",
+  "slug": "kwala",
+  "chainId": 1905,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KWALA",
+    "symbol": "KWALA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-ohio.kwala.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://kwala.network"
+}

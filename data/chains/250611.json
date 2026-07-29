@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "StreamChain",
+  "slug": "streamchain",
+  "chainId": 250611,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "StreamChain",
+    "symbol": "STC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.strmchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "StreamChain Explorer",
+      "url": "https://explorer.strmchain.com"
+    }
+  ],
+  "website": "https://strmchain.com",
+  "aliases": [
+    "STC",
+    "stc"
+  ]
+}

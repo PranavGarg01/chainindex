@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitcoin EVM",
+  "slug": "bitcoin-evm",
+  "chainId": 2203,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://connect.bitcoinevm.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitcoin EVM Explorer",
+      "url": "https://explorer.bitcoinevm.com"
+    }
+  ],
+  "website": "https://bitcoinevm.com",
+  "aliases": [
+    "BTC"
+  ]
+}

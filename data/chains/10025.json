@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "AEON Chain",
+  "slug": "aeon-chain",
+  "chainId": 10025,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AEON Token",
+    "symbol": "AEON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.aeon.xyz/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AEON Explorer",
+      "url": "https://scan.aeon.xyz"
+    }
+  ],
+  "aliases": [
+    "aeon"
+  ]
+}

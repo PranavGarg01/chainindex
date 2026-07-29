@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "name": "Fantom Testnet",
+  "slug": "fantom-testnet",
+  "chainId": 4002,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.fantom.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/fantom/testnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-testnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-testnet-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-testnet.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-testnet.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-testnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fantom-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ftmscan",
+      "url": "https://testnet.ftmscan.com"
+    }
+  ],
+  "website": "https://docs.fantom.foundation/quick-start/short-guide#fantom-testnet",
+  "aliases": [
+    "FTM",
+    "tftm"
+  ]
+}

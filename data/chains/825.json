@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Daily Network Testnet",
+  "slug": "daily-network-testnet",
+  "chainId": 825,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Daily",
+    "symbol": "DLY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.dailycrypto.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-2.testnet.dailycrypto.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-3.testnet.dailycrypto.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Daily Testnet Explorer",
+      "url": "https://explorer.testnet.dailycrypto.net"
+    }
+  ],
+  "website": "https://dailycrypto.net",
+  "aliases": [
+    "Daily Network",
+    "tdly"
+  ]
+}

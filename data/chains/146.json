@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "name": "Sonic",
+  "slug": "sonic",
+  "chainId": 146,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sonic",
+    "symbol": "S",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.soniclabs.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://sonic.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/sonic_mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sonic.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sonic.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sonic-json-rpc.stakely.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sonic.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-sonic-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sonic-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/sonic",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sonic-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sonic-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://sonicscan.org"
+    },
+    {
+      "name": "sonic",
+      "url": "https://explorer.soniclabs.com"
+    }
+  ],
+  "website": "https://soniclabs.com"
+}

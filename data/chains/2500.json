@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CChain",
+  "slug": "cchain",
+  "chainId": 2500,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CCC",
+    "symbol": "CCC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cchain.cc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "cchainscan",
+      "url": "https://cchainscan.cc"
+    }
+  ],
+  "website": "https://cchain.cc",
+  "aliases": [
+    "ccc"
+  ]
+}

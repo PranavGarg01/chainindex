@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "ARK",
+  "slug": "ark",
+  "chainId": 11811,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "ARK Token",
+    "symbol": "ARK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ark.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ARK Mainnet Explorer",
+      "url": "https://arkscan.io"
+    }
+  ],
+  "website": "https://ark.io"
+}

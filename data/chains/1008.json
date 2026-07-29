@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Eurus",
+  "slug": "eurus",
+  "chainId": 1008,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eurus",
+    "symbol": "EUN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.eurus.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "eurusexplorer",
+      "url": "https://explorer.eurus.network"
+    }
+  ],
+  "website": "https://eurus.network",
+  "aliases": [
+    "EUN",
+    "eun"
+  ]
+}

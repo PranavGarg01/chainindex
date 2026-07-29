@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Nollie Skatechain Testnet",
+  "slug": "nollie-skatechain-testnet",
+  "chainId": 5051,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nollie-rpc.skatechain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nollie Skate Chain Testnet Explorer",
+      "url": "https://nolliescan.skatechain.org"
+    }
+  ],
+  "aliases": [
+    "Skatechain",
+    "nollie-testnet"
+  ]
+}

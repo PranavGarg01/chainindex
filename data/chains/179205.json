@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dinari Financial Network Paper",
+  "slug": "dinari-financial-network-paper",
+  "chainId": 179205,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dinari Gas",
+    "symbol": "DGAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/dfnpaper/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dinari Paper Ledger",
+      "url": "https://subnets-test.avax.network/dfnpaper"
+    }
+  ],
+  "website": "https://dinari.com",
+  "aliases": [
+    "DFNP",
+    "dpn"
+  ]
+}

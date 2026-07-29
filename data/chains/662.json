@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "AmaxSmartchain",
+  "slug": "amaxsmartchain",
+  "chainId": 662,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "amax",
+    "symbol": "AMAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.amaxchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Amaxsmartchain explorer",
+      "url": "https://scan.amaxchain.io"
+    }
+  ],
+  "website": "https://amaxchain.io"
+}

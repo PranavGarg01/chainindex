@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "T-EKTA",
+  "slug": "t-ekta",
+  "chainId": 1004,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "T-EKTA",
+    "symbol": "T-EKTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test.ekta.io:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "test-ektascan",
+      "url": "https://test.ektascan.io"
+    }
+  ],
+  "website": "https://www.ekta.io",
+  "aliases": [
+    "EKTA Testnet T-EKTA"
+  ]
+}

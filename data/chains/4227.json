@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Hashfire Testnet",
+  "slug": "hashfire-testnet",
+  "chainId": 4227,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HASHD",
+    "symbol": "HASHD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/hashfire/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Avalanche L1 Explorer",
+      "url": "https://subnets-test.avax.network/hashfire/"
+    }
+  ],
+  "website": "https://hashfire.xyz/",
+  "aliases": [
+    "hashfire"
+  ]
+}

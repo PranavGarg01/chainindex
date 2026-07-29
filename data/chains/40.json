@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Telos EVM",
+  "slug": "telos-evm",
+  "chainId": 40,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.telos.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/telos/evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://telos.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/telos",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/telos",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "teloscan",
+      "url": "https://teloscan.io"
+    }
+  ],
+  "website": "https://telos.net",
+  "aliases": [
+    "TLOS",
+    "TelosEVM"
+  ]
+}

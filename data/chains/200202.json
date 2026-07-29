@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Milkomeda A1 Testnet",
+  "slug": "milkomeda-a1-testnet",
+  "chainId": 200202,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "milkTAlgo",
+    "symbol": "mTAlgo",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-devnet-algorand-rollup.a1.milkomeda.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer-devnet-algorand-rollup.a1.milkomeda.com"
+    }
+  ],
+  "website": "https://milkomeda.com",
+  "aliases": [
+    "milkTAlgo"
+  ]
+}

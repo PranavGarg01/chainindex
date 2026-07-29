@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Orange Chain",
+  "slug": "orange-chain",
+  "chainId": 61022,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.orangechain.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://hk-rpc.orangechain.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://scan.orangechain.xyz"
+    }
+  ],
+  "website": "https://orangechain.xyz",
+  "aliases": [
+    "Orange-Chain-Mainnet",
+    "Orange Chain Mainnet"
+  ]
+}

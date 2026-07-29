@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CamDL",
+  "slug": "camdl",
+  "chainId": 95,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CADL",
+    "symbol": "CADL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.camdl.gov.kh",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CamDL Block Explorer",
+      "url": "https://explorer.camdl.gov.kh"
+    }
+  ],
+  "website": "https://camdl.gov.kh/",
+  "aliases": [
+    "CADL"
+  ]
+}

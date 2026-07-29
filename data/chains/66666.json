@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitasset Chain Testnet Ploutos",
+  "slug": "bitasset-chain-testnet-ploutos",
+  "chainId": 66666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitasset Chain Native Token",
+    "symbol": "BAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ploutos-rpc.bitassetchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bacscan-ploutos",
+      "url": "https://ploutos.bacscan.net"
+    }
+  ],
+  "website": "https://bitassetchain.io",
+  "aliases": [
+    "BAC",
+    "bac-ploutos"
+  ]
+}

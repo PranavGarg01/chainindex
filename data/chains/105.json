@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Web3Games Devnet",
+  "slug": "web3games-devnet",
+  "chainId": 105,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Web3Games",
+    "symbol": "W3G",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet.web3games.org/evm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Web3Games Explorer",
+      "url": "https://explorer-devnet.web3games.org"
+    }
+  ],
+  "website": "https://web3games.org/",
+  "aliases": [
+    "Web3Games",
+    "dw3g"
+  ]
+}

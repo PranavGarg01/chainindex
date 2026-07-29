@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Roburna Testnet",
+  "slug": "roburna-testnet",
+  "chainId": 159,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Roburna",
+    "symbol": "RBAT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://preseed-testnet-1.roburna.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rbascan Testnet Explorer",
+      "url": "https://testnet.rbascan.com"
+    }
+  ],
+  "website": "https://www.roburna.com/",
+  "aliases": [
+    "RBAT",
+    "rbat"
+  ]
+}

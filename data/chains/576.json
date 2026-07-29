@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mawari Testnet",
+  "slug": "mawari-testnet",
+  "chainId": 576,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mawari",
+    "symbol": "MAWARI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.mawari.net/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.mawari.net/"
+    }
+  ],
+  "website": "https://testnet.mawari.net",
+  "aliases": [
+    "MAWARI",
+    "mawari"
+  ]
+}

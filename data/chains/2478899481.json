@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Accumulate Kermit",
+  "slug": "accumulate-kermit",
+  "chainId": 2478899481,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ACME",
+    "symbol": "ACME",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://kermit.accumulatenetwork.io/eth",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "accumulate-explorer-kermit",
+      "url": "https://kermit.explorer.accumulatenetwork.io"
+    }
+  ],
+  "website": "https://accumulate.org",
+  "aliases": [
+    "Accumulate",
+    "Kermit",
+    "Accumulate Kermit Testnet"
+  ]
+}

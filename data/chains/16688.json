@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "IRIShub Testnet",
+  "slug": "irishub-testnet",
+  "chainId": 16688,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eris",
+    "symbol": "ERIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmrpc.nyancat.irisnet.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IRISHub Testnet Cosmos Explorer (IOBScan)",
+      "url": "https://nyancat.iobscan.io"
+    }
+  ],
+  "website": "https://www.irisnet.org",
+  "aliases": [
+    "IRIShub",
+    "nyancat"
+  ]
+}

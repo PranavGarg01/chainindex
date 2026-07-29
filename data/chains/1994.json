@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Ekta",
+  "slug": "ekta",
+  "chainId": 1994,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EKTA",
+    "symbol": "EKTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://main.ekta.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ektascan",
+      "url": "https://ektascan.io"
+    }
+  ],
+  "website": "https://www.ekta.io"
+}

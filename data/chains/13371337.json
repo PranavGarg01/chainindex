@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "PepChain Churchill",
+  "slug": "pepchain-churchill",
+  "chainId": 13371337,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PepChain Churchill Ether",
+    "symbol": "TPEP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://churchill-rpc.pepchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://pepchain.io",
+  "aliases": [
+    "PEP",
+    "tpep"
+  ]
+}

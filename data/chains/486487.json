@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Gobbl Testnet",
+  "slug": "gobbl-testnet",
+  "chainId": 486487,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gobbl Token",
+    "symbol": "GOBBL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gobbl.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gobbl Testnet Explorer",
+      "url": "https://explorer.gobbl.io"
+    }
+  ],
+  "website": "https://www.gobbl.io/",
+  "aliases": [
+    "gbl-testnet"
+  ]
+}

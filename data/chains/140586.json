@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BEXChain",
+  "slug": "bexchain",
+  "chainId": 140586,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BEX",
+    "symbol": "BEX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bexchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BEXChain Scan",
+      "url": "https://scan.bexchain.com"
+    }
+  ],
+  "website": "https://bexchain.com",
+  "aliases": [
+    "BEX"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Reddio",
+  "slug": "reddio",
+  "chainId": 50342,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Reddio",
+    "symbol": "RDO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.reddio.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://reddio.cloud.blockscout.com"
+    }
+  ],
+  "website": "https://www.reddio.com",
+  "aliases": [
+    "ETH",
+    "Reddio mainnet L2 Rollup"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "OPN Chain Testnet",
+  "slug": "opn-chain-testnet",
+  "chainId": 984,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IOPN",
+    "symbol": "IOPN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.iopn.tech",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-rpc2.iopn.tech",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OPNScan Testnet",
+      "url": "https://testnet.iopn.tech"
+    }
+  ],
+  "website": "https://chain.iopn.io",
+  "aliases": [
+    "IOPN",
+    "iopn"
+  ]
+}

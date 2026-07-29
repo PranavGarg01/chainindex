@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "MetaFlux Devnet",
+  "slug": "metaflux-devnet",
+  "chainId": 114514,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MetaFlux",
+    "symbol": "MTF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet-gateway.mtf.exchange/evm",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://mtf.exchange",
+  "aliases": [
+    "MetaFluxEVM",
+    "mtf"
+  ]
+}

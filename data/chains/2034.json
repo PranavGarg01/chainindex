@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "FST Smart Chain",
+  "slug": "fst-smart-chain",
+  "chainId": 2034,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FST",
+    "symbol": "FST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.fenixst.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node2.fenixst.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3.fenixst.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node4.fenixst.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node5.fenixst.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FSTScan",
+      "url": "https://fstscan.fenixst.io"
+    }
+  ],
+  "aliases": [
+    "FST",
+    "fst"
+  ]
+}

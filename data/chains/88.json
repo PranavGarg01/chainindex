@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "name": "Viction",
+  "slug": "viction",
+  "chainId": 88,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Viction",
+    "symbol": "VIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nodeflare.app/vic/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://viction.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.viction.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://viction.xyz",
+  "aliases": [
+    "vic"
+  ]
+}

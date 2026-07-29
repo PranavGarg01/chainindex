@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SX Toronto Rollup",
+  "slug": "sx-toronto-rollup",
+  "chainId": 79479957,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SX Network",
+    "symbol": "SX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sx-rollup-testnet.t.raas.gelato.cloud",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SX Toronto L2 Explorer",
+      "url": "https://explorerl2.toronto.sx.technology"
+    }
+  ],
+  "website": "https://www.sx.technology",
+  "aliases": [
+    "SX",
+    "SXR-Testnet"
+  ]
+}

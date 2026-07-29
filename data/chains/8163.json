@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Steem Virtual Machine Testnet",
+  "slug": "steem-virtual-machine-testnet",
+  "chainId": 8163,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "STEEM",
+    "symbol": "STEEM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmrpc.blazescanner.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SVM Scan",
+      "url": "https://svmscan.blazeapps.org"
+    }
+  ],
+  "website": "https://svmscan.blazeapps.org",
+  "aliases": [
+    "SVM",
+    "svm-testnet"
+  ]
+}

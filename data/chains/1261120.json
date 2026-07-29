@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "name": "zKatana",
+  "slug": "zkatana",
+  "chainId": 1261120,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zkatana.gelato.digital",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.startale.com/zkatana",
+      "isRecommended": false
+    },
+    {
+      "url": "https://astar-zkatana.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout zKatana chain explorer",
+      "url": "https://zkatana.blockscout.com"
+    },
+    {
+      "name": "Startale zKatana chain explorer",
+      "url": "https://zkatana.explorer.startale.com"
+    }
+  ],
+  "website": "https://astar.network",
+  "aliases": [
+    "ETH",
+    "azktn",
+    "Astar zkEVM Testnet zKatana"
+  ]
+}

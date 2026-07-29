@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ChadChain",
+  "slug": "chadchain",
+  "chainId": 97912060,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "ChadChain",
+    "symbol": "CHAD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.chadchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://chadchain.org",
+  "aliases": [
+    "CHAD",
+    "chad"
+  ]
+}

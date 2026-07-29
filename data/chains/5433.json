@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Inertia Scan",
+  "slug": "inertia-scan",
+  "chainId": 5433,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Inertia",
+    "symbol": "IRTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.inertiascan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://inertiascan.com"
+    }
+  ],
+  "website": "https://inertiascan.com",
+  "aliases": [
+    "IRTA"
+  ]
+}

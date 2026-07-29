@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Evoke",
+  "slug": "evoke",
+  "chainId": 9395,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MTHN",
+    "symbol": "MTHN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.evokescan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evoke SmartChain Explorer",
+      "url": "https://explorer.evokescan.org"
+    }
+  ],
+  "website": "https://explorer.evokescan.org",
+  "aliases": [
+    "MTHN"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Combo Testnet",
+  "slug": "combo-testnet",
+  "chainId": 91715,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNB Chain Native Token",
+    "symbol": "tcBNB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc.combonetwork.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "combotrace explorer",
+      "url": "https://combotrace-testnet.nodereal.io"
+    }
+  ],
+  "website": "https://combonetwork.io",
+  "aliases": [
+    "Combo",
+    "combo-testnet"
+  ]
+}

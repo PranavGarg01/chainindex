@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ApeChain",
+  "slug": "apechain",
+  "chainId": 33139,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.apechain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://apechain.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ApeChain Explorer",
+      "url": "https://apescan.io"
+    }
+  ],
+  "website": "https://apechain.com"
+}

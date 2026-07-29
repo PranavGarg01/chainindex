@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tiltyard Mainnet Subnet",
+  "slug": "tiltyard-mainnet-subnet",
+  "chainId": 710420,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TILT",
+    "symbol": "TILT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/tiltyard/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TILTYARD Explorer",
+      "url": "https://subnets.avax.network/tiltyard"
+    }
+  ],
+  "website": "https://play.tiltyard.gg/",
+  "aliases": [
+    "TILTYARD",
+    "tiltyardmainnet"
+  ]
+}

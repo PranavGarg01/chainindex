@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Hedera Testnet",
+  "slug": "hedera-testnet",
+  "chainId": 296,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "hbar",
+    "symbol": "HBAR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://296.rpc.thirdweb.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet.hashio.io/api",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HashScan",
+      "url": "https://hashscan.io/testnet"
+    },
+    {
+      "name": "Arkhia Explorer",
+      "url": "https://explorer.arkhia.io"
+    },
+    {
+      "name": "DragonGlass",
+      "url": "https://app.dragonglass.me"
+    },
+    {
+      "name": "Hedera Explorer",
+      "url": "https://hederaexplorer.io"
+    },
+    {
+      "name": "Ledger Works Explore",
+      "url": "https://explore.lworks.io"
+    }
+  ],
+  "website": "https://hedera.com",
+  "aliases": [
+    "Hedera",
+    "hedera-testnet"
+  ]
+}

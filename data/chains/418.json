@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "LaTestnet",
+  "slug": "latestnet",
+  "chainId": 418,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test LaCoin",
+    "symbol": "TLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.lachain.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://lachain-testnet.rpc-nodes.cedalio.dev",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LaTestnet Explorer",
+      "url": "https://testexplorer.lachain.network"
+    }
+  ]
+}

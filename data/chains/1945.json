@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ONUS Chain Testnet",
+  "slug": "onus-chain-testnet",
+  "chainId": 1945,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONUS",
+    "symbol": "ONUS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.onuschain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Onus explorer testnet",
+      "url": "https://explorer-testnet.onuschain.io"
+    }
+  ],
+  "website": "https://onuschain.io",
+  "aliases": [
+    "onus",
+    "onus-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OMAChain Testnet",
+  "slug": "omachain-testnet",
+  "chainId": 66238,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OMA",
+    "symbol": "OMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.chain.oma3.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OMAChain Testnet Explorer",
+      "url": "https://explorer.testnet.chain.oma3.org/"
+    }
+  ],
+  "website": "https://www.oma3.org/",
+  "aliases": [
+    "OMAChain",
+    "omachain-testnet"
+  ]
+}

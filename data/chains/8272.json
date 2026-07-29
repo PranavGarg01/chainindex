@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Blockton Blockchain",
+  "slug": "blockton-blockchain",
+  "chainId": 8272,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BLOCKTON",
+    "symbol": "BTON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blocktonscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockton Explorer",
+      "url": "https://blocktonscan.com"
+    }
+  ],
+  "website": "https://blocktoncoin.com",
+  "aliases": [
+    "BTON"
+  ]
+}

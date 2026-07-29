@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 2,
+  "name": "Avalanche C-Chain",
+  "slug": "avalanche-c-chain",
+  "chainId": 43114,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nodeflare.app/avax/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.avax.network/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche.public-rpc.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalancheapi.terminet.io/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche-c-chain-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/avax/c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche-public.nodies.app/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche.api.onfinality.io/public/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/avax/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avax.meowrpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/avax-mainnet/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public.stackup.sh/api/v1/node/avalanche-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avax-x-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche-mainnet.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/avax/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://spectrum-01.simplystaking.xyz/avalanche-mn-rpc/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.poolz.finance/avalanche",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avax.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avalanche.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/avalanche",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avax-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://avax-rpc.keccak.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://snowscan.xyz"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://snowtrace.io"
+    },
+    {
+      "name": "Avascan",
+      "url": "https://avascan.info"
+    }
+  ],
+  "website": "https://www.avax.network/",
+  "aliases": [
+    "AVAX",
+    "avax"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "iExec Sidechain",
+  "slug": "iexec-sidechain",
+  "chainId": 134,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "xRLC",
+    "symbol": "xRLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bellecour.iex.ec",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.bellecour.iex.ec"
+    }
+  ],
+  "website": "https://iex.ec",
+  "aliases": [
+    "Bellecour",
+    "rlc"
+  ]
+}

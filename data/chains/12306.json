@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 2,
+  "name": "Fibonacci",
+  "slug": "fibonacci",
+  "chainId": 12306,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FIBONACCI UTILITY TOKEN",
+    "symbol": "FIBO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node1.fibo-api.asia",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node2.fibo-api.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3.fibo-api.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node4.fibo-api.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node5.fibo-api.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node6.fibo-api.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node7.fibo-api.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node1.fibo-rpc.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node2.fibo-rpc.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3.fibo-rpc.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node4.fibo-rpc.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node5.fibo-rpc.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node6.fibo-rpc.asia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node7.fibo-rpc.asia",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "fiboscan",
+      "url": "https://scan.fibochain.org"
+    }
+  ],
+  "website": "https://fibochain.org",
+  "aliases": [
+    "FIBO",
+    "fibo"
+  ]
+}

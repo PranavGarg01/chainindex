@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Dubxcoin network",
+  "slug": "dubxcoin-network",
+  "chainId": 3269,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dubxcoin mainnet",
+    "symbol": "DUBX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpcmain.arabianchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://arabianchain.org",
+  "aliases": [
+    "DUBX",
+    "dubx"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Morph Testnet",
+  "slug": "morph-testnet",
+  "chainId": 2710,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.morphl2.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Morph Testnet Explorer",
+      "url": "https://explorer-testnet.morphl2.io"
+    }
+  ],
+  "website": "https://morphl2.io",
+  "aliases": [
+    "ETH",
+    "tmorph"
+  ]
+}

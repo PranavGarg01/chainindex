@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Mintara Testnet",
+  "slug": "mintara-testnet",
+  "chainId": 1079,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MINTARA",
+    "symbol": "MNTR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/mintara/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://subnets-test.avax.network/mintara"
+    }
+  ],
+  "website": "https://playthink.co.jp",
+  "aliases": [
+    "Mintara",
+    "mintara-testnet"
+  ]
+}

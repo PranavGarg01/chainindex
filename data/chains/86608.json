@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "CpChain",
+  "slug": "cpchain",
+  "chainId": 86608,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CP",
+    "symbol": "CP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cpchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CpChain Explorer",
+      "url": "https://explorer.cpchain.com"
+    }
+  ],
+  "website": "https://cpchain.com"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BrickChain",
+  "slug": "brickchain",
+  "chainId": 12786,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Brick Gas",
+    "symbol": "BRKG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.firstbrick.cloud",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BrickChain Explorer",
+      "url": "https://explorer.firstbrick.cloud"
+    }
+  ],
+  "website": "https://firstbrick.cloud",
+  "aliases": [
+    "BRKG",
+    "brick"
+  ]
+}

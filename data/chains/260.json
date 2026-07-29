@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Guru Network",
+  "slug": "guru-network",
+  "chainId": 260,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Guru",
+    "symbol": "GURU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-main.gurunetwork.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "guruscan",
+      "url": "https://scan.gurunetwork.ai"
+    }
+  ],
+  "website": "https://gurunetwork.ai",
+  "aliases": [
+    "GURU",
+    "guru"
+  ]
+}

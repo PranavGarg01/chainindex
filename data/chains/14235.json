@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitlazer",
+  "slug": "bitlazer",
+  "chainId": 14235,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "lzrBTC",
+    "symbol": "lzrBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bitlazer.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitlazer Caldera Explorer",
+      "url": "https://bitlazer.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://bitlazer.hub.caldera.xyz"
+}

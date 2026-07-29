@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Raba Network",
+  "slug": "raba-network",
+  "chainId": 7484,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Raba",
+    "symbol": "RABA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.x.raba.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "raba",
+      "url": "https://x.raba.app/explorer"
+    }
+  ],
+  "website": "https://x.raba.app/",
+  "aliases": [
+    "Raba",
+    "raba"
+  ]
+}

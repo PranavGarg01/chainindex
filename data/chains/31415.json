@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Wirex Pay",
+  "slug": "wirex-pay",
+  "chainId": 31415,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.wirexpaychain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Wirex Pay Explorer",
+      "url": "https://blockscout.wirexpaychain.com"
+    }
+  ],
+  "website": "https://docs.wirexpaychain.com/tech/wirex-pay-chain",
+  "aliases": [
+    "WirexPay",
+    "wpay"
+  ]
+}

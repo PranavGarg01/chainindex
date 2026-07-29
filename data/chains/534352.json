@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "name": "Scroll",
+  "slug": "scroll",
+  "chainId": 534352,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.scroll.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-scroll.icecreamswap.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-mainnet-public.unifra.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/scroll",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/scroll/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/scroll",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-scroll-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/scroll",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-mainnet.chainstacklabs.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://scroll-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Scrollscan",
+      "url": "https://scrollscan.com"
+    }
+  ],
+  "website": "https://scroll.io",
+  "aliases": [
+    "ETH",
+    "scr"
+  ]
+}

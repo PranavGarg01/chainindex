@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "iTani Network Chain",
+  "slug": "itani-network-chain",
+  "chainId": 1229800785,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "iTani",
+    "symbol": "ITANI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://relay.itaninetworkchain.com/jsonrpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node.itaninetworkchain.com/jsonrpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.itaninetworkchain.com/jsonrpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "iTani Explorer",
+      "url": "https://explorer.itaninetworkchain.com"
+    }
+  ],
+  "website": "https://www.itaninetworkchain.com",
+  "aliases": [
+    "ITANI",
+    "itani"
+  ]
+}

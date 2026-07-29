@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Theta Amber Testnet",
+  "slug": "theta-amber-testnet",
+  "chainId": 364,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc-api-amber.thetatoken.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Theta Amber Testnet Explorer",
+      "url": "https://guardian-testnet-amber-explorer.thetatoken.org"
+    }
+  ],
+  "website": "https://www.thetatoken.org/",
+  "aliases": [
+    "Theta",
+    "theta-amber"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "ByteChain",
+  "slug": "bytechain",
+  "chainId": 9933,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BEXC",
+    "symbol": "BEXC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bexc.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.bexc.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ByteChain Explorer",
+      "url": "https://mainnet.bexc.io"
+    }
+  ],
+  "website": "https://bexc.io",
+  "aliases": [
+    "BEXC"
+  ]
+}

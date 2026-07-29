@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Blast",
+  "slug": "blast-238",
+  "chainId": 238,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "One World Chain",
+    "symbol": "OWCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zkevmrpc.blastchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blast Mainnet",
+      "url": "https://blastchain.org"
+    }
+  ],
+  "website": "https://docs.blastchain.org",
+  "aliases": [
+    "ETH"
+  ]
+}

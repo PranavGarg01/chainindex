@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "IKChain Testnet",
+  "slug": "ikchain-testnet",
+  "chainId": 4270,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IKToken",
+    "symbol": "IKTokn",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.ikchain.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "IKChain Testnet Explorer",
+      "url": "https://testnet-explorer.ikchain.net"
+    }
+  ],
+  "website": "https://ikchain.net",
+  "aliases": [
+    "IKChain",
+    "ikchain-testnet"
+  ]
+}

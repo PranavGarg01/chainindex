@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Opulent-X BETA",
+  "slug": "opulent-x-beta",
+  "chainId": 41500,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Oxyn Gas",
+    "symbol": "OXYN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://connect.opulent-x.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Opulent-X BETA Explorer",
+      "url": "https://explorer.opulent-x.com"
+    }
+  ],
+  "website": "https://beta.opulent-x.com",
+  "aliases": [
+    "Opulent-X",
+    "ox-beta"
+  ]
+}

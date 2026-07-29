@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "QELT Testnet",
+  "slug": "qelt-testnet",
+  "chainId": 771,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QELT",
+    "symbol": "QELT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.qelt.ai",
+      "isRecommended": true
+    },
+    {
+      "url": "https://archive.qelt.ai",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QELTScan Testnet",
+      "url": "https://testnet.qeltscan.ai"
+    }
+  ],
+  "website": "https://qelt.ai",
+  "aliases": [
+    "QELT",
+    "qelt-testnet"
+  ]
+}

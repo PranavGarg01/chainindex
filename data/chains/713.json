@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Vrcscan",
+  "slug": "vrcscan",
+  "chainId": 713,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VRC Chain",
+    "symbol": "VRC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet-5.vrcscan.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-mainnet-6.vrcscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-mainnet-7.vrcscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-mainnet-8.vrcscan.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "vrcscan",
+      "url": "https://vrcscan.com"
+    },
+    {
+      "name": "dxbscan",
+      "url": "https://dxb.vrcscan.com"
+    }
+  ],
+  "website": "https://vrccoin.com",
+  "aliases": [
+    "VRC",
+    "vrc"
+  ]
+}

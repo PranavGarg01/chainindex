@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Taker Chain",
+  "slug": "taker-chain",
+  "chainId": 1125,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Taker",
+    "symbol": "TAKER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.taker.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TakerScan",
+      "url": "https://explorer.taker.xyz"
+    }
+  ],
+  "website": "https://www.taker.xyz",
+  "aliases": [
+    "Taker",
+    "taker"
+  ]
+}

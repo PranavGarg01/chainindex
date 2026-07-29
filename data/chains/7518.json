@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MEVerse Chain",
+  "slug": "meverse-chain",
+  "chainId": 7518,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MEVerse",
+    "symbol": "MEV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.meversemainnet.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MEVerse Chain Explorer",
+      "url": "https://www.meversescan.io"
+    }
+  ],
+  "website": "https://www.meverse.sg",
+  "aliases": [
+    "MEVerse",
+    "MEV"
+  ]
+}

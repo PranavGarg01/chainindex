@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Reapchain",
+  "slug": "reapchain",
+  "chainId": 221230,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Reap",
+    "symbol": "REAP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth.reapchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Reapchain Dashboard",
+      "url": "https://dashboard.reapchain.org"
+    }
+  ],
+  "website": "https://reapchain.com",
+  "aliases": [
+    "REAP",
+    "reap"
+  ]
+}

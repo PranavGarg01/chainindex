@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Hypra",
+  "slug": "hypra",
+  "chainId": 622277,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hypra",
+    "symbol": "HYP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hypra.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.rethereum.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rethereum.rpc.restratagem.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.rthcentral.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hypra.rpc.thirdweb.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "hypra",
+      "url": "https://explorer.hypra.network"
+    }
+  ],
+  "website": "https://www.hypra.network",
+  "aliases": [
+    "HYP",
+    "hyp"
+  ]
+}

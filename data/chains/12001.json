@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Fuse Testnet",
+  "slug": "fuse-testnet",
+  "chainId": 12001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.flash.fuse.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.flash.fuse.io"
+    }
+  ],
+  "aliases": [
+    "Fuse",
+    "fuseZK"
+  ]
+}

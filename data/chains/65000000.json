@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Autonity",
+  "slug": "autonity",
+  "chainId": 65000000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Auton",
+    "symbol": "ATN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://autonity.rpc.web3cdn.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://autonity.rpc.subquery.network/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.autonity-apis.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "autonityscan",
+      "url": "https://autonityscan.org"
+    }
+  ],
+  "website": "https://autonity.org/",
+  "aliases": [
+    "AUT",
+    "aut"
+  ]
+}

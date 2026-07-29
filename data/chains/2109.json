@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Exosama Network",
+  "slug": "exosama-network",
+  "chainId": 2109,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sama Token",
+    "symbol": "SAMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.exosama.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.exosama.com"
+    }
+  ],
+  "website": "https://moonsama.com",
+  "aliases": [
+    "EXN",
+    "exn"
+  ]
+}

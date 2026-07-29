@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethereal Testnet",
+  "slug": "ethereal-testnet",
+  "chainId": 13374202,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDe",
+    "symbol": "USDe",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.etherealtest.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-ethereal-testnet-0.t.conduit.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.etherealtest.net"
+    }
+  ],
+  "website": "https://www.ethereal.trade/",
+  "aliases": [
+    "Ethereal",
+    "ethereal-testnet-0"
+  ]
+}

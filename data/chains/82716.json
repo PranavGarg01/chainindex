@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Pylun Testnet",
+  "slug": "pylun-testnet",
+  "chainId": 82716,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PYLUN",
+    "symbol": "PYLUN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pylun.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PylunScan",
+      "url": "https://explorer.pylun.network"
+    }
+  ],
+  "website": "https://pylun.network",
+  "aliases": [
+    "PYLUN",
+    "pylun"
+  ]
+}

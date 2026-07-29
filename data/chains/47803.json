@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ReDeFi Layer 1",
+  "slug": "redefi-layer-1",
+  "chainId": 47803,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BAX",
+    "symbol": "BAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://layer1.redefi.world",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ReDeFi Scan",
+      "url": "https://scanlayer1.redefi.world"
+    }
+  ],
+  "website": "https://redefi.world",
+  "aliases": [
+    "ReDeFi",
+    "bax"
+  ]
+}

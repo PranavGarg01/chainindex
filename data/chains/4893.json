@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Globel Chain",
+  "slug": "globel-chain",
+  "chainId": 4893,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Globel Chain",
+    "symbol": "GC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gcscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://gcscan.io"
+    }
+  ],
+  "website": "https://gcscan.io",
+  "aliases": [
+    "GC"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Mezo Testnet",
+  "slug": "mezo-testnet",
+  "chainId": 31611,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.test.mezo.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mezo-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.test.mezo.org"
+    }
+  ],
+  "website": "https://mezo.org/",
+  "aliases": [
+    "mezo-testnet"
+  ]
+}

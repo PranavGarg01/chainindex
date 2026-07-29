@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Geso Verse",
+  "slug": "geso-verse",
+  "chainId": 428,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.verse.gesoten.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Geso Verse Explorer",
+      "url": "https://explorer.verse.gesoten.com"
+    }
+  ],
+  "website": "https://gesoten.com/",
+  "aliases": [
+    "GSV"
+  ]
+}

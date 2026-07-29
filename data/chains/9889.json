@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "pointledger",
+  "slug": "pointledger",
+  "chainId": 9889,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PLG",
+    "symbol": "PLG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pointledger.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "pointledger Explorer",
+      "url": "https://exp.pointledger.net"
+    }
+  ],
+  "website": "https://pointledger.net"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Deamchain",
+  "slug": "deamchain",
+  "chainId": 136,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Deamchain Native Token",
+    "symbol": "DEAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.deamchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Deamchain Block Explorer",
+      "url": "https://scan.deamchain.com"
+    }
+  ],
+  "website": "https://deamchain.com",
+  "aliases": [
+    "deam"
+  ]
+}

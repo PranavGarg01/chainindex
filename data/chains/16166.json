@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Cypherium",
+  "slug": "cypherium",
+  "chainId": 16166,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cypherium",
+    "symbol": "CPH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://pubnodes.cypherium.io/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://make-cph-great-again.community",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cypherium Explorer (Ethernal)",
+      "url": "https://cypherium.tryethernal.com"
+    }
+  ],
+  "website": "https://www.cypherium.io/",
+  "aliases": [
+    "CPH",
+    "cph"
+  ]
+}

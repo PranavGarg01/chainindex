@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "COTI Testnet",
+  "slug": "coti-testnet",
+  "chainId": 7082400,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "COTI",
+    "symbol": "COTI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://coti-test-rpc.Hyperflow.finance",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet.coti.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-magnus-validator.coti.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-minor-validator.coti.io/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "COTI Testnet Explorer",
+      "url": "https://testnet.cotiscan.io"
+    }
+  ],
+  "website": "https://coti.io/",
+  "aliases": [
+    "COTI",
+    "coti-testnet"
+  ]
+}

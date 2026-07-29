@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "PAXB",
+  "slug": "paxb",
+  "chainId": 6701,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PAXB",
+    "symbol": "PAXB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain.paxb.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PAXB Explorer",
+      "url": "https://scan.paxb.io"
+    }
+  ],
+  "website": "https://paxb.io/"
+}

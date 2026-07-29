@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Meter",
+  "slug": "meter",
+  "chainId": 82,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Meter",
+    "symbol": "MTR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.meter.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-meter.jellypool.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Meter Mainnet Scan",
+      "url": "https://scan.meter.io"
+    }
+  ],
+  "website": "https://www.meter.io"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tabi Testnet",
+  "slug": "tabi-testnet",
+  "chainId": 9789,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tabi",
+    "symbol": "TABI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.tabichain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tabi Testnet Explorer",
+      "url": "https://testnet.tabiscan.com"
+    }
+  ],
+  "website": "https://www.tabichain.com",
+  "aliases": [
+    "TabiNetwork",
+    "tabitest"
+  ]
+}

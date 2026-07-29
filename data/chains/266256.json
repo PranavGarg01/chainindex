@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Gear Zero Network Testnet",
+  "slug": "gear-zero-network-testnet",
+  "chainId": 266256,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gear Zero Network Native Token",
+    "symbol": "GZN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gzn-test.linksme.info",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://token.gearzero.ca/testnet",
+  "aliases": [
+    "GearZero",
+    "gz-testnet"
+  ]
+}

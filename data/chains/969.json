@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "EthXY",
+  "slug": "ethxy",
+  "chainId": 969,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Settled EthXY Token",
+    "symbol": "SEXY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ethxy.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EthXY Network Explorer",
+      "url": "https://explorer.ethxy.com"
+    }
+  ],
+  "website": "https://ethxy.com",
+  "aliases": [
+    "sexy"
+  ]
+}

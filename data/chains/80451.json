@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Geo Genesis",
+  "slug": "geo-genesis",
+  "chainId": 80451,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://geobrowser.io",
+  "aliases": [
+    "geo"
+  ]
+}

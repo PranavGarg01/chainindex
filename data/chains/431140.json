@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Markr Go",
+  "slug": "markr-go",
+  "chainId": 431140,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.markr.io/ext",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.markr.io/",
+  "aliases": [
+    "Unified",
+    "markr-go"
+  ]
+}

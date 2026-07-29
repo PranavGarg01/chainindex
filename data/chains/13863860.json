@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Symbiosis",
+  "slug": "symbiosis",
+  "chainId": 13863860,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Symbiosis",
+    "symbol": "SIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://symbiosis.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Symbiosis explorer",
+      "url": "https://symbiosis.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://symbiosis.finance",
+  "aliases": [
+    "SIS",
+    "sis"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "firachain",
+  "slug": "firachain",
+  "chainId": 194,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "firachain",
+    "symbol": "FIR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.firachain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FiraChain Explorer",
+      "url": "https://block.firachain.com"
+    }
+  ],
+  "website": "https://firachain.com",
+  "aliases": [
+    "FIR"
+  ]
+}

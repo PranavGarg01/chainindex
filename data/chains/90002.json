@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "UBIT SMARTCHAIN",
+  "slug": "ubit-smartchain",
+  "chainId": 90002,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USC",
+    "symbol": "USC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ubitscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UBITSCAN",
+      "url": "https://ubitscan.io"
+    }
+  ],
+  "website": "https://ubitscan.io",
+  "aliases": [
+    "UBITSCAN"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lumia Beam Testnet",
+  "slug": "lumia-beam-testnet",
+  "chainId": 2030232745,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lumia",
+    "symbol": "LUMIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://beam-rpc.lumia.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lumia Beam Testnet Explorer",
+      "url": "https://beam-explorer.lumia.org"
+    }
+  ],
+  "website": "https://lumia.org",
+  "aliases": [
+    "ETH",
+    "lumia-beam-testnet"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Fantasia Chain",
+  "slug": "fantasia-chain",
+  "chainId": 868,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FST",
+    "symbol": "FST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-data1.fantasiachain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-data2.fantasiachain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-data3.fantasiachain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FSCScan",
+      "url": "https://explorer.fantasiachain.com"
+    }
+  ],
+  "website": "https://fantasiachain.com/",
+  "aliases": [
+    "FSC",
+    "FSCMainnet"
+  ]
+}

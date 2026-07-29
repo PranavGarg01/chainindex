@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Portal-To-Bitcoin",
+  "slug": "portal-to-bitcoin",
+  "chainId": 7820,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Portal-To-Bitcoin",
+    "symbol": "PTB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.portaltobitcoin.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Portal-To-Bitcoin Explorer",
+      "url": "https://explorer.portaltobitcoin.net"
+    }
+  ],
+  "website": "https://portaltobitcoin.com",
+  "aliases": [
+    "PTB",
+    "ptb"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Acala Mandala Testnet TC9",
+  "slug": "acala-mandala-testnet-tc9",
+  "chainId": 595,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Acala Mandala Token",
+    "symbol": "mACA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc-tc9.aca-staging.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.mandala.aca-staging.network"
+    }
+  ],
+  "website": "https://acala.network",
+  "aliases": [
+    "mACA",
+    "maca"
+  ]
+}

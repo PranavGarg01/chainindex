@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "STO Chain",
+  "slug": "sto-chain",
+  "chainId": 1306,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "STOC",
+    "symbol": "STOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-stoc-mainnet.stochainscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "STO Chain Explorer",
+      "url": "https://stochainscan.io/en"
+    }
+  ],
+  "website": "https://www.stochain.io/",
+  "aliases": [
+    "STOC",
+    "stoc"
+  ]
+}

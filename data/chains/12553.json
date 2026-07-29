@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RSS3 VSL",
+  "slug": "rss3-vsl",
+  "chainId": 12553,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.rss3.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RSS3 VSL Scan",
+      "url": "https://scan.rss3.io"
+    }
+  ],
+  "website": "https://rss3.io",
+  "aliases": [
+    "RSS3",
+    "rss3"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tractsafe",
+  "slug": "tractsafe",
+  "chainId": 99566,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tractsafe",
+    "symbol": "TRCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xapi.tractsafe.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tractsafescan",
+      "url": "https://explorer.tractsafe.com"
+    }
+  ],
+  "website": "https://tractsafe.com",
+  "aliases": [
+    "TRCT",
+    "trct"
+  ]
+}

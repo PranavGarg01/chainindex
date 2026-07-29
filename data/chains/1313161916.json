@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Omega",
+  "slug": "omega",
+  "chainId": 1313161916,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Omega",
+    "symbol": "OMEGA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://0x4e4542bc.rpc.aurora-cloud.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Omega Mainnet",
+      "url": "https://0x4e4542bc.explorer.aurora-cloud.dev/"
+    }
+  ],
+  "website": "https://omeganetwork.co/"
+}

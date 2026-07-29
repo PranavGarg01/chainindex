@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MarketCapy TestNet 1",
+  "slug": "marketcapy-testnet-1",
+  "chainId": 586,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CAPY",
+    "symbol": "CAPY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fraa-flashbox-4646-rpc.a.stagenet.tanssi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Capy Explorer",
+      "url": "https://explorer.marketcapy.xyz/"
+    }
+  ],
+  "website": "https://marketcapy.xyz/",
+  "aliases": [
+    "CAPY",
+    "capy"
+  ]
+}

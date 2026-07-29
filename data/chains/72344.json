@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Radius Test Network",
+  "slug": "radius-test-network",
+  "chainId": 72344,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Radius USD",
+    "symbol": "RUSD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.radiustech.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Radius Test Network Explorer",
+      "url": "https://testnet.radiustech.xyz"
+    }
+  ],
+  "website": "https://testnet.radiustech.xyz",
+  "aliases": [
+    "RADIUS",
+    "radius-network-testnet"
+  ]
+}

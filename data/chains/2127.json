@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Autheo",
+  "slug": "autheo",
+  "chainId": 2127,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "THEO",
+    "symbol": "THEO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.autheo.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.autheo.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.autheo.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Autheo Cosmos Explorer",
+      "url": "https://cosmos.autheo.com"
+    },
+    {
+      "name": "Autheo Mainnet EVM Explorer",
+      "url": "https://evm-explorer.autheo.com"
+    }
+  ],
+  "website": "https://autheo.com"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Crynux on Base Sepolia",
+  "slug": "crynux-on-base-sepolia",
+  "chainId": 188962142,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Crynux",
+    "symbol": "CNX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.base-sepolia.crynux.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://crynux.io",
+  "aliases": [
+    "ETH",
+    "crynux-base-sepolia"
+  ]
+}

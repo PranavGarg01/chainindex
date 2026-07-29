@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Fitochain",
+  "slug": "fitochain",
+  "chainId": 1233,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FITO",
+    "symbol": "FITO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fitochain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Fitochain Explorer",
+      "url": "https://explorer.fitochain.com"
+    }
+  ],
+  "website": "https://fitochain.com",
+  "aliases": [
+    "FITO"
+  ]
+}

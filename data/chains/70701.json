@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Proof of Play - Boss",
+  "slug": "proof-of-play-boss",
+  "chainId": 70701,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.boss.proofofplay.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Proof of Play Boss Explorer",
+      "url": "https://explorer.boss.proofofplay.com"
+    }
+  ],
+  "website": "https://proofofplay.com",
+  "aliases": [
+    "ETH",
+    "pop-boss"
+  ]
+}

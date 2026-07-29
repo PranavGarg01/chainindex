@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "AlveyChain",
+  "slug": "alveychain",
+  "chainId": 3797,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AlveyCoin",
+    "symbol": "ALV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://elves-core1.alvey.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://elves-core2.alvey.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://elves-core3.alvey.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AlveyScan",
+      "url": "https://alveyscan.com"
+    }
+  ],
+  "website": "https://alveychain.com/",
+  "aliases": [
+    "ALV",
+    "alv"
+  ]
+}

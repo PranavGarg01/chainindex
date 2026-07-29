@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Web3Q Galileo",
+  "slug": "web3q-galileo",
+  "chainId": 3334,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Web3Q",
+    "symbol": "W3Q",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://galileo.web3q.io:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "w3q-galileo",
+      "url": "https://explorer.galileo.web3q.io"
+    }
+  ],
+  "website": "https://galileo.web3q.io/home.w3q/",
+  "aliases": [
+    "Web3Q",
+    "w3q-g"
+  ]
+}

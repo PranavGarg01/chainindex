@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "SatsChain",
+  "slug": "satschain",
+  "chainId": 11521,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SATS",
+    "symbol": "SATS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-satschain-1.bevm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "satschain scan",
+      "url": "https://scan-satschain.bevm.io"
+    }
+  ],
+  "website": "https://github.com/BTCSatsNetwork"
+}

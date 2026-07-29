@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "GDPR",
+  "slug": "gdpr",
+  "chainId": 12358,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GDPR",
+    "symbol": "GDPR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gdprchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GDPR Mainnet Explorer (Blockscout)",
+      "url": "https://explorer.gdprchain.com"
+    }
+  ],
+  "website": "https://explorer.gdprchain.com"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Flamma",
+  "slug": "flamma",
+  "chainId": 55614,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Flamma",
+    "symbol": "FLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.flamma.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "flascan",
+      "url": "https://flascan.net"
+    }
+  ],
+  "website": "https://flamma.network",
+  "aliases": [
+    "FlammaMainnet"
+  ]
+}

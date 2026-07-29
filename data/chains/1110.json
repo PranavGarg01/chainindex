@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "GRX",
+  "slug": "grx",
+  "chainId": 1110,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GRX",
+    "symbol": "GRX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.grxchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "grxscan",
+      "url": "https://grxscan.io"
+    }
+  ],
+  "website": "https://docs.grxchain.io"
+}

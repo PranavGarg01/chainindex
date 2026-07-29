@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Movement EVM",
+  "slug": "movement-evm",
+  "chainId": 3073,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Move",
+    "symbol": "MOVE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.movementnetwork.xyz/v1",
+      "isRecommended": true
+    },
+    {
+      "url": "https://movement.lava.build",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mevm explorer",
+      "url": "https://explorer.movementlabs.xyz"
+    }
+  ],
+  "website": "https://movementlabs.xyz",
+  "aliases": [
+    "MOVE",
+    "move"
+  ]
+}

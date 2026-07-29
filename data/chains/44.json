@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Crab Network",
+  "slug": "crab-network",
+  "chainId": 44,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Crab Network Native Token",
+    "symbol": "CRAB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://crab.api.onfinality.io/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://crab-rpc.darwinia.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://crab-rpc.dcdao.box",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://crab-scan.darwinia.network"
+    }
+  ],
+  "website": "https://crab.network/",
+  "aliases": [
+    "crab"
+  ]
+}

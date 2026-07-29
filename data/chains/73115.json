@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "ICB Network",
+  "slug": "icb-network",
+  "chainId": 73115,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ICB Native Token",
+    "symbol": "ICBX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-mainnet.icbnetwork.info",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2-mainnet.icbnetwork.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://main1.rpc-icb-network.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://main2.rpc-icb-network.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mahour.icbnetwork.info",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ICB Explorer",
+      "url": "https://icbscan.io"
+    }
+  ],
+  "website": "https://icb.network",
+  "aliases": [
+    "ICB",
+    "ICBX"
+  ]
+}

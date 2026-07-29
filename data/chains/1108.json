@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "BLXq",
+  "slug": "blxq",
+  "chainId": 1108,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BLXQ",
+    "symbol": "BLXQ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.blxq.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BLXq Explorer",
+      "url": "https://explorer.blxq.org"
+    }
+  ],
+  "website": "https://blx.org"
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Kingdom Chain",
+  "slug": "kingdom-chain",
+  "chainId": 39916801,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kozi",
+    "symbol": "KOZI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://kingdomchain.observer/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TravelSong",
+      "url": "https://www.beastkingdom.io/travelsong"
+    }
+  ],
+  "website": "https://www.beastkingdom.io/",
+  "aliases": [
+    "KingdomChain",
+    "kchain"
+  ]
+}

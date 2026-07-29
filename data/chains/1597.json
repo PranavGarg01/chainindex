@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Reactive",
+  "slug": "reactive",
+  "chainId": 1597,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "React",
+    "symbol": "REACT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.rnk.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Reactscan",
+      "url": "https://reactscan.net"
+    }
+  ],
+  "website": "https://reactive.network",
+  "aliases": [
+    "REACT",
+    "react",
+    "Reactive Network"
+  ]
+}

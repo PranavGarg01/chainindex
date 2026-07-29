@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Autonity Bakerloo (Nile) Testnet",
+  "slug": "autonity-bakerloo-nile-testnet",
+  "chainId": 65010004,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bakerloo Auton",
+    "symbol": "ATN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://autonity.rpc.web3cdn.network/testnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://bakerloo.autonity-apis.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "autonity-bakerloo-explorer",
+      "url": "https://bakerloo.autonity.org"
+    }
+  ],
+  "website": "https://autonity.org/",
+  "aliases": [
+    "AUT",
+    "aut-bakerloo"
+  ]
+}

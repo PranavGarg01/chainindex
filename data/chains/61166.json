@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Treasure",
+  "slug": "treasure",
+  "chainId": 61166,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAGIC",
+    "symbol": "MAGIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.treasure.lol",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Treasure Block Explorer",
+      "url": "https://treasurescan.io"
+    }
+  ],
+  "website": "https://app.treasure.lol"
+}

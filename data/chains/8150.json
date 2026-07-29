@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Alpen Testnet II",
+  "slug": "alpen-testnet-ii",
+  "chainId": 8150,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Signet BTC",
+    "symbol": "sBTC",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.alpenlabs.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Alpen Testnet Explorer",
+      "url": "https://explorer.testnet.alpenlabs.io"
+    }
+  ],
+  "website": "https://docs.alpenlabs.io",
+  "aliases": [
+    "Alpen",
+    "alpen"
+  ]
+}

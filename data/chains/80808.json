@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HyperX",
+  "slug": "hyperx",
+  "chainId": 80808,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HPX",
+    "symbol": "HPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hyperx.technology",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HyperX Explorer",
+      "url": "https://scan.hyperx.technology"
+    }
+  ],
+  "website": "https://hyperx.technology",
+  "aliases": [
+    "HPX",
+    "hpx"
+  ]
+}

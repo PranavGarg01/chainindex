@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Aves Testnet",
+  "slug": "aves-testnet",
+  "chainId": 333331,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AvesT",
+    "symbol": "AVST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test.rpc.avescoin.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "avescan",
+      "url": "https://testnet.avescoin.io"
+    }
+  ],
+  "website": "https://ethereum.org",
+  "aliases": [
+    "AVST",
+    "avst"
+  ]
+}

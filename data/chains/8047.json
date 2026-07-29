@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BOAT",
+  "slug": "boat",
+  "chainId": 8047,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Best Of All Time Token",
+    "symbol": "BOAT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc0.come.boat",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BOAT Mainnet Explorer",
+      "url": "https://scan.come.boats"
+    }
+  ],
+  "website": "https://come.boats",
+  "aliases": [
+    "BOAT Mainnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Smart Trade Networks",
+  "slug": "smart-trade-networks",
+  "chainId": 18122,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "STN",
+    "symbol": "STN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://beefledgerwallet.com:8544",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "stnscan",
+      "url": "https://stnscan.com"
+    }
+  ],
+  "website": "https://www.smarttradenetworks.com",
+  "aliases": [
+    "STN"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "JFINPOS",
+  "slug": "jfinpos",
+  "chainId": 3502,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JFINPOS",
+    "symbol": "JPOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.jfinpos.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JFINPOS Explorer",
+      "url": "https://exp.jfinpos.com"
+    }
+  ],
+  "website": "https://jfinpos.com",
+  "aliases": [
+    "jzero"
+  ]
+}

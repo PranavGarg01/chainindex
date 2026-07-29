@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "MUD Chain",
+  "slug": "mud-chain",
+  "chainId": 168169,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MUD",
+    "symbol": "MUD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mud.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MUD Chain Scan",
+      "url": "https://scan.mud.network"
+    }
+  ],
+  "website": "https://mud.network",
+  "aliases": [
+    "MUD"
+  ]
+}

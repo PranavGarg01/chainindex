@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Haven1",
+  "slug": "haven1",
+  "chainId": 8811,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Haven1",
+    "symbol": "H1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.haven1.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Haven1 Explorer",
+      "url": "https://explorer.haven1.org"
+    }
+  ],
+  "website": "https://www.haven1.org"
+}

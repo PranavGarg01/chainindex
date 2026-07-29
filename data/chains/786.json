@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "MAAL Chain",
+  "slug": "maal-chain",
+  "chainId": 786,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MAAL",
+    "symbol": "MAAL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node1-mainnet.maalscan.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node2-mainnet.maalscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node3-mainnet.maalscan.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "maalscan",
+      "url": "https://maalscan.io"
+    }
+  ],
+  "website": "https://www.maalchain.com/",
+  "aliases": [
+    "MAAL",
+    "maal"
+  ]
+}

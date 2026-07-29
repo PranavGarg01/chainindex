@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "T-Rex Testnet",
+  "slug": "t-rex-testnet",
+  "chainId": 1962,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.trex.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "T-Rex Testnet explorer",
+      "url": "https://testnet.trex.xyz"
+    }
+  ],
+  "website": "https://trex.xyz/",
+  "aliases": [
+    "T-Rex",
+    "TREX"
+  ]
+}

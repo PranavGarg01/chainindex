@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Camp Testnet",
+  "slug": "camp-testnet",
+  "chainId": 90354,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-camp-network-4xje7wy105.t.conduit.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorerl2new-camp-network-4xje7wy105.t.conduit.xyz"
+    }
+  ],
+  "website": "https://campaign-1.gitbook.io/camp-technical-docså",
+  "aliases": [
+    "ETH",
+    "camp"
+  ]
+}

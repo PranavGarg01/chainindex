@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PopDEX Testnet",
+  "slug": "popdex-testnet",
+  "chainId": 34952,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POP",
+    "symbol": "POP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-api.popdex.xyz/api/v1/web3/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PopDEX Testnet Explorer",
+      "url": "https://testnet-app.popdex.xyz/explorer"
+    }
+  ],
+  "website": "https://popdex.xyz",
+  "aliases": [
+    "PopDEX",
+    "popdex-testnet"
+  ]
+}

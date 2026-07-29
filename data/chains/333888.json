@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Polis Testnet",
+  "slug": "polis-testnet",
+  "chainId": 333888,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tPolis",
+    "symbol": "tPOLIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sparta-rpc.polis.tech",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://polis.tech",
+  "aliases": [
+    "Sparta",
+    "sparta"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "dual network",
+  "slug": "dual-network",
+  "chainId": 6301,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "dual",
+    "symbol": "dual",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dual.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dual Network",
+      "url": "https://blockscout.dual.network"
+    }
+  ],
+  "website": "https://dual.org",
+  "aliases": [
+    "DUAL",
+    "dual"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DOID Testnet",
+  "slug": "doid-testnet",
+  "chainId": 56797,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOID",
+    "symbol": "DOID",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.doid.tech",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DOID Testnet Scan",
+      "url": "https://scan.testnet.doid.tech"
+    }
+  ],
+  "website": "https://doid.tech",
+  "aliases": [
+    "DOID",
+    "doidTestnet"
+  ]
+}

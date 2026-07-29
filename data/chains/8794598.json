@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "HAPchain",
+  "slug": "hapchain",
+  "chainId": 8794598,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HAP",
+    "symbol": "HAP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jsonrpc.hap.land",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HAP EVM Explorer (Blockscout)",
+      "url": "https://blockscout.hap.land"
+    }
+  ],
+  "website": "https://hap.land",
+  "aliases": [
+    "hap"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "StratoVM Testnet",
+  "slug": "stratovm-testnet",
+  "chainId": 93747,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SVM",
+    "symbol": "SVM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.stratovm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "StratoVM Block Explorer",
+      "url": "https://explorer.stratovm.io"
+    }
+  ],
+  "website": "https://www.stratovm.io/",
+  "aliases": [
+    "StratoVM",
+    "stratovm"
+  ]
+}

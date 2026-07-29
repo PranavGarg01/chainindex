@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Kortho",
+  "slug": "kortho",
+  "chainId": 2559,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KorthoChain",
+    "symbol": "KTO",
+    "decimals": 11
+  },
+  "rpc": [
+    {
+      "url": "https://www.kortho-chain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.kortho.io/",
+  "aliases": [
+    "Kortho Chain",
+    "ktoc"
+  ]
+}

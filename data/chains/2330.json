@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Altcoinchain",
+  "slug": "altcoinchain",
+  "chainId": 2330,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Altcoin",
+    "symbol": "ALT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc0.altcoinchain.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://altcoinchain.org",
+  "aliases": [
+    "mainnet",
+    "alt"
+  ]
+}

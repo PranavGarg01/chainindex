@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexus",
+  "slug": "nexus",
+  "chainId": 3946,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nexus",
+    "symbol": "NEX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.rpc.nexus.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nexus Explorer",
+      "url": "https://explorer.nexus.xyz"
+    }
+  ],
+  "website": "https://nexus.xyz",
+  "aliases": [
+    "NEX",
+    "nex"
+  ]
+}

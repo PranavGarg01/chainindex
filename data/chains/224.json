@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Viridis Testnet",
+  "slug": "viridis-testnet",
+  "chainId": 224,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Viridis Token",
+    "symbol": "VRD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.vrd.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Viridis Testnet",
+      "url": "https://testnet.vrd.network"
+    }
+  ],
+  "website": "https://viridis.network",
+  "aliases": [
+    "VRD",
+    "VRD-Testnet"
+  ]
+}

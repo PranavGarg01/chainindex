@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Cipherem Testnet",
+  "slug": "cipherem-testnet",
+  "chainId": 292003,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CIP",
+    "symbol": "CIP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.cipherem.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cipherscan Testnet Explorer",
+      "url": "https://cipherscan.net"
+    }
+  ],
+  "website": "https://www.cipherem.com",
+  "aliases": [
+    "Cipherem",
+    "CIP"
+  ]
+}

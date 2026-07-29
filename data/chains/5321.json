@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ITX Testnet",
+  "slug": "itx-testnet",
+  "chainId": 5321,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ITX",
+    "symbol": "ITX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.itxchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ITX Testnet Explorer (Blockscout)",
+      "url": "https://explorer.testnet.itxchain.com"
+    }
+  ],
+  "website": "https://explorer.testnet.itxchain.com",
+  "aliases": [
+    "ITX",
+    "itx-testnet"
+  ]
+}

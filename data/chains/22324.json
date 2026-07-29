@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GoldXChain Testnet",
+  "slug": "goldxchain-testnet",
+  "chainId": 22324,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GoldX",
+    "symbol": "GOLDX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.goldxchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GoldXChain Testnet Explorer",
+      "url": "https://testnet-explorer.goldxchain.io"
+    }
+  ],
+  "website": "https://goldxchain.io",
+  "aliases": [
+    "GoldXTestnet",
+    "goldx-testnet"
+  ]
+}

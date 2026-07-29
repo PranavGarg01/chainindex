@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Frame Testnet",
+  "slug": "frame-testnet",
+  "chainId": 68840142,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.frame.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Frame Testnet Explorer",
+      "url": "https://explorer.testnet.frame.xyz"
+    }
+  ],
+  "website": "https://www.frame.xyz/",
+  "aliases": [
+    "ETH",
+    "frametest"
+  ]
+}

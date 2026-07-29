@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Adil Chain V2",
+  "slug": "adil-chain-v2",
+  "chainId": 7576,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ADIL",
+    "symbol": "ADIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://adilchain-rpc.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ADIL Mainnet Explorer",
+      "url": "https://adilchain-scan.io"
+    }
+  ],
+  "website": "https://adilchain.io",
+  "aliases": [
+    "ADIL",
+    "adil"
+  ]
+}

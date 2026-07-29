@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Rome Devnet Subura",
+  "slug": "rome-devnet-subura",
+  "chainId": 121213,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RSOL",
+    "symbol": "RSOL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subura-i.devnet.romeprotocol.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rome Devnet Subura Explorer",
+      "url": "https://romescout-subura-i.devnet.romeprotocol.xyz"
+    }
+  ],
+  "website": "https://rome.builders",
+  "aliases": [
+    "ROME",
+    "rome-devnet-subura"
+  ]
+}

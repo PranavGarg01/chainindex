@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "XferChain",
+  "slug": "xferchain",
+  "chainId": 28125,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dapo",
+    "symbol": "Dapo",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.xferchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XferChain Mainnet Explorer",
+      "url": "https://network.xferchain.org"
+    }
+  ],
+  "website": "https://xferchain.org",
+  "aliases": [
+    "XferChain Mainnet",
+    "DPm"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "FAVO",
+  "slug": "favo",
+  "chainId": 3838,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FAVO",
+    "symbol": "FAVO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.favoscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "favoscan",
+      "url": "https://www.favoscan.com"
+    }
+  ],
+  "website": "https://www.favoscan.com"
+}

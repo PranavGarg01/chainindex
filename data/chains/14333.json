@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Vitruveo Testnet",
+  "slug": "vitruveo-testnet",
+  "chainId": 14333,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vitruveo Test Coin",
+    "symbol": "tVTRU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc.vitruveo.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vitruveo Testnet Explorer",
+      "url": "https://test-explorer.vitruveo.xyz"
+    }
+  ],
+  "website": "https://www.vitruveo.xyz",
+  "aliases": [
+    "Vitruveo",
+    "vitruveo-test",
+    "Vitruveo is a blockchain for Creators"
+  ]
+}

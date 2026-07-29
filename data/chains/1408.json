@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "VFlow",
+  "slug": "vflow",
+  "chainId": 1408,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "zkVerify",
+    "symbol": "VFY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://vflow-rpc.zkverify.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://vflow.subscan.io"
+    }
+  ],
+  "website": "https://zkverify.io",
+  "aliases": [
+    "VFL",
+    "vfl"
+  ]
+}

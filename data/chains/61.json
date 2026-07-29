@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 2,
+  "name": "Ethereum Classic",
+  "slug": "ethereum-classic",
+  "chainId": 61,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://etc.etcdesktop.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://etc.rivet.link",
+      "isRecommended": false
+    },
+    {
+      "url": "https://0xrpc.io/etc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ethereum-classic-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/etc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://besu-at.etc-network.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://geth-at.etc-network.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://etc.mytokenpocket.vip",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout-ethereum-classic",
+      "url": "https://etc.blockscout.com"
+    },
+    {
+      "name": "etcnetworkinfo-blockscout-ethereum-classic",
+      "url": "https://explorer-blockscout.etc-network.info"
+    },
+    {
+      "name": "etcnetworkinfo-alethio-ethereum-classic",
+      "url": "https://explorer-alethio.etc-network.info"
+    },
+    {
+      "name": "etcnetworkinfo-expedition-ethereum-classic",
+      "url": "https://explorer-expedition.etc-network.info"
+    },
+    {
+      "name": "hebeblock-ethereum-classic",
+      "url": "https://etcerscan.com"
+    },
+    {
+      "name": "oklink-ethereum-classic",
+      "url": "https://www.oklink.com/etc"
+    },
+    {
+      "name": "tokenview-ethereum-classic",
+      "url": "https://etc.tokenview.io"
+    }
+  ],
+  "website": "https://ethereumclassic.org",
+  "aliases": [
+    "ETC",
+    "etc",
+    "Ethereum Classic Mainnet"
+  ]
+}

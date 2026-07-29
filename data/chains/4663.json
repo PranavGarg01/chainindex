@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Robinhood Chain",
+  "slug": "robinhood-chain",
+  "chainId": 4663,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.chain.robinhood.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Robinhood Chain Blockscout Explorer",
+      "url": "https://robinhoodchain.blockscout.com"
+    }
+  ],
+  "website": "https://docs.robinhood.com/chain",
+  "aliases": [
+    "robinhoodchain"
+  ]
+}

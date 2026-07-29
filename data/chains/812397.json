@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "SG Verse",
+  "slug": "sg-verse",
+  "chainId": 812397,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sgverse.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SG Verse Explorer",
+      "url": "https://explorer.sgverse.net"
+    }
+  ],
+  "aliases": [
+    "SGV"
+  ]
+}

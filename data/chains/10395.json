@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "WorldLand Testnet",
+  "slug": "worldland-testnet",
+  "chainId": 10395,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Worldland",
+    "symbol": "WLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://gwangju.worldland.foundation",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Worldland Explorer",
+      "url": "https://testscan.worldland.foundation"
+    }
+  ],
+  "website": "https://worldland.foundation",
+  "aliases": [
+    "Worldland",
+    "TWLC"
+  ]
+}

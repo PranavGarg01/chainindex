@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Xertra",
+  "slug": "xertra",
+  "chainId": 105105,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "STRAX",
+    "symbol": "STRAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.xertra.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Xertra Explorer",
+      "url": "https://explorer.xertra.com"
+    }
+  ],
+  "website": "https://www.xertra.com/"
+}

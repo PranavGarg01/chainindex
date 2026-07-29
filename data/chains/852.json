@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "HongKong",
+  "slug": "hongkong",
+  "chainId": 852,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HongKong",
+    "symbol": "HK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth.jegotrip.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.cmi.chinamobile.com/"
+}

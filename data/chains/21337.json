@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CENNZnet Azalea",
+  "slug": "cennznet-azalea",
+  "chainId": 21337,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CPAY",
+    "symbol": "CPAY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cennznet.unfrastructure.io/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UNcover",
+      "url": "https://uncoverexplorer.com"
+    }
+  ],
+  "website": "https://cennz.net",
+  "aliases": [
+    "CENNZnet",
+    "cennz-a"
+  ]
+}

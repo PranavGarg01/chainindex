@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ozone Testnet",
+  "slug": "ozone-testnet",
+  "chainId": 10120,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TestOzone",
+    "symbol": "tOZONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.ozonescan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ozone Chain Explorer",
+      "url": "https://testnet.ozonescan.com"
+    }
+  ],
+  "website": "https://ozonechain.com",
+  "aliases": [
+    "OZONE",
+    "ozone"
+  ]
+}

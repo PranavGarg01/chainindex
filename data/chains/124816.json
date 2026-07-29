@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Mitosis",
+  "slug": "mitosis",
+  "chainId": 124816,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mitosis",
+    "symbol": "MITO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mitosis.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mitoscan",
+      "url": "https://mitoscan.io/"
+    }
+  ],
+  "website": "https://mitosis.org",
+  "aliases": [
+    "MITO"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "EraSwap",
+  "slug": "eraswap",
+  "chainId": 5197,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EraSwap",
+    "symbol": "ES",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.eraswap.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-mumbai.mainnet.eraswap.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://eraswap.info/",
+  "aliases": [
+    "ESN",
+    "es"
+  ]
+}

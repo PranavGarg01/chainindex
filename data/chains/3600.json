@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "AiFinance Smart Chain",
+  "slug": "aifinance-smart-chain",
+  "chainId": 3600,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AIFI",
+    "symbol": "AIFI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.aifisc.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ascscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.aifiv2.ai",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AiFiScan",
+      "url": "https://ascscan.io/"
+    }
+  ],
+  "website": "https://aifisc.io/",
+  "aliases": [
+    "AiFi"
+  ]
+}

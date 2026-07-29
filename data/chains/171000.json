@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Fair Testnet",
+  "slug": "fair-testnet",
+  "chainId": 171000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FAIR",
+    "symbol": "FAIR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.xfair.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://xfair.ai",
+  "aliases": [
+    "FAIR",
+    "fairt"
+  ]
+}

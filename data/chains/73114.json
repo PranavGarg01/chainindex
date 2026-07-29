@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "ICB Testnet",
+  "slug": "icb-testnet",
+  "chainId": 73114,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ICB Testnet Token",
+    "symbol": "ICBT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-testnet.icbnetwork.info",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2-testnet.icbnetwork.info",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ICB Tesnet Explorer",
+      "url": "https://testnet.icbscan.io"
+    }
+  ],
+  "website": "https://icb.network",
+  "aliases": [
+    "ICBT"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Apex Fusion - Nexus",
+  "slug": "apex-fusion-nexus",
+  "chainId": 9069,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Apex Fusion Token",
+    "symbol": "AP3X",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nexus.mainnet.apexfusion.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "apexfusion",
+      "url": "https://explorer.nexus.mainnet.apexfusion.org"
+    }
+  ],
+  "website": "https://apexfusion.org/",
+  "aliases": [
+    "Nexus Mainnet",
+    "AP3X"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Ontology",
+  "slug": "ontology",
+  "chainId": 58,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ONG",
+    "symbol": "ONG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dappnode1.ont.io:10339",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dappnode2.ont.io:10339",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dappnode3.ont.io:10339",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dappnode4.ont.io:10339",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.ont.io"
+    }
+  ],
+  "website": "https://ont.io/",
+  "aliases": [
+    "OntologyMainnet"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "1Money Network",
+  "slug": "1money-network",
+  "chainId": 21210,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.1money.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.mainnet.1money.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.mainnet.1money.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.mainnet.1money.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "1Money Network Explorer",
+      "url": "https://www.1moneynetwork.com/explorer"
+    }
+  ],
+  "website": "https://www.1moneynetwork.com",
+  "aliases": [
+    "1MoneyNetwork",
+    "1money"
+  ]
+}

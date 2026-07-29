@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "BlockSurety",
+  "slug": "blocksurety",
+  "chainId": 4848,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BSURE",
+    "symbol": "BSURE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blocksurety.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockSurety Explorer",
+      "url": "https://blocksurety.net"
+    }
+  ],
+  "website": "https://rpc.blocksurety.net/",
+  "aliases": [
+    "BSURE"
+  ]
+}

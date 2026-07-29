@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitcoin Chain",
+  "slug": "bitcoin-chain",
+  "chainId": 8086,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitcoinevm.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://bitcoinevm.org",
+  "aliases": [
+    "BTC",
+    "Bitcoin"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DBK Chain",
+  "slug": "dbk-chain",
+  "chainId": 20240603,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.dbkchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DBK Chain Explorer",
+      "url": "https://scan.dbkchain.io"
+    }
+  ],
+  "website": "https://docs.dbkchain.io",
+  "aliases": [
+    "dbkchain"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Pivotal",
+  "slug": "pivotal",
+  "chainId": 1648,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pivotal ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.pivotalprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pivotal Scan",
+      "url": "https://pivotalscan.xyz"
+    }
+  ],
+  "aliases": [
+    "pivotal-mainnet"
+  ]
+}

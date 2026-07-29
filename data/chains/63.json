@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "name": "Mordor Testnet",
+  "slug": "mordor-testnet",
+  "chainId": 63,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mordor Ether",
+    "symbol": "METC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mordor.etccooperative.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://geth-mordor.etc-network.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://0xrpc.io/mordor",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout-mordor",
+      "url": "https://etc-mordor.blockscout.com"
+    },
+    {
+      "name": "etcnetworkinfo-expedition-mordor",
+      "url": "https://explorer-expedition.etc-network.info/?network=Ethereum+Classic+at+etc-network.info+GETH+Mordor"
+    }
+  ],
+  "website": "https://ethereumclassic.org/development/testnets",
+  "aliases": [
+    "ETC",
+    "metc",
+    "Ethereum Classic Mordor Testnet"
+  ]
+}

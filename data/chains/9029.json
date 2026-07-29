@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Qubetics Testnet",
+  "slug": "qubetics-testnet",
+  "chainId": 9029,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Qubetics Testnet Token",
+    "symbol": "TICS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.qubetics.work",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Qubetics Testnet Explorer",
+      "url": "https://testnet.qubetics.work"
+    }
+  ],
+  "website": "https://www.qubetics.com/",
+  "aliases": [
+    "Qubetics"
+  ]
+}

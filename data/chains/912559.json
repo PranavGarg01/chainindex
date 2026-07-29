@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Astria EVM Dusknet",
+  "slug": "astria-evm-dusknet",
+  "chainId": 912559,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RIA",
+    "symbol": "RIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.evm.dusk-3.devnet.astria.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Astria EVM Dusknet Explorer",
+      "url": "https://explorer.evm.dusk-3.devnet.astria.org"
+    }
+  ],
+  "website": "https://docs.astria.org",
+  "aliases": [
+    "RIA",
+    "ria-dev"
+  ]
+}

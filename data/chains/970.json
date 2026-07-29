@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Oort",
+  "slug": "oort",
+  "chainId": 970,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Oort",
+    "symbol": "OORT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.oortech.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Oort Mainnet Explorer",
+      "url": "https://mainnet-scan.oortech.com"
+    }
+  ],
+  "website": "https://oortech.com",
+  "aliases": [
+    "Oort Mainnet",
+    "ccn"
+  ]
+}

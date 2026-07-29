@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Polynomial Sepolia",
+  "slug": "polynomial-sepolia",
+  "chainId": 80008,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sepolia.polynomial.fi",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Polynomial Sepolia Explorer",
+      "url": "https://sepolia.polynomialscan.io"
+    }
+  ],
+  "website": "https://polynomial.fi",
+  "aliases": [
+    "polynomialSepolia"
+  ]
+}

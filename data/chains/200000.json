@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "xFair.AI Testnet",
+  "slug": "xfair-ai-testnet",
+  "chainId": 200000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FAI",
+    "symbol": "FAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc_testnet.xfair.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://xfair.ai",
+  "aliases": [
+    "FAIT",
+    "fait"
+  ]
+}

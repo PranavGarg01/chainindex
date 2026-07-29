@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Debounce Subnet Testnet",
+  "slug": "debounce-subnet-testnet",
+  "chainId": 3306,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Debounce Network",
+    "symbol": "DB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dev-rpc.debounce.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Debounce Devnet Explorer",
+      "url": "https://explorer.debounce.network"
+    }
+  ],
+  "website": "https://debounce.network",
+  "aliases": [
+    "Debounce Network",
+    "debounce-devnet"
+  ]
+}

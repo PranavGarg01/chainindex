@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LadyChain",
+  "slug": "ladychain",
+  "chainId": 589,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lady",
+    "symbol": "LADY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ladyrpc.us/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LadyScan",
+      "url": "https://ladyscan.us"
+    }
+  ],
+  "website": "https://ladyswap.us",
+  "aliases": [
+    "LADY",
+    "lady"
+  ]
+}

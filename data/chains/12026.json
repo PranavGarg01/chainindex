@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MOC Blockchain",
+  "slug": "moc-blockchain",
+  "chainId": 12026,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MOC",
+    "symbol": "MOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mochan.org/api/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MOC Explorer",
+      "url": "https://mochan.org/explorer"
+    }
+  ],
+  "website": "https://mochan.org",
+  "aliases": [
+    "MOC",
+    "moc"
+  ]
+}

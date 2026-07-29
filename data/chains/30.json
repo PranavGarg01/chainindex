@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "name": "Rootstock",
+  "slug": "rootstock",
+  "chainId": 30,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Smart Bitcoin",
+    "symbol": "RBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mycrypto.rsk.co",
+      "isRecommended": true
+    },
+    {
+      "url": "https://public-node.rsk.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rootstock.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rootstock-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rsk-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rootstock Explorer",
+      "url": "https://explorer.rsk.co"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://rootstock.blockscout.com"
+    }
+  ],
+  "website": "https://rootstock.io",
+  "aliases": [
+    "rsk"
+  ]
+}

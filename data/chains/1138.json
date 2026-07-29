@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AmStar Testnet",
+  "slug": "amstar-testnet",
+  "chainId": 1138,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SINSO",
+    "symbol": "SINSO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.amstarscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "amstarscan-testnet",
+      "url": "https://testnet.amstarscan.com"
+    }
+  ],
+  "website": "https://sinso.io",
+  "aliases": [
+    "AmStar",
+    "ASARt"
+  ]
+}

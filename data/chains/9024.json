@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexa Testnet Block",
+  "slug": "nexa-testnet-block",
+  "chainId": 9024,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nexa Testnet Token",
+    "symbol": "NEXB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet-nodes.nexablockscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nexablock Testnet Explorer",
+      "url": "https://testnet.nexablockscan.io"
+    }
+  ],
+  "website": "https://www.nexablock.io",
+  "aliases": [
+    "Nexa Testnet",
+    "NexaTestnet"
+  ]
+}

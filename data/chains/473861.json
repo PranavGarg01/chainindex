@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Ultra Pro",
+  "slug": "ultra-pro",
+  "chainId": 473861,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ultra Pro",
+    "symbol": "UPRO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.ultraproscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ultraproscan",
+      "url": "https://ultraproscan.io"
+    }
+  ],
+  "website": "https://ultrapro.info",
+  "aliases": [
+    "ultrapro"
+  ]
+}

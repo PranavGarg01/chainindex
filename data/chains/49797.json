@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Energi Testnet",
+  "slug": "energi-testnet",
+  "chainId": 49797,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Energi",
+    "symbol": "NRG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nodeapi.test.energi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.energi.world/",
+  "aliases": [
+    "NRG",
+    "tnrg"
+  ]
+}

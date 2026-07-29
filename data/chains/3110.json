@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "SatoshiVM Testnet",
+  "slug": "satoshivm-testnet",
+  "chainId": 3110,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://test-rpc-node-http.svmscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.satoshivm.io/",
+  "aliases": [
+    "SatoshiVM",
+    "tSAVM"
+  ]
+}

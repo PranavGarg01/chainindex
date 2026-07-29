@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GLOBALCHAIN",
+  "slug": "globalchain",
+  "chainId": 38391207,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Global Dollar",
+    "symbol": "GBDo",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.brantley-global.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "globaldash",
+      "url": "https://brantley-global.com/dashboard"
+    }
+  ],
+  "website": "https://brantley-global.com",
+  "aliases": [
+    "GBDo",
+    "gbdo"
+  ]
+}

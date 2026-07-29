@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Joseon",
+  "slug": "joseon",
+  "chainId": 1392,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Joseon Mun",
+    "symbol": "JSM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.modchain.net/blockchain.joseon.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockExplorer",
+      "url": "https://www.blockexplorer.com"
+    }
+  ],
+  "website": "https://www.joseon.com/",
+  "aliases": [
+    "mun"
+  ]
+}

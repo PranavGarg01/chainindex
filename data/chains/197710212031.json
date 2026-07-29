@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Haradev Testnet",
+  "slug": "haradev-testnet",
+  "chainId": 197710212031,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ntity Haradev",
+    "symbol": "NTTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://blockchain.haradev.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Haradev Explorer",
+      "url": "https://explorer.haradev.com"
+    }
+  ],
+  "website": "https://ntity.io",
+  "aliases": [
+    "Ntity",
+    "haradev"
+  ]
+}

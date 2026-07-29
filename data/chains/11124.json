@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Abstract Sepolia Testnet",
+  "slug": "abstract-sepolia-testnet",
+  "chainId": 11124,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://abstract-sepolia.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.testnet.abs.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Abstract Sepolia Testnet Explorer",
+      "url": "https://sepolia.abscan.org"
+    }
+  ],
+  "website": "https://abs.xyz/",
+  "aliases": [
+    "abstract-sepolia"
+  ]
+}

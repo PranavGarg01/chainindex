@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Oraichain",
+  "slug": "oraichain",
+  "chainId": 108160679,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Oraichain Token",
+    "symbol": "ORAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.orai.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://oraichain-mainnet-evm.itrocket.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://orai.io",
+  "aliases": [
+    "Oraichain Mainnet"
+  ]
+}

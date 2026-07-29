@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Okto Testnet",
+  "slug": "okto-testnet",
+  "chainId": 8801,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Okto",
+    "symbol": "OKTO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.okto-testnet.zeeve.online",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Okto Testnet Explorer",
+      "url": "https://explorer.okto-testnet.zeeve.online"
+    }
+  ],
+  "aliases": [
+    "Okto",
+    "okto-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Zilliqa EVM Devnet",
+  "slug": "zilliqa-evm-devnet",
+  "chainId": 33385,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.devnet.zilliqa.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zilliqa EVM Devnet Explorer",
+      "url": "https://otterscan.devnet.zilliqa.com"
+    }
+  ],
+  "website": "https://www.zilliqa.com/",
+  "aliases": [
+    "ZIL",
+    "zil-devnet"
+  ]
+}

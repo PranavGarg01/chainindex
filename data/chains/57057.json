@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "zkTanenbaum Testnet",
+  "slug": "zktanenbaum-testnet",
+  "chainId": 57057,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Syscoin",
+    "symbol": "TSYS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-zk.tanenbaum.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zkTanenbaum Block Explorer",
+      "url": "https://explorer-zk.tanenbaum.io"
+    }
+  ],
+  "website": "https://syscoin.org",
+  "aliases": [
+    "ZKSYS",
+    "zktanenbaum"
+  ]
+}

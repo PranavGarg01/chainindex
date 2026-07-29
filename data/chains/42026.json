@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Donatuz",
+  "slug": "donatuz",
+  "chainId": 42026,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.donatuz.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Donatuz Explorer",
+      "url": "https://explorer.donatuz.com"
+    }
+  ],
+  "website": "https://www.donatuz.com",
+  "aliases": [
+    "ETH"
+  ]
+}

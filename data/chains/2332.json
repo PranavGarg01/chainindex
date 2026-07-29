@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 2,
+  "name": "SOMA Network",
+  "slug": "soma-network",
+  "chainId": 2332,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Soma Native Token",
+    "symbol": "SMA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://data-mainnet-v1.somanetwork.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-au-server-2.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-au-server-1.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-sg-server-1.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-sg-server-2.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://block-mainnet-v1.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://id-mainnet.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hk-mainnet.somanetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://sg-mainnet.somanetwork.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SOMA Explorer Mainnet",
+      "url": "https://somascan.io"
+    }
+  ],
+  "website": "https://somanetwork.io",
+  "aliases": [
+    "SOMA",
+    "smam"
+  ]
+}

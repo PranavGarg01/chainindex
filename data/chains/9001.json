@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 2,
+  "name": "Evmos",
+  "slug": "evmos",
+  "chainId": 9001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Evmos",
+    "symbol": "EVMOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmos.lava.build",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evmos-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-evm-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jsonrpc-evmos.goldenratiostaking.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-jsonrpc.cyphercore.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth.bd.evmos.org:8545",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jsonrpc-evmos-ia.cosmosia.notional.ventures",
+      "isRecommended": false
+    },
+    {
+      "url": "https://json-rpc.evmos.blockhunters.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-json-rpc.agoranodes.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-json.antrixy.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jsonrpc.evmos.nodestake.top",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-jsonrpc.alkadeta.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-json.qubelabs.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-rpc.theamsolutions.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-api.theamsolutions.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-jsonrpc.theamsolutions.info",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-rpc-evmos.hoodrun.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-json-rpc.0base.dev",
+      "isRecommended": false
+    },
+    {
+      "url": "https://json-rpc.evmos.tcnetwork.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-evm.evmos.dragonstake.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmosevm.rpc.stakin-nodes.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-jsonrpc.stake-town.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://json-rpc-evmos.mainnet.validatrium.club",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-evmos.imperator.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-rpc.evmos.silentvalidator.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://alphab.ai/rpc/eth/evmos",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos-jsonrpc.kalia.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://jsonrpc-evmos.mzonder.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evmos.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/evmos",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evmos Explorer (Escan)",
+      "url": "https://escan.live"
+    }
+  ],
+  "website": "https://evmos.org"
+}

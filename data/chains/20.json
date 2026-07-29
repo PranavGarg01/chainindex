@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "name": "Elastos Smart Chain",
+  "slug": "elastos-smart-chain",
+  "chainId": 20,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Elastos",
+    "symbol": "ELA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.elastos.io/esc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.trinity-tech.io/esc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api2.elastos.io/esc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api2.elastos.net/esc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api2.elastos.io/eth",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api2.elastos.net/eth",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.glidefinance.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.elastos.io/eth",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "elastos esc explorer",
+      "url": "https://esc.elastos.io"
+    }
+  ],
+  "website": "https://www.elastos.org/",
+  "aliases": [
+    "ETH",
+    "esc"
+  ]
+}

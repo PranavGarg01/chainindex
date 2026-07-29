@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Propulence Testnet",
+  "slug": "propulence-testnet",
+  "chainId": 202500,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Propulence",
+    "symbol": "PROPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.thepropulence.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Propulence Testnet Explorer",
+      "url": "https://explorer.testnet.thepropulence.com"
+    }
+  ],
+  "aliases": [
+    "Propulence",
+    "Propulence-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "WITNESS CHAIN",
+  "slug": "witness-chain",
+  "chainId": 1702448187,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETHER",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sequencer.witnesschain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Witness Chain Explorer",
+      "url": "https://explorer.witnesschain.com"
+    }
+  ],
+  "website": "https://www.witnesschain.com",
+  "aliases": [
+    "Witness-Chain",
+    "Witness"
+  ]
+}

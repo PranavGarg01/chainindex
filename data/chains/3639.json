@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "iChain Network",
+  "slug": "ichain-network",
+  "chainId": 3639,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ISLAMICOIN",
+    "symbol": "ISLAMI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ichainscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "iChainscan",
+      "url": "https://ichainscan.com"
+    }
+  ],
+  "website": "https://islamicoin.finance",
+  "aliases": [
+    "iChain",
+    "ISLAMI"
+  ]
+}

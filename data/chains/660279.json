@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Xai",
+  "slug": "xai",
+  "chainId": 660279,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Xai",
+    "symbol": "XAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/xai",
+      "isRecommended": true
+    },
+    {
+      "url": "https://xai-chain.net/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.xai-chain.net"
+    }
+  ],
+  "website": "https://xai.games"
+}

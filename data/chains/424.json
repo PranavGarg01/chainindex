@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PGN (Public Goods Network)",
+  "slug": "pgn-public-goods-network",
+  "chainId": 424,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.publicgoods.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.publicgoods.network"
+    }
+  ],
+  "website": "https://publicgoods.network/",
+  "aliases": [
+    "ETH",
+    "PGN"
+  ]
+}

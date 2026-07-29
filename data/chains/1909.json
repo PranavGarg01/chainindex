@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Merkle Scan",
+  "slug": "merkle-scan",
+  "chainId": 1909,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Merkle",
+    "symbol": "MRK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://marklechain-rpc.merklescan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://merklescan.com"
+    }
+  ],
+  "website": "https://merklescan.com",
+  "aliases": [
+    "MRK"
+  ]
+}

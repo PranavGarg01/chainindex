@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LiterMark Chain",
+  "slug": "litermark-chain",
+  "chainId": 5232,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LiterMark",
+    "symbol": "LMK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://litermark.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LMKscan",
+      "url": "https://litermark.org"
+    }
+  ],
+  "website": "https://litermark.com",
+  "aliases": [
+    "LMK",
+    "lmk"
+  ]
+}

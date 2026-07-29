@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "RSS3 VSL Sepolia Testnet",
+  "slug": "rss3-vsl-sepolia-testnet",
+  "chainId": 2331,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.rss3.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RSS3 VSL Sepolia Testnet Scan",
+      "url": "https://scan.testnet.rss3.io"
+    }
+  ],
+  "website": "https://rss3.io",
+  "aliases": [
+    "RSS3",
+    "rss3-testnet"
+  ]
+}

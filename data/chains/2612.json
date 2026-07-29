@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EZChain C-Chain",
+  "slug": "ezchain-c-chain",
+  "chainId": 2612,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EZChain",
+    "symbol": "EZC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.ezchain.com/ext/bc/C/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ezchain",
+      "url": "https://cchain-explorer.ezchain.com"
+    }
+  ],
+  "website": "https://ezchain.com",
+  "aliases": [
+    "EZC",
+    "EZChain"
+  ]
+}

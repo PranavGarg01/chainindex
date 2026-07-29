@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Hyperliquid EVM Testnet",
+  "slug": "hyperliquid-evm-testnet",
+  "chainId": 998,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HYPE",
+    "symbol": "HYPE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.hyperliquid-testnet.xyz/evm",
+      "isRecommended": true
+    },
+    {
+      "url": "https://spectrum-01.simplystaking.xyz/hyperliquid-tn-rpc/evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpcs.chain.link/hyperevm/testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.hyperliquid-testnet.xyz/evm",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://hyperfoundation.org/",
+  "aliases": [
+    "HYPE",
+    "hype-evm-testnet"
+  ]
+}

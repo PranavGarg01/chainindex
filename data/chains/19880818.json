@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DeepBrainChain",
+  "slug": "deepbrainchain",
+  "chainId": 19880818,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DeepBrainChain",
+    "symbol": "DBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dbcwallet.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DeepBrainChain Mainnet",
+      "url": "https://www.dbcscan.io"
+    }
+  ],
+  "website": "https://www.deepbrainchain.org",
+  "aliases": [
+    "DBC"
+  ]
+}

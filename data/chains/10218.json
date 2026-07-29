@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tea Sepolia Testnet",
+  "slug": "tea-sepolia-testnet",
+  "chainId": 10218,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Tea",
+    "symbol": "TEA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tea-sepolia.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://sepolia.tea.xyz"
+    }
+  ],
+  "website": "https://tea.xyz",
+  "aliases": [
+    "ETH",
+    "teasep"
+  ]
+}

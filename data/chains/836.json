@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BinaryHoldings",
+  "slug": "binaryholdings",
+  "chainId": 836,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNRY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-binaryholdings.cogitus.io/ext/bc/J3MYb3rDARLmB7FrRybinyjKqVTqmerbCr9bAXDatrSaHiLxQ/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Binary Explorer",
+      "url": "https://explorer-binaryholdings.cogitus.io"
+    }
+  ],
+  "website": "https://www.thebinaryholdings.com/",
+  "aliases": [
+    "BnryMainnet",
+    "binaryholdings-mainnet"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Bridgeless",
+  "slug": "bridgeless",
+  "chainId": 13441,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bridge",
+    "symbol": "BRIDGE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc.node0.mainnet.bridgeless.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bridgeless",
+      "url": "https://explorer.mainnet.bridgeless.com/"
+    }
+  ],
+  "website": "https://bridgeless.com"
+}

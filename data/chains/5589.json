@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "Jamton",
+  "slug": "jamton",
+  "chainId": 5589,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOTON",
+    "symbol": "DOTON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.jamton.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://app.jamton.network/"
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Happychain Testnet",
+  "slug": "happychain-testnet",
+  "chainId": 216,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Happy",
+    "symbol": "HAPPY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.happy.tech/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.testnet.happy.tech"
+    }
+  ],
+  "website": "https://testnet.happy.tech",
+  "aliases": [
+    "happytestnet"
+  ]
+}

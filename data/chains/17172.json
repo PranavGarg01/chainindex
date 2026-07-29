@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Eclipse Subnet",
+  "slug": "eclipse-subnet",
+  "chainId": 17172,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eclipse",
+    "symbol": "ECLP",
+    "decimals": 16
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/eclipse/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ECLIPSE Explorer",
+      "url": "https://subnets-test.avax.network/eclipse"
+    }
+  ],
+  "aliases": [
+    "ECLIPSE",
+    "eclipse"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Argochain Testnet",
+  "slug": "argochain-testnet",
+  "chainId": 1298,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Argocoin",
+    "symbol": "AGC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.devolvedai.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://test-rpc.devolvedai.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Argochain Test Scanner",
+      "url": "https://test-scanner.devolvedai.com"
+    }
+  ],
+  "website": "https://devolvedai.com",
+  "aliases": [
+    "Argochain",
+    "tAGC"
+  ]
+}

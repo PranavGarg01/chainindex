@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Jono12 Subnet",
+  "slug": "jono12-subnet",
+  "chainId": 955081,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Jono12 Token",
+    "symbol": "JONO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/jono12/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JONO12 Explorer",
+      "url": "https://subnets-test.avax.network/jono12"
+    }
+  ],
+  "aliases": [
+    "JONO12",
+    "jono12"
+  ]
+}

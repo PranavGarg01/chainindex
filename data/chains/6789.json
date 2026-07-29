@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Gold Smart Chain",
+  "slug": "gold-smart-chain",
+  "chainId": 6789,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Standard in Gold",
+    "symbol": "STAND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.goldsmartchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gold Smart Chain",
+      "url": "https://mainnet.goldsmartchain.com"
+    }
+  ],
+  "website": "https://goldsmartchain.com",
+  "aliases": [
+    "STAND",
+    "STANDm"
+  ]
+}

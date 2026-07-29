@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Fuel Sepolia Testnet",
+  "slug": "fuel-sepolia-testnet",
+  "chainId": 129514,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fuel-testnet-rpc.getzapped.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Fuel Sepolia Testnet Explorer",
+      "url": "https://fuel-testnet-explorer.getzapped.org"
+    }
+  ],
+  "website": "https://fuel.network/",
+  "aliases": [
+    "ETH",
+    "fuel-sepolia"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "Atleta Network",
+  "slug": "atleta-network",
+  "chainId": 2440,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Atla",
+    "symbol": "ATLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.atleta.mainnet.dteam.tech",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/atleta_mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://public-atla-mainnet.fastnode.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.atleta.at.htw.tech",
+      "isRecommended": false
+    },
+    {
+      "url": "https://atleta.nownodes.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.mainnet.atleta.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Atleta Explorer",
+      "url": "https://blockscout.atleta.network"
+    },
+    {
+      "name": "Atleta Polka Explorer",
+      "url": "https://polkadot-explorer.atleta.network/#/explorer"
+    }
+  ],
+  "website": "https://atleta.network",
+  "aliases": [
+    "Atleta",
+    "atla"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tipboxcoin",
+  "slug": "tipboxcoin",
+  "chainId": 404040,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tipboxcoin",
+    "symbol": "TPBX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.tipboxcoin.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tipboxcoin",
+      "url": "https://tipboxcoin.net"
+    }
+  ],
+  "website": "https://tipboxcoin.net",
+  "aliases": [
+    "TPBX",
+    "TPBXm"
+  ]
+}

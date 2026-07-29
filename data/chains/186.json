@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Seele",
+  "slug": "seele",
+  "chainId": 186,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Seele",
+    "symbol": "Seele",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.seelen.pro",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "seeleview",
+      "url": "https://seeleview.net"
+    }
+  ],
+  "website": "https://seelen.pro/"
+}

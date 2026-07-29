@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "TBSI Testnet",
+  "slug": "tbsi-testnet",
+  "chainId": 1708,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Jinda",
+    "symbol": "JINDA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.blockchain.or.th",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://exp.testnet.blockchain.or.th"
+    }
+  ],
+  "website": "https://blockchain.or.th",
+  "aliases": [
+    "TBSI",
+    "tTBSI",
+    "Thai Blockchain Service Infrastructure Testnet"
+  ]
+}

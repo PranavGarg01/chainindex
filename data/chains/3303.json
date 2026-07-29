@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Qubitcoin",
+  "slug": "qubitcoin",
+  "chainId": 3303,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Qubitcoin",
+    "symbol": "QBC",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://qbc.network/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Qubitcoin Explorer",
+      "url": "https://qbc.network/explorer"
+    }
+  ],
+  "website": "https://qbc.network",
+  "aliases": [
+    "QBC",
+    "qbc"
+  ]
+}

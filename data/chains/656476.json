@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "EDU Chain Testnet",
+  "slug": "edu-chain-testnet",
+  "chainId": 656476,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EDU",
+    "symbol": "EDU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.open-campus-codex.gelato.digital",
+      "isRecommended": true
+    },
+    {
+      "url": "https://open-campus-codex-sepolia.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.testnet.educhain.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EDU Chain Testnet Explorer",
+      "url": "https://explorer.testnet.educhain.xyz"
+    }
+  ],
+  "website": "https://www.educhain.xyz/",
+  "aliases": [
+    "edu-chain-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Etho Protocol",
+  "slug": "etho-protocol",
+  "chainId": 1313114,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Etho Protocol",
+    "symbol": "ETHO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ethoprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.ethoprotocol.com"
+    }
+  ],
+  "website": "https://ethoprotocol.com",
+  "aliases": [
+    "ETHO",
+    "etho"
+  ]
+}

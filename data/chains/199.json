@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "BitTorrent Chain",
+  "slug": "bittorrent-chain",
+  "chainId": 199,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bittorrentchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.bt.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://bittorrent.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BitTorrent Chain Explorer",
+      "url": "https://bttcscan.com"
+    }
+  ],
+  "website": "https://bt.io",
+  "aliases": [
+    "BTTC",
+    "BTT"
+  ]
+}

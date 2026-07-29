@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Lens Testnet",
+  "slug": "lens-testnet",
+  "chainId": 37111,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GRASS",
+    "symbol": "GRASS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.lens.dev",
+      "isRecommended": true
+    },
+    {
+      "url": "https://lens-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lens Testnet Block Explorer",
+      "url": "https://block-explorer.testnet.lens.dev"
+    }
+  ],
+  "website": "https://www.lens.xyz",
+  "aliases": [
+    "Lens",
+    "lens-sepolia",
+    "Lens Network Sepolia Testnet"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "C4EI",
+  "slug": "c4ei",
+  "chainId": 21004,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "C4EI",
+    "symbol": "C4EI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.c4ei.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "C4EI sirato",
+      "url": "https://exp.c4ei.net"
+    }
+  ],
+  "website": "https://c4ei.net"
+}

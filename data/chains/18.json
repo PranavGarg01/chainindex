@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "ThunderCore Testnet",
+  "slug": "thundercore-testnet",
+  "chainId": 18,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ThunderCore Testnet Token",
+    "symbol": "TST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.thundercore.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://thundercore-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "thundercore-blockscout-testnet",
+      "url": "https://explorer-testnet.thundercore.com"
+    }
+  ],
+  "website": "https://thundercore.com",
+  "aliases": [
+    "TST"
+  ]
+}

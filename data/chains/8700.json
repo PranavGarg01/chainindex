@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Autonomys Chronos Testnet",
+  "slug": "autonomys-chronos-testnet",
+  "chainId": 8700,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tAI3",
+    "symbol": "tAI3",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://auto-evm.chronos.autonomys.xyz/ws",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Autonomys Chronos Testnet Explorer",
+      "url": "https://explorer.auto-evm.chronos.autonomys.xyz"
+    }
+  ],
+  "website": "https://www.autonomys.xyz",
+  "aliases": [
+    "Autonomys EVM Chronos",
+    "ACN"
+  ]
+}

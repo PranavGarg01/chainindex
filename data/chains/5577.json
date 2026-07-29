@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "MSC Blockchain",
+  "slug": "msc-blockchain",
+  "chainId": 5577,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MSC Token",
+    "symbol": "MSC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.taaqo.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://taaqo.com",
+  "aliases": [
+    "MSC",
+    "msc"
+  ]
+}

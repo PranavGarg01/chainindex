@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Rootstock Testnet",
+  "slug": "rootstock-testnet",
+  "chainId": 31,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Smart Bitcoin",
+    "symbol": "tRBTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://public-node.testnet.rsk.co",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mycrypto.testnet.rsk.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rootstock-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "RSK Testnet Explorer",
+      "url": "https://explorer.testnet.rsk.co"
+    }
+  ],
+  "website": "https://rootstock.io",
+  "aliases": [
+    "Rootstock",
+    "trsk"
+  ]
+}

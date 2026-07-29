@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vecno",
+  "slug": "vecno",
+  "chainId": 65357,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vecno",
+    "symbol": "VE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.vecno.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "vecno",
+      "url": "https://explorer.vecno.org"
+    }
+  ],
+  "website": "https://vecno.org",
+  "aliases": [
+    "VE",
+    "ve"
+  ]
+}

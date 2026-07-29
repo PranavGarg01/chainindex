@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Quantum Chain",
+  "slug": "quantum-chain",
+  "chainId": 81720,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quantum Chain",
+    "symbol": "QNET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.quantumscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Quantum Scan Mainnet",
+      "url": "https://quantumscan.org"
+    }
+  ],
+  "website": "https://quantumnetwork.gg",
+  "aliases": [
+    "QNET",
+    "qnet"
+  ]
+}

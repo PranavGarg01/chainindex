@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "DOID",
+  "slug": "doid",
+  "chainId": 53277,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOID",
+    "symbol": "DOID",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.doid.tech",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DOID Scan",
+      "url": "https://scan.doid.tech"
+    }
+  ],
+  "website": "https://doid.tech"
+}

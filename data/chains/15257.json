@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Poodl Testnet",
+  "slug": "poodl-testnet",
+  "chainId": 15257,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Poodl",
+    "symbol": "POODL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.poodl.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Poodl Testnet Explorer",
+      "url": "https://testnet.poodl.org"
+    }
+  ],
+  "website": "https://poodl.org",
+  "aliases": [
+    "Poodl",
+    "poodlt"
+  ]
+}

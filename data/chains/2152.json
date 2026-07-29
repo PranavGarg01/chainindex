@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Findora",
+  "slug": "findora",
+  "chainId": 2152,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FRA",
+    "symbol": "FRA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.findora.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "findorascan",
+      "url": "https://evm.findorascan.io"
+    }
+  ],
+  "website": "https://findora.org/",
+  "aliases": [
+    "fra"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Kakarot Starknet Sepolia",
+  "slug": "kakarot-starknet-sepolia",
+  "chainId": 920637907288165,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-rpc.kakarot.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kakarot Scan",
+      "url": "https://sepolia.kakarotscan.org"
+    },
+    {
+      "name": "Kakarot Explorer",
+      "url": "https://sepolia-explorer.kakarot.org"
+    }
+  ],
+  "website": "https://kakarot.org",
+  "aliases": [
+    "ETH",
+    "kkrt-starknet-sepolia"
+  ]
+}

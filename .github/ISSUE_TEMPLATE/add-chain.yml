@@ -1,0 +1,58 @@
+name: Add a chain
+description: Propose a new EVM mainnet or testnet
+title: "Chain: "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before opening an issue, confirm that the network is EVM-compatible and that its details are available from an official source.
+  - type: input
+    id: name
+    attributes:
+      label: Chain name
+      placeholder: Ethereum
+    validations:
+      required: true
+  - type: input
+    id: chain-id
+    attributes:
+      label: Chain ID
+      description: The decimal EIP-155 chain ID.
+      placeholder: "1"
+    validations:
+      required: true
+  - type: dropdown
+    id: network-type
+    attributes:
+      label: Network type
+      options:
+        - Mainnet
+        - Testnet
+        - Devnet
+    validations:
+      required: true
+  - type: textarea
+    id: metadata
+    attributes:
+      label: Network details
+      description: Include public HTTPS RPCs, explorers, native currency, official website, and documentation links.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source
+      description: Link to official documentation that confirms the chain ID and network details.
+      placeholder: https://docs.example.org/network
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission checks
+      options:
+        - label: The RPC endpoints are public and do not contain API keys, tokens, or placeholders.
+          required: true
+        - label: I searched existing issues and chain records for this chain ID.
+          required: true

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tajirchain Testnet",
+  "slug": "tajirchain-testnet",
+  "chainId": 7733,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tajirchain Test Token",
+    "symbol": "TJR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.tajirchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.testnet.tajirchain.com"
+    }
+  ],
+  "website": "https://tajirchain.com",
+  "aliases": [
+    "TJR",
+    "tjr-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Kintsugi",
+  "slug": "kintsugi",
+  "chainId": 1337702,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "kintsugi Ethere",
+    "symbol": "kiETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.kintsugi.themerge.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "kintsugi explorer",
+      "url": "https://explorer.kintsugi.themerge.dev"
+    }
+  ],
+  "website": "https://kintsugi.themerge.dev/",
+  "aliases": [
+    "ETH",
+    "Kintsugi merge testnet"
+  ]
+}

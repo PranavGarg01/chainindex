@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Oneness Network",
+  "slug": "oneness-network",
+  "chainId": 2140,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.onenesslabs.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "oneness-mainnet",
+      "url": "https://scan.onenesslabs.io"
+    }
+  ],
+  "aliases": [
+    "Oneness",
+    "oneness"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Newton Finance Testnet",
+  "slug": "newton-finance-testnet",
+  "chainId": 26988,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Newton",
+    "symbol": "NEW",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://jp-rpc-testnet-newfi.newpay.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NewFi explorer",
+      "url": "https://explorer-testnet-newfi.newpay.io"
+    }
+  ],
+  "website": "https://newtonproject.org",
+  "aliases": [
+    "ETH",
+    "tNewFi"
+  ]
+}

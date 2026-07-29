@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "BLG Testnet",
+  "slug": "blg-testnet",
+  "chainId": 12321,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Blg",
+    "symbol": "BLG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blgchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://blgchain.com",
+  "aliases": [
+    "BLG",
+    "blgchain"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ConnectorManager",
+  "slug": "connectormanager",
+  "chainId": 38400,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rangers Protocol Gas",
+    "symbol": "cmRPG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cm.rangersprotocol.com/api/jsonrpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "rangersscan",
+      "url": "https://scan.rangersprotocol.com"
+    }
+  ],
+  "website": "https://rangersprotocol.com",
+  "aliases": [
+    "Rangers",
+    "cmrpg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Evoz",
+  "slug": "evoz",
+  "chainId": 805,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Evoz Mainnet",
+    "symbol": "EVOZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.evozscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "evozscan",
+      "url": "https://evozscan.com"
+    }
+  ],
+  "website": "https://rpc.evozscan.com"
+}

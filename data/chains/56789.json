@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "VELO Labs",
+  "slug": "velo-labs",
+  "chainId": 56789,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nova",
+    "symbol": "NOVA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nova.velo.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "novascan",
+      "url": "https://novascan.velo.org"
+    }
+  ],
+  "website": "https://velo.org",
+  "aliases": [
+    "NOVA chain",
+    "VELO"
+  ]
+}

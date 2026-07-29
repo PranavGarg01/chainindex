@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "XANAChain",
+  "slug": "xanachain",
+  "chainId": 8888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XETA",
+    "symbol": "XETA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.xana.net/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XANAChain",
+      "url": "https://xanachain.xana.net"
+    }
+  ],
+  "website": "https://xanachain.xana.net/"
+}

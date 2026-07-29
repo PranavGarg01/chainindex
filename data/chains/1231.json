@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Ultron",
+  "slug": "ultron",
+  "chainId": 1231,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ultron",
+    "symbol": "ULX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ultron-rpc.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ultron Explorer",
+      "url": "https://ulxscan.com"
+    }
+  ],
+  "website": "https://ultron.foundation",
+  "aliases": [
+    "UtronMainnet"
+  ]
+}

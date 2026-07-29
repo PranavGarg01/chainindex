@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "name": "MathChain",
+  "slug": "mathchain",
+  "chainId": 1139,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MathChain",
+    "symbol": "MATH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mathchain.maiziqianbao.net/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mathchain-asia.maiziqianbao.net/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mathchain-us.maiziqianbao.net/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://mathchain.org",
+  "aliases": [
+    "MATH"
+  ]
+}

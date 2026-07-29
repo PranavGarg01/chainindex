@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CONX Chain",
+  "slug": "conx-chain",
+  "chainId": 37,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XPLA",
+    "symbol": "XPLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dimension-evm-rpc.xpla.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CONX Explorer",
+      "url": "https://explorer.conx.xyz/mainnet"
+    }
+  ],
+  "website": "https://conx.xyz",
+  "aliases": [
+    "CONX",
+    "conx"
+  ]
+}

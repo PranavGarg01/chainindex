@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Dogether",
+  "slug": "dogether",
+  "chainId": 1248,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dogether",
+    "symbol": "dogeth",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dogether.dog",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DogetherExplorer",
+      "url": "https://explorer.dogether.dog"
+    }
+  ],
+  "website": "https://www.dogether.dog/"
+}

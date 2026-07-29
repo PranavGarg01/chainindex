@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Xylume TestNet",
+  "slug": "xylume-testnet",
+  "chainId": 6934,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Xylume",
+    "symbol": "XYL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xylume-testnet.sparked.network/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Xylume Explorer",
+      "url": "https://debxylen.github.io/XylumeExplorer"
+    }
+  ],
+  "website": "https://debxylen.github.io/Xylume_TestNet",
+  "aliases": [
+    "XYL",
+    "xyl"
+  ]
+}

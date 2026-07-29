@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Won Network",
+  "slug": "won-network",
+  "chainId": 686868,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Won",
+    "symbol": "WON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.wonnetwork.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Won Explorer",
+      "url": "https://scan.wonnetwork.org"
+    }
+  ],
+  "website": "https://wonnetwork.org",
+  "aliases": [
+    "WON",
+    "WonChain"
+  ]
+}

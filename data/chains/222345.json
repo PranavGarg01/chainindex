@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SSHIVANSH",
+  "slug": "sshivansh",
+  "chainId": 222345,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SIVZ",
+    "symbol": "SIVZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://apiprod.sshivanshcoin.com/ext/bc/2XWN3PW4Qdjw3AtG6eqH8PCzj49G9Qay6SLNWbGLjsDF1qPgsW/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SSHIVANSH Explorer",
+      "url": "https://explorer.sshivanshcoin.com"
+    }
+  ],
+  "website": "https://sshivanshcoin.com",
+  "aliases": [
+    "sivz-mainnet"
+  ]
+}

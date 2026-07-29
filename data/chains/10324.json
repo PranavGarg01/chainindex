@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TAO EVM Testnet",
+  "slug": "tao-evm-testnet",
+  "chainId": 10324,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAO",
+    "symbol": "TAO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.taoevm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TAO Testnet Explorer",
+      "url": "https://testnet.taoscan.org"
+    }
+  ],
+  "website": "https://taoevm.io",
+  "aliases": [
+    "TAO EVM",
+    "TAOt"
+  ]
+}

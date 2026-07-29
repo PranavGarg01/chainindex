@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "EthStorage",
+  "slug": "ethstorage",
+  "chainId": 333,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.ethstorage.io:9540",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ethstorage.io/",
+  "aliases": [
+    "es-m"
+  ]
+}

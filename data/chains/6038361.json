@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Astar zKyoto",
+  "slug": "astar-zkyoto",
+  "chainId": 6038361,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.startale.com/zkyoto",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.zkyoto.gelato.digital",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout zKyoto explorer",
+      "url": "https://astar-zkyoto.blockscout.com"
+    }
+  ],
+  "website": "https://astar.network",
+  "aliases": [
+    "ETH",
+    "azkyt",
+    "Astar zkEVM Testnet zKyoto"
+  ]
+}

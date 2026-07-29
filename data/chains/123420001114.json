@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Basecamp",
+  "slug": "basecamp",
+  "chainId": 123420001114,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Camp",
+    "symbol": "CAMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.basecamp.t.raas.gelato.cloud",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://basecamp.cloud.blockscout.com"
+    }
+  ],
+  "website": "https://docs.campnetwork.xyz/",
+  "aliases": [
+    "CAMP"
+  ]
+}

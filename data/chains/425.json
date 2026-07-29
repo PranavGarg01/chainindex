@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Stenix",
+  "slug": "stenix",
+  "chainId": 425,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Stenix",
+    "symbol": "STEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://stenix.network/pub",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "stenscan",
+      "url": "https://stenscan.com"
+    }
+  ],
+  "website": "https://stenix.org",
+  "aliases": [
+    "STEN",
+    "sten"
+  ]
+}

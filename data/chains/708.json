@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BlockChain Station Testnet",
+  "slug": "blockchain-station-testnet",
+  "chainId": 708,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BCS Testnet Token",
+    "symbol": "tBCS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.bcsdev.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockChain Station Explorer",
+      "url": "https://testnet.bcsdev.io"
+    }
+  ],
+  "website": "https://blockchainstation.io",
+  "aliases": [
+    "BCS",
+    "tbcs"
+  ]
+}

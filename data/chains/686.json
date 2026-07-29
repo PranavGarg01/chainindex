@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Karura Network",
+  "slug": "karura-network",
+  "chainId": 686,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Karura Token",
+    "symbol": "KAR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc-karura.aca-staging.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.evm.karura.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://karura.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-rpc-karura.aca-api.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.karura.network"
+    }
+  ],
+  "website": "https://acala.network/karura",
+  "aliases": [
+    "KAR",
+    "kar"
+  ]
+}

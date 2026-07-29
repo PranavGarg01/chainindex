@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Layer Edge",
+  "slug": "layer-edge",
+  "chainId": 4207,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Layer Edge",
+    "symbol": "EDGEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://layeredge-mainnet-evm.itrocket.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://layeredge.rpc.subquery.network/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.layeredge.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.layeredge.foundation",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Layer Edge Explorer",
+      "url": "https://edgenscan.io"
+    }
+  ],
+  "website": "https://layeredge.io",
+  "aliases": [
+    "EDGEN",
+    "LayerEdge"
+  ]
+}

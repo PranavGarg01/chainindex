@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "XGR Testnet",
+  "slug": "xgr-testnet",
+  "chainId": 1879,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XGR",
+    "symbol": "XGR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.xgr.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.testnet.xgr.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.testnet.xgr.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XGR Testnet Explorer",
+      "url": "https://explorer.testnet.xgr.network"
+    }
+  ],
+  "website": "https://xgr.network",
+  "aliases": [
+    "XGR",
+    "xgrt"
+  ]
+}

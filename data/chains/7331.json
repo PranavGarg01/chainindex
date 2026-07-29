@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "KLYNTAR",
+  "slug": "klyntar",
+  "chainId": 7331,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "KLYNTAR",
+    "symbol": "KLY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.klyntar.org/kly_evm_rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm.klyntarscan.org/kly_evm_rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://klyntar.org",
+  "aliases": [
+    "KLY",
+    "kly"
+  ]
+}

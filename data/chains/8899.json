@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "JIBCHAIN L1",
+  "slug": "jibchain-l1",
+  "chainId": 8899,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JIBCOIN",
+    "symbol": "JBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-l1.jibchain.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-l1.inan.in.th",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-l1.jbc.xpool.pw",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2-l1.jbc.xpool.pw",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "JIBCHAIN Explorer",
+      "url": "https://exp-l1.jibchain.net"
+    }
+  ],
+  "website": "https://jibchain.net",
+  "aliases": [
+    "JBC",
+    "jbc"
+  ]
+}

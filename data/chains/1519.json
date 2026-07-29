@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Dolphinet Testnet",
+  "slug": "dolphinet-testnet",
+  "chainId": 1519,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOL",
+    "symbol": "DOL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.dolphinode.world",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-testnet.dolphinode.world/"
+    }
+  ],
+  "website": "https://explorer-testnet.dolphinode.world/",
+  "aliases": [
+    "DOL",
+    "dolphinet-testnet"
+  ]
+}

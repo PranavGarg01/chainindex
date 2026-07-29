@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nahmii 3",
+  "slug": "nahmii-3",
+  "chainId": 4061,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.n3.nahmii.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nahmii 3 Mainnet Explorer",
+      "url": "https://explorer.nahmii.io"
+    }
+  ],
+  "website": "https://nahmii.io",
+  "aliases": [
+    "Nahmii",
+    "Nahmii3Mainnet"
+  ]
+}

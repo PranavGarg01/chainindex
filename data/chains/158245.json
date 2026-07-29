@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CryptoX",
+  "slug": "cryptox",
+  "chainId": 158245,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XCOIN",
+    "symbol": "XCOIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-xcoin.cryptoxnetwork.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CryptoX explorer",
+      "url": "https://cryptoxscan.io"
+    }
+  ],
+  "website": "https://cryptoxnetwork.io",
+  "aliases": [
+    "XCOIN"
+  ]
+}

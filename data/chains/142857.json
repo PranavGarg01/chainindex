@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ICPlaza",
+  "slug": "icplaza",
+  "chainId": 142857,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ict",
+    "symbol": "ict",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.icplaza.pro",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpcmainnet.ic-plaza.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ICPlaza",
+      "url": "https://browsemainnet.ic-plaza.org/index"
+    }
+  ],
+  "website": "https://docs.ic-plaza.org/"
+}

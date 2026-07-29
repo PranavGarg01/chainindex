@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Incentiv Testnet",
+  "slug": "incentiv-testnet",
+  "chainId": 28802,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Incentiv Coin",
+    "symbol": "TCENT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc3.testnet.incentiv.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Incentiv Testnet Explorer",
+      "url": "https://explorer-testnet.incentiv.io/"
+    }
+  ],
+  "website": "https://incentiv.net",
+  "aliases": [
+    "TCENT",
+    "tcent"
+  ]
+}

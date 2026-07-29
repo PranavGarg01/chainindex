@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Birdee-2",
+  "slug": "birdee-2",
+  "chainId": 712,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tucana",
+    "symbol": "TUC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.birdee-2.tucana.zone",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Birdee-2 Explorer",
+      "url": "https://explorer.birdee-2.tucana.zone"
+    }
+  ],
+  "website": "https://tucana.zone",
+  "aliases": [
+    "Tucana",
+    "Tucana Testnet"
+  ]
+}

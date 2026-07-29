@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BerylBit",
+  "slug": "berylbit",
+  "chainId": 9012,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BerylBit Chain Native Token",
+    "symbol": "BRB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.berylbit.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "berylbit-explorer",
+      "url": "https://explorer.berylbit.io"
+    }
+  ],
+  "website": "https://www.beryl-bit.com",
+  "aliases": [
+    "BRB",
+    "brb"
+  ]
+}

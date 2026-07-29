@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitindi Testnet",
+  "slug": "bitindi-testnet",
+  "chainId": 4096,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BNI",
+    "symbol": "$BNI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.bitindi.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitindi",
+      "url": "https://testnet.bitindiscan.com"
+    }
+  ],
+  "website": "https://bitindi.org",
+  "aliases": [
+    "BNI",
+    "BNIt"
+  ]
+}

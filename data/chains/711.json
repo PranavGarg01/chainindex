@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tucana",
+  "slug": "tucana",
+  "chainId": 711,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tucana",
+    "symbol": "TUC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.tucana.zone",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tucana Explorer",
+      "url": "https://explorer.tucana.zone"
+    }
+  ],
+  "website": "https://tucana.zone",
+  "aliases": [
+    "tuc",
+    "Tucana Testnet"
+  ]
+}

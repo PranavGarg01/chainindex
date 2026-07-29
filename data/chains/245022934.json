@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Neon EVM",
+  "slug": "neon-evm",
+  "chainId": 245022934,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Neon",
+    "symbol": "NEON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://neon-proxy-mainnet.solana.p2p.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://neon-mainnet.everstake.one",
+      "isRecommended": false
+    },
+    {
+      "url": "https://neon-evm.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "neonscan",
+      "url": "https://neonscan.org"
+    },
+    {
+      "name": "native",
+      "url": "https://neon.blockscout.com"
+    }
+  ],
+  "website": "https://neonevm.org",
+  "aliases": [
+    "Solana",
+    "neonevm-mainnet"
+  ]
+}

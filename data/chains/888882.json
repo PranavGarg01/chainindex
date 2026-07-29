@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "REXX",
+  "slug": "rexx",
+  "chainId": 888882,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "REXX",
+    "symbol": "REXX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.rexxnetwork.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "REXX Mainnet Explorer",
+      "url": "https://rexxnetwork.com"
+    }
+  ],
+  "website": "https://rexxnetwork.com",
+  "aliases": [
+    "REXX Mainnet"
+  ]
+}

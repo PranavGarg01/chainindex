@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Bahamut horizon",
+  "slug": "bahamut-horizon",
+  "chainId": 2552,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FTN",
+    "symbol": "FTN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/bahamut_horizon",
+      "isRecommended": true
+    },
+    {
+      "url": "https://horizon-fastex-testnet.zeeve.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://horizon.ftnscan.com"
+    }
+  ],
+  "website": "https://bahamut.io",
+  "aliases": [
+    "Bahamut",
+    "horizon"
+  ]
+}

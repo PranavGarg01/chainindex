@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Vine Testnet",
+  "slug": "vine-testnet",
+  "chainId": 601,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VINE",
+    "symbol": "VNE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.vne.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vine Explorer",
+      "url": "https://vne.network/rose"
+    }
+  ],
+  "website": "https://www.peer.inc",
+  "aliases": [
+    "VINE"
+  ]
+}

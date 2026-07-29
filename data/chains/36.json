@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Dxchain",
+  "slug": "dxchain",
+  "chainId": 36,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Dxchain",
+    "symbol": "DX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.dxchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "dxscan",
+      "url": "https://dxscan.io"
+    }
+  ],
+  "website": "https://www.dxchain.com/",
+  "aliases": [
+    "dx"
+  ]
+}

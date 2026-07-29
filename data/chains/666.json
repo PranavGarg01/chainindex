@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Pixie Chain Testnet",
+  "slug": "pixie-chain-testnet",
+  "chainId": 666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pixie Chain Testnet Native Token",
+    "symbol": "PCTT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://http-testnet.chain.pixie.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://scan-testnet.chain.pixie.xyz",
+  "aliases": [
+    "PixieChain",
+    "pixie-chain-testnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Algen Testnet",
+  "slug": "algen-testnet",
+  "chainId": 8912,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ALG",
+    "symbol": "ALG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.test.algen.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "algscan",
+      "url": "https://scan.test.algen.network"
+    }
+  ],
+  "website": "https://www.algen.network",
+  "aliases": [
+    "ALG",
+    "algTest"
+  ]
+}

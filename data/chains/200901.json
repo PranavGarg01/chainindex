@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitlayer",
+  "slug": "bitlayer",
+  "chainId": 200901,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitlayer.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/bitlayer",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.bitlayer-rpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-bitlayer.rockx.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bitlayer mainnet scan",
+      "url": "https://www.btrscan.com"
+    }
+  ],
+  "website": "https://docs.bitlayer.org/",
+  "aliases": [
+    "btr"
+  ]
+}

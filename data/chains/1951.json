@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "name": "D-Chain",
+  "slug": "d-chain",
+  "chainId": 1951,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DOINX",
+    "symbol": "DOINX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.d-chain.network/ext/bc/2ZiR1Bro5E59siVuwdNuRFzqL95NkvkbzyLBdrsYR9BLSHV7H4/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "aliases": [
+    "dchain-mainnet"
+  ]
+}

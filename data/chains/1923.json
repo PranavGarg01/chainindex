@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Swellchain",
+  "slug": "swellchain",
+  "chainId": 1923,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/swell",
+      "isRecommended": true
+    },
+    {
+      "url": "https://swell-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://swell-mainnet.alt.technology",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Swellchain Explorer",
+      "url": "https://explorer.swellnetwork.io"
+    }
+  ],
+  "website": "https://app.swellnetwork.io/layer2/swell-l2",
+  "aliases": [
+    "ETH"
+  ]
+}

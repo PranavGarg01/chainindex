@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Oxin Chain",
+  "slug": "oxin-chain",
+  "chainId": 4457,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Oxin",
+    "symbol": "OXIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.oxinchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.oxinchain.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.oxinchain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "oxinscan",
+      "url": "https://scan.oxinchain.io"
+    }
+  ],
+  "website": "https://oxinchain.io",
+  "aliases": [
+    "OXIN",
+    "oxin"
+  ]
+}

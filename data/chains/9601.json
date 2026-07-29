@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "KUB Layer 2",
+  "slug": "kub-layer-2",
+  "chainId": 9601,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KUB",
+    "symbol": "KUB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://kublayer2.kubchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KUB Layer 2 Mainnet Explorer",
+      "url": "https://kublayer2.kubscan.com"
+    }
+  ],
+  "aliases": [
+    "KUB",
+    "kub"
+  ]
+}

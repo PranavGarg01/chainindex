@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Haymo Testnet",
+  "slug": "haymo-testnet",
+  "chainId": 234666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HAYMO",
+    "symbol": "HYM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet1.haymo.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://haymoswap.web.app/",
+  "aliases": [
+    "tHYM",
+    "hym"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "RUNEVM Testnet",
+  "slug": "runevm-testnet",
+  "chainId": 840000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test Bitcoin",
+    "symbol": "tBTC",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.runevm.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.runevm.io"
+    }
+  ],
+  "aliases": [
+    "RuneVM",
+    "runevm-test"
+  ]
+}

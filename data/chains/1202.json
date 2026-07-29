@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "World Trade Technical Chain",
+  "slug": "world-trade-technical-chain",
+  "chainId": 1202,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "World Trade Token",
+    "symbol": "WTT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cadaut.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "WTTScout",
+      "url": "https://explorer.cadaut.com"
+    }
+  ],
+  "aliases": [
+    "WTT",
+    "wtt"
+  ]
+}

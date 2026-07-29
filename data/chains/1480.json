@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Vana",
+  "slug": "vana",
+  "chainId": 1480,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vana",
+    "symbol": "VANA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.vana.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evm-rpc-vana.josephtran.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://evm-rpc-vana.j-node.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://islander-vana-rpc.spidernode.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vana Block Explorer",
+      "url": "https://vanascan.io"
+    }
+  ],
+  "website": "https://vana.org"
+}

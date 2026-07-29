@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "HOO Smart Chain Testnet",
+  "slug": "hoo-smart-chain-testnet",
+  "chainId": 170,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HOO",
+    "symbol": "HOO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://http-testnet.hoosmartchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.hoosmartchain.com",
+  "aliases": [
+    "ETH",
+    "hoosmartchain"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KiteAI",
+  "slug": "kiteai",
+  "chainId": 2366,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gokite.ai",
+      "isRecommended": true
+    },
+    {
+      "url": "https://kite.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kitescan",
+      "url": "https://kitescan.ai"
+    }
+  ],
+  "website": "https://gokite.ai/"
+}

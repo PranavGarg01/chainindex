@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Excoincial Chain",
+  "slug": "excoincial-chain",
+  "chainId": 27082022,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Exlcoin",
+    "symbol": "EXL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.exlscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "exlscan",
+      "url": "https://exlscan.com"
+    }
+  ],
+  "aliases": [
+    "EXL",
+    "exl"
+  ]
+}

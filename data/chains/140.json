@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Eteria",
+  "slug": "eteria",
+  "chainId": 140,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Eteria",
+    "symbol": "ERA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.eteria.io/v1",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "eteriascan",
+      "url": "https://explorer.eteria.io"
+    }
+  ],
+  "website": "https://eteria.io",
+  "aliases": [
+    "ERA"
+  ]
+}

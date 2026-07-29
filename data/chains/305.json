@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ZKSats",
+  "slug": "zksats",
+  "chainId": 305,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.zksats.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.zksats.io"
+    }
+  ],
+  "website": "https://zksats.io",
+  "aliases": [
+    "ZKSats-Mainnet",
+    "ZKSats Mainnet"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Story",
+  "slug": "story",
+  "chainId": 1514,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IP Token",
+    "symbol": "IP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.datarpc.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet.storyrpc.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://mainnet.storyscan.xyz"
+    }
+  ],
+  "website": "https://story.foundation/",
+  "aliases": [
+    "sty"
+  ]
+}

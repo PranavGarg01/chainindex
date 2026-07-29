@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Miracle Chain",
+  "slug": "miracle-chain",
+  "chainId": 92278,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Miracle Play Token",
+    "symbol": "MPT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.miracleplay.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Miracle Chain Explorer",
+      "url": "https://explorer.miracleplay.io"
+    }
+  ],
+  "website": "https://miracleplay.gg",
+  "aliases": [
+    "MIRACLE"
+  ]
+}

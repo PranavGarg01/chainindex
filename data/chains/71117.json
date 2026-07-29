@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "W Chain Testnet",
+  "slug": "w-chain-testnet",
+  "chainId": 71117,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "W Coin",
+    "symbol": "WCO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.w-chain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "W Scan Testnet",
+      "url": "https://scan-testnet.w-chain.com"
+    }
+  ],
+  "website": "https://w-chain.com",
+  "aliases": [
+    "WCN",
+    "wcn-testnet"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "CoinEx Smart Chain",
+  "slug": "coinex-smart-chain",
+  "chainId": 52,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CoinEx Chain Native Token",
+    "symbol": "cet",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.coinex.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.coinex.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.coinex.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.coinex.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc4.coinex.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "coinexscan",
+      "url": "https://www.coinex.net"
+    }
+  ],
+  "website": "https://www.coinex.org/",
+  "aliases": [
+    "CSC",
+    "cet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "AppChain Testnet",
+  "slug": "appchain-testnet",
+  "chainId": 4661,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://appchaintestnet.rpc.caldera.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AppChain Testnet Explorer",
+      "url": "https://appchaintestnet.explorer.caldera.xyz"
+    }
+  ],
+  "website": "https://appchain.xyz",
+  "aliases": [
+    "appchaintestnet"
+  ]
+}

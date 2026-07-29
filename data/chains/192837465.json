@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Gather Mainnet Network",
+  "slug": "gather-mainnet-network",
+  "chainId": 192837465,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Gather",
+    "symbol": "GTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.gather.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.gather.network"
+    }
+  ],
+  "website": "https://gather.network",
+  "aliases": [
+    "GTH"
+  ]
+}

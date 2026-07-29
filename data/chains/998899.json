@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "name": "Supernet Testnet",
+  "slug": "supernet-testnet",
+  "chainId": 998899,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CHAIN",
+    "symbol": "CHAIN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.supernet.chaingames.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "supernet-testnet-explorer",
+      "url": "https://testnet-explorer.supernet.chaingames.io"
+    }
+  ],
+  "aliases": [
+    "supernetchain"
+  ]
+}

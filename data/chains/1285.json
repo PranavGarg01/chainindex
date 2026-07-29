@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Moonriver",
+  "slug": "moonriver",
+  "chainId": 1285,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.api.moonriver.moonbeam.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://moonriver.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonriver.unitedbloc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonriver-rpc.dwellir.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonriver-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonriver.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/movr/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonriver.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/moonriver",
+      "isRecommended": false
+    },
+    {
+      "url": "https://moonriver.public.blastapi.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "moonscan",
+      "url": "https://moonriver.moonscan.io"
+    }
+  ],
+  "website": "https://moonbeam.network/networks/moonriver/",
+  "aliases": [
+    "MOON",
+    "mriver"
+  ]
+}

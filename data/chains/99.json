@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "POA Network Core",
+  "slug": "poa-network-core",
+  "chainId": 99,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "POA Network Core Ether",
+    "symbol": "POA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://core.poanetwork.dev",
+      "isRecommended": true
+    },
+    {
+      "url": "https://core.poa.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/poa/core"
+    }
+  ],
+  "website": "https://poa.network",
+  "aliases": [
+    "POA",
+    "poa"
+  ]
+}

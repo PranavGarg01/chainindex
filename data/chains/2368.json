@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KiteAI Testnet",
+  "slug": "kiteai-testnet",
+  "chainId": 2368,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.gokite.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kitescan",
+      "url": "https://testnet.kitescan.ai"
+    }
+  ],
+  "website": "https://gokite.ai/",
+  "aliases": [
+    "KiteAI",
+    "KiteAITestnet"
+  ]
+}

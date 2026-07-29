@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "SPS",
+  "slug": "sps",
+  "chainId": 13000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ECG",
+    "symbol": "ECG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ssquad.games",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ssquad.games/"
+}

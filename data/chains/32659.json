@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Fusion",
+  "slug": "fusion",
+  "chainId": 32659,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Fusion",
+    "symbol": "FSN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.fusionnetwork.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "fsnscan",
+      "url": "https://fsnscan.com"
+    }
+  ],
+  "website": "https://fusion.org",
+  "aliases": [
+    "FSN",
+    "fsn"
+  ]
+}

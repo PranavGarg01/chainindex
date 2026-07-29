@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Juneo LINK1-Chain",
+  "slug": "juneo-link1-chain",
+  "chainId": 45014,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LINK1",
+    "symbol": "LINK1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.juneo-mainnet.network/ext/bc/LINK1/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Juneo Scan",
+      "url": "https://juneoscan.io/chain/13"
+    }
+  ],
+  "website": "https://juneo.com/",
+  "aliases": [
+    "LINK1"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Omni Omega Testnet",
+  "slug": "omni-omega-testnet",
+  "chainId": 164,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Omni",
+    "symbol": "OMNI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://omega.omni.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Omni EVM and cross-chain Explorer",
+      "url": "https://omega.omniscan.network"
+    }
+  ],
+  "website": "https://docs.omni.network",
+  "aliases": [
+    "Omni",
+    "omni_omega"
+  ]
+}

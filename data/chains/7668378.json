@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "QL1 Testnet",
+  "slug": "ql1-testnet",
+  "chainId": 7668378,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Shiba Predator",
+    "symbol": "QOM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.qom.one",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QL1 Testnet Explorer",
+      "url": "https://testnet.qom.one"
+    }
+  ],
+  "website": "https://qom.one",
+  "aliases": [
+    "QOM",
+    "tqom"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CHEESE Blockchain",
+  "slug": "cheese-blockchain-20250",
+  "chainId": 20250,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NCheese",
+    "symbol": "NCH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://cheeseblockchain.com/api/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CHEESE Explorer",
+      "url": "https://cheeseblockchain.com/explorer"
+    }
+  ],
+  "website": "https://cheeseblockchain.com",
+  "aliases": [
+    "CHEESE",
+    "cheese"
+  ]
+}

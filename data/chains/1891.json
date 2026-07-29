@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Lightlink Pegasus Testnet",
+  "slug": "lightlink-pegasus-testnet",
+  "chainId": 1891,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://replicator.pegasus.lightlink.io/rpc/v1",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/lightlink/pegasus/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "pegasus",
+      "url": "https://pegasus.lightlink.io"
+    }
+  ],
+  "website": "https://lightlink.io",
+  "aliases": [
+    "lightlink_pegasus"
+  ]
+}

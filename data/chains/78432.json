@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Conduit Subnet",
+  "slug": "conduit-subnet",
+  "chainId": 78432,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CON",
+    "symbol": "CON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/conduit/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CONDUIT Explorer",
+      "url": "https://subnets-test.avax.network/conduit"
+    }
+  ],
+  "website": "https://www.avax.network",
+  "aliases": [
+    "CONDUIT",
+    "conduit"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Diode Prenet",
+  "slug": "diode-prenet",
+  "chainId": 15,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Diodes",
+    "symbol": "DIODE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://prenet.diode.io:8443",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://diode.io/prenet",
+  "aliases": [
+    "DIODE",
+    "diode"
+  ]
+}

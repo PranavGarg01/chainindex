@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Cybria",
+  "slug": "cybria",
+  "chainId": 6661,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cybria",
+    "symbol": "CYBA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.cybria.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Cybria Explorer",
+      "url": "https://cybascan.io"
+    }
+  ],
+  "website": "https://cybria.io",
+  "aliases": [
+    "CYBA",
+    "cyba"
+  ]
+}

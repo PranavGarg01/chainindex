@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Lightlink Phoenix",
+  "slug": "lightlink-phoenix",
+  "chainId": 1890,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://replicator.phoenix.lightlink.io/rpc/v1",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/lightlink/phoenix/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "phoenix",
+      "url": "https://phoenix.lightlink.io"
+    }
+  ],
+  "website": "https://lightlink.io",
+  "aliases": [
+    "Lightlink Phoenix Mainnet",
+    "lightlink_phoenix"
+  ]
+}

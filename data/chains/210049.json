@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "GitAGI Atlas Testnet",
+  "slug": "gitagi-atlas-testnet",
+  "chainId": 210049,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GitAGI",
+    "symbol": "tGAGI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gitagi.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://gitagi.org/",
+  "aliases": [
+    "GitAGI",
+    "atlas"
+  ]
+}

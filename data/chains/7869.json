@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Powerloom Mainnet V2",
+  "slug": "powerloom-mainnet-v2",
+  "chainId": 7869,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Powerloom Token",
+    "symbol": "POWER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-v2.powerloom.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer-v2.powerloom.network"
+    }
+  ],
+  "website": "https://powerloom.network",
+  "aliases": [
+    "powerloom"
+  ]
+}

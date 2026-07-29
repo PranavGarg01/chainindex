@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tetron Smart Chain",
+  "slug": "tetron-smart-chain",
+  "chainId": 97055,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tetron Mainnet",
+    "symbol": "TSC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.tscscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tetron Smart ChainExplorer",
+      "url": "https://tscscan.org"
+    }
+  ],
+  "website": "https://tetronchain.com/",
+  "aliases": [
+    "Tetron Mainnet",
+    "Tetron"
+  ]
+}

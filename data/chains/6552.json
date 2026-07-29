@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Scolcoin WeiChain Testnet",
+  "slug": "scolcoin-weichain-testnet",
+  "chainId": 6552,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Scolcoin",
+    "symbol": "SCOL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.scolcoin.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Scolscan Testnet Explorer",
+      "url": "https://testnet-explorer.scolcoin.com"
+    }
+  ],
+  "website": "https://scolcoin.com",
+  "aliases": [
+    "SCOLWEI-testnet",
+    "SRC-test"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "B3",
+  "slug": "b3",
+  "chainId": 8333,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.b3.fun",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.b3.fun"
+    }
+  ],
+  "website": "https://b3.fun"
+}

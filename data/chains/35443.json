@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Q Testnet",
+  "slug": "q-testnet",
+  "chainId": 35443,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Q token",
+    "symbol": "Q",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.qtestnet.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Q explorer",
+      "url": "https://explorer.qtestnet.org"
+    }
+  ],
+  "website": "https://q.org/",
+  "aliases": [
+    "Q",
+    "q-testnet"
+  ]
+}

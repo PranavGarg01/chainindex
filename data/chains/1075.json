@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "IOTA EVM Testnet",
+  "slug": "iota-evm-testnet",
+  "chainId": 1075,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-toolkit-api.evm.testnet.iotaledger.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://iota-testnet-evm.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/iota_evm_testnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://iota-testnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://json-rpc.evm.testnet.iotaledger.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.evm.testnet.iotaledger.net"
+    }
+  ],
+  "website": "https://www.iota.org",
+  "aliases": [
+    "IOTA EVM",
+    "iotaevm-testnet"
+  ]
+}

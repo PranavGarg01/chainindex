@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ella the heart",
+  "slug": "ella-the-heart",
+  "chainId": 7027,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ella",
+    "symbol": "ELLA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ella.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ella",
+      "url": "https://ella.network"
+    }
+  ],
+  "website": "https://ella.network",
+  "aliases": [
+    "ella",
+    "ELLA"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "UXLINK ONE",
+  "slug": "uxlink-one",
+  "chainId": 718,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.uxlinkone.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UXLINK ONE Mainnet Explorer",
+      "url": "https://sepolia.uxlinkone.com"
+    }
+  ],
+  "website": "https://www.uxlinkone.com",
+  "aliases": [
+    "uxlink1"
+  ]
+}

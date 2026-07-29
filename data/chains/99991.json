@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Quantum Sharded Network Testnet",
+  "slug": "quantum-sharded-network-testnet",
+  "chainId": 99991,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Quantum Sharded Network",
+    "symbol": "tQSN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://node.qsnchain.com/testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QSN Explorer",
+      "url": "https://qsnscan.io"
+    }
+  ],
+  "website": "https://qsnchain.com",
+  "aliases": [
+    "QSN",
+    "qsn"
+  ]
+}

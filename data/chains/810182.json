@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "zkLink Nova Goerli Testnet",
+  "slug": "zklink-nova-goerli-testnet",
+  "chainId": 810182,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://goerli.rpc.zklink.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zkLink Nova Block Explorer",
+      "url": "https://goerli.explorer.zklink.io"
+    }
+  ],
+  "website": "https://zklink.io",
+  "aliases": [
+    "ETH",
+    "zklink-nova-goerli"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Ham",
+  "slug": "ham",
+  "chainId": 5112,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ham.fun",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.ham.fun"
+    }
+  ],
+  "website": "https://ham.fun"
+}

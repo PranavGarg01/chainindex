@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CMDAO BBQ Chain",
+  "slug": "cmdao-bbq-chain",
+  "chainId": 190,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CommuDAO",
+    "symbol": "CMD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bbqchain-rpc.commudao.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bbqchain-explorer",
+      "url": "https://bbqchain-exp.commudao.xyz"
+    }
+  ],
+  "website": "https://commudao.xyz",
+  "aliases": [
+    "Underchain 1",
+    "cmdao-bbq-chain"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Soneium Testnet Minato",
+  "slug": "soneium-testnet-minato",
+  "chainId": 1946,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.minato.soneium.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://soneium-minato.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://soneium-minato.rpc.sentio.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout Minato explorer",
+      "url": "https://soneium-minato.blockscout.com"
+    }
+  ],
+  "website": "https://soneium.org",
+  "aliases": [
+    "ETH",
+    "soneium-minato"
+  ]
+}

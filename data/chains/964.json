@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Subtensor EVM",
+  "slug": "subtensor-evm",
+  "chainId": 964,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAO",
+    "symbol": "TAO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bittensor-lite-public.nodies.app",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.blockmachine.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://lite.chain.opentensor.ai",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://bittensor.com/",
+  "aliases": [
+    "Bittensor",
+    "bittensor-evm-mainnet"
+  ]
+}

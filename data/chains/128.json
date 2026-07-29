@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "Huobi ECO Chain",
+  "slug": "huobi-eco-chain",
+  "chainId": 128,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Huobi ECO Chain Native Token",
+    "symbol": "HT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://http-mainnet.hecochain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://http-mainnet-node.huobichain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://hecoapi.terminet.io/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://heco.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "hecoinfo",
+      "url": "https://hecoinfo.com"
+    }
+  ],
+  "website": "https://www.hecochain.com",
+  "aliases": [
+    "Heco",
+    "heco"
+  ]
+}

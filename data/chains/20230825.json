@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vcity Testnet",
+  "slug": "vcity-testnet",
+  "chainId": 20230825,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Vcity Token",
+    "symbol": "VCT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.vcity.app",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vcity Explorer",
+      "url": "https://scan.vcity.app"
+    }
+  ],
+  "website": "https://vcity.app",
+  "aliases": [
+    "VCITY",
+    "Vcitytestnet"
+  ]
+}

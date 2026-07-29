@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Kyoto",
+  "slug": "kyoto",
+  "chainId": 1997,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Kyoto",
+    "symbol": "KYOTO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.kyotochain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kyotoscan",
+      "url": "https://kyotoscan.io"
+    }
+  ],
+  "website": "https://kyotoprotocol.io"
+}

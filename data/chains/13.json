@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Diode Testnet Staging",
+  "slug": "diode-testnet-staging",
+  "chainId": 13,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Staging Diodes",
+    "symbol": "sDIODE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://staging.diode.io:8443",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://diode.io/staging",
+  "aliases": [
+    "DIODE",
+    "dstg"
+  ]
+}

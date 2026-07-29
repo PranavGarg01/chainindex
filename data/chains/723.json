@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitasset Chain",
+  "slug": "bitasset-chain",
+  "chainId": 723,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bitasset Chain Native Token",
+    "symbol": "BAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bitassetchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bacscan",
+      "url": "https://bacscan.net"
+    }
+  ],
+  "website": "https://bitassetchain.io",
+  "aliases": [
+    "BAC",
+    "bac"
+  ]
+}

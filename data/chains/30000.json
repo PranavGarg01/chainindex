@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "qChain",
+  "slug": "qchain",
+  "chainId": 30000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QCO",
+    "symbol": "QCO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.qchain.kr",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "qChain explorer",
+      "url": "https://scan.qchain.kr"
+    }
+  ],
+  "website": "https://www.qchain.kr"
+}

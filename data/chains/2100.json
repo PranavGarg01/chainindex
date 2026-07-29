@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ecoball",
+  "slug": "ecoball",
+  "chainId": 2100,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ecoball Coin",
+    "symbol": "ECO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.ecoball.org/ecoball",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ecoball Explorer",
+      "url": "https://scan.ecoball.org"
+    }
+  ],
+  "website": "https://ecoball.org",
+  "aliases": [
+    "ECO",
+    "eco"
+  ]
+}

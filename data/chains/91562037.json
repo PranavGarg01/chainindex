@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MST Testnet",
+  "slug": "mst-testnet",
+  "chainId": 91562037,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MST Native Coin",
+    "symbol": "tMSTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.mstblockchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mstscan",
+      "url": "https://testnet.mstscan.com"
+    }
+  ],
+  "website": "https://mstblockchain.com",
+  "aliases": [
+    "MST",
+    "mst-testnet"
+  ]
+}

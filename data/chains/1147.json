@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Flag Testnet",
+  "slug": "flag-testnet",
+  "chainId": 1147,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Flag Testnet",
+    "symbol": "FLAG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.flagscan.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Flag Testnet Explorer",
+      "url": "https://testnet-explorer.flagscan.xyz"
+    }
+  ],
+  "website": "https://testnet-explorer.flagscan.xyz",
+  "aliases": [
+    "Flag",
+    "tFLAG"
+  ]
+}

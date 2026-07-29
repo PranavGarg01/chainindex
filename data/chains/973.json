@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Palm Smart Chain",
+  "slug": "palm-smart-chain",
+  "chainId": 973,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PALM",
+    "symbol": "PALM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.palmsmartchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Palm Smart Chain Explorer",
+      "url": "https://explorer.palmsmartchain.io"
+    }
+  ],
+  "website": "https://palmsmartchain.io",
+  "aliases": [
+    "Palm",
+    "PalmChain"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Glue",
+  "slug": "glue",
+  "chainId": 1300,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Glue",
+    "symbol": "GLUE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.glue.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Glue Explorer",
+      "url": "https://explorer.glue.net"
+    }
+  ],
+  "website": "https://glue.net/"
+}

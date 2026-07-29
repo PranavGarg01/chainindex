@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Ozone",
+  "slug": "ozone",
+  "chainId": 10121,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ozone",
+    "symbol": "OZONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain.ozonescan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ozone Chain Explorer",
+      "url": "https://ozonescan.com"
+    }
+  ],
+  "website": "https://ozonechain.com"
+}

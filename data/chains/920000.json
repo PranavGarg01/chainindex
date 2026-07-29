@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Posichain Devnet Shard 0",
+  "slug": "posichain-devnet-shard-0",
+  "chainId": 920000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Posichain Native Token",
+    "symbol": "POSI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.s0.d.posichain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Posichain Explorer Devnet",
+      "url": "https://explorer-devnet.posichain.org"
+    }
+  ],
+  "website": "https://posichain.org",
+  "aliases": [
+    "PSC",
+    "psc-d-s0"
+  ]
+}

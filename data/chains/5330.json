@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Superseed",
+  "slug": "superseed",
+  "chainId": 5330,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://superseed.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet.superseed.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "seedscout",
+      "url": "https://explorer.superseed.xyz"
+    }
+  ],
+  "website": "https://www.superseed.xyz",
+  "aliases": [
+    "ETH",
+    "sseed"
+  ]
+}

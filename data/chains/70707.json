@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CX Chain Testnet",
+  "slug": "cx-chain-testnet",
+  "chainId": 70707,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CX",
+    "symbol": "CX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/cxctestnet/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CX Chain Testnet Explorer",
+      "url": "https://subnets-test.avax.network/cxctestnet"
+    }
+  ],
+  "website": "https://www.cxchain.xyz/",
+  "aliases": [
+    "CX",
+    "cx-testnet"
+  ]
+}

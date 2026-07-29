@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "Fuse",
+  "slug": "fuse",
+  "chainId": 122,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Fuse",
+    "symbol": "FUSE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fuse.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://fuse-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fuse-mainnet.chainstacklabs.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fuse.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fuse.liquify.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fuse.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/fuse/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://fuse.api.pocket.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.fuse.io"
+    }
+  ],
+  "website": "https://fuse.io/"
+}

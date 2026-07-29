@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ultron Testnet",
+  "slug": "ultron-testnet",
+  "chainId": 1230,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ultron",
+    "symbol": "ULX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ultron-dev.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ultron Testnet Explorer",
+      "url": "https://explorer.ultron-dev.io"
+    }
+  ],
+  "website": "https://ultron.foundation",
+  "aliases": [
+    "Ultron",
+    "UltronTestnet"
+  ]
+}

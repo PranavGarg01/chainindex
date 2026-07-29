@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "name": "Ecrox Chain",
+  "slug": "ecrox-chain",
+  "chainId": 988207,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ECROX COIN",
+    "symbol": "ECROX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.ecroxscan.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://quantum-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://neuron-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://corex-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://vertex-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://synapse-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://aether-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://nucleus-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://omni-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://axiom-rpc.ecroxscan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cronos-rpc.ecroxscan.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ecrox Chain Explorer",
+      "url": "https://ecroxscan.com"
+    }
+  ],
+  "website": "https://ecroxcoin.io/",
+  "aliases": [
+    "ecrox"
+  ]
+}

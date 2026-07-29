@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "T.E.A.M Blockchain",
+  "slug": "t-e-a-m-blockchain",
+  "chainId": 88888888,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TEAM",
+    "symbol": "$TEAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.teamblockchain.team",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "teamscan",
+      "url": "https://teamblockchain.team"
+    }
+  ],
+  "website": "https://teamblockchain.team",
+  "aliases": [
+    "TEAM",
+    "team"
+  ]
+}

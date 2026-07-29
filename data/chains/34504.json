@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ZEUS",
+  "slug": "zeus",
+  "chainId": 34504,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "The ZEUS Token",
+    "symbol": "ZEUSX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.zeuschainscan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZEUS Mainnet Explorer",
+      "url": "https://zeuschainscan.io"
+    }
+  ],
+  "website": "https://zeuschainscan.io",
+  "aliases": [
+    "ZEUSX"
+  ]
+}

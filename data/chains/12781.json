@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Playdapp Testnet",
+  "slug": "playdapp-testnet",
+  "chainId": 12781,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Playdapp",
+    "symbol": "PDA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/playdappte/testnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Playdapp Testnet Explorer",
+      "url": "https://subnets-test.avax.network/playdappte"
+    }
+  ],
+  "website": "https://playdapp.io",
+  "aliases": [
+    "PDA",
+    "PDA-TESTNET"
+  ]
+}

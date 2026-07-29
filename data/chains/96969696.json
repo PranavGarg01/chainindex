@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Privix Chain Testnet",
+  "slug": "privix-chain-testnet",
+  "chainId": 96969696,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Privix Coin",
+    "symbol": "PRIVIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.privixchain.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.privixscan.io"
+    }
+  ],
+  "website": "https://privix.co/",
+  "aliases": [
+    "PRIVIX",
+    "tpsc"
+  ]
+}

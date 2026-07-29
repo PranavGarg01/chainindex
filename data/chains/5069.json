@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Danny",
+  "slug": "danny",
+  "chainId": 5069,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Danny",
+    "symbol": "DAN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dannyscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Dannyscan",
+      "url": "https://dannyscan.com"
+    }
+  ],
+  "website": "https://dannychain.com",
+  "aliases": [
+    "DAN",
+    "dan"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Plian Testnet Main",
+  "slug": "plian-testnet-main",
+  "chainId": 16658437,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plian Testnet Token",
+    "symbol": "TPI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.plian.io/testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "piscan",
+      "url": "https://testnet.plian.org/testnet"
+    }
+  ],
+  "website": "https://plian.org",
+  "aliases": [
+    "Plian",
+    "plian-testnet"
+  ]
+}

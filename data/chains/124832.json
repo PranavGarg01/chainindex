@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Mitosis Testnet",
+  "slug": "mitosis-testnet",
+  "chainId": 124832,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MITO",
+    "symbol": "MITO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.mitosis.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mitosis testnet explorer",
+      "url": "https://testnet.mitosiscan.xyz"
+    }
+  ],
+  "website": "https://mitosis.org",
+  "aliases": [
+    "mitosis-testnet"
+  ]
+}

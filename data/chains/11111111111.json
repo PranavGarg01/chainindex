@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Fanatico",
+  "slug": "fanatico",
+  "chainId": 11111111111,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Fanatico",
+    "symbol": "FCO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fanati.co",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Fanatico Explorer",
+      "url": "https://explorer.fanati.co"
+    }
+  ],
+  "website": "https://chain.fanati.co",
+  "aliases": [
+    "FCO",
+    "fco"
+  ]
+}

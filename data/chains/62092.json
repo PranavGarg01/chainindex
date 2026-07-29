@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TikTrix Testnet",
+  "slug": "tiktrix-testnet",
+  "chainId": 62092,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tTTX",
+    "symbol": "tTTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tiktrix-rpc.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TikTrix Testnet Explorer",
+      "url": "https://tiktrix.xyz"
+    }
+  ],
+  "website": "https://tiktrix.gg",
+  "aliases": [
+    "tTTX",
+    "tiktrix-testnet"
+  ]
+}

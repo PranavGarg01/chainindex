@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Thanos Sepolia",
+  "slug": "thanos-sepolia",
+  "chainId": 111551119090,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tokamak Network",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.thanos-sepolia.tokamak.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.thanos-sepolia.tokamak.network"
+    }
+  ],
+  "website": "https://tokamak.network",
+  "aliases": [
+    "ETH",
+    "thanos-sepolia"
+  ]
+}

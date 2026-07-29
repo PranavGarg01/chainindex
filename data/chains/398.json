@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "NEAR Protocol Testnet",
+  "slug": "near-protocol-testnet",
+  "chainId": 398,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eth-rpc.testnet.near.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NEAR Explorer",
+      "url": "https://eth-explorer-testnet.near.org"
+    }
+  ],
+  "website": "https://near.org",
+  "aliases": [
+    "NEAR",
+    "near-testnet"
+  ]
+}

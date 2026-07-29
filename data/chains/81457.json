@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 2,
+  "name": "Blast",
+  "slug": "blast",
+  "chainId": 81457,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.blast.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://blast.din.dev/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blastl2-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://li-fi-blast.intustechno.workers.dev/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/blast",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast.gasswap.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/blast/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/blast/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-blast-mainnet-archive.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/blast",
+      "isRecommended": false
+    },
+    {
+      "url": "https://blast.blockpi.network/v1/rpc/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blastscan",
+      "url": "https://blastscan.io"
+    },
+    {
+      "name": "Blast Explorer",
+      "url": "https://blastexplorer.io"
+    }
+  ],
+  "website": "https://blast.io/",
+  "aliases": [
+    "ETH",
+    "blastmainnet"
+  ]
+}

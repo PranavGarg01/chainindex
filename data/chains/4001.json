@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Peperium Chain Testnet",
+  "slug": "peperium-chain-testnet",
+  "chainId": 4001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Peperium Chain Testnet",
+    "symbol": "PERIUM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.peperium.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Peperium Chain Explorer",
+      "url": "https://scan-testnet.peperium.io"
+    }
+  ],
+  "website": "https://peperium.io",
+  "aliases": [
+    "PERIUM"
+  ]
+}

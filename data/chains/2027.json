@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "name": "Martian Chain",
+  "slug": "martian-chain",
+  "chainId": 2027,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Erol Musk",
+    "symbol": "EROL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://martian-rpc1.martianchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://martian-rpc2.martianchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://martian-rpc3.martianchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://martian-rpc4.martianchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://martian-rpc5.martianchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "routescan",
+      "url": "https://devnet.routescan.io/?rpc=https://rpc1.martianchain.com"
+    },
+    {
+      "name": "subnets avax",
+      "url": "https://subnets.avax.network/subnets/28aQXYENwytzxEwyYMZDtGjpUmP67eWkyoHdGGyid6gEACeg9x"
+    },
+    {
+      "name": "ErolExplorer",
+      "url": "https://explorer.martianchain.com"
+    }
+  ],
+  "aliases": [
+    "EROL",
+    "erol"
+  ]
+}

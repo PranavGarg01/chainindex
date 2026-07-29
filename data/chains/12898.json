@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PlayFair Testnet Subnet",
+  "slug": "playfair-testnet-subnet",
+  "chainId": 12898,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTLT Token",
+    "symbol": "BTLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.letsplayfair.ai/ext/bc/2hhXFNp1jR4RuqvCmWQnBtt9CZnCmmyGr7TNTkxt7XY7pAzHMY/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Avalanche Subnet Explorer",
+      "url": "https://subnets-test.avax.network/letsplayfair"
+    }
+  ],
+  "website": "https://letsplayfair.ai",
+  "aliases": [
+    "PLAYFAIR",
+    "playfair"
+  ]
+}

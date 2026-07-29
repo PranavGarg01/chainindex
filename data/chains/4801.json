@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "World Chain Sepolia Testnet",
+  "slug": "world-chain-sepolia-testnet",
+  "chainId": 4801,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://worldchain-sepolia.g.alchemy.com/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://4801.rpc.thirdweb.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://worldchain-sepolia.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://worldchain-sepolia.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etherscan",
+      "url": "https://sepolia.worldscan.org"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://worldchain-sepolia.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://world.org/world-chain",
+  "aliases": [
+    "ETH",
+    "wcsep"
+  ]
+}

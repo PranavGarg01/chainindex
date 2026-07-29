@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "UB Smart Chain",
+  "slug": "ub-smart-chain",
+  "chainId": 99999,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UBC",
+    "symbol": "UBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.uschain.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.ubchain.site/",
+  "aliases": [
+    "USC",
+    "usc"
+  ]
+}

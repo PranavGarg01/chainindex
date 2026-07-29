@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Zether",
+  "slug": "zether",
+  "chainId": 715131,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Zether",
+    "symbol": "ZTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zether.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.zthscan.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zthscan",
+      "url": "https://zthscan.com"
+    }
+  ],
+  "website": "https://zether.org",
+  "aliases": [
+    "zth"
+  ]
+}

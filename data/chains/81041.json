@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Nordek",
+  "slug": "nordek",
+  "chainId": 81041,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NRK",
+    "symbol": "NRK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.nordekscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "nordek",
+      "url": "https://nordekscan.com"
+    }
+  ],
+  "website": "https://nordekscan.com"
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "OasisChain",
+  "slug": "oasischain",
+  "chainId": 26863,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAC",
+    "symbol": "OAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.oasischain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.oasischain.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.oasischain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OasisChain Explorer",
+      "url": "https://scan.oasischain.io"
+    }
+  ],
+  "website": "https://scan.oasischain.io",
+  "aliases": [
+    "OAC"
+  ]
+}

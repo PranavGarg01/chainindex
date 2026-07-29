@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "GUNZ",
+  "slug": "gunz",
+  "chainId": 43419,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GUN",
+    "symbol": "GUN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gunzchain.io/ext/bc/2M47TxWHGnhNtq6pM5zPXdATBtuqubxn5EPFgFmEawCQr9WFML/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://gunzscan.io"
+    }
+  ],
+  "website": "https://gunbygunz.com",
+  "aliases": [
+    "gunz-mainnet"
+  ]
+}

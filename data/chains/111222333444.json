@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Alphabet",
+  "slug": "alphabet",
+  "chainId": 111222333444,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ALT",
+    "symbol": "ALT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://londonpublic.alphabetnetwork.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://main-rpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Alphabet Explorer",
+      "url": "https://scan.alphabetnetwork.org"
+    }
+  ],
+  "website": "https://alphabetnetwork.org",
+  "aliases": [
+    "Alphabet Network"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ALDChain Testnet",
+  "slug": "aldchain-testnet",
+  "chainId": 96737205180,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ALD Token",
+    "symbol": "ALD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.aldrickb.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ALDChain Testnet Explorer",
+      "url": "https://testnet-explorer.aldrickb.xyz"
+    }
+  ],
+  "website": "https://aldrickb.com/projects",
+  "aliases": [
+    "ALD",
+    "ald"
+  ]
+}

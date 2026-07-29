@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "name": "Holesky",
+  "slug": "holesky",
+  "chainId": 17000,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Testnet ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://1rpc.io/holesky",
+      "isRecommended": true
+    },
+    {
+      "url": "https://ethereum-holesky-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://holesky-rpc.nocturnode.tech",
+      "isRecommended": false
+    },
+    {
+      "url": "https://holesky.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/eth/holesky/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/eth-holesky",
+      "isRecommended": false
+    },
+    {
+      "url": "https://eth-holesky-testnet.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.holesky.ethpandaops.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://holesky.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-holesky.rockx.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Holesky Explorer",
+      "url": "https://holesky.beaconcha.in"
+    },
+    {
+      "name": "otterscan-holesky",
+      "url": "https://holesky.otterscan.io"
+    },
+    {
+      "name": "Holesky Etherscan",
+      "url": "https://holesky.etherscan.io"
+    }
+  ],
+  "website": "https://holesky.ethpandaops.io",
+  "aliases": [
+    "ETH",
+    "Ethereum Testnet Holesky"
+  ]
+}

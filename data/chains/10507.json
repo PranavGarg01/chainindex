@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Numbers",
+  "slug": "numbers",
+  "chainId": 10507,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NUM Token",
+    "symbol": "NUM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnetrpc.num.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ethernal",
+      "url": "https://mainnet.num.network"
+    }
+  ],
+  "website": "https://numbersprotocol.io",
+  "aliases": [
+    "NUM",
+    "Jade"
+  ]
+}

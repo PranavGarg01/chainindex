@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Naga Testnet",
+  "slug": "naga-testnet",
+  "chainId": 1008686,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Naga",
+    "symbol": "Naga",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nagafintech.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Naga Explorer Testnet",
+      "url": "https://explorer.nagafintech.com"
+    }
+  ],
+  "website": "https://stablecoin.nagafintech.com/#/app/home",
+  "aliases": [
+    "Naga"
+  ]
+}

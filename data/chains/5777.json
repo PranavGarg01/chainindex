@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Ganache",
+  "slug": "ganache",
+  "chainId": 5777,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ganache Test Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://127.0.0.1:7545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://trufflesuite.com/ganache/",
+  "aliases": [
+    "ETH",
+    "ggui",
+    "Ganache GUI Ethereum Testnet"
+  ]
+}

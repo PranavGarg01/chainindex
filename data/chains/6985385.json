@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Humanity Protocol",
+  "slug": "humanity-protocol",
+  "chainId": 6985385,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "H",
+    "symbol": "H",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://humanity-mainnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Humanity Mainnet explorer",
+      "url": "https://humanity-mainnet.explorer.alchemy.com"
+    }
+  ],
+  "website": "https://humanity.org",
+  "aliases": [
+    "Humanity",
+    "hp"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Studio Blockchain",
+  "slug": "studio-blockchain",
+  "chainId": 240241,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Studio Token",
+    "symbol": "STO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.studio-blockchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet2.studio-blockchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet3.studio-blockchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet.studio-scan.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet2.studio-scan.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Studio Scan",
+      "url": "https://studio-scan.com"
+    }
+  ],
+  "website": "https://studio-blockchain.com",
+  "aliases": [
+    "STO",
+    "stom"
+  ]
+}

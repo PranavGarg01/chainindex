@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Acria IntelliChain",
+  "slug": "acria-intellichain",
+  "chainId": 47,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ACRIA",
+    "symbol": "ACRIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://aic.acria.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Acria IntelliChain-Explorer",
+      "url": "https://explorer.acria.ai"
+    }
+  ],
+  "website": "https://acria.ai",
+  "aliases": [
+    "AIC",
+    "aic"
+  ]
+}

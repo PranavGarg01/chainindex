@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Immu3 EVM",
+  "slug": "immu3-evm",
+  "chainId": 3100,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IMMU",
+    "symbol": "IMMU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fraa-flashbox-2800-rpc.a.stagenet.tanssi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://immu3.io",
+  "aliases": [
+    "EVMCC",
+    "Immu3"
+  ]
+}

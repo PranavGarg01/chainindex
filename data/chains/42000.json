@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Helios Chain Testnet",
+  "slug": "helios-chain-testnet",
+  "chainId": 42000,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Helios",
+    "symbol": "HLS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet1.helioschainlabs.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Helios Chain Explorer",
+      "url": "https://explorer.helioschainlabs.org"
+    }
+  ],
+  "website": "https://hub.helioschain.network",
+  "aliases": [
+    "Helios Chain",
+    "HLS"
+  ]
+}

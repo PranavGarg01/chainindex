@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Valorbit",
+  "slug": "valorbit",
+  "chainId": 38,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Valorbit",
+    "symbol": "VAL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.valorbit.com/v2",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://valorbit.com",
+  "aliases": [
+    "VAL",
+    "val"
+  ]
+}

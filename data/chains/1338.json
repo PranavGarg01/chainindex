@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Elysium Testnet",
+  "slug": "elysium-testnet",
+  "chainId": 1338,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PYR",
+    "symbol": "PYR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.atlantischain.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Atlantis explorer",
+      "url": "https://blockscout.atlantischain.network"
+    }
+  ],
+  "website": "https://elysiumchain.tech",
+  "aliases": [
+    "Atlantis",
+    "ATL",
+    "An L1, carbon-neutral, tree-planting, metaverse dedicated blockchain created by VulcanForged"
+  ]
+}

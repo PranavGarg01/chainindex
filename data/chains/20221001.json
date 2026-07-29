@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SoonChain Sepolia Devnet",
+  "slug": "soonchain-sepolia-devnet",
+  "chainId": 20221001,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.rpc.soonchain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Soon Scan",
+      "url": "https://sepolia.explorer.soonchain.ai"
+    }
+  ],
+  "website": "https://soonchain.ai",
+  "aliases": [
+    "SoonChain Devnet Sepolia",
+    "Soon-Devnet"
+  ]
+}

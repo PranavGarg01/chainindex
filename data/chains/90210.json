@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Beverly Hills",
+  "slug": "beverly-hills",
+  "chainId": 90210,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Beverly Hills Testnet Ether",
+    "symbol": "BVE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.beverlyhills.ethdevops.io:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Beverly Hills explorer",
+      "url": "https://explorer.beverlyhills.ethdevops.io"
+    }
+  ],
+  "website": "https://beverlyhills.ethdevops.io",
+  "aliases": [
+    "ETH",
+    "bvhl",
+    "Ethereum multi-client Verkle Testnet Beverly Hills"
+  ]
+}

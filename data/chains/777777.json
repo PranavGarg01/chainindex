@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Winr Protocol",
+  "slug": "winr-protocol",
+  "chainId": 777777,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Winr",
+    "symbol": "WINR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.winr.games",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Winr Protocol Explorer",
+      "url": "https://explorer.winr.games"
+    }
+  ],
+  "website": "https://winr.games",
+  "aliases": [
+    "WINR",
+    "winr"
+  ]
+}

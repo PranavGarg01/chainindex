@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Stable Testnet",
+  "slug": "stable-testnet",
+  "chainId": 2201,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.stable.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Stablescan",
+      "url": "https://testnet.stablescan.xyz"
+    }
+  ],
+  "website": "https://stable.xyz",
+  "aliases": [
+    "stable",
+    "stable-testnet"
+  ]
+}

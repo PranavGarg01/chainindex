@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Althea L1",
+  "slug": "althea-l1",
+  "chainId": 258432,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Althea",
+    "symbol": "ALTHEA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.althea.zone",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Mintscan",
+      "url": "https://mintscan.io/althea"
+    }
+  ],
+  "website": "https://althea.net",
+  "aliases": [
+    "ALTHEA"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "XUSD ONE StableChain",
+  "slug": "xusd-one-stablechain",
+  "chainId": 20441,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XUSD ONE",
+    "symbol": "X1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xusd.live",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "xusdscan",
+      "url": "https://xusdscan.com"
+    }
+  ],
+  "website": "https://xusd.co",
+  "aliases": [
+    "XUSD ONE",
+    "xusd"
+  ]
+}

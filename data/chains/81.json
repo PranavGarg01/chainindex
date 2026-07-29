@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Japan Open Chain",
+  "slug": "japan-open-chain",
+  "chainId": 81,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Japan Open Chain Token",
+    "symbol": "JOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-1.japanopenchain.org:8545",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-2.japanopenchain.org:8545",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-3.japanopenchain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Block Explorer",
+      "url": "https://explorer.japanopenchain.org"
+    }
+  ],
+  "website": "https://www.japanopenchain.org/",
+  "aliases": [
+    "JOC",
+    "joc"
+  ]
+}

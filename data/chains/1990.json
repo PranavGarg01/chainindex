@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "QIEMainnet",
+  "slug": "qiemainnet",
+  "chainId": 1990,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QIE",
+    "symbol": "QIE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1mainnet.qie.digital",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc5mainnet.qie.digital",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QIE mainnet explorer",
+      "url": "https://mainnet.qie.digital/"
+    }
+  ],
+  "website": "https://www.qie.digital/",
+  "aliases": [
+    "QIEV3"
+  ]
+}

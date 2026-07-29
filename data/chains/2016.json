@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "MainnetZ",
+  "slug": "mainnetz",
+  "chainId": 2016,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MainnetZ",
+    "symbol": "NetZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://eu-rpc.mainnetz.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-rpc.mainnetz.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MainnetZ",
+      "url": "https://explorer.mainnetz.io"
+    }
+  ],
+  "website": "https://mainnetz.io",
+  "aliases": [
+    "NetZ",
+    "netz"
+  ]
+}

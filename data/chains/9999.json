@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "myOwn Testnet",
+  "slug": "myown-testnet",
+  "chainId": 9999,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MYN",
+    "symbol": "MYN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://geth.dev.bccloud.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://docs.bccloud.net/",
+  "aliases": [
+    "myOwn",
+    "myn"
+  ]
+}

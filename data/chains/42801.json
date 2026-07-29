@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Gesoten Verse Testnet",
+  "slug": "gesoten-verse-testnet",
+  "chainId": 42801,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.verse.gesoten.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gesoten Verse Testnet Explorer",
+      "url": "https://explorer.testnet.verse.gesoten.com"
+    }
+  ],
+  "website": "https://gesoten.com/",
+  "aliases": [
+    "Gesoten Verse",
+    "GST"
+  ]
+}

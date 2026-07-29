@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "name": "Linea Sepolia",
+  "slug": "linea-sepolia",
+  "chainId": 59141,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Linea Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sepolia.linea.build",
+      "isRecommended": true
+    },
+    {
+      "url": "https://linea-sepolia.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea-sepolia.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea-sepolia.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://linea-sepolia-rpc.publicnode.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Etherscan",
+      "url": "https://sepolia.lineascan.build"
+    },
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.sepolia.linea.build"
+    }
+  ],
+  "website": "https://linea.build",
+  "aliases": [
+    "ETH",
+    "linea-sepolia",
+    "Linea Sepolia Testnet"
+  ]
+}

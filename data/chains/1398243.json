@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Automata Testnet",
+  "slug": "automata-testnet",
+  "chainId": 1398243,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATA",
+    "symbol": "ATA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.ata.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://automata-testnet.alt.technology",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Automata Testnet Explorer",
+      "url": "https://explorer-testnet.ata.network"
+    }
+  ],
+  "website": "https://ata.network",
+  "aliases": [
+    "automatatest"
+  ]
+}

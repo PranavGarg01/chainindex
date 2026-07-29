@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Transparency Solution",
+  "slug": "transparency-solution",
+  "chainId": 179170,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ClearToken",
+    "symbol": "CLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-api.transparency.solutions",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Transparency Solution Explorer",
+      "url": "https://blockchain.transparency.solutions"
+    }
+  ],
+  "website": "https://transparency.solutions",
+  "aliases": [
+    "CLT",
+    "clts"
+  ]
+}

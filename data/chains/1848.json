@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Swisstronik",
+  "slug": "swisstronik",
+  "chainId": 1848,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Swisstronik",
+    "symbol": "SWTR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.mainnet.swisstronik.com/unencrypted",
+      "isRecommended": true
+    },
+    {
+      "url": "https://json-rpc.mainnet.swisstronik.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Swisstronik EVM Explorer",
+      "url": "https://explorer-evm.mainnet.swisstronik.com"
+    },
+    {
+      "name": "Swisstronik Cosmos Explorer",
+      "url": "https://explorer-cosmos.mainnet.swisstronik.com/swisstronik"
+    }
+  ],
+  "website": "https://www.swisstronik.com",
+  "aliases": [
+    "SWTR",
+    "swtr"
+  ]
+}

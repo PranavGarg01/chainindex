@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "daventre Chain",
+  "slug": "daventre-chain",
+  "chainId": 8770570,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DEV",
+    "symbol": "DEV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.8770570.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "daventre Explorer",
+      "url": "https://explorer.8770570.xyz"
+    }
+  ],
+  "aliases": [
+    "DEV",
+    "daventre"
+  ]
+}

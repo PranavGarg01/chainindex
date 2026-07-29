@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "OpenLedger",
+  "slug": "openledger",
+  "chainId": 1612,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Open",
+    "symbol": "OPEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.openledger.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OpenLedger Explorer",
+      "url": "https://scan.openledger.xyz"
+    }
+  ],
+  "website": "https://www.openledger.xyz",
+  "aliases": [
+    "open"
+  ]
+}

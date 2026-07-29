@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Super Smart Chain Testnet",
+  "slug": "super-smart-chain-testnet",
+  "chainId": 1969,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Super Chain Native Token",
+    "symbol": "TSCS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.scschain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnetscan.scschain.com"
+    }
+  ],
+  "website": "https://testnet.scschain.com",
+  "aliases": [
+    "TSCS",
+    "tscs"
+  ]
+}

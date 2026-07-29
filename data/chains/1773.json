@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PartyChain",
+  "slug": "partychain",
+  "chainId": 1773,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Grams",
+    "symbol": "GRAMS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://tea.mining4people.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PartyExplorer",
+      "url": "https://partyexplorer.co"
+    }
+  ],
+  "aliases": [
+    "mainnet",
+    "TeaParty"
+  ]
+}

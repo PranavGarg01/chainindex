@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Risa Testnet",
+  "slug": "risa-testnet",
+  "chainId": 51014,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Syndicate",
+    "symbol": "SYND",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.syndicate.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Risa Testnet Explorer",
+      "url": "https://explorer.testnet.syndicate.io"
+    }
+  ],
+  "website": "https://syndicate.io",
+  "aliases": [
+    "risa"
+  ]
+}

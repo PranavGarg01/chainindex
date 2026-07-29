@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Soneium",
+  "slug": "soneium",
+  "chainId": 1868,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.soneium.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://soneium.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://soneium-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/soneium",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://soneium.blockscout.com"
+    },
+    {
+      "name": "OKLink",
+      "url": "https://www.okx.com/web3/explorer/soneium"
+    },
+    {
+      "name": "SlamVision",
+      "url": "https://soneium.slam.vision"
+    }
+  ],
+  "website": "https://soneium.org",
+  "aliases": [
+    "ETH",
+    "Soneium mainnet"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "ION Network",
+  "slug": "ion-network",
+  "chainId": 1143,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ION",
+    "symbol": "ION",
+    "decimals": 4
+  },
+  "rpc": [
+    {
+      "url": "https://ion.qaflanti.ir/api/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://ion.qaflanti.ir",
+  "aliases": [
+    "ION",
+    "ion"
+  ]
+}

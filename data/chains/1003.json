@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tectum Emission Token",
+  "slug": "tectum-emission-token",
+  "chainId": 1003,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tectum",
+    "symbol": "TET",
+    "decimals": 8
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.softnote.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tectum explorer",
+      "url": "https://explorer.tectum.io"
+    }
+  ],
+  "website": "https://softnote.com",
+  "aliases": [
+    "TET",
+    "tet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DuckChain",
+  "slug": "duckchain",
+  "chainId": 5545,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TON",
+    "symbol": "TON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.duckchain.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-hk.duckchain.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://duckchain.io",
+  "aliases": [
+    "Duck-Chain-Mainnet",
+    "DuckChain Mainnet"
+  ]
+}

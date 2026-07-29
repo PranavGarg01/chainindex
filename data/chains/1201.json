@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "Evanesco Testnet",
+  "slug": "evanesco-testnet",
+  "chainId": 1201,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AVIS",
+    "symbol": "AVIS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://seed5.evanesco.org:8547",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://evanesco.org/",
+  "aliases": [
+    "avis"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "J2O Taro",
+  "slug": "j2o-taro",
+  "chainId": 35011,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TARO Coin",
+    "symbol": "taro",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.j2o.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "J2O Taro Explorer",
+      "url": "https://exp.j2o.io"
+    }
+  ],
+  "website": "https://j2o.io",
+  "aliases": [
+    "TARO",
+    "j2o"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SoraAI Testnet",
+  "slug": "soraai-testnet",
+  "chainId": 145,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SoraETH",
+    "symbol": "SETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.soraai.bot",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.soraai.bot"
+    }
+  ],
+  "website": "https://soraai.bot",
+  "aliases": [
+    "SETH"
+  ]
+}

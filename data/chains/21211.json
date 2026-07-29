@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "1Money Sidechain",
+  "slug": "1money-sidechain",
+  "chainId": 21211,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FREE",
+    "symbol": "FREE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sidechain.mainnet.1money.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.sidechain.mainnet.1money.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.sidechain.mainnet.1money.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.sidechain.mainnet.1money.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.1moneynetwork.com",
+  "aliases": [
+    "1MoneySidechain",
+    "1money-sc"
+  ]
+}

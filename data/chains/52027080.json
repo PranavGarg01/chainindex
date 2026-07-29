@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Deviant Token Blockchain Testnet",
+  "slug": "deviant-token-blockchain-testnet",
+  "chainId": 52027080,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "Deviant Token Testnet",
+    "symbol": "tDTBC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://trpc.devianttoken.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://devianttoken.net",
+  "aliases": [
+    "tDTBC",
+    "tdtbc"
+  ]
+}

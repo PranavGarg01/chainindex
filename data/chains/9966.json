@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "UXER TESTNET NETWORK",
+  "slug": "uxer-testnet-network",
+  "chainId": 9966,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UXER",
+    "symbol": "tUXER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dev-testnet.uxer.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://data-cloud-testnet.uxer.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UXER TESTNET EXPLORER",
+      "url": "https://testnet.uxer.network"
+    }
+  ],
+  "website": "https://uxer.network",
+  "aliases": [
+    "UXER",
+    "uxer"
+  ]
+}

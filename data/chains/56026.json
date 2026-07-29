@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Lambda Chain",
+  "slug": "lambda-chain",
+  "chainId": 56026,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nrpc.lambda.im",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lambda Chain Mainnet Explorer",
+      "url": "https://scan.lambda.im"
+    }
+  ],
+  "website": "https://lambda.im",
+  "aliases": [
+    "lambda"
+  ]
+}

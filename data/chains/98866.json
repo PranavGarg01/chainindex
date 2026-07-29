@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Plume",
+  "slug": "plume",
+  "chainId": 98866,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plume",
+    "symbol": "PLUME",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://plume.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://plume-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.plume.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.plume.org"
+    }
+  ],
+  "website": "https://plume.org",
+  "aliases": [
+    "plume-mainnet",
+    "Plume Ethereum L2 Rollup Mainnet"
+  ]
+}

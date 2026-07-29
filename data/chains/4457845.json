@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ZERO Testnet (Sepolia)",
+  "slug": "zero-testnet-sepolia",
+  "chainId": 4457845,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zerion.io/v1/zero-sepolia",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ZERO Testnet Explorer",
+      "url": "https://explorer.zero.network"
+    }
+  ],
+  "website": "https://docs.zero.network",
+  "aliases": [
+    "ETH",
+    "zero-sepolia"
+  ]
+}

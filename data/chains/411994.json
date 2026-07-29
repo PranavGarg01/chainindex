@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PLN Network",
+  "slug": "pln-network",
+  "chainId": 411994,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PLN",
+    "symbol": "PLN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://oneagent.uk/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PLNScan",
+      "url": "https://plnscan.com"
+    }
+  ],
+  "website": "https://oneagent.uk",
+  "aliases": [
+    "PLN",
+    "pln"
+  ]
+}

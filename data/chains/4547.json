@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "TRUMPCHAIN",
+  "slug": "trumpchain",
+  "chainId": 4547,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Official Trump",
+    "symbol": "TRUMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.trumpchain.dev/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TRUMPCHAIN Explorer",
+      "url": "https://explorer.trumpchain.dev"
+    }
+  ],
+  "website": "https://trumpchain.dev"
+}

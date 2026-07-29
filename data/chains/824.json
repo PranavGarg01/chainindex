@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Daily Network",
+  "slug": "daily-network",
+  "chainId": 824,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Daily",
+    "symbol": "DLY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mainnet.dailycrypto.net",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-2.mainnet.dailycrypto.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-3.mainnet.dailycrypto.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Daily Mainnet Explorer",
+      "url": "https://explorer.mainnet.dailycrypto.net"
+    }
+  ],
+  "website": "https://dailycrypto.net",
+  "aliases": [
+    "dly"
+  ]
+}

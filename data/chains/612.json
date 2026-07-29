@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "EIOB",
+  "slug": "eiob",
+  "chainId": 612,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EIOB",
+    "symbol": "EIOB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.eiob.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EIOB Explorer",
+      "url": "https://explorer.eiob.xyz"
+    }
+  ]
+}

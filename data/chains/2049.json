@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Movo Smart Chain",
+  "slug": "movo-smart-chain",
+  "chainId": 2049,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Movo Smart Chain",
+    "symbol": "MOVO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://msc-rpc.movoscan.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://msc-rpc.movochain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://msc-rpc.movoswap.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "movoscan",
+      "url": "https://movoscan.com"
+    }
+  ],
+  "website": "https://movo.uk",
+  "aliases": [
+    "MOVO",
+    "movo"
+  ]
+}

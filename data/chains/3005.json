@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BGGChain",
+  "slug": "bggchain",
+  "chainId": 3005,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BGGChain",
+    "symbol": "BGG",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bggchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bggchain",
+      "url": "https://bggscan.com/"
+    }
+  ],
+  "website": "https://bggchain.com/",
+  "aliases": [
+    "BGG",
+    "bgg"
+  ]
+}

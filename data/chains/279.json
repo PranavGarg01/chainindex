@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BPX Chain",
+  "slug": "bpx-chain",
+  "chainId": 279,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BPX",
+    "symbol": "BPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.bpxchain.cc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BPX Chain Block Explorer",
+      "url": "https://explorer.bpxchain.cc"
+    }
+  ],
+  "website": "https://bpxchain.cc",
+  "aliases": [
+    "BPX",
+    "bpx"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "name": "Unichain Sepolia Testnet",
+  "slug": "unichain-sepolia-testnet",
+  "chainId": 1301,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.unichain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/unichain/sepolia/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain-sepolia.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain-sepolia-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain-sepolia.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://unichain-sepolia.therpc.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Unichain Sepolia Testnet Explorer",
+      "url": "https://unichain-sepolia.blockscout.com"
+    },
+    {
+      "name": "Unichain Sepolia Testnet Explorer",
+      "url": "https://sepolia.uniscan.xyz"
+    }
+  ],
+  "website": "https://unichain.org",
+  "aliases": [
+    "ETH",
+    "unichain-sep"
+  ]
+}

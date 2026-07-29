@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "name": "CheeseChain",
+  "slug": "cheesechain",
+  "chainId": 383353,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CHEESE",
+    "symbol": "CHEESE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.cheesechain.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.cheesechain.xyz/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://cheesechain.calderachain.xyz/http",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://cheesechain.xyz",
+  "aliases": [
+    "CHEESE"
+  ]
+}

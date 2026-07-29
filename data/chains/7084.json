@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Growfitter",
+  "slug": "growfitter",
+  "chainId": 7084,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GFIT",
+    "symbol": "GFIT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet-growfitter-rl.cogitus.io/ext/bc/2PdUCtQocNDvbVWy8ch4PdaicTHA2h5keHLAAPcs9Pr8tYaUg3/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Growfitter Explorer",
+      "url": "https://explorer-growfitter-mainnet.cogitus.io"
+    }
+  ],
+  "website": "https://www.growfitter.com/",
+  "aliases": [
+    "Growfitter-mainnet"
+  ]
+}

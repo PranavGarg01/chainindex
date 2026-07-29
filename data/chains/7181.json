@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "UXLINK One Testnet",
+  "slug": "uxlink-one-testnet",
+  "chainId": 7181,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-sepolia.uxlinkone.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "UXLINK One Sepolia Explorer",
+      "url": "https://sepolia.uxlinkone.com"
+    }
+  ],
+  "website": "https://www.uxlinkone.io",
+  "aliases": [
+    "UXLINK One",
+    "uxlink1-sep"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GIWA Sepolia Testnet",
+  "slug": "giwa-sepolia-testnet",
+  "chainId": 91342,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-rpc.giwa.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GIWA Sepolia Blockscout",
+      "url": "https://sepolia-explorer.giwa.io"
+    }
+  ],
+  "website": "https://giwa.io",
+  "aliases": [
+    "ETH",
+    "giwasepolia"
+  ]
+}

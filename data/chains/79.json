@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "name": "Zenith",
+  "slug": "zenith",
+  "chainId": 79,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZENITH",
+    "symbol": "ZENITH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataserver-us-1.zenithchain.co",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dataserver-asia-3.zenithchain.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataserver-asia-4.zenithchain.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataserver-asia-2.zenithchain.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataserver-asia-5.zenithchain.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataserver-asia-6.zenithchain.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataserver-asia-7.zenithchain.co",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zenith scan",
+      "url": "https://scan.zenithchain.co"
+    }
+  ],
+  "website": "https://www.zenithchain.co/"
+}

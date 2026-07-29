@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Bradicoin",
+  "slug": "bradicoin",
+  "chainId": 78168,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Bradicoin",
+    "symbol": "BRD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://bradicoin-api.onrender.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.bradichain.com",
+  "aliases": [
+    "BRADI",
+    "bradi"
+  ]
+}

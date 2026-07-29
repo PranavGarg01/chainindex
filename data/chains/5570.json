@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Treasurenet Aurora",
+  "slug": "treasurenet-aurora",
+  "chainId": 5570,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "UNIT",
+    "symbol": "UNIT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.treasurenet.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Treasurenet EVM BlockExplorer",
+      "url": "https://scan.treasurenet.io"
+    }
+  ],
+  "website": "https://www.treasurenet.io",
+  "aliases": [
+    "treasurenet"
+  ]
+}

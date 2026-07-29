@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "AXION",
+  "slug": "axion",
+  "chainId": 303030,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "AXION",
+    "symbol": "AXION",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.axiondefi.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "AXSCAN",
+      "url": "https://axscan.axiondefi.com"
+    }
+  ],
+  "website": "https://www.axiondefi.com"
+}

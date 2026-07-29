@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LoraChain",
+  "slug": "lorachain",
+  "chainId": 6359,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LRB",
+    "symbol": "LRB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lorachain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "lorachain",
+      "url": "https://explorer.lorachain.org"
+    }
+  ],
+  "website": "https://www.deeplink.world",
+  "aliases": [
+    "LRB",
+    "lrb"
+  ]
+}

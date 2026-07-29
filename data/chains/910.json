@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "DecentraBone Layer1 Testnet",
+  "slug": "decentrabone-layer1-testnet",
+  "chainId": 910,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DecentraBone",
+    "symbol": "DBONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://layer1test.decentrabone.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://decentrabone.com",
+  "aliases": [
+    "DBONE"
+  ]
+}

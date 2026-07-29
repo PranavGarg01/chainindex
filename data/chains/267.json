@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Neura Testnet",
+  "slug": "neura-testnet",
+  "chainId": 267,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Ankr",
+    "symbol": "ANKR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/neura_testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ankrscan-neura",
+      "url": "https://testnet.explorer.neuraprotocol.io"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://explorer.neura-testnet.ankr.com"
+    }
+  ],
+  "website": "https://www.neuraprotocol.io/",
+  "aliases": [
+    "NEURA",
+    "tneura"
+  ]
+}

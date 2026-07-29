@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "Lisk",
+  "slug": "lisk",
+  "chainId": 1135,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.api.lisk.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://lisk.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://lisk.gateway.tenderly.co",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-lisk-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://lisk-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.lisk.com"
+    }
+  ],
+  "website": "https://lisk.com",
+  "aliases": [
+    "ETH"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "QuarkChain Devnet Shard 3",
+  "slug": "quarkchain-devnet-shard-3",
+  "chainId": 110004,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QKC",
+    "symbol": "QKC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://devnet-s3-ethapi.quarkchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "quarkchain-devnet",
+      "url": "https://devnet.quarkchain.io/3"
+    }
+  ],
+  "website": "https://www.quarkchain.io",
+  "aliases": [
+    "QuarkChain",
+    "qkc-d-s3"
+  ]
+}

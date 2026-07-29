@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Reactive Lasna",
+  "slug": "reactive-lasna",
+  "chainId": 5318007,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lasna React",
+    "symbol": "lREACT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://lasna-rpc.rnk.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Reactscan",
+      "url": "https://lasna.reactscan.net"
+    }
+  ],
+  "website": "https://reactive.network",
+  "aliases": [
+    "REACT",
+    "lreact",
+    "Reactive Network Testnet Lasna"
+  ]
+}

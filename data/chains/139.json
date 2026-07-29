@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "WoopChain",
+  "slug": "woopchain",
+  "chainId": 139,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WoopCoin",
+    "symbol": "WOOC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.woop.ai/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "wikiwoop",
+      "url": "https://explorer.wikiwoop.com"
+    }
+  ],
+  "website": "https://wikiwoop.com",
+  "aliases": [
+    "WOOP",
+    "woop"
+  ]
+}

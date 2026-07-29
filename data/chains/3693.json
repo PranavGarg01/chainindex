@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Empire Network",
+  "slug": "empire-network",
+  "chainId": 3693,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Empire",
+    "symbol": "EMPIRE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.empirenetwork.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Empire Explorer",
+      "url": "https://explorer.empirenetwork.io"
+    }
+  ],
+  "website": "https://www.empirenetwork.io/",
+  "aliases": [
+    "EMPIRE",
+    "empire"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Auxilium Network",
+  "slug": "auxilium-network",
+  "chainId": 28945486,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Auxilium coin",
+    "symbol": "AUX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.auxilium.global",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://auxilium.global",
+  "aliases": [
+    "AUX",
+    "auxi"
+  ]
+}

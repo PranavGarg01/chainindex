@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "AILayer Testnet",
+  "slug": "ailayer-testnet",
+  "chainId": 2648,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTC",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.ailayer.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-explorer.ailayer.xyz"
+    }
+  ],
+  "website": "https://ailayer.xyz/",
+  "aliases": [
+    "AILayer",
+    "ailayer-testnet"
+  ]
+}

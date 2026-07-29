@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Alyx Chain Testnet",
+  "slug": "alyx-chain-testnet",
+  "chainId": 135,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Alyx Testnet Native Token",
+    "symbol": "ALYX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.alyxchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "alyx testnet scan",
+      "url": "https://testnet.alyxscan.com"
+    }
+  ],
+  "website": "https://www.alyxchain.com",
+  "aliases": [
+    "AlyxTestnet"
+  ]
+}

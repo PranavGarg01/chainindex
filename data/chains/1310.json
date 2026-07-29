@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "COINZAX",
+  "slug": "coinzax",
+  "chainId": 1310,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "COINZAX",
+    "symbol": "ZAX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.coinzax.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "COINZAX Explorer",
+      "url": "https://explorer.coinzax.com"
+    }
+  ],
+  "website": "https://coinzax.com",
+  "aliases": [
+    "ZAX",
+    "zax"
+  ]
+}

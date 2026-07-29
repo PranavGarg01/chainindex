@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Waterfall 8 Test Network",
+  "slug": "waterfall-8-test-network",
+  "chainId": 8601152,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "WATER",
+    "symbol": "WATER",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet8.waterfall.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://waterfall.network",
+  "aliases": [
+    "Waterfall Testnet8",
+    "waterfall"
+  ]
+}

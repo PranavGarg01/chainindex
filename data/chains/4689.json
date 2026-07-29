@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 2,
+  "name": "IoTeX Network",
+  "slug": "iotex-network",
+  "chainId": 4689,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://babel-api.mainnet.iotex.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://babel-api.mainnet.iotex.one",
+      "isRecommended": false
+    },
+    {
+      "url": "https://babel-api.fastblocks.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.depinscan.io/iotex",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.chainanalytics.org/iotex",
+      "isRecommended": false
+    },
+    {
+      "url": "https://iotex-network.rpc.thirdweb.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://iotex.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-iotex-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "iotexscan",
+      "url": "https://iotexscan.io"
+    }
+  ],
+  "website": "https://iotex.io",
+  "aliases": [
+    "iotex.io",
+    "iotex-mainnet"
+  ]
+}

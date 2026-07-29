@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ZenChain Testnet",
+  "slug": "zenchain-testnet",
+  "chainId": 8408,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZTC",
+    "symbol": "ZTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zenchain-testnet.api.onfinality.io/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zentrace",
+      "url": "https://zentrace.io"
+    }
+  ],
+  "website": "https://zenchain.io",
+  "aliases": [
+    "ZTC",
+    "zentest"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Poodl",
+  "slug": "poodl",
+  "chainId": 15259,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Poodl",
+    "symbol": "POODL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.poodl.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Poodl Mainnet Explorer",
+      "url": "https://explorer.poodl.org"
+    }
+  ],
+  "website": "https://poodl.org",
+  "aliases": [
+    "poodle"
+  ]
+}

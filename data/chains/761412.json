@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Miexs Smartchain",
+  "slug": "miexs-smartchain",
+  "chainId": 761412,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Miexs Coin",
+    "symbol": "MIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.miexs.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Miexs Smartchain Explorer",
+      "url": "https://miexs.com"
+    }
+  ],
+  "website": "https://miexs.com",
+  "aliases": [
+    "MiexsSmartchain",
+    "Miexs"
+  ]
+}

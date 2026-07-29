@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Camino C-Chain",
+  "slug": "camino-c-chain",
+  "chainId": 500,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Camino",
+    "symbol": "CAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.camino.network/ext/bc/C/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockexplorer",
+      "url": "https://suite.camino.network/explorer"
+    }
+  ],
+  "website": "https://camino.network/",
+  "aliases": [
+    "CAM",
+    "Camino"
+  ]
+}

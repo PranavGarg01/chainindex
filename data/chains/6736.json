@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Vexanium",
+  "slug": "vexanium",
+  "chainId": 6736,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Vexanium",
+    "symbol": "VEX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://vexascan.com/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Vexascan",
+      "url": "https://vexascan.com/evm"
+    }
+  ],
+  "website": "https://vexascan.com",
+  "aliases": [
+    "VEX",
+    "vex"
+  ]
+}

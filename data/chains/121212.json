@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Rome Devnet Esquiline",
+  "slug": "rome-devnet-esquiline",
+  "chainId": 121212,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "RSOL",
+    "symbol": "RSOL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://esquiline-i.devnet.romeprotocol.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rome Devnet Esquiline Explorer",
+      "url": "https://romescout-esquiline-i.devnet.romeprotocol.xyz"
+    }
+  ],
+  "website": "https://rome.builders",
+  "aliases": [
+    "ROME",
+    "rome-devnet-esquiline"
+  ]
+}

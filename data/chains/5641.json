@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Evorium Nova Testnet",
+  "slug": "evorium-nova-testnet",
+  "chainId": 5641,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet EVO",
+    "symbol": "tEVO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-nova.evorium.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Evorium Nova Explorer",
+      "url": "https://testnet.evorium.network"
+    }
+  ],
+  "website": "https://evorium.network",
+  "aliases": [
+    "EvoriumEVM",
+    "evo-nova"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "dKargo Warehouse Testnet",
+  "slug": "dkargo-warehouse-testnet",
+  "chainId": 61022448,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "dKargo",
+    "symbol": "DKA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.warehouse.dkargo.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://dkargo.io",
+  "aliases": [
+    "dKargo Warehouse",
+    "dkargowarehouse"
+  ]
+}

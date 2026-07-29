@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Nanon Sepolia",
+  "slug": "nanon-sepolia",
+  "chainId": 27483,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia-rpc.nanon.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nanon Sepolia Rollup Testnet Explorer",
+      "url": "https://sepolia-explorer.nanon.network"
+    }
+  ],
+  "website": "https://www.nanon.network",
+  "aliases": [
+    "ETH",
+    "Nanon-Testnet",
+    "Nanon Sepolia Rollup Testnet"
+  ]
+}

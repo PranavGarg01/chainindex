@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "NutriEmp Chain",
+  "slug": "nutriemp-chain",
+  "chainId": 432,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GRAMZ",
+    "symbol": "GRAMZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.nutriemp-chain.link",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.nutriemp.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NutriEmp Explorer",
+      "url": "https://explorer.nutriemp-chain.link"
+    }
+  ],
+  "website": "https://nutriemp.com",
+  "aliases": [
+    "nutriemp-chain",
+    "nutriemp"
+  ]
+}

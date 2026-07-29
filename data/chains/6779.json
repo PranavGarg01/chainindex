@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Compverse",
+  "slug": "compverse",
+  "chainId": 6779,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "compverse",
+    "symbol": "CPV",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.compverse.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-useast1.compverse.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "cpvscan",
+      "url": "https://scan.compverse.io"
+    }
+  ],
+  "website": "https://compverse.io",
+  "aliases": [
+    "CPV"
+  ]
+}

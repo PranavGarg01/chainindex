@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Songbird Canary-Network",
+  "slug": "songbird-canary-network",
+  "chainId": 19,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Songbird",
+    "symbol": "SGB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://songbird-api.flare.network/ext/C/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ftso.au/songbird",
+      "isRecommended": false
+    },
+    {
+      "url": "https://songbird.solidifi.app/ext/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://flare-songbird.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://01-gravelines-006-01.rpc.tatum.io/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://01-vinthill-006-02.rpc.tatum.io/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://02-tokyo-006-03.rpc.tatum.io/ext/bc/C/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.au.cc/songbird",
+      "isRecommended": false
+    },
+    {
+      "url": "https://songbird.enosys.global/ext/C/rpc",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://songbird-explorer.flare.network"
+    },
+    {
+      "name": "Routescan",
+      "url": "https://songbird.flarescan.com"
+    }
+  ],
+  "website": "https://flare.network",
+  "aliases": [
+    "SGB",
+    "sgb"
+  ]
+}

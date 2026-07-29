@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "Ronin",
+  "slug": "ronin",
+  "chainId": 2020,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ronin",
+    "symbol": "RON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ronin.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://ronin-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-ronin-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.roninchain.com/rpc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-gateway.skymavis.com/rpc?apikey=9aqYLBbxSC6LROynQJBvKkEIsioqwHmr",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ronin Explorer",
+      "url": "https://explorer.roninchain.com/"
+    }
+  ],
+  "website": "https://roninchain.com/",
+  "aliases": [
+    "RON"
+  ]
+}

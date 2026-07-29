@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "name": "Rebus Testnet",
+  "slug": "rebus-testnet",
+  "chainId": 3033,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rebus",
+    "symbol": "REBUS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.rebus.money/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rebus EVM Explorer (Blockscout)",
+      "url": "https://evm.testnet.rebus.money"
+    },
+    {
+      "name": "Rebus Cosmos Explorer (ping.pub)",
+      "url": "https://testnet.rebus.money/rebustestnet"
+    }
+  ],
+  "website": "https://www.rebuschain.com",
+  "aliases": [
+    "REBUS",
+    "rebus-testnet",
+    "Rebuschain Testnet"
+  ]
+}

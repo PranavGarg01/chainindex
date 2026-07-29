@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "SIC Testnet",
+  "slug": "sic-testnet",
+  "chainId": 5102,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-sic-testnet-zvr7tlkzsi.t.conduit.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorerl2new-sic-testnet-zvr7tlkzsi.t.conduit.xyz"
+    }
+  ],
+  "website": "https://www.fwb.help/",
+  "aliases": [
+    "sic-testnet"
+  ]
+}

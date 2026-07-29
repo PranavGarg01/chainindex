@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "BC Hyper Chain",
+  "slug": "bc-hyper-chain",
+  "chainId": 3030,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VERSATIZE COIN",
+    "symbol": "VTCN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://datahub-asia01.bchscan.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://datahub-asia02.bchscan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainapi.bchscan.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "bcexplorer mainnet",
+      "url": "https://bchscan.io"
+    }
+  ],
+  "website": "https://www.versatizecoin.com/",
+  "aliases": [
+    "BCHYPER"
+  ]
+}

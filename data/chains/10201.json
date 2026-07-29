@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "MaxxChain",
+  "slug": "maxxchain",
+  "chainId": 10201,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Power",
+    "symbol": "PWR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.maxxchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc1.maxxchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.maxxchain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MaxxChain Block Explorer",
+      "url": "https://explorer.maxxchain.org"
+    }
+  ],
+  "website": "https://www.maxxchain.org/",
+  "aliases": [
+    "PWR"
+  ]
+}

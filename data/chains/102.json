@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Web3Games Testnet",
+  "slug": "web3games-testnet",
+  "chainId": 102,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Web3Games",
+    "symbol": "W3G",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc-0.web3games.org/evm",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-rpc-1.web3games.org/evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet-rpc-2.web3games.org/evm",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://web3games.org/",
+  "aliases": [
+    "Web3Games",
+    "tw3g"
+  ]
+}

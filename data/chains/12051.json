@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Singularity ZERO Testnet",
+  "slug": "singularity-zero-testnet",
+  "chainId": 12051,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZERO",
+    "symbol": "tZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://betaenv.singularity.gold:18545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zeroscan",
+      "url": "https://betaenv.singularity.gold:18002"
+    }
+  ],
+  "website": "https://www.singularity.gold",
+  "aliases": [
+    "ZERO",
+    "tZERO"
+  ]
+}

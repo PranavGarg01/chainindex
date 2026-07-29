@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "CURVE",
+  "slug": "curve",
+  "chainId": 827431,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Curve",
+    "symbol": "CURVE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.curvescan.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CURVE Mainnet",
+      "url": "https://curvescan.io"
+    }
+  ],
+  "website": "https://curvescan.io",
+  "aliases": [
+    "CURVEm"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Sova Sepolia Testnet",
+  "slug": "sova-sepolia-testnet",
+  "chainId": 120893,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.sova.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.sova.io"
+    }
+  ],
+  "website": "https://sova.io",
+  "aliases": [
+    "ETH",
+    "sovasep"
+  ]
+}

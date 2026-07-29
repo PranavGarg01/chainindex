@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Conflux eSpace",
+  "slug": "conflux-espace",
+  "chainId": 1030,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CFX",
+    "symbol": "CFX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.confluxrpc.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://conflux-espace-public.unifra.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://conflux-espace.blockpi.network/v1/rpc/public",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Conflux Scan",
+      "url": "https://evm.confluxscan.net"
+    }
+  ],
+  "website": "https://confluxnetwork.org",
+  "aliases": [
+    "Conflux",
+    "cfx"
+  ]
+}

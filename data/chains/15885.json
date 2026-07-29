@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Bitroot Testnet",
+  "slug": "bitroot-testnet",
+  "chainId": 15885,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BRT",
+    "symbol": "BRT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.bitroot.co",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Bitroot Testnet Explorer",
+      "url": "https://testnet-explorer.bitroot.co"
+    }
+  ],
+  "website": "https://bitroot.co",
+  "aliases": [
+    "Bitroot",
+    "bitroot-testnet"
+  ]
+}

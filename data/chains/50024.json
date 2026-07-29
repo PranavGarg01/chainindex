@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "BitBadges",
+  "slug": "bitbadges",
+  "chainId": 50024,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BitBadges",
+    "symbol": "BADGE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm-rpc.bitbadges.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BitBadges Explorer",
+      "url": "https://evm.explorer.bitbadges.io"
+    }
+  ],
+  "website": "https://bitbadges.io"
+}

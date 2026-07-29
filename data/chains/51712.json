@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Sardis",
+  "slug": "sardis",
+  "chainId": 51712,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sardis",
+    "symbol": "SRDX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.sardisnetwork.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Sardis",
+      "url": "https://contract-mainnet.sardisnetwork.com"
+    }
+  ],
+  "website": "https://mysardis.com",
+  "aliases": [
+    "SRDX",
+    "SRDXm"
+  ]
+}

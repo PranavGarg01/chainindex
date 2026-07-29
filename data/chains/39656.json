@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "PRM",
+  "slug": "prm",
+  "chainId": 39656,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Primal Network",
+    "symbol": "PRM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.prmscan.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Primal Network",
+      "url": "https://prmscan.org"
+    }
+  ],
+  "website": "https://primalnetwork.org"
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 2,
+  "name": "Kaia",
+  "slug": "kaia",
+  "chainId": 8217,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KAIA",
+    "symbol": "KAIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://public-en.node.kaia.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://alpha-hardworking-orb.kaia-mainnet.quiknode.pro",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kaia.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kaia-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://go.getblock.io/d7094dbd80ab474ba7042603fe912332",
+      "isRecommended": false
+    },
+    {
+      "url": "https://klaytn.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/klay",
+      "isRecommended": false
+    },
+    {
+      "url": "https://klaytn.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/kaia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kaia.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://kaia-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Kaiascope",
+      "url": "https://kaiascope.com"
+    },
+    {
+      "name": "Kaiascan",
+      "url": "https://kaiascan.io"
+    }
+  ],
+  "website": "https://kaia.io",
+  "aliases": [
+    "kaia-mainnet"
+  ]
+}

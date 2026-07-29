@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LightchainAI Testnet",
+  "slug": "lightchainai-testnet-8200",
+  "chainId": 8200,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LightchainAI",
+    "symbol": "LCAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.lightchain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lightchain Testnet Explorer",
+      "url": "https://testnet.lightscan.app"
+    }
+  ],
+  "website": "https://lightchain.ai",
+  "aliases": [
+    "LCAI",
+    "lcai-t"
+  ]
+}

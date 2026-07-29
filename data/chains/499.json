@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Rupaya",
+  "slug": "rupaya",
+  "chainId": 499,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rupaya",
+    "symbol": "RUPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.rupaya.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rupaya Explorer",
+      "url": "https://scan.rupaya.io"
+    }
+  ],
+  "website": "https://www.rupaya.io",
+  "aliases": [
+    "RUPX",
+    "rupx"
+  ]
+}

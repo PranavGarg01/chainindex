@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "HashKey Chain Testnet",
+  "slug": "hashkey-chain-testnet",
+  "chainId": 133,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HashKey EcoPoints",
+    "symbol": "HSK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hashkeychain-testnet.alt.technology",
+      "isRecommended": true
+    },
+    {
+      "url": "https://hashkey-testnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://testnet.hsk.xyz",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet-explorer.hsk.xyz"
+    }
+  ],
+  "website": "https://hashkeychain.net",
+  "aliases": [
+    "HSKT"
+  ]
+}

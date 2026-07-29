@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lestnet",
+  "slug": "lestnet",
+  "chainId": 21363,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lestnet Ether",
+    "symbol": "LETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://service.lestnet.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lestnet Explorer",
+      "url": "https://explore.lestnet.org"
+    }
+  ],
+  "website": "https://lestnet.org",
+  "aliases": [
+    "LETH",
+    "leth"
+  ]
+}

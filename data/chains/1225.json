@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Hybrid Testnet",
+  "slug": "hybrid-testnet",
+  "chainId": 1225,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Hybrid",
+    "symbol": "HYB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://hybrid-testnet.rpc.caldera.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Hybrid Testnet",
+      "url": "https://explorer.buildonhybrid.com"
+    }
+  ],
+  "website": "https://buildonhybrid.com",
+  "aliases": [
+    "HYB",
+    "hyb"
+  ]
+}

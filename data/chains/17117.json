@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "DeFiVerse Testnet",
+  "slug": "defiverse-testnet",
+  "chainId": 17117,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Oasys",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.defi-verse.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DeFiVerse Testnet Explorer",
+      "url": "https://scan-testnet.defi-verse.org"
+    }
+  ],
+  "website": "https://defi-verse.org",
+  "aliases": [
+    "DFV-testnet"
+  ]
+}

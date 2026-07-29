@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Alaya",
+  "slug": "alaya",
+  "chainId": 201018,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ATP",
+    "symbol": "atp",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://openapi.alaya.network/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "alaya explorer",
+      "url": "https://scan.alaya.network"
+    }
+  ],
+  "website": "https://www.alaya.network/"
+}

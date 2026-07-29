@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "GRVT Exchange Testnet",
+  "slug": "grvt-exchange-testnet",
+  "chainId": 326,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zkrpc.testnet.grvt.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://grvt.io/",
+  "aliases": [
+    "ETH",
+    "grvt-sepolia"
+  ]
+}

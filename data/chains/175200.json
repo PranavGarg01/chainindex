@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lit Chain",
+  "slug": "lit-chain",
+  "chainId": 175200,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lit Protocol",
+    "symbol": "LITKEY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://lit-chain-rpc.litprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lit Chain Explorer",
+      "url": "https://lit-chain-explorer.litprotocol.com"
+    }
+  ],
+  "website": "https://litprotocol.com",
+  "aliases": [
+    "LITKEY",
+    "lit"
+  ]
+}

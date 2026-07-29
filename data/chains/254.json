@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "Swan Chain",
+  "slug": "swan-chain",
+  "chainId": 254,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.swanchain.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-rpc-01.swanchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc-02.swanchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc-03.swanchain.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc-04.swanchain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Swanchain Explorer",
+      "url": "https://swanscan.io"
+    }
+  ],
+  "website": "https://swanchain.io/",
+  "aliases": [
+    "SWAN",
+    "Swan"
+  ]
+}

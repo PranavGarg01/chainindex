@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "name": "OPN Chain",
+  "slug": "opn-chain",
+  "chainId": 222,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IOPN",
+    "symbol": "IOPN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://blockchain-api-mainnet.permission.io/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-rpc.iopn.tech",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc2.iopn.tech",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc3.iopn.tech",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OPNScan",
+      "url": "https://opnscan.io"
+    }
+  ],
+  "website": "https://chain.iopn.io",
+  "aliases": [
+    "IOPN",
+    "iopn"
+  ]
+}

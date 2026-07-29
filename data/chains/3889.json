@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "KalyChain Testnet",
+  "slug": "kalychain-testnet",
+  "chainId": 3889,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "KalyCoin",
+    "symbol": "KLC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.kalychain.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "KalyScan",
+      "url": "https://testnet.kalyscan.io"
+    }
+  ],
+  "website": "https://kalychain.io",
+  "aliases": [
+    "KLC",
+    "kalytestnet"
+  ]
+}

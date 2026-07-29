@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "DreyerX Testnet",
+  "slug": "dreyerx-testnet",
+  "chainId": 23452,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DreyerX",
+    "symbol": "DRX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.dreyerx.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "drxscan",
+      "url": "https://testnet-scan.dreyerx.com"
+    }
+  ],
+  "website": "https://dreyerx.com",
+  "aliases": [
+    "DreyerX",
+    "dreyerx-testnet"
+  ]
+}

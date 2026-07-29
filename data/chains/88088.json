@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "name": "PLUS",
+  "slug": "plus",
+  "chainId": 88088,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PLUS",
+    "symbol": "PLUS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://plusmain.net/api/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://plusmain.net"
+}

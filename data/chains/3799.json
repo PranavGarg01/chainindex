@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Tangle Testnet",
+  "slug": "tangle-testnet",
+  "chainId": 3799,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Testnet Tangle Network Token",
+    "symbol": "tTNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.tangle.tools",
+      "isRecommended": true
+    },
+    {
+      "url": "https://testnet-rpc-archive.tangle.tools",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ttntscan",
+      "url": "https://testnet-explorer.tangle.tools"
+    }
+  ],
+  "website": "https://docs.tangle.tools",
+  "aliases": [
+    "tTangle"
+  ]
+}

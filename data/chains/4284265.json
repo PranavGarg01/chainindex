@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Zuux chain testnet",
+  "slug": "zuux-chain-testnet",
+  "chainId": 4284265,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ZUUX",
+    "symbol": "ZUUX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.zuux.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Zuux chain explorer",
+      "url": "https://blockscout.zuux.network"
+    },
+    {
+      "name": "Zuux chain explorer",
+      "url": "https://explorer.zuux.network"
+    }
+  ],
+  "website": "https://www.zuux.network",
+  "aliases": [
+    "zuuxchain"
+  ]
+}

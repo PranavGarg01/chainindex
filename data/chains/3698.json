@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SenjePowers Testnet",
+  "slug": "senjepowers-testnet",
+  "chainId": 3698,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SenjePowers",
+    "symbol": "SPC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.senjepowersscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SenjePowers",
+      "url": "https://testnet.senjepowersscan.com"
+    }
+  ],
+  "website": "https://senjepowersscan.com",
+  "aliases": [
+    "SPC",
+    "SPCt"
+  ]
+}

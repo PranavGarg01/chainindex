@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Patex",
+  "slug": "patex",
+  "chainId": 789,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.patex.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "patexscan",
+      "url": "https://patexscan.io"
+    }
+  ],
+  "website": "https://patex.io/",
+  "aliases": [
+    "ETH",
+    "peth"
+  ]
+}

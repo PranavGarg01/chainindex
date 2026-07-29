@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EthereumFair",
+  "slug": "ethereumfair",
+  "chainId": 513100,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "EthereumFair",
+    "symbol": "ETHF",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.etherfair.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EthereumFair",
+      "url": "https://www.oklink.com/ethf"
+    }
+  ],
+  "website": "https://etherfair.org/",
+  "aliases": [
+    "ETHF",
+    "ethf"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PEPE Unchained",
+  "slug": "pepe-unchained",
+  "chainId": 97741,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pepe Unchained",
+    "symbol": "PEPU",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-pepu-v2-mainnet-0.t.conduit.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PEPUScan",
+      "url": "https://pepuscan.com/"
+    }
+  ],
+  "website": "https://pepeunchained.com/",
+  "aliases": [
+    "PEPU",
+    "pepu"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexi V2",
+  "slug": "nexi-v2",
+  "chainId": 4243,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NexiV2",
+    "symbol": "NEXI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://chain.nexiv2.nexilix.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.chainv1.nexi.technology",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "nexiscan",
+      "url": "https://www.nexiscan.com"
+    }
+  ],
+  "website": "https://www.nexi.technology/",
+  "aliases": [
+    "NexiV2"
+  ]
+}

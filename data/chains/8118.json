@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Shardeum",
+  "slug": "shardeum",
+  "chainId": 8118,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Shardeum",
+    "symbol": "SHM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.shardeum.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Shardeum Explorer",
+      "url": "https://explorer.shardeum.org"
+    }
+  ],
+  "website": "https://docs.shardeum.org/"
+}

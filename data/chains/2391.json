@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "name": "TAC Saint Petersburg",
+  "slug": "tac-saint-petersburg",
+  "chainId": 2391,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAC",
+    "symbol": "TAC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://spb.rpc.tac.build",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.ankr.com/tac_spb",
+      "isRecommended": false
+    },
+    {
+      "url": "https://spb-ws.rpc.tac.build",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "TAC SPB Explorer",
+      "url": "https://spb.explorer.tac.build"
+    }
+  ],
+  "website": "https://tac.build/",
+  "aliases": [
+    "TAC",
+    "tacchain_2391-1",
+    "TAC Testnet SPB"
+  ]
+}

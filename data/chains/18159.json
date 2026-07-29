@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "name": "Proof Of Memes",
+  "slug": "proof-of-memes",
+  "chainId": 18159,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Proof Of Memes",
+    "symbol": "POM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.memescan.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mainnet-rpc2.memescan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc3.memescan.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mainnet-rpc4.memescan.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer-proofofmemes",
+      "url": "https://memescan.io"
+    }
+  ],
+  "website": "https://proofofmemes.org",
+  "aliases": [
+    "POM",
+    "pom",
+    "Proof Of Memes Mainnet"
+  ]
+}

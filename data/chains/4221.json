@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GenLayer Testnets",
+  "slug": "genlayer-testnets",
+  "chainId": 4221,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GEN Token",
+    "symbol": "GEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://zksync-os-testnet-genlayer.zksync.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GenLayer Testnets Explorer",
+      "url": "https://zksync-os-testnet-genlayer.explorer.zksync.dev"
+    }
+  ],
+  "website": "https://www.genlayer.com",
+  "aliases": [
+    "GenLayer",
+    "genlayer-testnets"
+  ]
+}

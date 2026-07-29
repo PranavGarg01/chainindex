@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Creator Chain Testnet",
+  "slug": "creator-chain-testnet",
+  "chainId": 66665,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CreatorETH",
+    "symbol": "CETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.creatorchain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "creatorchainscan",
+      "url": "https://explorer.creatorchain.io"
+    }
+  ],
+  "website": "https://docs.creatorchain.io/",
+  "aliases": [
+    "creatorchain",
+    "ceth"
+  ]
+}

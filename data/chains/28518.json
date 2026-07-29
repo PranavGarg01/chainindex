@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Vizing",
+  "slug": "vizing",
+  "chainId": 28518,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.vizing.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.vizing.com"
+    }
+  ],
+  "website": "https://vizing.com",
+  "aliases": [
+    "Vizing Mainnet"
+  ]
+}

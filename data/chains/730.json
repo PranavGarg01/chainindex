@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Lovely Network",
+  "slug": "lovely-network",
+  "chainId": 730,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lovely",
+    "symbol": "LOVELY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lovely.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Lovely Network Mainnet",
+      "url": "https://scan.lovely.network"
+    }
+  ],
+  "website": "https://lovely.network",
+  "aliases": [
+    "Lovely",
+    "LOVELY"
+  ]
+}

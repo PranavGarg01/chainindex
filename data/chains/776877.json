@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Modularium",
+  "slug": "modularium",
+  "chainId": 776877,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Modularium",
+    "symbol": "MDM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://fraa-dancebox-3035-rpc.a.dancebox.tanssi.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tanssi Explorer",
+      "url": "https://tanssi-evmexplorer.netlify.app/?rpcUrl=https://fraa-dancebox-3035-rpc.a.dancebox.tanssi.network"
+    }
+  ],
+  "website": "https://www.rmrk.app/",
+  "aliases": [
+    "EVMCC",
+    "mdlrm"
+  ]
+}

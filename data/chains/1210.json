@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Cuckoo Sepolia",
+  "slug": "cuckoo-sepolia",
+  "chainId": 1210,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CuckooAI",
+    "symbol": "CAI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.cuckoo.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://cuckoo.network",
+  "aliases": [
+    "CuckooAI",
+    "caisepolia",
+    "Cuckoo AI Testnet Sepolia"
+  ]
+}

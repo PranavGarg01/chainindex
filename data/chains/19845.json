@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BTCIX Network",
+  "slug": "btcix-network",
+  "chainId": 19845,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BTCIX Network",
+    "symbol": "BTCIX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://seed.btcix.org/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BTCIXScan",
+      "url": "https://btcixscan.com"
+    }
+  ],
+  "website": "https://bitcolojix.org",
+  "aliases": [
+    "BTCIX",
+    "btcix"
+  ]
+}

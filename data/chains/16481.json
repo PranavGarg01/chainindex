@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Pivotal Sepolia",
+  "slug": "pivotal-sepolia",
+  "chainId": 16481,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pivotal ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.pivotalprotocol.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Pivotal Scan",
+      "url": "https://sepolia.pivotalscan.xyz"
+    }
+  ],
+  "aliases": [
+    "Pivotal",
+    "pivotal-sepolia"
+  ]
+}

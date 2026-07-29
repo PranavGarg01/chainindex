@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Sova",
+  "slug": "sova",
+  "chainId": 100021,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.sova.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.sova.io"
+    }
+  ],
+  "website": "https://sova.io",
+  "aliases": [
+    "ETH"
+  ]
+}

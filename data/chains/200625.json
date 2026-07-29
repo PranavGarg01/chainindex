@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Akroma",
+  "slug": "akroma",
+  "chainId": 200625,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Akroma Ether",
+    "symbol": "AKA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://boot2.akroma.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://remote.akroma.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://akroma.io",
+  "aliases": [
+    "AKA",
+    "aka"
+  ]
+}

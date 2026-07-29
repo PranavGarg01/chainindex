@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "TSC",
+  "slug": "tsc",
+  "chainId": 345,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TAS",
+    "symbol": "TAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc01.trias.one",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tscscan",
+      "url": "https://www.tscscan.io"
+    }
+  ],
+  "website": "https://www.trias.one",
+  "aliases": [
+    "Trust Smart Chain"
+  ]
+}

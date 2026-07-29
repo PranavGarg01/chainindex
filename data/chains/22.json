@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "ELA-DID-Sidechain",
+  "slug": "ela-did-sidechain",
+  "chainId": 22,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Elastos",
+    "symbol": "ELA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.trinity-tech.io/eid",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api.elastos.io/eid",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://www.elastos.org/",
+  "aliases": [
+    "ETH",
+    "eladid"
+  ]
+}

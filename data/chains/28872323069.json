@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "GitSwarm Test Network",
+  "slug": "gitswarm-test-network",
+  "chainId": 28872323069,
+  "networkType": "testnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "GitSwarm Ether",
+    "symbol": "GS-ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.gitswarm.com:2096",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://gitswarm.com/",
+  "aliases": [
+    "ETH",
+    "GS-ETH"
+  ]
+}

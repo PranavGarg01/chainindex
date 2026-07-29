@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Darwinia Pangolin Testnet",
+  "slug": "darwinia-pangolin-testnet",
+  "chainId": 43,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Pangolin Network Native Token",
+    "symbol": "PRING",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://pangolin-rpc.darwinia.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://pangolin.subscan.io"
+    }
+  ],
+  "website": "https://darwinia.network/",
+  "aliases": [
+    "pangolin"
+  ]
+}

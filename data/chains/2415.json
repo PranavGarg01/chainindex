@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "XODEX",
+  "slug": "xodex",
+  "chainId": 2415,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XODEX Native Token",
+    "symbol": "XODEX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet.xo-dex.com/rpc",
+      "isRecommended": true
+    },
+    {
+      "url": "https://xo-dex.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XODEX Explorer",
+      "url": "https://explorer.xo-dex.com"
+    }
+  ],
+  "website": "https://xo-dex.com"
+}

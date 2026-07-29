@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Botanix Testnet",
+  "slug": "botanix-testnet",
+  "chainId": 3636,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Botanix",
+    "symbol": "BTC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.ankr.com/botanix_testnet",
+      "isRecommended": true
+    },
+    {
+      "url": "https://node.botanixlabs.dev",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Botanix Explorer",
+      "url": "https://testnet.botanixscan.io"
+    }
+  ],
+  "website": "https://botanixlabs.xyz",
+  "aliases": [
+    "BOTANIX",
+    "BTNXt"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BiniChain",
+  "slug": "binichain",
+  "chainId": 837291,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BINI",
+    "symbol": "BINI",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.binibit.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://scan.binibit.com"
+    }
+  ],
+  "website": "https://binibit.com",
+  "aliases": [
+    "BINI",
+    "bini"
+  ]
+}

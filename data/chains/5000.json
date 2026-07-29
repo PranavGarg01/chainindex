@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "name": "Mantle",
+  "slug": "mantle",
+  "chainId": 5000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Mantle",
+    "symbol": "MNT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.mantle.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://mantle-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantle-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantle-rpc.publicnode.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantle.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/mantle",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantle.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api.zan.top/mantle-mainnet",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/mantle/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.owlracle.info/mantle/70d38ce1826c4a60bb2a8e05a6c8b20f",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantle.therpc.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://mantle.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://api-mantle-mainnet.n.dwellir.com/2ccf18bf-2916-4198-8856-42172854353c",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/mantle",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "mantlescan",
+      "url": "https://mantlescan.xyz"
+    },
+    {
+      "name": "Mantle Explorer",
+      "url": "https://explorer.mantle.xyz"
+    }
+  ],
+  "website": "https://mantle.xyz",
+  "aliases": [
+    "ETH"
+  ]
+}

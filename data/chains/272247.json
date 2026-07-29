@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nxy Area 51",
+  "slug": "nxy-area-51",
+  "chainId": 272247,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nxy",
+    "symbol": "NXY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nxy.social/testnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Nxy Explorer",
+      "url": "https://explorer.nxy.social"
+    }
+  ],
+  "website": "https://nxy.social/l1",
+  "aliases": [
+    "NXY",
+    "nxytest"
+  ]
+}

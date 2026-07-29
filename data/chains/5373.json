@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Settlus Sepolia Testnet",
+  "slug": "settlus-sepolia-testnet",
+  "chainId": 5373,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://settlus-septestnet.g.alchemy.com/public",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Settlus Sepolia Testnet Explorer",
+      "url": "https://sepolia.settlus.network"
+    }
+  ],
+  "website": "https://settlus.org",
+  "aliases": [
+    "ETH",
+    "setl-sepolia"
+  ]
+}

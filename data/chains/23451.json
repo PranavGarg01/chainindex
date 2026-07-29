@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "DreyerX",
+  "slug": "dreyerx",
+  "chainId": 23451,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "DreyerX",
+    "symbol": "DRX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.dreyerx.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "drxscan",
+      "url": "https://scan.dreyerx.com"
+    }
+  ],
+  "website": "https://dreyerx.com"
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 2,
+  "name": "Astar",
+  "slug": "astar",
+  "chainId": 592,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Astar",
+    "symbol": "ASTR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evm.astar.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.astar.network:8545",
+      "isRecommended": false
+    },
+    {
+      "url": "https://astar.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://getblock.io/nodes/bsc",
+      "isRecommended": false
+    },
+    {
+      "url": "https://1rpc.io/astr",
+      "isRecommended": false
+    },
+    {
+      "url": "https://astar-mainnet.g.alchemy.com/v2/demo",
+      "isRecommended": false
+    },
+    {
+      "url": "https://astar.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://astar-rpc.dwellir.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://astar.public.curie.radiumblock.co/http",
+      "isRecommended": false
+    },
+    {
+      "url": "https://astar.public.curie.radiumblock.co/ws",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "subscan",
+      "url": "https://astar.subscan.io"
+    },
+    {
+      "name": "blockscout",
+      "url": "https://blockscout.com/astar"
+    }
+  ],
+  "website": "https://astar.network/",
+  "aliases": [
+    "ASTR",
+    "astr"
+  ]
+}

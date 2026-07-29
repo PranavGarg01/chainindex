@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Amauti",
+  "slug": "amauti",
+  "chainId": 24116,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SteamX",
+    "symbol": "STEAMX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.steamexchange.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://build.steamexchange.io"
+    }
+  ],
+  "website": "https://steamexchange.io",
+  "aliases": [
+    "RAILS",
+    "railst",
+    "Rails Network Testnet Amauti"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nillion Network Sepolia Testnet",
+  "slug": "nillion-network-sepolia-testnet",
+  "chainId": 78651,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.nillion.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.testnet.nillion.network"
+    }
+  ],
+  "website": "https://nillion.com/",
+  "aliases": [
+    "ETH",
+    "nilsep"
+  ]
+}

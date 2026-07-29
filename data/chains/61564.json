@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Gelatine Network",
+  "slug": "gelatine-network",
+  "chainId": 61564,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "JELLO",
+    "symbol": "JELLO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pine.ink",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Gelatine Explorer",
+      "url": "https://explorer.pine.ink"
+    }
+  ],
+  "website": "https://gelatine.pine.ink",
+  "aliases": [
+    "JELLO",
+    "jello"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Elastos Smart Chain Testnet",
+  "slug": "elastos-smart-chain-testnet",
+  "chainId": 21,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Elastos",
+    "symbol": "tELA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api-testnet.elastos.io/eth",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "elastos esc explorer",
+      "url": "https://esc-testnet.elastos.io"
+    }
+  ],
+  "website": "https://www.elastos.org/",
+  "aliases": [
+    "ETH",
+    "esct"
+  ]
+}

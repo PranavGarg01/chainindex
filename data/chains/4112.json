@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "E Canna Testnet",
+  "slug": "e-canna-testnet",
+  "chainId": 4112,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "E Canna Testnet",
+    "symbol": "tECNA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnetrpc.ecnascan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ecnascan-testnet",
+      "url": "https://testnetexplorer.ecnascan.com"
+    }
+  ],
+  "website": "https://ecnascan.com",
+  "aliases": [
+    "tECNA",
+    "tecna"
+  ]
+}

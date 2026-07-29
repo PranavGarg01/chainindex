@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "HYCHAIN Testnet",
+  "slug": "hychain-testnet",
+  "chainId": 29112,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TOPIA",
+    "symbol": "TOPIA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-rpc.hychain.com/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://testnet.explorer.hychain.com"
+    }
+  ],
+  "website": "https://www.hychain.com",
+  "aliases": [
+    "ETH",
+    "hychain-testnet"
+  ]
+}

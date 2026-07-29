@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "name": "Ink",
+  "slug": "ink",
+  "chainId": 57073,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-gel.inkonchain.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc-qnd.inkonchain.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ink.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ink-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://ink.api.pocket.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Ink Explorer",
+      "url": "https://explorer.inkonchain.com"
+    }
+  ],
+  "website": "https://inkonchain.com",
+  "aliases": [
+    "ETH"
+  ]
+}

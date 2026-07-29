@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "LUST Chain",
+  "slug": "lust-chain",
+  "chainId": 6923,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "LUST",
+    "symbol": "LST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.lustchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "LUST Explorer",
+      "url": "https://explorer.lustchain.org/"
+    }
+  ],
+  "website": "https://lustchain.org/",
+  "aliases": [
+    "LUST",
+    "lust"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Litheum Test Network",
+  "slug": "litheum-test-network",
+  "chainId": 1174,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Lith",
+    "symbol": "LTH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.litheum.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Litheum Test Network Explorer",
+      "url": "https://explorer.litheum.com"
+    }
+  ],
+  "website": "https://litheum.com",
+  "aliases": [
+    "Litheum",
+    "lith"
+  ]
+}

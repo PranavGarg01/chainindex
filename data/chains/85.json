@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GateChain Testnet",
+  "slug": "gatechain-testnet",
+  "chainId": 85,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GateToken",
+    "symbol": "GT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.gatenode.cc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GateScan",
+      "url": "https://www.gatescan.org/testnet"
+    }
+  ],
+  "website": "https://www.gatechain.io",
+  "aliases": [
+    "GTTEST",
+    "gttest"
+  ]
+}

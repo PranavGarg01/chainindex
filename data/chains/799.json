@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Rupaya Testnet",
+  "slug": "rupaya-testnet",
+  "chainId": 799,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test Rupaya",
+    "symbol": "TRUPX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.rupaya.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "rupayascan",
+      "url": "https://scan.testnet.rupaya.io"
+    }
+  ],
+  "website": "https://www.rupaya.io",
+  "aliases": [
+    "RupayaTestnet"
+  ]
+}

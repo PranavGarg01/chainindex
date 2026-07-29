@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "Astra Testnet",
+  "slug": "astra-testnet",
+  "chainId": 11115,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "test-Astra",
+    "symbol": "tASA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.astranaut.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Astra EVM Explorer",
+      "url": "https://explorer.astranaut.dev"
+    },
+    {
+      "name": "Astra PingPub Explorer",
+      "url": "https://ping.astranaut.dev/astra"
+    }
+  ],
+  "website": "https://astranaut.io",
+  "aliases": [
+    "Astra",
+    "astra-testnet"
+  ]
+}

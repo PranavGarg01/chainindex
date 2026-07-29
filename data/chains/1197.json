@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Iora Chain",
+  "slug": "iora-chain",
+  "chainId": 1197,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Iora",
+    "symbol": "IORA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed.iorachain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ioraexplorer",
+      "url": "https://explorer.iorachain.com"
+    }
+  ],
+  "website": "https://iorachain.com",
+  "aliases": [
+    "IORA",
+    "iora"
+  ]
+}

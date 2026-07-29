@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "BlockChain Station",
+  "slug": "blockchain-station",
+  "chainId": 707,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BCS Token",
+    "symbol": "BCS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.bcsdev.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "BlockChain Station Explorer",
+      "url": "https://explorer.bcsdev.io"
+    }
+  ],
+  "website": "https://blockchainstation.io",
+  "aliases": [
+    "BCS",
+    "bcs"
+  ]
+}

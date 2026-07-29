@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "PlayFi Albireo Testnet",
+  "slug": "playfi-albireo-testnet",
+  "chainId": 1612127,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://albireo-rpc.playfi.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PlayFi Block Explorer",
+      "url": "https://albireo-explorer.playfi.ai"
+    }
+  ],
+  "website": "https://www.playfi.ai/",
+  "aliases": [
+    "ETH",
+    "alberio"
+  ]
+}

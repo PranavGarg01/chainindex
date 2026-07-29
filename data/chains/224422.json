@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CONET Sebolia Testnet",
+  "slug": "conet-sebolia-testnet",
+  "chainId": 224422,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CONET Sebolia",
+    "symbol": "CONET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1.conet.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CONET Scan",
+      "url": "https://scan.conet.network"
+    }
+  ],
+  "website": "https://conet.network",
+  "aliases": [
+    "CONET",
+    "conet-sebolia"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "IPOS Network",
+  "slug": "ipos-network",
+  "chainId": 1122334455,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IPOS Network Ether",
+    "symbol": "IPOS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.iposlab.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc2.iposlab.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://iposlab.com",
+  "aliases": [
+    "IPOS",
+    "ipos"
+  ]
+}

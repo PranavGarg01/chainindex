@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Degen Chain",
+  "slug": "degen-chain",
+  "chainId": 666666666,
+  "networkType": "mainnet",
+  "status": "coming_soon",
+  "nativeCurrency": {
+    "name": "DEGEN",
+    "symbol": "DEGEN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.degen.tips",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://degen.tips",
+  "aliases": [
+    "Degen",
+    "degen-chain"
+  ]
+}

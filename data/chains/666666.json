@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Vision - Vpioneer Test Chain",
+  "slug": "vision-vpioneer-test-chain",
+  "chainId": 666666,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "VS",
+    "symbol": "VS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://vpioneer.infragrid.v.network/ethereum/compatible",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://visionscan.org",
+  "aliases": [
+    "Vision-Vpioneer",
+    "vpioneer"
+  ]
+}

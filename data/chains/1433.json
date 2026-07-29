@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Rikeza Network",
+  "slug": "rikeza-network",
+  "chainId": 1433,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Rikeza",
+    "symbol": "RIK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.rikscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rikeza Blockchain explorer",
+      "url": "https://rikscan.com"
+    }
+  ],
+  "website": "https://rikeza.io",
+  "aliases": [
+    "Rikeza",
+    "RIK",
+    "Rikeza Network Mainnet"
+  ]
+}

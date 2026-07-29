@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Ennothem Testnet Pioneer",
+  "slug": "ennothem-testnet-pioneer",
+  "chainId": 49,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ennothem",
+    "symbol": "ETMP",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.pioneer.etm.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "etmp",
+      "url": "https://pioneer.etmscan.network"
+    }
+  ],
+  "website": "https://etm.network",
+  "aliases": [
+    "ETMP",
+    "etmpTest"
+  ]
+}

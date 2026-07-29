@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "name": "zkSync Sepolia Testnet",
+  "slug": "zksync-sepolia-testnet",
+  "chainId": 300,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://sepolia.era.zksync.dev",
+      "isRecommended": true
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/zksync-era/sepolia/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.ankr.com/zksync_era_sepolia",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync-sepolia.api.onfinality.io/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zksync-sepolia.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "zkSync Block Explorer",
+      "url": "https://sepolia.explorer.zksync.io"
+    }
+  ],
+  "website": "https://zksync.io/",
+  "aliases": [
+    "ETH",
+    "zksync-sepolia"
+  ]
+}

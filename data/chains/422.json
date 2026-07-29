@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Viridis",
+  "slug": "viridis",
+  "chainId": 422,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Viridis Token",
+    "symbol": "VRD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://mainnet-rpc.vrd.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Viridis Mainnet",
+      "url": "https://explorer.vrd.network"
+    }
+  ],
+  "website": "https://viridis.network",
+  "aliases": [
+    "VRD",
+    "vrd"
+  ]
+}

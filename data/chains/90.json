@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Garizon Stage0",
+  "slug": "garizon-stage0",
+  "chainId": 90,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Garizon",
+    "symbol": "GAR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://s0.garizon.net/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.garizon.com"
+    }
+  ],
+  "website": "https://garizon.com",
+  "aliases": [
+    "GAR",
+    "gar-s0"
+  ]
+}

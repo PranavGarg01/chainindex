@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "PAYSCAN CHAIN",
+  "slug": "payscan-chain",
+  "chainId": 756689,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "PYZ",
+    "symbol": "PYZ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.payscan.live",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "PAYSCAN CHAIN",
+      "url": "https://payscan.live"
+    }
+  ],
+  "website": "https://payscan.live",
+  "aliases": [
+    "payscan"
+  ]
+}

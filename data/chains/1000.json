@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "GTON",
+  "slug": "gton",
+  "chainId": 1000,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "GCD",
+    "symbol": "GCD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.gton.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GTON Network Explorer",
+      "url": "https://explorer.gton.network"
+    }
+  ],
+  "website": "https://gton.capital"
+}

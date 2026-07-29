@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Deamchain Testnet",
+  "slug": "deamchain-testnet",
+  "chainId": 236,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Deamchain Native Token",
+    "symbol": "DEAM",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.deamchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Deamchain Testnet Explorer",
+      "url": "https://testnet-scan.deamchain.com"
+    }
+  ],
+  "website": "https://deamchain.com",
+  "aliases": [
+    "Deamchain",
+    "deamtest"
+  ]
+}

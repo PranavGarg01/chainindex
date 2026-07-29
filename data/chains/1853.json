@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "HighOctane Subnet",
+  "slug": "highoctane-subnet",
+  "chainId": 1853,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "HighOctane",
+    "symbol": "HO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/highoctane/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "HighOctane Subnet Explorer",
+      "url": "https://subnets.avax.network/highoctane"
+    }
+  ],
+  "website": "https://subnets.avax.network/highoctane/details",
+  "aliases": [
+    "HighOctane"
+  ]
+}

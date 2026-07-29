@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "MyRx Network",
+  "slug": "myrx-network",
+  "chainId": 8472,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MyRx Token",
+    "symbol": "MRT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.myrxwallet.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "MyRx Explorer",
+      "url": "https://explorer.myrxwallet.io"
+    }
+  ],
+  "website": "https://myrxwallet.io",
+  "aliases": [
+    "MRT",
+    "mrt"
+  ]
+}

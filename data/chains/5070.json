@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "FusionLayer",
+  "slug": "fusionlayer",
+  "chainId": 5070,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "FusionLayer",
+    "symbol": "FXL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.fusionlayer.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.fusionscan.net",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "FusionScan",
+      "url": "https://fusionscan.net"
+    }
+  ],
+  "website": "https://fusionlayer.org"
+}

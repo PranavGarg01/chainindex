@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Masa",
+  "slug": "masa",
+  "chainId": 13396,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Masa Token",
+    "symbol": "MASA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://subnets.avax.network/masanetwork/mainnet/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Masa Explorer",
+      "url": "https://subnets.avax.network/masa"
+    }
+  ],
+  "website": "https://masa.finance"
+}

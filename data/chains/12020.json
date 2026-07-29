@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Aternos",
+  "slug": "aternos",
+  "chainId": 12020,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aternos",
+    "symbol": "ATR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.aternoschain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://explorer.aternoschain.com"
+    }
+  ],
+  "website": "https://aternoschain.com",
+  "aliases": [
+    "ATR"
+  ]
+}

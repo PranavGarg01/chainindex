@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "OneLedger Testnet Frankenstein",
+  "slug": "oneledger-testnet-frankenstein",
+  "chainId": 4216137055,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OLT",
+    "symbol": "OLT",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://frankenstein-rpc.oneledger.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "OneLedger Block Explorer",
+      "url": "https://frankenstein-explorer.oneledger.network"
+    }
+  ],
+  "website": "https://oneledger.io",
+  "aliases": [
+    "OLT",
+    "frankenstein"
+  ]
+}

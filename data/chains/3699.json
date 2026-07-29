@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "SenjePowers",
+  "slug": "senjepowers",
+  "chainId": 3699,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SenjePowers",
+    "symbol": "SPC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.senjepowersscan.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "SenjePowers",
+      "url": "https://senjepowersscan.com"
+    }
+  ],
+  "website": "https://senjepowersscan.com",
+  "aliases": [
+    "SPC",
+    "SPCm"
+  ]
+}

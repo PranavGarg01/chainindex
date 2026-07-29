@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "ITX",
+  "slug": "itx",
+  "chainId": 1235,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ITX",
+    "symbol": "ITX",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.itxchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "ITX Mainnet Explorer (Blockscout)",
+      "url": "https://explorer.itxchain.com"
+    }
+  ],
+  "website": "https://explorer.itxchain.com"
+}

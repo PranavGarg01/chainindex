@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ShimmerEVM Testnet",
+  "slug": "shimmerevm-testnet",
+  "chainId": 1073,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "SMR",
+    "symbol": "SMR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://json-rpc.evm.testnet.shimmer.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "explorer",
+      "url": "https://explorer.evm.testnet.shimmer.network"
+    }
+  ],
+  "website": "https://shimmer.network",
+  "aliases": [
+    "ShimmerEVM",
+    "shimmerevm-testnet"
+  ]
+}

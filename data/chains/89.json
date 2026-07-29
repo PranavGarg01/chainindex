@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Viction Testnet",
+  "slug": "viction-testnet",
+  "chainId": 89,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Viction",
+    "symbol": "VIC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.viction.xyz",
+      "isRecommended": true
+    },
+    {
+      "url": "https://viction-testnet.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [],
+  "website": "https://viction.xyz",
+  "aliases": [
+    "Viction",
+    "vict"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "King Of Legends",
+  "slug": "king-of-legends",
+  "chainId": 2425,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "King Of Legends",
+    "symbol": "KCC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-mainnet.kinggamer.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "King Of Legends Mainnet Explorer",
+      "url": "https://kingscan.org"
+    }
+  ],
+  "website": "https://kingoflegends.net/",
+  "aliases": [
+    "KCC",
+    "kcc",
+    "King Of Legends Mainnet"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Decimal Smart Chain Testnet",
+  "slug": "decimal-smart-chain-testnet",
+  "chainId": 202020,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Decimal",
+    "symbol": "tDEL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet-val.decimalchain.com/web3",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "DSC Explorer Testnet",
+      "url": "https://testnet.explorer.decimalchain.com"
+    }
+  ],
+  "website": "https://decimalchain.com",
+  "aliases": [
+    "tDSC"
+  ]
+}

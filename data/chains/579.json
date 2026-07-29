@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Filenova",
+  "slug": "filenova",
+  "chainId": 579,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.filenova.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "filenova explorer",
+      "url": "https://scan.filenova.org"
+    }
+  ],
+  "website": "https://filenova.org"
+}

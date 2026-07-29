@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Nexa MetaNet",
+  "slug": "nexa-metanet",
+  "chainId": 29223,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Nexa",
+    "symbol": "NEXA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://nexa.sh/metanet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "NexaShell",
+      "url": "https://nexa.sh"
+    }
+  ],
+  "website": "https://nexa.sh/meta",
+  "aliases": [
+    "NEXA",
+    "nexameta"
+  ]
+}

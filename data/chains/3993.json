@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "APEX Testnet",
+  "slug": "apex-testnet",
+  "chainId": 3993,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.apexlayer.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://exp-testnet.apexlayer.xyz"
+    }
+  ],
+  "website": "https://docs.apexlayer.xyz/",
+  "aliases": [
+    "ETH",
+    "apexsep"
+  ]
+}

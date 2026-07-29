@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Metaplayerone",
+  "slug": "metaplayerone",
+  "chainId": 2122,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "METAD",
+    "symbol": "METAD",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.metaplayer.one",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Metad Scan",
+      "url": "https://scan.metaplayer.one"
+    }
+  ],
+  "website": "https://docs.metaplayer.one/",
+  "aliases": [
+    "METAD",
+    "Metad"
+  ]
+}

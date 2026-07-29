@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Roburna",
+  "slug": "roburna",
+  "chainId": 158,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Roburna",
+    "symbol": "RBA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed.roburna.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Rbascan Explorer",
+      "url": "https://rbascan.com"
+    }
+  ],
+  "website": "https://www.roburna.com/",
+  "aliases": [
+    "RBA",
+    "rba"
+  ]
+}

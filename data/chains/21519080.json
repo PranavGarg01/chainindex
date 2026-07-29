@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Tajirchain Devnet",
+  "slug": "tajirchain-devnet",
+  "chainId": 21519080,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Tajirchain Test Token",
+    "symbol": "tTJR",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.devnet.tajirchain.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Blockscout",
+      "url": "https://explorer.devnet.tajirchain.com"
+    }
+  ],
+  "website": "https://tajirchain.com",
+  "aliases": [
+    "TJR",
+    "tjr-devnet"
+  ]
+}

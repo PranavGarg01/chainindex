@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Puppynet",
+  "slug": "puppynet",
+  "chainId": 157,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BONE",
+    "symbol": "BONE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://puppynet.shibrpc.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "puppyscan",
+      "url": "https://puppyscan.shib.io"
+    }
+  ],
+  "website": "https://shibariumecosystem.com"
+}

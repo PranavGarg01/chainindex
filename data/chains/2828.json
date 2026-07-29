@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "CandyChain",
+  "slug": "candychain",
+  "chainId": 2828,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CANDY",
+    "symbol": "CANDY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://publicrpc.candychain.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "CandyChain Explorer",
+      "url": "https://streams.candychain.io"
+    }
+  ],
+  "website": "https://candychain.io",
+  "aliases": [
+    "CANDY",
+    "candy"
+  ]
+}

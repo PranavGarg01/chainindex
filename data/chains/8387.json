@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 2,
+  "name": "Dracones Financial Services",
+  "slug": "dracones-financial-services",
+  "chainId": 8387,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Functionally Universal Coin Kind",
+    "symbol": "FUCK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.dracones.net",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://wolfery.com",
+  "aliases": [
+    "FUCK",
+    "fuck",
+    "The Dracones Mainnet"
+  ]
+}

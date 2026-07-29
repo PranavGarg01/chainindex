@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "name": "Intuition",
+  "slug": "intuition",
+  "chainId": 1155,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Intuition",
+    "symbol": "TRUST",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://intuition.calderachain.xyz/http",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.intuition.systems",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Intuition Explorer (Mainnet)",
+      "url": "https://intuition.calderaexplorer.xyz"
+    },
+    {
+      "name": "Intuition Explorer (Mainnet)",
+      "url": "https://explorer.intuition.systems"
+    }
+  ],
+  "website": "https://intuition.systems",
+  "aliases": [
+    "intuition-mainnet"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "EXPchain Testnet",
+  "slug": "expchain-testnet",
+  "chainId": 18880,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "tZKJ",
+    "symbol": "tZKJ",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc1-testnet.expchain.ai",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "EXPchain Testnet Explorer",
+      "url": "https://blockscout-testnet.expchain.ai"
+    }
+  ],
+  "website": "https://expchain.ai",
+  "aliases": [
+    "EXPCHAIN",
+    "expchain"
+  ]
+}

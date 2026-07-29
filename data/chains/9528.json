@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "QEasyWeb3 Testnet",
+  "slug": "qeasyweb3-testnet",
+  "chainId": 9528,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "QET",
+    "symbol": "QET",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://qeasyweb3.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "QEasyWeb3 Explorer",
+      "url": "https://www.qeasyweb3.com"
+    }
+  ],
+  "website": "https://www.qeasyweb3.com",
+  "aliases": [
+    "QET",
+    "QETTest"
+  ]
+}

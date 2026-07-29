@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Turbo",
+  "slug": "turbo",
+  "chainId": 1313161567,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Turbo",
+    "symbol": "TURBO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-0x4e45415f.aurora-cloud.dev",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Turbo explorer",
+      "url": "https://explorer.turbo.aurora.dev"
+    }
+  ],
+  "website": "https://turbotoken.io",
+  "aliases": [
+    "NEAR"
+  ]
+}

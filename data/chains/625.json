@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "Binary Sepolia",
+  "slug": "binary-sepolia",
+  "chainId": 625,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Test BNRY",
+    "symbol": "BNRY",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.thebinaryholdings.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Tracehawk",
+      "url": "https://explorer.sepolia.thebinaryholdings.com"
+    }
+  ],
+  "aliases": [
+    "The Binary Holdings",
+    "thebinaryholdings-sepolia"
+  ]
+}

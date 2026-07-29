@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "XR One",
+  "slug": "xr-one",
+  "chainId": 273,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "XR1",
+    "symbol": "XR1",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://xr1.calderachain.xyz/http",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "XR One Explorer",
+      "url": "https://xr1.calderaexplorer.xyz"
+    }
+  ],
+  "website": "https://xr-one.gitbook.io",
+  "aliases": [
+    "ETH",
+    "xr1"
+  ]
+}

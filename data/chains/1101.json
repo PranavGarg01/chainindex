@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "name": "Polygon zkEVM",
+  "slug": "polygon-zkevm",
+  "chainId": 1101,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.polygon-zkevm.gateway.fm",
+      "isRecommended": true
+    },
+    {
+      "url": "https://1rpc.io/polygon/zkevm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-zkevm-mainnet.public.blastapi.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-zkevm.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-zkevm-public.nodies.app",
+      "isRecommended": false
+    },
+    {
+      "url": "https://endpoints.omniatech.io/v1/polygon-zkevm/mainnet/public",
+      "isRecommended": false
+    },
+    {
+      "url": "https://node.histori.xyz/polygon-zkevm-mainnet/8ry9f6t9dct1se2hlagxnd9n2a",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-zkevm.api.pocket.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://polygon-zkevm.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://zkevm-rpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "blockscout",
+      "url": "https://zkevm.polygonscan.com"
+    }
+  ],
+  "website": "https://polygon.technology/polygon-zkevm",
+  "aliases": [
+    "Polygon",
+    "zkevm"
+  ]
+}

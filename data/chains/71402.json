@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Godwoken",
+  "slug": "godwoken",
+  "chainId": 71402,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "pCKB",
+    "symbol": "pCKB",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://v1.mainnet.godwoken.io/rpc",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "GWScan Block Explorer",
+      "url": "https://v1.gwscan.com"
+    }
+  ],
+  "website": "https://www.nervos.org",
+  "aliases": [
+    "GWT",
+    "gw-mainnet-v1"
+  ]
+}

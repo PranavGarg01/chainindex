@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Silent Data Testnet",
+  "slug": "silent-data-testnet",
+  "chainId": 381185,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://testnet.silentdata.com/${SILENTDATA_AUTH_TOKEN}",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Silent Data Testnet Explorer",
+      "url": "https://explorer-testnet.rollup.silentdata.com"
+    }
+  ],
+  "website": "https://www.silentdata.com",
+  "aliases": [
+    "Silent Data",
+    "silent-data-testnet"
+  ]
+}

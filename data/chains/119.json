@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "ENULS",
+  "slug": "enuls",
+  "chainId": 119,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "NULS",
+    "symbol": "NULS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://evmapi.nuls.io",
+      "isRecommended": true
+    },
+    {
+      "url": "https://evmapi2.nuls.io",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "enulsscan",
+      "url": "https://evmscan.nuls.io"
+    }
+  ],
+  "website": "https://nuls.io"
+}

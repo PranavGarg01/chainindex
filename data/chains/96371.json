@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Wonder Testnet",
+  "slug": "wonder-testnet",
+  "chainId": 96371,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.testnet.wonderchain.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "wonderexplorer",
+      "url": "https://explorer.testnet.wonderchain.org"
+    }
+  ],
+  "website": "https://wonderchain.org",
+  "aliases": [
+    "WNDR",
+    "wndr"
+  ]
+}

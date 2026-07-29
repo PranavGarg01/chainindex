@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "BrainArk",
+  "slug": "brainark",
+  "chainId": 1236,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "BrainArk",
+    "symbol": "BAK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.brainark.online",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://brainark.online",
+  "aliases": [
+    "BAK",
+    "bak"
+  ]
+}

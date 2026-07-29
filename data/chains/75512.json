@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "name": "GEEK Verse",
+  "slug": "geek-verse",
+  "chainId": 75512,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.geekout-pte.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Geek Explorer",
+      "url": "https://explorer.geekout-pte.com"
+    }
+  ],
+  "website": "https://www.geekout-pte.com",
+  "aliases": [
+    "GEEK"
+  ]
+}

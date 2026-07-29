@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "name": "Monad",
+  "slug": "monad",
+  "chainId": 143,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Monad",
+    "symbol": "MON",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://monad-mainnet.api.onfinality.io/public",
+      "isRecommended": true
+    },
+    {
+      "url": "https://monad-mainnet.drpc.org",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad-mainnet-rpc.spidernode.net",
+      "isRecommended": false
+    },
+    {
+      "url": "https://infra.originstake.com/monad/evm",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad-mainnet.gateway.tatum.io",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad-mainnet.rpc.sentio.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad-rpc.huginn.tech",
+      "isRecommended": false
+    },
+    {
+      "url": "https://gm.monad.at.htw.tech",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.swiftnodes.io/rpc/monad",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc.monad.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc1.monad.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc2.monad.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc3.monad.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc4.monad.xyz",
+      "isRecommended": false
+    },
+    {
+      "url": "https://rpc-mainnet.monadinfra.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://monad.rpc.blxrbdn.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Monad Vision",
+      "url": "https://monadvision.com"
+    },
+    {
+      "name": "Monadscan",
+      "url": "https://monadscan.com"
+    }
+  ],
+  "website": "https://monad.xyz",
+  "aliases": [
+    "MON"
+  ]
+}

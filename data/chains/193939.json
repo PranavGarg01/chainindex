@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "R0AR Chain",
+  "slug": "r0ar-chain",
+  "chainId": 193939,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-r0ar.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "R0ARscan",
+      "url": "https://r0arscan.io"
+    }
+  ],
+  "website": "https://r0ar.io",
+  "aliases": [
+    "R0AR",
+    "r0ar"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Igra Caravel Testnet",
+  "slug": "igra-caravel-testnet",
+  "chainId": 19416,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "iKAS",
+    "symbol": "iKAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://caravel.igralabs.com:8545",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Igra Explorer",
+      "url": "https://explorer.caravel.igralabs.com/"
+    }
+  ],
+  "website": "https://docs.igralabs.com/",
+  "aliases": [
+    "IGRA",
+    "igra-caravel-testnet"
+  ]
+}

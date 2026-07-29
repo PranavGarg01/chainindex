@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "name": "PrimusChain",
+  "slug": "primuschain",
+  "chainId": 78,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Primus Ether",
+    "symbol": "PETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://ethnode.primusmoney.com/mainnet",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://primusmoney.com",
+  "aliases": [
+    "PC"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "Reya Network",
+  "slug": "reya-network",
+  "chainId": 1729,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.reya.network",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Reya Network Explorer",
+      "url": "https://explorer.reya.network"
+    }
+  ],
+  "website": "https://reya.network",
+  "aliases": [
+    "Reya",
+    "reya"
+  ]
+}

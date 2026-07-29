@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Moca Chain",
+  "slug": "moca-chain",
+  "chainId": 2288,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "MOCA",
+    "symbol": "MOCA",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://moca.drpc.org",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.mocachain.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Moca Chain Scan",
+      "url": "https://scan.mocachain.org"
+    }
+  ],
+  "website": "https://mocachain.org",
+  "aliases": [
+    "moca"
+  ]
+}

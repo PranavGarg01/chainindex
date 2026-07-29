@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Plato Testnet",
+  "slug": "plato-testnet",
+  "chainId": 62,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Plato USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  "rpc": [
+    {
+      "url": "https://www.ethercluster.com/morden",
+      "isRecommended": true
+    },
+    {
+      "url": "https://api-testnet.plato.exchange",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Plato Testnet Explorer",
+      "url": "https://testnet.plato.exchange/explorer"
+    }
+  ],
+  "aliases": [
+    "Plato",
+    "plato"
+  ]
+}

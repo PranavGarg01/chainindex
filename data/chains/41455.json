@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Aleph Zero EVM",
+  "slug": "aleph-zero-evm",
+  "chainId": 41455,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Aleph Zero",
+    "symbol": "AZERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.alephzero.raas.gelato.cloud",
+      "isRecommended": true
+    },
+    {
+      "url": "https://alephzero.drpc.org",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Aleph Zero EVM Mainnet Explorer",
+      "url": "https://evm-explorer.alephzero.org"
+    }
+  ],
+  "website": "https://alephzero.org/",
+  "aliases": [
+    "aleph-zero"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "WebChain ETK",
+  "slug": "webchain-etk",
+  "chainId": 1000001,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "ETK",
+    "symbol": "ETK",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.webchain.e-talk.xyz",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "WebChain Explorer",
+      "url": "https://e-talk.xyz/webchain"
+    }
+  ],
+  "website": "https://e-talk.xyz/webchain",
+  "aliases": [
+    "WVM",
+    "wvm"
+  ]
+}

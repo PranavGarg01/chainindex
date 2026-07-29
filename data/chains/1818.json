@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "name": "Cube Chain",
+  "slug": "cube-chain",
+  "chainId": 1818,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Cube Chain Native Token",
+    "symbol": "CUBE",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://http-mainnet.cube.network",
+      "isRecommended": true
+    },
+    {
+      "url": "https://http-mainnet-sg.cube.network",
+      "isRecommended": false
+    },
+    {
+      "url": "https://http-mainnet-us.cube.network",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "cube-scan",
+      "url": "https://cubescan.network"
+    }
+  ],
+  "website": "https://www.cube.network",
+  "aliases": [
+    "Cube",
+    "cube"
+  ]
+}

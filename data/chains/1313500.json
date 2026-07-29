@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "name": "Xerom",
+  "slug": "xerom",
+  "chainId": 1313500,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Xerom Ether",
+    "symbol": "XERO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc.xerom.org",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [],
+  "website": "https://xerom.org",
+  "aliases": [
+    "XERO",
+    "xero"
+  ]
+}

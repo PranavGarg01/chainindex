@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "TechPay",
+  "slug": "techpay",
+  "chainId": 2569,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "TechPay",
+    "symbol": "TPC",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://api.techpay.io",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "tpcscan",
+      "url": "https://tpcscan.com"
+    }
+  ],
+  "website": "https://techpay.io/",
+  "aliases": [
+    "TPC",
+    "tpc"
+  ]
+}

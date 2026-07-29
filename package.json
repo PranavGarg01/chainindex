@@ -1,0 +1,50 @@
+{
+  "name": "chainindex",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source EVM chain ID, public RPC endpoint, block explorer, and wallet network directory.",
+  "homepage": "https://www.chainindex.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PranavGarg01/chainindex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PranavGarg01/chainindex/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24.0.0"
+  },
+  "scripts": {
+    "dev": "next dev --turbo",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "build:data-index": "node scripts/build-chain-index.mjs",
+    "prebuild": "npm run build:data-index && npm run validate:data",
+    "validate:data": "node scripts/validate-data.mjs"
+  },
+  "dependencies": {
+    "@base-ui/react": "^1.6.0",
+    "@tanstack/react-table": "^8.21.3",
+    "@types/node": "^26.1.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vercel/analytics": "^2.0.1",
+    "@web3icons/react": "^4.1.17",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.10",
+    "next": "^16.2.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "typescript": "^6.0.3"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  },
+  "devDependencies": {
+    "prettier": "3.9.6"
+  }
+}

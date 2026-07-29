@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 2,
+  "name": "IDN",
+  "slug": "idn",
+  "chainId": 215,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "IDN",
+    "symbol": "IDN",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://dataseed1.idn-rpc.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://dataseed2.idn-rpc.com",
+      "isRecommended": false
+    },
+    {
+      "url": "https://dataseed3.idn-rpc.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Idn Explorer",
+      "url": "https://scan.idn-network.com"
+    }
+  ],
+  "website": "https://www.idn.world"
+}

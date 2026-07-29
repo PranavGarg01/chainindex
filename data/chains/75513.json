@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "name": "GEEK Verse Testnet",
+  "slug": "geek-verse-testnet",
+  "chainId": 75513,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://rpc-testnet.geekout-pte.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "Geek Testnet Explorer",
+      "url": "https://explorer-testnet.geekout-pte.com"
+    }
+  ],
+  "website": "https://www.geekout-pte.com",
+  "aliases": [
+    "GEEK Test",
+    "GEEK_Test"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "name": "Candle",
+  "slug": "candle",
+  "chainId": 534,
+  "networkType": "mainnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "CANDLE",
+    "symbol": "CNDL",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://candle-rpc.com",
+      "isRecommended": true
+    },
+    {
+      "url": "https://rpc.cndlchain.com",
+      "isRecommended": false
+    }
+  ],
+  "explorers": [
+    {
+      "name": "candleexplorer",
+      "url": "https://candleexplorer.com"
+    }
+  ],
+  "website": "https://candlelabs.org/",
+  "aliases": [
+    "CNDL"
+  ]
+}

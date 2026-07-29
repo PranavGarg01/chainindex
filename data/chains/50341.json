@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 2,
+  "name": "Reddio Testnet",
+  "slug": "reddio-testnet",
+  "chainId": 50341,
+  "networkType": "testnet",
+  "status": "active",
+  "nativeCurrency": {
+    "name": "Reddio",
+    "symbol": "RDO",
+    "decimals": 18
+  },
+  "rpc": [
+    {
+      "url": "https://reddio-dev.reddio.com",
+      "isRecommended": true
+    }
+  ],
+  "explorers": [
+    {
+      "name": "L2scan",
+      "url": "https://reddio-devnet.l2scan.co"
+    }
+  ],
+  "website": "https://www.reddio.com",
+  "aliases": [
+    "ETH",
+    "reddio-devnet",
+    "Reddio Sepolia L2 Rollup Testnet"
+  ]
+}
