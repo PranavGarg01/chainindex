@@ -4,7 +4,7 @@
   "slug": "goerli",
   "chainId": 5,
   "networkType": "testnet",
-  "status": "active",
+  "status": "deprecated",
   "nativeCurrency": {
     "name": "Goerli Ether",
     "symbol": "ETH",

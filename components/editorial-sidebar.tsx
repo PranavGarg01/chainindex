@@ -40,7 +40,7 @@ export function EditorialSidebar() {
         </div>
         <div className="editorial-intro">
           {/* <span className="editorial-kicker">Open developer index</span> */}
-          <p className="editorial-title">Public RPCs for every chain</p>
+          <p className="editorial-title">Public RPCs for EVM chains</p>
           <p className="editorial-copy">
             Discover public RPC endpoints, chain IDs, explorers, and network details across EVM
             chains. Search any chain and add to wallet instantly.

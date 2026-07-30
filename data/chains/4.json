@@ -4,7 +4,7 @@
   "slug": "rinkeby",
   "chainId": 4,
   "networkType": "testnet",
-  "status": "active",
+  "status": "deprecated",
   "nativeCurrency": {
     "name": "Rinkeby Ether",
     "symbol": "ETH",

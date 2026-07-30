@@ -348,7 +348,7 @@
     "slug": "ropsten",
     "chainId": 3,
     "networkType": "testnet",
-    "status": "active",
+    "status": "deprecated",
     "nativeCurrency": {
       "name": "Ropsten Ether",
       "symbol": "ETH",
@@ -379,7 +379,7 @@
     "slug": "rinkeby",
     "chainId": 4,
     "networkType": "testnet",
-    "status": "active",
+    "status": "deprecated",
     "nativeCurrency": {
       "name": "Rinkeby Ether",
       "symbol": "ETH",
@@ -410,7 +410,7 @@
     "slug": "goerli",
     "chainId": 5,
     "networkType": "testnet",
-    "status": "active",
+    "status": "deprecated",
     "nativeCurrency": {
       "name": "Goerli Ether",
       "symbol": "ETH",

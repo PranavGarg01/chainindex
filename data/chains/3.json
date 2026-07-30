@@ -4,7 +4,7 @@
   "slug": "ropsten",
   "chainId": 3,
   "networkType": "testnet",
-  "status": "active",
+  "status": "deprecated",
   "nativeCurrency": {
     "name": "Ropsten Ether",
     "symbol": "ETH",
