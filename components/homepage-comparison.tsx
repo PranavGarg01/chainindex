@@ -10,7 +10,7 @@ export function HomepageComparison({
 }) {
   return (
     <div className="editorial-home">
-      <h1 className="sr-only">Public RPCs for EVM chains</h1>
+      <h1 className="sr-only">Public EVM RPC list and chain IDs</h1>
       <ChainDirectory chains={chains} totalCount={totalCount} homepage />
     </div>
   );
