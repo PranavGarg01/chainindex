@@ -1,5 +1,5 @@
 import type { ComponentType } from "react";
-import { type IconComponentProps } from "@web3icons/react";
+import { NetworkHyperEvm, type IconComponentProps } from "@web3icons/react";
 import NetworkAbstract from "@web3icons/react/icons/networks/NetworkAbstract";
 import NetworkApechain from "@web3icons/react/icons/networks/NetworkApechain";
 import NetworkArbitrumOne from "@web3icons/react/icons/networks/NetworkArbitrumOne";
@@ -69,7 +69,7 @@ import NetworkZksync from "@web3icons/react/icons/networks/NetworkZksync";
 import NetworkKatana from "@web3icons/react/icons/networks/NetworkKatana";
 import NetworkMegaEth from "@web3icons/react/icons/networks/NetworkMegaEth";
 import NetworkFlow from "@web3icons/react/icons/networks/NetworkFlow";
-
+import NetworkRobinhood from "@web3icons/react/icons/networks/NetworkRobinhood";
 type NetworkIconComponent = ComponentType<IconComponentProps>;
 
 export const networkIconByChainId: Record<number, NetworkIconComponent> = {
@@ -163,4 +163,6 @@ export const networkIconByChainId: Record<number, NetworkIconComponent> = {
   31: NetworkRootstock,
   13473: NetworkImmutable,
   240: NetworkCronosZkevm,
+  4663: NetworkRobinhood,
+  999: NetworkHyperEvm
 };

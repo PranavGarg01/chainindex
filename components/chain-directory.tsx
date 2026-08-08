@@ -11,17 +11,18 @@ import { FeaturedNetworkCard } from "./featured-network-card";
 type Filter = "all" | "mainnet" | "testnet";
 type Sort = "popular" | "alphabetical" | "chainId";
 
-const featuredSlugs = ["ethereum", "bnb-smart-chain", "polygon", "avalanche-c-chain"];
 const NETWORK_BATCH_SIZE = 40;
 
 export function ChainDirectory({
   chains,
+  featuredChains = [],
   totalCount = chains.length,
   initialFilter = "all",
   title,
   homepage = false,
 }: {
   chains: Chain[];
+  featuredChains?: Chain[];
   totalCount?: number;
   initialFilter?: Filter;
   title?: string;
@@ -105,9 +106,7 @@ export function ChainDirectory({
   const resultCount = allChains ? visible.length : totalCount;
   const canLoadMore = allChains ? displayed.length < visible.length : totalCount > displayed.length;
 
-  const featured = featuredSlugs
-    .map((slug) => sourceChains.find((chain) => chain.slug === slug))
-    .filter((chain): chain is Chain => Boolean(chain));
+  const featured = featuredChains;
   const filters: { id: Filter; label: string }[] = [
     { id: "all", label: "All" },
     { id: "mainnet", label: "Mainnets" },

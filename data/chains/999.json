@@ -13,7 +13,7 @@
   "rpc": [
     {
       "url": "https://rpc.nodeflare.app/hl/public",
-      "isRecommended": true
+      "isRecommended": false
     },
     {
       "url": "https://hyperevm.rpc.sentio.xyz",
@@ -21,7 +21,7 @@
     },
     {
       "url": "https://rpc.hyperliquid.xyz/evm",
-      "isRecommended": false
+      "isRecommended": true
     },
     {
       "url": "https://rpc.hypurrscan.io",

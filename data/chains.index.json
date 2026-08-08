@@ -17064,7 +17064,7 @@
     "rpc": [
       {
         "url": "https://rpc.nodeflare.app/hl/public",
-        "isRecommended": true
+        "isRecommended": false
       },
       {
         "url": "https://hyperevm.rpc.sentio.xyz",
@@ -17072,7 +17072,7 @@
       },
       {
         "url": "https://rpc.hyperliquid.xyz/evm",
-        "isRecommended": false
+        "isRecommended": true
       },
       {
         "url": "https://rpc.hypurrscan.io",
@@ -34633,9 +34633,17 @@
       {
         "url": "https://rpc.mainnet.chain.robinhood.com",
         "isRecommended": true
+      },
+      {
+        "url": "https://robinhood-rpc.publicnode.com",
+        "isRecommended": false
       }
     ],
     "explorers": [
+      {
+        "name": "Robinscan",
+        "url": "https://robinscan.io"
+      },
       {
         "name": "Robinhood Chain Blockscout Explorer",
         "url": "https://robinhoodchain.blockscout.com"

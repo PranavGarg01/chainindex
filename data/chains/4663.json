@@ -14,9 +14,17 @@
     {
       "url": "https://rpc.mainnet.chain.robinhood.com",
       "isRecommended": true
+    },
+    {
+      "url": "https://robinhood-rpc.publicnode.com",
+      "isRecommended": false
     }
   ],
   "explorers": [
+    {
+      "name": "Robinscan",
+      "url": "https://robinscan.io"
+    },
     {
       "name": "Robinhood Chain Blockscout Explorer",
       "url": "https://robinhoodchain.blockscout.com"
