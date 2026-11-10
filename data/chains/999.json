@@ -46,6 +46,10 @@
     {
       "url": "https://hyperliquid.rpc.blxrbdn.com",
       "isRecommended": false
+    },
+    {
+      "url": "https://api.blockvectra.com/v1/hyperevm_mainnet/public",
+      "isRecommended": false
     }
   ],
   "explorers": [
